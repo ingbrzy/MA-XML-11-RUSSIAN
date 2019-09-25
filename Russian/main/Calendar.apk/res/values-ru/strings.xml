@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
@@ -21,9 +19,7 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessbility_suggestion_dropdown_closed">Нет доступных предложений</string>
     <string name="accessbility_suggestion_dropdown_opened">Предложение контактов активно</string>
-    <string name="done">Назад</string>
     <string name="more_string">ещё %1$s</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="accessibility_add_attendee">Добавить участника</string>
     <string name="accessibility_alarm_remind">Сигнал напоминаний</string>
     <string name="accessibility_all_day">Весь день</string>
@@ -32,7 +28,6 @@
     <string name="accessibility_repeats">Повтор</string>
     <string name="accessibility_sync_cal">Синхронизировать календарь</string>
     <string name="account_and_calendar">Аккаунты</string>
-    <string name="accounts">Аккаунты</string>
     <string name="action_bar_return">Назад</string>
     <string name="action_label">Возврат</string>
     <string name="action_text_card_manager">Канал</string>
@@ -80,8 +75,6 @@
     <string name="card_detail_dialog_title">Подписаться?</string>
     <string name="card_detail_hint">После подписки содержимое будет отображаться на главной странице и обновляться ежедневно</string>
     <string name="card_detail_title">Подробности</string>
-    <string name="card_manager">Управление подписками</string>
-    <string name="card_manager_no_data">Нет подписок</string>
     <string name="card_title_change">Еще</string>
     <string name="change_response_title">Изменить ответ</string>
     <string name="chips_action_cancel">Отмена</string>
@@ -115,7 +108,6 @@
     <string name="date_interval_start">С</string>
     <string name="date_interval_tab">Интервал</string>
     <string name="date_interval_text_to">По %1$s</string>
-    <string name="date_jump_hint">Немедленный переход к нужной дате</string>
     <string name="date_jump_title">Переход к дате</string>
     <string name="date_today">" (сегодня)"</string>
     <string name="day_view_new_event_hint">+ Новое мероприятие</string>
@@ -123,7 +115,6 @@
     <string name="default_reminder_mode">Напоминания</string>
     <string name="delete_recurring_event_title">Удалить %s?</string>
     <string name="delete_this_event_title">Удалить мероприятие?</string>
-    <string name="deleting_calendar">Отказ от подписки…</string>
     <string name="description_calendar">Системные приложения/Календарь</string>
     <string name="description_calendar_edit_event">Системные приложения/Календарь/Повестка дня</string>
     <string name="directory_searching_fmt">Поиск в %s…</string>
@@ -138,7 +129,6 @@
     <string name="edit_event_birthday_import_from_contact">Импорт дней рождения из контактов</string>
     <string name="edit_event_birthday_name_empty_hint">Введите имя</string>
     <string name="edit_event_birthday_name_hint">Имя</string>
-    <string name="edit_event_birthday_reminder_3_days_before">Напомнить за 3 дня</string>
     <string name="edit_event_calendar_label">Календарь</string>
     <string name="edit_event_choose_date">Выберите дату</string>
     <string name="edit_event_confirm_message">Отменить изменения?</string>
