@@ -53,6 +53,7 @@
   <string name="HIPS_Perm_Location_Desc">точное определение местоположения (с помощью сети или GPS)</string>
   <string name="HIPS_Perm_PhoneID">Информация об устройстве</string>
   <string name="HIPS_Perm_PhoneID_Desc">доступ к номеру телефона, IMEI и IMSI</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Доступ к номеру телефона и IMSI</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">доступ к аппаратным компонентам NFC (коммуникация ближнего поля)</string>
   <string name="HIPS_Perm_process_outgoing_calls">Доступ к телефону</string>
@@ -97,6 +98,17 @@
   <string name="location_warning">%1$s обеспечивает данные местоположения на устройстве. Доступ к местоположению можно изменить в Настройках.</string>
   <string name="never_ask_again">Больше не спрашивать</string>
   <string name="ok">OK</string>
+  <string name="permdesc_camera">Снимать фото и видео</string>
+  <string name="permdesc_in_calls">Отслеживать входящие вызовы</string>
+  <string name="permdesc_location">Доступ к данным о местоположении устройства</string>
+  <string name="permdesc_microphone">Записывать вызовы и аудио</string>
+  <string name="permdesc_out_calls">Отслеживать исходящие вызовы</string>
+  <string name="permdesc_read_calendar">Просматривать события календаря</string>
+  <string name="permdesc_read_storage">Читать файлы на устройстве</string>
+  <string name="permdesc_recognition">Доступ к данным о здоровье и активности</string>
+  <string name="permdesc_sensors">Доступ к данным датчиков о состоянии организма</string>
+  <string name="permdesc_write_calendar">Добавлять события в календарь</string>
+  <string name="permdesc_write_storage">Записывать файлы на устройство</string>
   <string name="permgroupdesc_calendar">Доступ к календарю</string>
   <string name="permgroupdesc_calllog">Доступ к журналу вызовов</string>
   <string name="permgroupdesc_camera">Снимать фото и видео</string>
