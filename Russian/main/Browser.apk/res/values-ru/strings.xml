@@ -434,6 +434,7 @@ ID:%s
     <string name="navigationbar_rightbutton_actiontext_cancle">Отмена</string>
     <string name="navigationbar_rightbutton_actiontext_go">Найти</string>
     <string name="navigationbar_rightbutton_actiontext_search">Поиск</string>
+    <string name="no_memory_space">недостаточно памяти</string>
     <string name="no_space_alert_cancel">Позже</string>
     <string name="no_space_alert_clean">Освободить место</string>
     <string name="no_space_alert_text">Недостаточно места</string>
@@ -754,4 +755,5 @@ ID:%s
     <string name="view_certificate">Просмотр сертификата</string>
     <string name="view_document_downloaded_files">Просмотр загруженных файлов</string>
     <string name="webpage_title">Закладки</string>
+    <string name="wechat_not_installed">Wechat не установлен</string>
 </resources>
