@@ -258,7 +258,6 @@
     <string name="micloud_manual_all_sync_off_summary">Восстановление синхронизированных данных на новых устройствах с помощью Xiaomi Cloud</string>
     <string name="micloud_manual_all_sync_off_title">Синхронизация с Xiaomi Cloud отключена</string>
     <string name="micloud_manual_buy_vip">Обновить план Xiaomi Cloud</string>
-    
     <string name="micloud_manual_cloud_storage_full_button_text">Обновить</string>
     <string name="micloud_manual_cloud_storage_full_summary">Обновите план Xiaomi Cloud для возможности синхронизации фото, контактов и прочего</string>
     <string name="micloud_manual_cloud_storage_full_title">Xiaomi Cloud хранилище заполнено. Синхронизация приостановлена.</string>
@@ -415,6 +414,7 @@
     <string name="storage_manage_list_title">Облачные данные</string>
     <string name="storage_manage_list_title_action">Подробнее</string>
     <string name="storage_manage_renewal">Продлить</string>
+    <string name="storage_manage_title">Сменить план облачного хранилища</string>
     <string name="storage_manage_upgrade">Обновить</string>
     <string name="sub_alert_notif_content">Включите синхронизацию с Xiaomi Cloud для резервного копирования данных</string>
     <string name="sub_alert_notif_title">Синхронизация с Xiaomi Cloud</string>
