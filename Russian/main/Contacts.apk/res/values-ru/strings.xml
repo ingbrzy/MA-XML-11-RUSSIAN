@@ -7,9 +7,7 @@
     <string name="account_dual_sim">SIM карта %s</string>
     <string name="account_phone">Только устройство</string>
     <string name="account_sdn">SDN</string>
-    <string name="account_sdn2">SDN карты %d</string>
     <string name="account_sim">SIM карта</string>
-    <string name="account_sim2">SIM карта %d</string>
     <string name="account_type_format">Контакт %1$s</string>
     <string name="actionIncomingCall">Входящие вызовы</string>
     <string name="action_menu_overflow_description">Дополнительные параметры</string>
@@ -132,6 +130,7 @@
     <string name="callrecordview_menu_delete_sim">Удалить записи журнала вызовов (%s)</string>
     <string name="callrecordview_menu_delete_stranger">Удалить неизвестные номера</string>
     <string name="callrecordview_menu_edit_call_note">Изменить заметку</string>
+    <string name="callrecordview_menu_identify_numbers">Определить номер телефона</string>
     <string name="callrecordview_menu_ip">Автонабор IP</string>
     <string name="callrecordview_menu_livetalk">Пакет пополнения баланса</string>
     <string name="callrecordview_menu_misim">Mi SIM</string>
@@ -213,6 +212,7 @@
     <string name="contact_detail_action_item_nocalllog">Нет вызовов</string>
     <string name="contact_detail_calllog_call_note_tips">Заметки</string>
     <string name="contact_detail_calllog_call_record_tips">Записи вызовов</string>
+    <string name="contact_detail_calllog_correct_yellow_page">Исправить или сообщить</string>
     <string name="contact_detail_calllog_empty">Нет вызовов</string>
     <string name="contact_detail_entry_pay">Отправить деньги</string>
     <string name="contact_detail_entry_pay_dialog_title">Выберите номер телефона</string>
@@ -234,6 +234,7 @@
     <string name="contact_detail_miprofile_save_success_toast">Визитка получена</string>
     <string name="contact_detail_miprofile_settings_header">ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКИ</string>
     <string name="contact_detail_miprofile_subtitle">Обмен уже состоялся</string>
+    <string name="contact_detail_more_calllog">Показать еще</string>
     <string name="contact_detail_profile_switch_fail_network_toast">Не удалось подключиться к сети</string>
     <string name="contact_detail_profile_switch_fail_toast">Что-то не так с нашим сервером</string>
     <string name="contact_detail_profile_switch_off">Отключить визитки</string>
@@ -1209,6 +1210,7 @@
     <string name="wipe_data">Очистка данных</string>
     <string name="yellowPageNavigationIconLabel">Справочник</string>
     <string name="yellowPageNavigationLabel">Справочник</string>
+    <string name="yellowpage_address_tag">Адрес</string>
     <string name="yellowpage_fc_toast">Невозможно использовать эту функцию из-за сбоя Справочника</string>
     <string name="yellowpage_navigation_ad_hint">Реклама</string>
     <string name="yellowpage_navigation_balance_refresh_failed">Баланс и трафик не могут быть проверены, повторите попытку позже.</string>
@@ -1229,6 +1231,7 @@
     <string name="yellowpage_navigation_send_to_desktop_downloading">Загрузка…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Не удалось подключиться к сети</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Ярлык добавлен на рабочий стол</string>
+    <string name="yellowpage_provider_label">Данные предоставлены</string>
     <string name="yellowpage_search_the_yellowpage">Поиск в Справочнике</string>
     <string name="yellowpage_user_profile">Профиль</string>
     <string name="zero_items_selected">Выберите контакты</string>
