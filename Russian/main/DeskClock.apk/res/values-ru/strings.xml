@@ -4,7 +4,6 @@
     <string name="add_clock">Добавить</string>
     <string name="add_timezone_title">Добавить часовой пояс</string>
     <string name="alarm_alert_alert_silenced">Будильник звонил %d мин.</string>
-    <string name="alarm_alert_snooze_set">Повтор сигнала через %d мин.</string>
     <string name="alarm_ascending_mode_summary">Громкость будильника будет постепенно расти до заданного уровня</string>
     <string name="alarm_ascending_mode_title">Нарастание громкости</string>
     <string name="alarm_clock_more_setting">Настройки</string>
@@ -48,26 +47,31 @@
     <string name="control_set_alarm">Установить</string>
     <string name="control_set_alarm_with_existing">Будильник установлен: %s</string>
     <string name="day_concat">", "</string>
-    <string name="days">%d д</string>
     <string name="default_alarm_alert">Мелодия по умолчанию</string>
     <string name="default_alarm_title">Мелодия по умолчанию</string>
     <string name="default_label">Будильник</string>
     <string name="delete">Удалить</string>
     <string name="delete_alarm">Удаление</string>
-    <string name="delete_alarm_confirm">Удалить выбранные будильники?</string>
     <string name="delete_selected_timer_item">Удалить выбранный таймер?</string>
     <string name="delete_timer_item_title">Удалить таймер</string>
     <string name="delete_timezone_title">Удаление</string>
     <string name="dialog_confirm_abort">Отменить изменения?</string>
+    <string name="dialog_legal_off_day">&lt;Data&gt;"Похоже, вы используете будильники для праздничных дней. Для нормальной работы этой функции необходимо подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашениеt&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?"&lt;/Data&gt;</string>
+    <string name="dialog_legal_off_day_desc">"Часы не могут подключиться к Интернету для обновления информации о праздниках. Будильники для праздничных дней сработают в субботу и воскресенье."</string>
+    <string name="dialog_legal_workday">&lt;Data&gt;"Похоже, вы используете будильники для рабочих дней. Для нормальной работы этой функции необходимо подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашениеt&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?"&lt;/Data&gt;</string>
+    <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;"Похоже, вы используете будильники для рабочих и праздничных дней. Для нормальной работы этой функции необходимо подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашениеt&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?"&lt;/Data&gt;</string>
+    <string name="dialog_legal_workday_and_off_day_desc">"Часы не могут подключиться к интернету для обновления информации о праздничных днях. Будильники для рабочих дней сработают с понедельника по пятницу. Будильники для праздничных дней сработают в субботу и воскресенье."</string>
+    <string name="dialog_legal_workday_desc">"Часы не могут подключиться к интернету для обновления информации о рабочих днях. Будильники для рабочих дней сработают с понедельника по пятницу."</string>
     <string name="dialog_message_agree">Согласен</string>
     <string name="dialog_message_for_contact_permission">Для активации оповещений о днях рождения приложению Часы требуется доступ к вашим контактам. Вы согласны?</string>
     <string name="dialog_message_negative">Отмена</string>
     <string name="dialog_message_not_remind">Больше не показывать</string>
-    <string name="dialog_privacy_content">Для получения актуальной информации о местных праздниках и настройки будильников, обеспечения персонализированных услуг, Часам необходимо подключение к Интернету. Перед использованием Часов вы также должны прочитать и принять %1$s и %2$s. Разрешить?</string>
-    <string name="dialog_privacy_content_global">Для обеспечения персонализированных услуг, Часам необходимо подключение к Интернету. Перед использованием Часов вы также должны прочитать и принять %1$s и %2$s. Разрешить?</string>
-    <string name="dialog_privacy_content_news">Для обеспечения персонализированных услуг, включения утренних новостей в будильники, Часам необходимо подключение к Интернету. Перед использованием Часов вы также должны прочитать и принять %1$s и %2$s. Разрешить?</string>
-    <string name="dialog_privacy_content_timer">Для загрузки аудиофайлов звуков окружающей среды, обеспечения персонализированных услуг, Часам необходимо подключение к Интернету. Перед использованием Часов вы также должны прочитать и принять %1$s и %2$s. Разрешить?</string>
-    <string name="dialog_privacy_content_timer_data">"Для загрузки аудиофайлов звуков окружающей среды (≈20 МБ), обеспечения персонализированных услуг, Часам необходимо подключение к Интернету. Перед использованием Часов вы также должны прочитать и принять %1$s и %2$s. Будет использоваться мобильный интернет. Разрешить?"</string>
+    <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Для нормальной работы этой функции необходимо подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашениеt&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?"&lt;/Data&gt;</string>
+    <string name="dialog_privacy_content">Для получения актуальной информации о местных праздниках и настройки будильников, обеспечения персонализированных услуг, Часам необходимо подключение к Интернету. Перед использованием Часов вы также должны прочитать и принять %1$s и %2$s. Согласны?</string>
+    <string name="dialog_privacy_content_global">Для обеспечения персонализированных услуг, Часам необходимо подключение к Интернету. Перед использованием Часов вы также должны прочитать и принять %1$s и %2$s. Согласны?</string>
+    <string name="dialog_privacy_content_news">Для обеспечения персонализированных услуг, включения утренних новостей в будильники, Часам необходимо подключение к Интернету. Перед использованием Часов вы также должны прочитать и принять %1$s и %2$s. Согласны?</string>
+    <string name="dialog_privacy_content_timer">Для загрузки аудиофайлов звуков окружающей среды, обеспечения персонализированных услуг, Часам необходимо подключение к Интернету. Перед использованием Часов вы также должны прочитать и принять %1$s и %2$s. Согласны?</string>
+    <string name="dialog_privacy_content_timer_data">"Для загрузки аудиофайлов звуков окружающей среды (≈20 МБ), обеспечения персонализированных услуг, Часам необходимо подключение к Интернету. Перед использованием Часов вы также должны прочитать и принять %1$s и %2$s. Будет использоваться мобильный интернет. Согласны?"</string>
     <string name="done">Готово</string>
     <string name="dynamic_alarm_speech">Умный будильник</string>
     <string name="edit_alarm">Изменение будильника</string>
@@ -84,7 +88,6 @@
     <string name="holiday_update_loading">Обновление…</string>
     <string name="holiday_update_success">Все данные актуальны</string>
     <string name="hour_unit">Час +</string>
-    <string name="hours">%d ч</string>
     <string name="install_weather_app_error">Не удалось загрузить приложение</string>
     <string name="install_weather_app_loading">Подождите…</string>
     <string name="invalid_time">Неверное время: %3$s %1$d: %2$d</string>
@@ -97,9 +100,9 @@
     <string name="legal_off_day">Выходной день</string>
     <string name="legal_off_day_message">" (пропускать рабочие дни)"</string>
     <string name="legal_workday">Рабочий день</string>
-    <string name="legal_workday_invalidate">Данные устарели (Будильник звонит по будням)</string>
-    <string name="legal_workday_invalidate_message">Нажмите для обновления данных о праздниках.</string>
-    <string name="legal_workday_message">" (пропускать праздники)"</string>
+    <string name="legal_workday_invalidate">Данные устарели (Будильник сработает в будни)</string>
+    <string name="legal_workday_invalidate_message">(Данные устарели. Обновите в настройках)</string>
+    <string name="legal_workday_message">" (Будильник не сработает в праздничные дни)"</string>
     <string name="life_post_setting">Утренняя сводка</string>
     <string name="life_post_setting_FBE_remind">Из-за ограничений системы информация о погоде в утренней сводке после перезагрузки может отображаться неправильно.</string>
     <string name="life_post_setting_close_title">Не получать утреннюю сводку</string>
@@ -111,18 +114,14 @@
     <string name="life_post_setting_open_title">Получать утреннюю сводку</string>
     <string name="life_post_setting_wake_up_list_title">История пробуждений</string>
     <string name="life_post_wake_up_acumu_day_title">Число дней</string>
-    <string name="life_post_wake_up_item_acumu_day">%1$s дн.</string>
     <string name="life_post_wake_up_item_acumu_day_title">Число дней</string>
     <string name="life_post_wake_up_item_percentage_title">Еще спят</string>
     <string name="life_post_wake_up_item_time_title">Пробуждение</string>
     <string name="life_post_wake_up_percentage_sign">%</string>
     <string name="life_post_wake_up_percentage_title">Еще спят</string>
     <string name="life_post_wake_up_time_title">Пробуждение</string>
-    <string name="life_post_weather_degree_invalid">--</string>
-    <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
-    <string name="life_post_weather_description_secondary">%1$s, %2$s, %3$s</string>
-    <string name="life_post_weather_description_third">%1$s, %2$s</string>
-    <string name="life_post_weather_invalid">Не удалось получить данные, нажмите для повтора</string>
+    <string name="life_post_weather_invalid">Нажмите для получения информации о погоде</string>
+    <string name="life_post_weather_no_network">Требуется подключение к сети для обновления информации о погоде</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
     <string name="listen_news_privacy">&lt;Data&gt;Для обеспечения персонализированных услуг и включения утренних новостей в будильники, Часам необходимо подключение к интернету. Перед использованием Часов, вы также должны принять наши &amp;lt;a href= %1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
     <string name="loading_ringtone">Загрузка мелодий…</string>
@@ -135,7 +134,6 @@
     <string name="module_dialog_negative">"Не согласен"</string>
     <string name="module_dialog_neutral">Понятно</string>
     <string name="module_dialog_positive">Согласен</string>
-    <string name="minutes">%d мин</string>
     <string name="module_download_cancel">Нет, спасибо</string>
     <string name="module_download_data_msg">Часам необходимо загрузить аудиофайлы для умных будильников. Умные будильники содержат функции, которые позволяют включать в сигналы текущую информацию о погоде. Для загрузки потребуется ≈20 МБ мобильного интернета. Загрузить?</string>
     <string name="module_download_data_msg_golbal">Часам необходимо загрузить аудиофайлы для умных будильников. Для загрузки потребуется ≈20 МБ мобильного интернета. Загрузить?</string>
@@ -246,7 +244,6 @@
     <string name="stopwatch_title">Секундомер</string>
     <string name="system_permission_phone_desc">Для идентификации разных устройств</string>
     <string name="system_permission_purpose">Будильники, секундомер, таймеры, часы</string>
-    <string name="system_permission_storage_desc">Для доступа к мелодиям будильника</string>
     <string name="system_time_setting">Настройки</string>
     <string name="system_time_settings_category_title">Дата и время</string>
     <string name="temperature_unit">%1$s°</string>
@@ -316,7 +313,7 @@
     <string name="worldclock_search_city">Выберите город</string>
     <string name="worldclock_title">Часы</string>
     <string name="worldclock_world_time">Часовые пояса</string>
-    <string name="worldcolock_date_display_prefix">"Текущее время: "</string>
+    <string name="worldcolock_date_display_prefix">"Текущие: "</string>
     <string name="worldcolock_timezone_current">Текущий: %1$s</string>
     <string name="worldcolock_timezone_date">d MMMM</string>
     <string name="worldcolock_timezone_gap">ч</string>
