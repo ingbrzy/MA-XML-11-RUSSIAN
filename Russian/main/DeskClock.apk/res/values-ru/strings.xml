@@ -308,14 +308,14 @@
     <string name="workday_alarm_clock">По рабочим дням</string>
     <string name="worldclock_empty_text">Нет часовых поясов</string>
     <string name="worldclock_input_hint_text">Поиск страны или города</string>
-    <string name="worldclock_resident_city_text">Вторые часы: %s</string>
-    <string name="worldclock_resident_city_text_detail">Двойные часы включены</string>
+    <string name="worldclock_resident_city_text">%s</string>
+    <string name="worldclock_resident_city_text_detail">Вторые часы:</string>
     <string name="worldclock_search_city">Выберите город</string>
     <string name="worldclock_title">Часы</string>
     <string name="worldclock_world_time">Часовые пояса</string>
-    <string name="worldcolock_date_display_prefix">"Текущие: "</string>
-    <string name="worldcolock_timezone_current">Текущий: %1$s</string>
+    <string name="worldcolock_date_display_prefix">Текущая дата: </string>
+    <string name="worldcolock_timezone_current">Текущий пояс: %1$s</string>
     <string name="worldcolock_timezone_date">d MMMM</string>
-    <string name="worldcolock_timezone_gap">ч</string>
+    <string name="worldcolock_timezone_gap">| %s ч.</string>
     <string name="worldcolock_timezone_local">| как и местное время</string>
 </resources>
