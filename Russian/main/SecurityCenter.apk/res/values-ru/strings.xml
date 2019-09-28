@@ -198,9 +198,6 @@
   <string name="app_manager_net_mobile">3G/4G</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">Нет</string>
-  <string name="app_manager_notify_bar">Метка на значке</string>
-  <string name="app_manager_notify_floating">Всплывающие уведомления</string>
-  <string name="app_manager_notify_keyguard">Экран блокировки</string>
   <string name="app_manager_open_show_all_apps_immediate">Показать все результаты</string>
   <string name="app_manager_perm">Разрешения</string>
   <string name="app_manager_permission_manager_title">Разрешения</string>
@@ -217,10 +214,10 @@
   <string name="app_manager_reset_app_preferences_button">Сбросить</string>
     <string name="app_manager_reset_app_preferences_desc">"Будут сброшены следующие настройки:
 
-"<li>Отключенные приложения</li>"
-"<li>Отключенные уведомления</li>"
-"<li>Приложения по умолчанию</li>"
-"<li>Ограничения фонового трафика</li>"
+"&lt;li&gt;>Отключенные приложения&lt;/li&gt;"
+"&lt;li&gt;Отключенные уведомления&lt;/li&gt;"
+"&lt;li&gt;Приложения по умолчанию&lt;/li&gt;"
+"&lt;li&gt;Ограничения фонового трафика&lt;/li&gt;"
 
 Данные приложений удалены не будут."</string>
   <string name="app_manager_reset_app_preferences_title">Сбросить настройки приложений?</string>
@@ -290,6 +287,7 @@
   <string name="applock_login_and_add_account">Войти и привязать</string>
   <string name="applock_not_add_account"><u>Не сейчас</u></string>
   <string name="applock_not_login_account">Вход не выполнен</string>
+  <string name="applock_toast_tip">Проверено успешно</string>
   <string name="apps_item_sign_dialog_content">Подпись %s отличается от версии в Mi Apps. Удалить это приложение и установить официальную версию? Внимание: установка приложения с конфликтующей подписью может привести к потере данных приложения.</string>
   <string name="apps_item_sign_dialog_title">Установите официальное приложение</string>
   <string name="apps_item_sign_install_button_text">Заменить</string>
@@ -307,11 +305,15 @@
   <string name="apps_list_header_title_sms">Приложение обмена сообщениями</string>
   <string name="apps_list_header_title_sms_access">Доступ к кодам подтверждения</string>
   <string name="ask_create_shortcut">Создать ярлык на рабочем столе?</string>
+  <string name="audio_optimization_summary">Улучшение звука и уменьшение окружающего шума при разговоре</string>
+  <string name="audio_optimization_title">Улучшение звука</string>
   <string name="auto_atsk_condition_battery_level_text_down">Когда батарея разрядится до %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Когда батарея зарядится до %s</string>
   <string name="auto_back_booster">Остановить</string>
   <string name="auto_booster_suc">Успешно ускорено</string>
   <string name="auto_clean_close">Автоочистка отключена</string>
+  <string name="auto_data_back_booster">Ускорение игр отключено. Функции связи восстановлены.</string>
+  <string name="auto_data_booster_suc">Ускорение игр включено. Активирован режим погружения.</string>
   <string name="auto_handle_title">Автоматическая оптимизация</string>
   <string name="auto_import_games">Разместите все ваши игры в одном месте</string>
   <string name="auto_task_condition_choose_battery_level_down">Разряд батареи до определённого уровня</string>
@@ -412,11 +414,8 @@
   <string name="battery_health_voltage_text">Напряжение батареи</string>
   <string name="battery_history_activity_title">График расхода заряда</string>
   <string name="battery_history_days">%1$d д. %2$d ч %3$d мин. %4$d сек.</string>
-  <string name="battery_history_days_no_seconds">%1$d дн. %2$d ч. %3$d мин.</string>
   <string name="battery_history_hours">%1$d ч. %2$d мин. %3$d сек.</string>
-  <string name="battery_history_hours_no_seconds">%1$d ч. %2$d мин.</string>
   <string name="battery_history_minutes">%1$d мин. %2$d сек.</string>
-  <string name="battery_history_minutes_no_seconds">%1$d мин.</string>
   <string name="battery_history_seconds">%1$d сек.</string>
   <string name="battery_statistics_activity_title">Использование батареи</string>
   <string name="battery_stats_charging_label">Зарядка батареи</string>
@@ -457,8 +456,6 @@
   <string name="boot_time_day">Включение через %1$d д в %2$s</string>
   <string name="boot_time_day_tomorrow">Включение завтра в %1$s</string>
   <string name="brand_diagnostic">Диагностика бренда оператора</string>
-  <string name="brightness_auto_adjust_off">Яркость останется неизменной при любом окружающем освещении</string>
-  <string name="brightness_auto_adjust_on">Яркость будет меняться в зависимости от ваших настроек и окружающего освещения</string>
   <string name="btn_back">Назад</string>
   <string name="btn_finish_diagnostic">OK</string>
   <string name="btn_start_diagnostic">Диагностика сети</string>
@@ -585,11 +582,12 @@
   <string name="cpu_usage_android_system">Система Android</string>
   <string name="cpu_usage_process_run_time_little_time">Менее 1 минуты</string>
   <string name="cpu_usage_view_action_btn_text">Просмотреть</string>
-  <string name="create_shortcut">На рабочем столе будет создан ярлык для Ускорения игр</string>
-  <string name="cta_HIPS_Perm_Location_Desc">получить точное местоположение (по GPS и координатам сети)</string>
+  <string name="create_gamebooster_destop">Ярлык на рабочем столе успешно создан</string>
+  <string name="create_shortcut">Создать на рабочем столе ярлык для Ускорения игр</string>
   <string name="cta_dialog_negative">Выйти</string>
   <string name="cta_dialog_positive">Принять</string>
   <string name="cta_dialog_title">Доступ в интернет</string>
+  <string name="cta_HIPS_Perm_Location_Desc">получить точное местоположение (по GPS и координатам сети)</string>
   <string name="cta_main_purpose">Добро пожаловать в Безопасность. Вы можете использовать это приложение для очистки мусора на устройстве, поиска и нейтрализации вирусов, оптимизации производительности и энергосбережения, управления приложениями и многого другого.</string>
   <string name="cta_settings">Разрешить доступ в интернет</string>
   <string name="current_network_state_not_need_diagnose">Интернет-соединение работает нормально.</string>
@@ -733,6 +731,8 @@
   <string name="dont_bore">Не позволяйте кнопкам и уведомлениям отвлекать вас</string>
   <string name="download">Загружено</string>
   <string name="downloading">Загрузка</string>
+  <string name="doze_optimization_summary">Улучшение реакции и чувствительности касания</string>
+  <string name="doze_optimization_title">Оптимизация сенсорного управления</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="email">Email</string>
@@ -744,6 +744,7 @@
   <string name="empty_title_permission_apps_list">Нет приложений</string>
   <string name="empty_title_root_apps">Нет приложений с ROOT доступом</string>
   <string name="enable_network">Необходимо подключение к сети</string>
+  <string name="every_day">Ежедневно</string>
   <string name="ew_alert_arrive_location">Сейсмическая волна прибудет %s</string>
   <string name="ew_alert_dial_text">"Контакт для
 экстренней связи"</string>
@@ -828,7 +829,6 @@
   <string name="ew_main_place_tips">Узнайте, где находится ближайшее экстреннее убежище, в случае необходимости</string>
   <string name="ew_main_place_title">Ближайшие экстренние убежища</string>
   <string name="ew_safe_place_no_maps_tips">"Поиск недоступен. Сначала установите Baidu Maps или Amap."</string>
-  <string name="every_day">Ежедневно</string>
   <string name="examination_score_100">Всё в порядке</string>
   <string name="examination_score_60_0">Требуется оптимизация</string>
   <string name="examination_score_80_100">Найдены объекты для оптимизации</string>
@@ -926,6 +926,7 @@
   <string name="firewall_restrict_data">Запретить мобильный интернет</string>
   <string name="firewall_restrict_notify_title">%s не может использовать сеть</string>
   <string name="firewall_restrict_wlan">Запретить использование Wi-Fi</string>
+  <string name="firewall_rule_group_title_roaming">Зарубежный роуминг</string>
   <string name="firewall_system_title">Трафик системных приложений</string>
   <string name="firewall_temp_rule_reason">Приложение %2$s ограничило подключение для %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
@@ -939,8 +940,6 @@
   <string name="first_aid_card_consume_power_summary1">Разрешен автозапуск более 5 приложений. Ограничьте их число для энергосбережения.</string>
   <string name="first_aid_card_consume_power_summary2">Отключите точку доступа для энергосбережения</string>
   <string name="first_aid_card_consume_power_title">Расход заряда батареи</string>
-  <string name="first_aid_card_float_window_button">Запретить</string>
-  <string name="first_aid_card_float_window_title">Вы разрешили всплывающие окна</string>
   <string name="first_aid_card_kadun_button1">Освободить</string>
   <string name="first_aid_card_kadun_button2">Запретить</string>
   <string name="first_aid_card_kadun_button3">Отключить</string>
@@ -1028,6 +1027,7 @@
   <string name="game_booster_tab_top">Лучшее</string>
   <string name="game_booster_title">Ускорение</string>
   <string name="game_bootser_tab_settings">Настройки</string>
+  <string name="game_else_function">Прочее</string>
   <string name="game_more_improve">Ограничить фоновые процессы и скорость загрузки, чтобы сэкономить заряд батареи и трафик для игр</string>
   <string name="game_setting">Игровые настройки</string>
   <string name="game_video_net_data">Мобильный интернет</string>
@@ -1071,6 +1071,8 @@
   <string name="gamebox_type_gesture">Провести для показа</string>
   <string name="gamebox_wechat_not_find">Установите WeChat и повторите попытку.</string>
   <string name="gamebox_wifi">Wi-Fi</string>
+  <string name="gamecenter_install_fail">Не удалось установить</string>
+  <string name="gamecenter_install_sucessfull">Успешно установлено</string>
   <string name="gateway_exception_summary">Проверьте роутер и повторите попытку.</string>
   <string name="gateway_exception_summary2">Ошибка подключения к серверу</string>
   <string name="gateway_exception_title">Диагностика роутера</string>
@@ -1150,6 +1152,8 @@
   <string name="go_to">Перейти</string>
   <string name="go_to_setting_fingerprint">Настройки</string>
   <string name="google_base_app_install_choice">Приложение требует наличия Google Services Framework для нормальной работы, загрузить и установить?</string>
+  <string name="gs_advanced_setting_summary">Настройки для отдельных игр</string>
+  <string name="gs_advanced_setting_title">Дополнительные настройки</string>
   <string name="gs_anto_clean_memory_whitelist">Исключения</string>
   <string name="gs_app_back_self_start">Энергосбережение</string>
   <string name="gs_auto_clean_memory">Очистка памяти</string>
@@ -1203,7 +1207,6 @@
   <string name="hints_handle_item_text_virus">Угроза</string>
   <string name="hints_input_roaming_daily_limit">Введите лимит трафика</string>
   <string name="hints_loading_text">Загрузка…</string>
-  <string name="hints_power_percent_title">Заряд</string>
   <string name="hints_risk_descx_title">Описание:</string>
   <string name="hints_risk_name_title">Угроза:</string>
   <string name="hints_scan_danger_result">Найдены угрозы, устраните их</string>
@@ -1250,21 +1253,6 @@
   <string name="item_system_auto_download">Автозагрузка обновлений</string>
   <string name="item_usb_debug">Отладка по USB</string>
   <string name="item_virus_lib">Автообновление сигнатур</string>
-  <string name="keywords_antispam">Антиспам;Блокировка;Черный список;Умная блокировка;Мошенник;Продажи;Агенты;Черный список вызовов;Черный список сообщений;Черный список сообщений;Черный список SMS;черный список;черный список;антиспам;анти спам;мошенник;блокировать контакт;блокировать контакты</string>
-  <string name="keywords_antivirus">Вирус;Угроза;Антивирус;Проверка;Проверка безопасности платежей;безопасность платежей;безопасный платеж;безопасные платежи;защита оплаты;защита платежей;защищенные платежи;безопасная зона;зона оплаты</string>
-  <string name="keywords_app_permissions">Разрешения;Местоположение;Доступ к контактам;Разрешения;Разрешения приложений</string>
-  <string name="keywords_auto_restart">Автозапуск;Разрешения;Авто запуск;Автозапуск;Управление автозапуском;Автозапуск MIUI;Автозапуск приложения;автозапуск приложений;Зависимый запуск;зависимый запуск;взаимный запуск</string>
-  <string name="keywords_buy_flow">трафик;мобильный трафик;пополнить трафик;пополнить мобильный трафик;пополнить трафик;тарифный план</string>
-  <string name="keywords_cleanmaster">Мусор;Очистить;Скорость;Память;Кэш;Очистить память;очистить мусор;мусор;освободить;освободить память;освободить место;очистка;глубокая очистка;очистка</string>
-  <string name="keywords_gamebooster">Игра;увеличение скорости;King of Glory;Ускорение процессора;Не беспокоить;Игры;Скорость игры;ускорение</string>
-  <string name="keywords_networkassistant_1">Данные;Трафик</string>
-  <string name="keywords_networkassistant_2">Данные;Калибровка</string>
-  <string name="keywords_networkassistant_4">Подключение;Интернет;Тест</string>
-  <string name="keywords_powercenter">Оптимизация питания;Перегрев;Включить;Выключить;Батарея;Истощение;Батарея;Проблемы с питанием;Заряд;Истощение;Перегрев;Оптимизация питания;Энергосбережение;Энергосбережение;Экономия заряда батареи</string>
-  <string name="keywords_powercenter_powerrank">Расход заряда батареи</string>
-  <string name="keywords_securitycenter">Безопасность;Проверка;Сканировать</string>
-  <string name="keywords_securitycenter_settings">Расход заряда батареи;Управление автозапуском;Установка через USB;Разрешения приложений;Купить трафик;Черный список;Трафик;Калибровка тарифного плана;Диагностика сети; Энергосбережение;Перегрев;Включить;Выключить;Батарея;Истощение;Проблемы с батареей;Заряд;Экономия заряда батареи;Энергосбережение;Энергосбережение;Экономия заряда батареи; Автозапуск;Разрешения;Авто запуск;Автозапуск MIUI;Автозапуск приложения;автозапуск приложений;Зависимый запуск;зависимый запуск;взаимный запуск; установка через USB;установка с компьютера;установка через ADB; Местоположение;Доступ к контактам; трафик;мобильный трафик;купить трафик;пополнить трафик;тарифный план; Блокировка;Черный список;Умная блокировка;Мошенник;Продажи;Агенты;Черный список вызовов;Черный список сообщений;Черный список сообщений;Черный список SMS;черный список;черный список;черный список;черный список;мошенник;блокировать контакт;блокировать контакты; Трафик; Калибровка; Подключение;Интернет;Диагностика сети; Расход заряда батареи; Игра;ускорение;Ускорение процессора;Не беспокоить</string>
-  <string name="keywords_usb_install">Установка через USB;установка через компьютер;установка через ADB</string>
   <string name="kilobyte_per_second">КБ/с</string>
   <string name="kilobyteShort">КБ</string>
   <string name="label_callwait">Сигнал ожидания вызова</string>
@@ -1473,6 +1461,7 @@
   <string name="menu_white">Добавить в белый список</string>
   <string name="mi_service_app_detail">Информация о трафике</string>
   <string name="mi_service_traffic_detail">Информация о Framework</string>
+  <string name="mian_page_primary_txt">Зарубежный роуминг</string>
   <string name="midrop_post_notification_contentText">Воспользуйтесь Mi Drop со скоростью до 50 Мбит/с.</string>
   <string name="midrop_post_notification_contentTitle">Нужно передать файлы?</string>
   <string name="mixed_need_to_confirm">Введите пароль повторно</string>
@@ -1561,6 +1550,7 @@
   <string name="note_call_none">Нет вызовов</string>
   <string name="note_list_none">Список пуст</string>
   <string name="note_sms_none">Нет сообщений</string>
+  <string name="noti_back_diving_mode_title">Включен режим погружения. Нажмите для отключения.</string>
   <string name="notification_battery_consume_abnormal_title">Быстрый разряд батареи</string>
   <string name="notification_battery_scan_consume_abnormal_summary">Нажмите, чтобы устранить проблему</string>
   <string name="notification_battery_scan_consume_abnormal_title_set">%s разряжает батарею</string>
@@ -1578,6 +1568,9 @@
   <string name="notify_daily_limit_body">Нажмите для настройки.</string>
   <string name="notify_daily_limit_title">Расход за сегодня %s</string>
   <string name="notify_daily_limit_title_for_slotnum">Расход за сегодня %2$s на %1$s</string>
+  <string name="notify_diving_mode_exception_close">Режим погружения успешно отключен</string>
+  <string name="notify_diving_mode_exception_close_fail">"Ошибка SIM-карты. Не удалось отключить режим погружения."</string>
+  <string name="notify_diving_mode_exception_open_fail">"Ошибка SIM-карты. Не удалось отключить режим погружения."</string>
   <string name="notify_month_traffic_body">Настройте лимит трафика, чтобы избежать перерасхода.</string>
   <string name="notify_month_traffic_title">Расход за месяц %s</string>
   <string name="notify_month_traffic_title_for_slotnum">Расход за месяц %2$s на %1$s</string>
@@ -1599,7 +1592,6 @@
   <string name="om_locked_apps_summary">Закрепленные приложения не будут оптимизированы</string>
   <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_not_finish_speedboost">Требуется ускорение</string>
-  <string name="om_promotion">Реклама</string>
   <string name="om_running_locked_apps">Работающие (закрепленные)</string>
   <string name="om_running_system_apps">Работающие (системные)</string>
   <string name="om_running_third_apps">Работающие (сторонние)</string>
@@ -1628,7 +1620,6 @@
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
   <string name="optimize_manage_title">Ускорение</string>
-  <string name="optimize_result_ads_close_text">Реклама</string>
   <string name="optimize_result_available_memory_info">Доступная память</string>
   <string name="optimize_result_button_cloudspace">Добавить место в Mi Cloud</string>
   <string name="optimize_result_button_consume_power_analysis">Посмотреть</string>
@@ -1682,21 +1673,6 @@
   <string name="password_type_underline"><u>Способ защиты</u></string>
   <string name="password_xspace_forget_pattern_message">Для изменения пароля второго пространства вам необходимо удалить текущее пространство и создать новое.</string>
   <string name="passwordIncorrect">Неверное имя пользователя или пароль</string>
-  <string name="path_antispam">Системные приложения/Безопасность/Антиспам</string>
-  <string name="path_antivirus">Системные приложения/Безопасность/Антивирус</string>
-  <string name="path_app_permissions">Системные приложения/Безопасность/Разрешения/Разрешения приложений</string>
-  <string name="path_auto_restart">Системные приложения/Безопасность/Разрешения/Автозапуск</string>
-  <string name="path_buy_flow">Системные приложения/Безопасность/Передача данных/Предоплата трафика</string>
-  <string name="path_cleanmaster">Системные приложения/Безопасность/Очистка</string>
-  <string name="path_gamebooster">Системные приложения/Безопасность/Ускорение игр</string>
-  <string name="path_networkassistant_1">Системные приложения/Безопасность/Трафик</string>
-  <string name="path_networkassistant_2">Системные приложения/Безопасность/Трафик</string>
-  <string name="path_networkassistant_4">Системные приложения/Безопасность/Трафик/Диагностика сети</string>
-  <string name="path_powercenter">Системные приложения/Безопасность/Батарея</string>
-  <string name="path_powercenter_powerrank">Батарея/Использование батареи</string>
-  <string name="path_securitycenter">Системные приложения/Безопасность</string>
-  <string name="path_securitycenter_settings">Системные приложения/Безопасность</string>
-  <string name="path_usb_install">Системные приложения/Безопасность/Разрешения/Установка через USB</string>
   <string name="pc_abnormal_scan_button_text">Закрыть приложения</string>
   <string name="pc_abnormal_scan_reason_prevent_standby">Не дает системе перейти в спящий режим</string>
   <string name="pc_abnormal_scan_reason_reconnect">Слишком часто пытается подключиться к сети</string>
@@ -1738,6 +1714,19 @@
   <string name="percent_formatted_text">%s%%</string>
   <string name="percent_text_formatted">%s%%</string>
   <string name="percentage">%d%%</string>
+  <string name="perfermance_optimization_summary">Предупреждение перегрева и аппаратных проблем</string>
+  <string name="perfermance_optimization_title">Оптимизация производительности</string>
+  <string name="permgroupdesc_calendar">Доступ к календарю</string>
+  <string name="permgroupdesc_calllog">Доступ к журналу вызовов</string>
+  <string name="permgroupdesc_camera">Снимать фото и видео</string>
+  <string name="permgroupdesc_contacts">Доступ к контактам</string>
+  <string name="permgroupdesc_location">Доступ к данным о местоположении устройства</string>
+  <string name="permgroupdesc_microphone">Записывать аудио</string>
+  <string name="permgroupdesc_phone">Осуществлять вызовы и управлять ими</string>
+  <string name="permgroupdesc_recognition">Доступ к данным о здоровье и активности</string>
+  <string name="permgroupdesc_sensors">Доступ к данным датчиков о состоянии организма</string>
+  <string name="permgroupdesc_sms">Отправлять и просматривать SMS-сообщения</string>
+  <string name="permgroupdesc_storage">Доступ к файлам на устройстве</string>
   <string name="permission_action_accept">Разрешить</string>
   <string name="permission_action_always">Разрешать всегда</string>
   <string name="permission_action_foreground">На время использования</string>
@@ -1773,26 +1762,18 @@
   <string name="pm_remember_choice">Запомнить выбор</string>
   <string name="pm_root_success_notification_infomation">Убедитесь, что вы понимаете риски, связанные с ROOT доступом</string>
   <string name="pm_root_success_notification_title">ROOT доступ разрешен</string>
-  <string name="power_20s_enter_mode">Переход в режим %2$s через %1$d сек.</string>
   <string name="power_20s_shutdown">Устройство выключится через %d с</string>
   <string name="power_ambient_display">Амбиентный дисплей</string>
   <string name="power_analysis_consume_title">Расход заряда батареи</string>
   <string name="power_analysis_suggestion_need_optimize">Найдены проблемы с питанием</string>
-  <string name="power_apply_toast">переключиться в режим %s и автоматически сохранить свой режим</string>
   <string name="power_autorun_apps_empty">Нет приложений с автозапуском</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Проверить батарею</string>
-  <string name="power_button_delete">удалить</string>
   <string name="power_cell">Мобильная сеть</string>
   <string name="power_center_auto_shutdown">Таймер питания</string>
-  <string name="power_center_auto_shutdown_summary_default">Включение и выключение устройства в заданное время</string>
   <string name="power_center_back">Назад</string>
   <string name="power_center_battery_last">Осталось%s</string>
   <string name="power_center_charge_time">%1$s до окончания</string>
-  <string name="power_center_consume_rank">Использование</string>
-  <string name="power_center_consume_time">Заряда хватит на %1$s</string>
-  <string name="power_center_custom_summary_default">Настройки оптимизации питания</string>
-  <string name="power_center_custom_title">Энергосбережение</string>
   <string name="power_center_dialog_msg_bottom">Можно увеличить автономность до %1$d ч. %2$d мин. Включить энергосбережение?</string>
   <string name="power_center_dialog_msg_top">Когда энергосбережение включено, MIUI выполнит следующие действия:</string>
   <string name="power_center_hints_scan_danger_result">Найдены объекты для оптимизации</string>
@@ -1804,13 +1785,7 @@
   <string name="power_center_list_item_close_bluetooth">Отключить Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Глубокая экономия</string>
   <string name="power_center_list_item_set_lockscreen_time">Спящий режим через 30 с бездействия</string>
-  <string name="power_center_low_battery_summary_default">Включение энергосбережения при низком заряде батареи.</string>
-  <string name="power_center_low_battery_summary_dynamic">При %1$d%% переключиться на %2$s</string>
-  <string name="power_center_low_battery_title">Автопереключение</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
-  <string name="power_center_on_time_summary_default">Включение режима по времени</string>
-  <string name="power_center_on_time_summary_dynamic">%1$s - %2$s переключиться на %3$s</string>
-  <string name="power_center_on_time_title">Расписание</string>
   <string name="power_center_one_key_save">Оптимизировать</string>
   <string name="power_center_ontime_boot">Включение по расписанию</string>
   <string name="power_center_ontime_shutdown">Выключение по расписанию</string>
@@ -1837,66 +1812,17 @@
   <string name="power_center_time_to_boot">Время включения</string>
   <string name="power_center_time_to_shutdown">Время выключения</string>
   <string name="power_center_title">Батарея</string>
-  <string name="power_chooser_check_box_summary">Выбор режима энергосбережения для продолжительной работы устройства</string>
-  <string name="power_chooser_check_box_title">Энергосбережение</string>
-  <string name="power_chooser_mine_summary">Сохранение параметров системы по умолчанию</string>
-  <string name="power_chooser_mine_title">Свой режим</string>
-  <string name="power_chooser_sleep_summary">Отключить все функции сети (вызовы, SMS, Wi-Fi и мобильный интернет) за исключением будильника</string>
-  <string name="power_chooser_sleep_title">Режим \"Сон\"</string>
-  <string name="power_chooser_smart_summary">Остановить фоновые процессы при блокировке устройства</string>
-  <string name="power_chooser_smart_title">Режим по умолчанию</string>
-  <string name="power_chooser_standby_summary">Отключение Wi-Fi и мобильного интернета</string>
-  <string name="power_chooser_standby_title">Режим \"Марафон\"</string>
-  <string name="power_chooser_title">Режим энергосбережения</string>
-  <string name="power_chooser_user_define_summary">Пользовательский режим</string>
-  <string name="power_chooser_user_define_title">Добавить режим</string>
   <string name="power_consume_hardware_total_format">Устройство: %s</string>
   <string name="power_consume_other">Прочее</string>
   <string name="power_consume_rank_hardware">Устройство</string>
   <string name="power_consume_rank_software">Приложения</string>
   <string name="power_consume_rank_title">Расход заряда батареи</string>
   <string name="power_consume_software_total_format">Приложения: %s</string>
-  <string name="power_consume_total_hardware">Устройство: %1$d%%</string>
-  <string name="power_consume_total_software">Приложения: %1$d%%</string>
   <string name="power_customize_giveup_change">Отменить изменения?</string>
-  <string name="power_customizer_cancel">Отмена</string>
-  <string name="power_customizer_delete">Удалить</string>
-  <string name="power_customizer_my_mode">Свой</string>
-  <string name="power_customizer_ok">ОК</string>
-  <string name="power_customizer_save">Сохранить</string>
-  <string name="power_customizer_sleep_mode">Сон</string>
-  <string name="power_customizer_smart_mode">По умолчанию</string>
-  <string name="power_customizer_standby_mode">Марафон</string>
-  <string name="power_customizer_user_define_mode">Название:</string>
-  <string name="power_customizer_user_define_name">Мой режим</string>
-  <string name="power_customizer_user_define_summary">Пользовательские параметры</string>
-  <string name="power_dialog_auto_clean_memory_summary">Очистка кэшированных процессов, которые потребляют заряд батареи в заблокированном режиме.</string>
-  <string name="power_dialog_auto_clean_memory_title">Очистка процессов</string>
   <string name="power_dialog_cancel">Отмена</string>
-  <string name="power_dialog_cpu_state_balance">Баланс</string>
-  <string name="power_dialog_cpu_state_balance_desc">Увеличение производительности только по необходимости</string>
-  <string name="power_dialog_cpu_state_performance">Производительность</string>
-  <string name="power_dialog_cpu_state_performance_desc">Приоритет для производительности над батареей</string>
-  <string name="power_dialog_cpu_state_title">Режим ЦП</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_default">Невозможно удалить активный режим пользователя</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Телефон настроен на переключение на этот режим, когда батарея разряжена. Необходимо изменить параметры перед удалением.</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_low_battery">Телефон настроен на переключение на этот режим, когда батарея разряжена. Необходимо изменить параметры перед удалением.</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Телефон настроен на переключение на этот режим, когда батарея заряжается. Необходимо изменить параметры перед удалением.</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Телефон настроен на переключение на этот режим по расписанию. Необходимо изменить параметры перед удалением.</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_on_time">Телефон настроен на переключение на этот режим по расписанию. Необходимо изменить параметры перед удалением.</string>
-  <string name="power_dialog_delete_dialog_delete">Удалить выбранный режим пользователя?</string>
-  <string name="power_dialog_delete_dialog_title">Удалить режим</string>
   <string name="power_dialog_ok">ОК</string>
-  <string name="power_dialog_screen_brightness_automatic">Автоматическая яркость</string>
-  <string name="power_dialog_screen_brightness_automatic_off">Яркость экрана будет оставаться одинаковой при любом освещении</string>
-  <string name="power_dialog_screen_brightness_automatic_on">Яркость экрана будет изменяться в зависимости от освещения</string>
-  <string name="power_dialog_screen_brightness_title">Яркость</string>
-  <string name="power_dialog_sleep_title">Сон</string>
   <string name="power_dialog_super_save_msg">"Ультра энергосбережение ограничивает большинство функций, расходующих заряд батареи, и снижает производительность устройства, чтобы обеспечить базовую функциональность (звонки, SMS и подключение к сети) как можно дольше. Включить ультра энергосбережение?"</string>
   <string name="power_dialog_super_save_title">Ультра энергосбережение</string>
-  <string name="power_dialog_vibration_title">Вибрация</string>
-  <string name="power_dialog_wifi_title">Wi-Fi</string>
-  <string name="power_exitlowbattery_whencharge">Выход при зарядке</string>
   <string name="power_idle">Режим ожидания</string>
   <string name="power_main_battery_last_day_hour">Заряда хватит на %1$s д. %2$s ч.</string>
   <string name="power_main_battery_last_hour_minute">Заряда хватит на %1$s ч. %2$s мин.</string>
@@ -2177,20 +2103,6 @@
   <string name="reset_data_dialog_message">Это устройство не связано с вашим Mi Аккаунтом. Не удается восстановить или сбросить пароль. Создайте резервную копию всех важных данных и выполните сброс настроек. При этом все данные будут удалены навсегда, а ваша SD-карта будет отформатирована.</string>
   <string name="reset_data_dialog_ok">Сброс настроек</string>
   <string name="reset_data_title">Невозможно восстановить пароль</string>
-  <string name="resource_antispam">Антиспам</string>
-  <string name="resource_antivirus">Антивирус</string>
-  <string name="resource_app_permissions">Разрешения приложений</string>
-  <string name="resource_auto_restart">Автозапуск</string>
-  <string name="resource_buy_flow">Предоплата трафика</string>
-  <string name="resource_cleanmaster">Очистка</string>
-  <string name="resource_gamebooster">Ускорение игр</string>
-  <string name="resource_networkassistant_1">Трафик</string>
-  <string name="resource_networkassistant_2">Калибровка тарифа</string>
-  <string name="resource_networkassistant_4">Диагностика сети</string>
-  <string name="resource_powercenter_powerrank">Батарея</string>
-  <string name="resource_securitycenter">Безопасность</string>
-  <string name="resource_securitycenter_settings">Безопасность</string>
-  <string name="resource_usb_install">Установка через USB</string>
   <string name="result_autoscan_header">Мониторинг платежей</string>
   <string name="result_autoscan_info">Автоматический мониторинг системы при запуске платежных приложений</string>
   <string name="result_sms_header">Найдены угрозы для сообщений</string>
@@ -2287,9 +2199,6 @@
   <string name="shutdown_cancel_reminder">Устройство не было выключено</string>
   <string name="shutdown_cancel_reminder_detail">Устройство не было выключено, так как совершался вызов</string>
   <string name="shutdown_cancel_reminder_detail2">Устройство не было выключено, так как запущено игровое приложение</string>
-  <string name="shutdown_time">Выключение: %1$s</string>
-  <string name="shutdown_time_day">Выключение: %2$s %1$d дн.</string>
-  <string name="shutdown_time_day_tomorrow">Выключение: %1$s</string>
   <string name="signal_exception_summary">Невозможно подключиться к сети.</string>
   <string name="signal_exception_title">Диагностика уровня сигнала</string>
   <string name="signed_rule">Правила</string>
@@ -2534,6 +2443,7 @@
   <string name="superpower_dialog_massage">"Ультра энергосбережение ограничивает большинство функций, расходующих заряд батареи, и снижает производительность устройства, чтобы обеспечить базовую функциональность (звонки,  SMS и подключение к сети) как можно дольше. Включить ультра энергосбережение?"</string>
   <string name="superpower_dialog_title">Ультра энергосбережение</string>
   <string name="superpower_notification_hint_enter">Включить</string>
+  <string name="superpower_notification_new_title">Осталось меньше %d%% заряда батареи</string>
   <string name="superpower_notification_summary">Включение ультра энергосбережения</string>
   <string name="superpower_notification_title">Заряд батареи меньше 10%</string>
   <string name="superpower_progress_content">Включение ультра энергосбережения…</string>
@@ -2572,7 +2482,6 @@
   <string name="system_permission_declare_no_say_no_non_mandatory">Это приложение не сможет работать корректно, если вы не предоставите необходимые разрешения или не разрешите сбор и использование данных.</string>
   <string name="system_permission_declare_privacy_declare">Мы уважаем и защищаем вашу конфиденциальность.
 Обратите внимание, что приложению %1s необходимы следующие разрешения для нормальной работы:</string>
-  <string name="system_permission_declare_revoke_path">Вы можете удалить это приложение, выйти из своей учетной записи или изменить разрешения в Безопасность &gt; Приложения &gt; Разрешения &gt; Другие разрешения.</string>
   <string name="system_permission_declare_privacy_no_permission">Обратите внимание, что приложению %1s необходим доступ к вашим данным для нормальной работы.
 Мы уважаем и защищаем вашу конфиденциальность.</string>
   <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Прочитайте и примите нашу &lt;a href=\"%1$s\"&gt;Политику конфиденциальности&lt;/a&gt; перед использованием этой функции.&lt;/Data&gt;</string>
@@ -2881,12 +2790,9 @@
   <string name="usage_type_cpu_foreground">ЦП – активный режим</string>
   <string name="usage_type_data_recv">Моб. интернет - принято</string>
   <string name="usage_type_data_send">Моб. интернет - отправлено</string>
-  <string name="usage_type_data_wifi_recv">Wi-Fi - получено</string>
-  <string name="usage_type_data_wifi_send">Wi-Fi - отправлено</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Время отсутствия сигнала</string>
   <string name="usage_type_on_time">Время работы</string>
-  <string name="usage_type_phone">Телефон</string>
   <string name="usage_type_video">Видео</string>
   <string name="usage_type_wake_lock">Активный режим</string>
   <string name="usage_type_wifi_running">Wi-Fi</string>
@@ -2902,11 +2808,11 @@
   <string name="user_guide">Сделайте свайп вверх, чтобы узнать о новых играх</string>
   <string name="user_guide_title">Выбор джойстика</string>
   <string name="video_repeat">Повторить</string>
-  <string name="virus_ad_icon_text">Реклама</string>
   <string name="virus_auto_update_engine">Обновлять автоматически: %s</string>
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_tips_title">Предупреждение</string>
   <string name="virus_wait_network_dialog_message">Отсутствует подключение Wi-Fi. Использовать мобильный интернет?</string>
+  <string name="voltage_symbol">В</string>
   <string name="wakepath_confirm_start_activity">Разрешить %1$s запуск %2$s?</string>
   <string name="website">Веб-сайт</string>
   <string name="whitelist_prefix_add_hint">Все номера с этим префиксом будут добавлены в белый список</string>
@@ -2926,6 +2832,8 @@
   <string name="wlan_booster">Оптимизация Wi-Fi</string>
   <string name="wlan_change_protection_detail">Не переключаться на Wi-Fi при наличии подключения к мобильной сети</string>
   <string name="wlan_change_protection_title">Не переключать сети</string>
+  <string name="wlan_optimization_summary">Уменьшение задержки в сети Wi-Fi</string>
+  <string name="wlan_optimization_title">Оптимизация Wi-Fi</string>
   <string name="wrong_password">Неверный пароль</string>
   <string name="xunyou_net_booster">Ускорение сети</string>
   <string name="xunyou_net_booster_detail">Использовать сервисы ускорения Xunyou для игр</string>
