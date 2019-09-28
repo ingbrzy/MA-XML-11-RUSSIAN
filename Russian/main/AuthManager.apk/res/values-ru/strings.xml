@@ -100,7 +100,7 @@
   <string name="ok">OK</string>
   <string name="permdesc_camera">Снимать фото и видео</string>
   <string name="permdesc_in_calls">Отслеживать входящие вызовы</string>
-  <string name="permdesc_location">Доступ к данным о местоположении устройства</string>
+  <string name="permdesc_location">Доступ к данным о местоположении</string>
   <string name="permdesc_microphone">Записывать вызовы и аудио</string>
   <string name="permdesc_out_calls">Отслеживать исходящие вызовы</string>
   <string name="permdesc_read_calendar">Просматривать события календаря</string>
@@ -113,7 +113,7 @@
   <string name="permgroupdesc_calllog">Доступ к журналу вызовов</string>
   <string name="permgroupdesc_camera">Снимать фото и видео</string>
   <string name="permgroupdesc_contacts">Доступ к контактам</string>
-  <string name="permgroupdesc_location">Доступ к данным о местоположении устройства</string>
+  <string name="permgroupdesc_location">Доступ к данным о местоположении</string>
   <string name="permgroupdesc_microphone">Записывать аудио</string>
   <string name="permgroupdesc_phone">Осуществлять вызовы и управлять ими</string>
   <string name="permgroupdesc_recognition">Доступ к данным о здоровье и активности</string>
