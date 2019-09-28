@@ -1720,7 +1720,7 @@
   <string name="permgroupdesc_calllog">Доступ к журналу вызовов</string>
   <string name="permgroupdesc_camera">Снимать фото и видео</string>
   <string name="permgroupdesc_contacts">Доступ к контактам</string>
-  <string name="permgroupdesc_location">Доступ к данным о местоположении устройства</string>
+  <string name="permgroupdesc_location">Доступ к местоположению</string>
   <string name="permgroupdesc_microphone">Записывать аудио</string>
   <string name="permgroupdesc_phone">Осуществлять вызовы и управлять ими</string>
   <string name="permgroupdesc_recognition">Доступ к данным о здоровье и активности</string>
