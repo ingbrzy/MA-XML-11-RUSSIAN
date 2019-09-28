@@ -445,7 +445,7 @@
     <string name="storage_manage_list_title">Облачные данные</string>
     <string name="storage_manage_list_title_action">Подробнее</string>
     <string name="storage_manage_renewal">Продлить</string>
-    <string name="storage_manage_title">Сменить план облачного хранилища</string>
+    <string name="storage_manage_title">Обновить план Xiaomi Cloud</string>
     <string name="storage_manage_upgrade">Обновить</string>
     <string name="sub_alert_notif_content">Включите синхронизацию с Xiaomi Cloud для резервного копирования данных</string>
     <string name="sub_alert_notif_title">Синхронизация с Xiaomi Cloud</string>
