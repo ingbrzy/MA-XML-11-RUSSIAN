@@ -610,6 +610,8 @@
     <string name="ext_media_unmountable_notification_title">Накопитель поврежден</string>
     <string name="external_source_trusted">Разрешено</string>
     <string name="external_source_untrusted">Запрещено</string>
+    <string name="face_data_apply_for_category_title">Разблокировка по лицу</string>
+    <string name="face_data_apply_for_keyguard_title">Экран блокировки</string>
     <string name="face_data_input_camera_fail">Не удалось запустить камеру</string>
     <string name="face_data_input_camera_ok">Запуск камеры…</string>
     <string name="face_data_input_cancel">Отмена</string>
@@ -641,6 +643,7 @@
     <string name="face_unlock_be_on_the_screen">Держите устройство напротив лица</string>
     <string name="face_unlock_by_notification_screen_on_msg">Разблокировать устройство по лицу, когда экран включается при поступлении уведомлений. Возможен более быстрый разряд батареи.</string>
     <string name="face_unlock_by_notification_screen_on_title">Разблокировка при включении экрана</string>
+    <string name="face_unlock_category_title">Параметры экрана блокировки</string>
     <string name="face_unlock_check_failed">Не удалось вас узнать</string>
     <string name="face_unlock_not_roi">Держите лицо внутри кадра</string>
     <string name="face_unlock_close_screen">Приблизьте устройство к лицу</string>
