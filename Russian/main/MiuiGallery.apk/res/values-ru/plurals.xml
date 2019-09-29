@@ -307,6 +307,12 @@
     <item quantity="few">%1$d объекта</item>
     <item quantity="many">%1$d объектов</item>
   </plurals>
+  <plurals name="file_type_detail_count">
+    <item quantity="other">%1$d файлов</item>
+    <item quantity="one">%1$d файл</item>
+    <item quantity="few">%1$d файла</item>
+    <item quantity="many">%1$d файлов</item>
+  </plurals> 
   <plurals name="half_hour_ago">
     <item quantity="other">Полчаса назад</item>
   </plurals>
