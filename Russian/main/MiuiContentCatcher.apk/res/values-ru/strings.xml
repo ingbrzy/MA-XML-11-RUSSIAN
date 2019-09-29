@@ -2,8 +2,9 @@
 <resources>
   <string name="app_name">Служба расширения приложений</string>
   <string name="auth_activity_label">Коды подтверждения</string>
-  <string name="auth_fingerprint_content">Проверка отпечатка для доступа к сохраненным паролям</string>
-  <string name="auth_fingerprint_content_message">"Не удалось проверить отпечаток, повторите попытку"</string>
+  <string name="auth_fingerprint_content">Проверка отпечатка…</string>
+  <string name="auth_fingerprint_content_message">Прикоснитесь пальцем к сенсору</string>
+  <string name="auth_fingerprint_content_message_error">Не удалось проверить отпечаток, повторите попытку</string>
   <string name="auth_fingerprint_title">Проверка отпечатка</string>
   <string name="autofill_description">"MIUI может шифровать и хранить ваши пароли, чтобы вводить их автоматически, когда вам нужно. Xiaomi не сможет прочитать ваши зашифрованные пароли."</string>
   <string name="autofill_hint_email_address">Электронная почта</string>
@@ -26,8 +27,8 @@
   <string name="ok">ОК</string>
   <string name="save_content_tip">"Следующие элементы могут быть сохранены: "</string>
   <string name="search">Поиск</string>
-  <string name="settings_clear_data_confirmation_title">Удаление паролей</string>
   <string name="settings_clear_data_confirmation_description">Если вы удалите пароль сейчас, вам нужно будет ввести его заново при входе в систему.
 Удалить пароль?</string>	
+  <string name="settings_clear_data_confirmation_title">Удаление паролей</string>
   <string name="using_miui_autofill_message">Для автоматического ввода паролей MIUI сохранит информацию об учетной записи и пароли на устройстве.</string>
 </resources>
