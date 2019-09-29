@@ -8,6 +8,7 @@
     <string name="account_duplicate_dlg_title">Дубликат аккаунта</string>
     <string name="account_failure">Время сессии истекло</string>
     <string name="account_name_toast">Аккаунт с таким именем уже существует</string>
+    <string name="account_options_actionbar_title">Общие настройки</string>
     <string name="account_options_sync_title">Синхронизация</string>
     <string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом. Многие серверы не поддерживают пароли с пробелами.</string>
     <string name="account_security_dialog_content_fmt">%s требует обновления настроек безопасности.</string>
@@ -45,6 +46,7 @@
     <string name="account_settings_notify_summary">Показывать уведомления при получении новых писем</string>
     <string name="account_settings_param">Настройки аккаунта</string>
     <string name="account_settings_policies">Политика безопасности</string>
+    <string name="account_settings_preference_add_account">Новый аккаунт</string>
     <string name="account_settings_preference_att_save_path">Папка по умолчанию для вложений</string>
     <string name="account_settings_preference_head_icon">Фото контактов</string>
     <string name="account_settings_preference_notify">Уведомления</string>
@@ -85,6 +87,7 @@
     <string name="account_setup_exchange_certificate_title">Сертификат клиента</string>
     <string name="account_setup_exchange_device_id_label">ID мобильного устройства</string>
     <string name="account_setup_exchange_no_certificate">Не используется</string>
+    <string name="account_setup_failed_auth_required">Этот метод аутентификации не поддерживается сервером.</string>
     <string name="account_setup_failed_certificate_inaccessible">Сертификат недействителен или недоступен.</string>
     <string name="account_setup_failed_certificate_required">Необходим сертификат клиента. Подключиться к серверу?</string>
     <string name="account_setup_failed_check_credentials_message">Ошибка сервера. Проверьте имя пользователя и пароль и повторите попытку.</string>
@@ -163,6 +166,7 @@
     <string name="ad_merge">Реклама и уведомления</string>
     <string name="add_account">Новый аккаунт</string>
     <string name="add_account_keywords">Добавить аккаунт;добавить аккаунт почты</string>
+    <string name="add_account_search">Новый аккаунт</string>
     <string name="add_attachment">Добавить вложение</string>
     <string name="add_calendar">Напомнить</string>
     <string name="add_file_exception">"Не удалось добавить. Попробуйте добавить это вложение из другого места."</string>
@@ -171,6 +175,7 @@
     <string name="add_pre_message_attachments_no">Не добавлять</string>
     <string name="add_pre_message_attachments_yes">Добавить</string>
     <string name="add_star">Отметить</string>
+    <string name="all_purpose">Добро пожаловать в Почту! Этот почтовый клиент был создан Kingsoft для Xiaomi. Вы можете использовать это приложение для отправки и получения писем.</string>
     <string name="allread">Прочитать все</string>
     <string name="always_bcc_myself">Отправлять себе скрытую копию</string>
     <string name="always_show_images">Всегда показывать изображения этого отправителя</string>
@@ -274,7 +279,10 @@
     <string name="compose_picturesexceedlimits">Не более 5 изображений в тексте сообщения</string>
     <string name="compose_send">Отправить</string>
     <string name="compose_sent">Письмо отправлено</string>
+    <string name="config_cancel">Отмена</string>
+    <string name="config_retry">Повтор</string>
     <string name="confirm">ОК</string>
+    <string name="confirm_age">Подтвердить возраст</string>
     <string name="confirm_before_delete">Подтверждение перед удалением</string>
     <string name="confirm_before_delete_keywords">подтверждение перед удалением;удалить подтверждение</string>
     <string name="confirm_before_send">Подтверждение перед отправкой</string>
@@ -367,6 +375,7 @@
     <string name="device_not_activiey_lint1">Диспетчер устройств не активирован</string>
     <string name="device_not_activiey_lint2">Почтовая служба не работает с сервером Exchange</string>
     <string name="dialog_account_auto_sync_setting_no_open">Вы решили синхронизировать почту вручную. Обновите для синхронизации.</string>
+    <string name="dialog_agree">Согласен</string>
     <string name="dialog_change_sync_lookback">Почта, полученная %s назад, будет удалена автоматически. Нажмите, чтобы изменить.</string>
     <string name="dialog_disagree">"Не согласен"</string>
     <string name="dialog_insufficient_space_on_external">Невозможно загрузить вложение. Недостаточно памяти.</string>
@@ -458,14 +467,33 @@
     <string name="file_save_term">Условия сохранения файлов</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
     <string name="first_quick_default_reply">Нажмите на кнопку, чтобы отправить \"%s\" всем участникам диалога</string>
+    <string name="float_window_info">"Во время настройки 139 mailbox не пользуйтесь телефоном, чтобы избежать сбоев"</string>
+    <string name="float_window_title">Настройка………</string>
+    <string name="folder_drafts_name_en0">Черновики</string>
+    <string name="folder_drafts_name_en1">Черновик</string>
+    <string name="folder_drafts_name_en2">[Gmail]/Черновики</string>
     <string name="folder_empty_to_fresh">"Почта не синхронизирована. Потяните вниз для синхронизации."</string>
+    <string name="folder_junk_name_en0">Спам</string>
+    <string name="folder_junk_name_en1">Рассылка</string>
+    <string name="folder_junk_name_en2">Спам</string>
+    <string name="folder_junk_name_en3">Спам</string>
+    <string name="folder_junk_name_en4">Спам</string>
     <string name="folder_list_display_all">Отображать все папки</string>
     <string name="folder_list_display_only_import">Отображать только важные папки</string>
     <string name="folder_no_mails">Нет писем в этой папке.</string>
     <string name="folder_picker_title">Выбор папки</string>
     <string name="folder_removed">Удалено из %1$s</string>
+    <string name="folder_sent_name_en0">Отправленные</string>
+    <string name="folder_sent_name_en1">Отправленные</string>
+    <string name="folder_sent_name_en2">Отправленные</string>
+    <string name="folder_sent_name_en3">Отправленные</string>
+    <string name="folder_sent_name_en4">[Gmail]/Отправленные</string>
     <string name="folder_shortcut_widget_label">Папка почты</string>
     <string name="folder_synchronization_mail_settings">Настройки синхронизации папок</string>
+    <string name="folder_trash_name_en0">Корзина</string>
+    <string name="folder_trash_name_en1">Удаленные</string>
+    <string name="folder_trash_name_en2">Удаленные</string>
+    <string name="folder_trash_name_en3">[Gmail]/Корзина</string>
     <string name="forever">Всегда</string>
     <string name="forward">Переслать</string>
     <string name="forward_attachment">Переслать</string>
@@ -546,8 +574,12 @@
     <string name="mail_login_help_details1">1.Пароль электронной почты: Если вы не задали код подтверждения и уже открыли протокол POP3/IMAP/SMTP, можете использовать пароль электронной почты для входа.</string>
     <string name="mail_login_help_details2">2.Код подтверждения: Если вы уже задали код подтверждения, необходимо использовать его для входа. Убедитесь, что протокол POP3/IMAP/SMTP открыт.</string>
     <string name="mail_login_help_title">Пароль электронной почты или код подтверждения:</string>
+    <string name="mail_outlook_login_tips">В соответствии с требованиями Microsoft, необходимо ввести пароль на странице авторизации Microsoft.</string>
+    <string name="mail_outlook_oauth_login">Войти с OAuth</string>
+    <string name="mail_outlook_psw_login">Войти с паролем</string>
     <string name="mailbox_list_account_selector_combined_view">Совмещенный аккаунт</string>
     <string name="mailbox_name_display_ad">Реклама</string>
+    <string name="mailbox_name_display_add_account">Новый аккаунт</string>
     <string name="mailbox_name_display_circular">Уведомления</string>
     <string name="mailbox_name_display_drafts">Черновики</string>
     <string name="mailbox_name_display_inbox">Входящие</string>
@@ -670,6 +702,7 @@
     <string name="network_error">Нет соединения</string>
     <string name="network_invaild">Не удается подключиться к сети</string>
     <string name="network_not_available">Не удается подключиться к сети</string>
+    <string name="network_tip">Аутентификация не удалась, проверьте подключение к сети</string>
     <string name="network_try_again">Проверьте подключение и повторите попытку</string>
     <string name="network_unavailable">Сеть недоступна</string>
     <string name="new_incoming_messages_one">Новое сообщение от %s</string>
@@ -744,6 +777,7 @@
     <string name="outbox_alert_select_operation">Выберите действие</string>
     <string name="outbox_alert_title_sent_failed">Не удалось отправить почту</string>
     <string name="outbox_no_mails">Пусто</string>
+    <string name="outlook_login_failed_non_proxy_title">"Не удалось получить доступ к серверу OutLook"</string>
     <string name="output_all_log">Вывести все журналы</string>
     <string name="output_db_summary">О выводе базы данных</string>
     <string name="output_db_title">Выходные данные базы данных</string>
@@ -873,6 +907,7 @@
     <string name="quick_3">Я отвечу позже</string>
     <string name="quick_4">Давайте обсудим это при встрече.</string>
     <string name="quick_reply_dialog_title">Выберите ответ</string>
+    <string name="quick_reply_expend">Развернуть</string>
     <string name="quick_reply_hint_bcc">(в скрытую копию)</string>
     <string name="quick_reply_hint_cc">(в копию)</string>
     <string name="quick_reply_hint_reply_only_from">Быстрый ответ (только отправитель)</string>
@@ -1009,6 +1044,9 @@
     <string name="str_select_none">Снять выбор</string>
     <string name="subject_and_snippet" formatted="false">%s — %s</string>
     <string name="subject_hint">Тема</string>
+    <string name="sync_calendra_fail_per_content">Нажмите, чтобы разрешить доступ к календарю</string>
+    <string name="sync_calendra_fail_per_title">"Ошибка синхронизации"</string>
+    <string name="sync_calendra_fail_permission">"Не удалось синхронизировать календарь, разрешите доступ к календарю в настройках"</string>
     <string name="sync_contacts_fail_per_content">Нажмите, чтобы разрешить доступ к контактам</string>
     <string name="sync_contacts_fail_per_title">Не удалось синхронизировать контакты</string>
     <string name="sync_contacts_fail_permission">Не удалось синхронизировать контакты. Разрешите приложению Почта доступ к вашим контактам в Настройках</string>
@@ -1078,6 +1116,7 @@
     <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
     <string name="update_domain_summary">Обновить список доступных доменов и конфигураций</string>
     <string name="update_domain_title">Обновить настройки домена</string>
+    <string name="update_to_wps_mail">Больше возможностей с WPS Mail</string>
     <string name="updated_at">Последнее обновление: %1$s</string>
     <string name="upload_log">Отправить отчет</string>
     <string name="upload_log_failed">Не удалось отправить</string>
@@ -1117,7 +1156,4 @@
     <string name="you_are_in_mobile_network">Использовать мобильный интернет для отправки отчетов?</string>
     <string name="youfuli">Акция</string>
     <string name="zip_viewer_no_file">Нет файлов.</string>
-    <string name="account_settings_preference_add_account">Новый аккаунт</string>
-    <string name="mailbox_name_display_add_account">Новый аккаунт</string>
-    <string name="update_to_wps_mail">Больше возможностей с WPS Mail</string>
 </resources>
