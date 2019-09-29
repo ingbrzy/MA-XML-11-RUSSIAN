@@ -61,7 +61,7 @@
     <string name="audio_duration_minutes_format">%1$d мин</string>
     <string name="audio_duration_seconds_format">%1$d с</string>
     <string name="audition_ringtone">Воспроизвести</string>
-    <string name="author_attention">Подписаться</string>
+    <string name="author_attention">Подписки</string>
     <string name="author_attention_success">В подписках</string>
     <string name="author_dialog_message">Отписаться от этого аккаунта?</string>
     <string name="author_dynamic">Статус</string>
