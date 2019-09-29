@@ -129,14 +129,13 @@
   <string name="incall_error_supp_service_transfer">Не удалось перенести вызов.</string>
   <string name="incall_error_supp_service_unknown">Услуга не поддерживается.</string>
   <string name="inCallLabel">Телефон</string>
-  <string name="incoming_answer_voice_text">Голосовой вызов</string>
   <string name="incoming_call_forwarded_title">Переадресация вызовов</string>
   <string name="incoming_circle_text_answer">Отпустите</string>
-  <string name="incoming_circle_text_answer_p">Тяните вверх</string>
-  <string name="incoming_circle_text_message">Отпустите</string>
-  <string name="incoming_circle_text_message_p">Тяните вверх</string>
+  <string name="incoming_circle_text_answer_p">Потяните вверх</string>
   <string name="incoming_circle_text_reject">Отпустите</string>
-  <string name="incoming_circle_text_reject_p">Тяните вверх</string>
+  <string name="incoming_circle_text_reject_p">Потяните вверхх</string>
+  <string name="incoming_circle_text_video_answer">Отпустите</string>
+  <string name="incoming_circle_text_video_answer_p">Потяните вверх</string>
   <string name="manageConferenceLabel">Управление конференц-связью</string>
   <string name="msim_select_default_time_left">(%d с)</string>
   <string name="notification_action_accept">Принять</string>
@@ -197,6 +196,7 @@
   <string name="video_conference_caller_info_name">Видео-конференц-вызов пользователя %1$s</string>
   <string name="video_crbt_title">Видеосигнал обратного вызова другой стороны</string>
   <string name="voicemail">Голосовая почта</string>
+  <string name="volte_call">VoLTE вызов</string>
   <string name="volume_boost_text">Громкость увеличена</string>
   <string name="wait_prompt_str">"Отправить следующие тоны?
 "</string>
