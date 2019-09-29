@@ -42,6 +42,7 @@
     <string name="camera_error_title">Ошибка Камеры</string>
     <string name="cancel">Отмена</string>
     <string name="choose_picture">Выберите изображение с кодом</string>
+    <string name="close_hotspot_when_connecting_to_wifi">Точка доступа включена. Включите Wi-Fi.</string>
     <string name="common_retake_picture">Переснять</string>
     <string name="common_save">Сохранить</string>
     <string name="company">"Компания: "</string>
@@ -150,6 +151,7 @@
     <string name="send_mail">Отправить Email</string>
     <string name="setting_choose_every_time">Всегда спрашивать</string>
     <string name="setting_default_function">По умолчанию</string>
+    <string name="setting_function_sort">Изменить порядок</string>
     <string name="setting_preference_pay">Предпочтительный способ оплаты</string>
     <string name="setting_title">Настройки</string>
     <string name="setting_use_last_choose">Запомнить предыдущий выбор</string>
