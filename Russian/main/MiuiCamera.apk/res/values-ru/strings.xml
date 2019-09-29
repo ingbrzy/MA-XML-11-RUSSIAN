@@ -119,6 +119,7 @@
   <string name="confirm_recording_fail_calling_alert">Запись недоступна во время вызова.</string>
   <string name="confirm_recording_fail_recorder_busy_alert">Возможно, микрофон используется для записи другим приложением.</string>
   <string name="confirm_recording_fail_title">Ошибка записи</string>
+  <string name="confirm_reset_manually_parameter_message">Сбросить все параметры до значений по умолчанию?</string>
   <string name="confirm_restore_message">Восстановить настройки по умолчанию?</string>
   <string name="confirm_restore_title">Сброс настроек</string>
   <string name="custom_watermark_contains_senstive_words">"Водяные знаки не могут использовать запрещенные термины (%1$s)"</string>
