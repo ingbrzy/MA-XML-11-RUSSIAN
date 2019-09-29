@@ -17,8 +17,8 @@
   <string name="dialog_ok">ОК</string>
   <string name="dialog_only_suport_content">Потоковая передача фотографий, видео или музыки</string>
   <string name="dialog_open_wifi_bt">Включить</string>
-  <string name="dialog_please_make_sure_tv_ok">Беспроводная передача</string>
-  <string name="dialog_please_make_sure_tv_ok_or_help">"Убедитесь, что на целевом устройстве включена функция беспроводной передачи экрана.
+  <string name="dialog_please_make_sure_tv_ok">На целевом устройстве должен быть включен беспроводной дисплей</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">"Убедитесь, что на целевом устройстве включен беспроводной дисплей.
 Для дополнительной информации, пожалуйста, обратитесь к справке."</string>
   <string name="dialog_recent_connected">Недавние</string>
   <string name="dialog_retry">Попробуйте еще раз</string>
@@ -104,6 +104,10 @@
 　　• Трансляция звука на устройство.
 　　• Получение разрешений для обнаружения и подключения устройств"</string>
   <string name="private_protect">Защита конфиденциальности</string>
+  <string name="san_wait_msg_1">На целевом устройстве должен быть включен беспроводной дисплей</string>
+  <string name="san_wait_msg_2">Поиск устройств может занять некоторое время…</string>
+  <string name="san_wait_msg_3">Внешние устройства легче найти, если они подключены к той же сети, что и телефон</string>
+  <string name="san_wait_msg_4">"Обратитесь к \"Справке\", если не удалось найти устройства"</string>
   <string name="service_name">Сервис UniPlay</string>
   <string name="small_window">Минимизировать окно</string>
   <string name="status_bar_in_casting">Трансляция</string>
