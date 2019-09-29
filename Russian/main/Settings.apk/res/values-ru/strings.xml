@@ -1297,7 +1297,7 @@
     <string name="connected_via_passpoint">Подключено через %1$s</string>
     <string name="connected_wifi">Подключенные сети</string>
     <string name="connecting_to_vpn">Подключение к VPN</string>
-    <string name="connection_and_sharing">Подключения и доступ</string>
+    <string name="connection_and_sharing">Подключения</string>
     <string name="content_description_menu_button">Меню</string>
     <string name="contributors_title">Участники</string>
     <string name="controls_label">Элементы управления</string>
@@ -5981,7 +5981,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_assistant_confirm_connection_title">Подтвердите подключение</string>
     <string name="wifi_assistant_data_prompt">Предупреждать о трафике</string>
     <string name="wifi_assistant_data_prompt_summary">Показывать предупреждение о трафике при переключении на мобильный интернет</string>
-    <string name="wifi_assistant_description">"Вот как работает Помощник Wi-Fi:
+    <string name="wifi_assistant_description">"Как работает Помощник Wi-Fi:
 1. При плохом качестве подключения Помощник Wi-Fi попытается подключить ваше устройство к другим доступным сетям Wi-Fi
 2. Если все доступные сети Wi-Fi оказываются плохими, а мобильный интернет включен, Помощник Wi-Fi переключится на мобильный интернет."</string>
     <string name="wifi_assistant_disconnect">Отключиться</string>
