@@ -155,7 +155,7 @@
     <string name="account_dashboard_title">Пользователи и аккаунты</string>
     <string name="account_for_section_header">Аккаунты для пользователя %1$s</string>
     <string name="account_list">Другие аккаунты</string>
-    <string name="account_other">Другое</string>
+    <string name="account_other">Другие</string>
     <string name="account_settings">Аккаунты</string>
     <string name="account_settings_menu_auto_sync">Автосинхронизация данных</string>
     <string name="account_settings_menu_auto_sync_personal">Автосинхронизация личных данных</string>
