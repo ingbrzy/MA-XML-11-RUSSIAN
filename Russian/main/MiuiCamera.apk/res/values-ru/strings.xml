@@ -588,6 +588,8 @@
   <string name="preparing_sd">Подготовка SD карты…</string>
   <string name="recommend_soft_light_tip">Используйте вспышку в режиме мягкого света</string>
   <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
+  <string name="reset_manually_parameter_confirmed">ОК</string>
+  <string name="reset_manually_parameter_hint">Сброс</string>
   <string name="screen_on_proximity_sensor_hint">Для отключения этой функции одновременно нажмите кнопки \"Громкость+\" и \"Назад\".</string>
   <string name="screen_on_proximity_sensor_summary">Не закрывайте область динамика</string>
   <string name="search_settings">Настройки камеры;Качество;Качество фото;Место съемки фото;Место съемки изображения;Распознавание лиц;Звук камеры;Фото;Камера;Фотография;Видео;Съемка</string>
