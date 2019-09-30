@@ -58,6 +58,7 @@
     <string name="operation_send">Отправить</string>
     <string name="permission_intro_microphone">Для записи звука, когда источником звука является микрофон.</string>
     <string name="permission_intro_storage">Для сохранения записей экрана</string>
+    <string name="permission_microphone_desc">Использование микрофона в качестве источника звука при записи экрана</string>
     <string name="quit_recording">Выход из приложения…</string>
     <string name="recording_failure">Ошибка записи, начните сначала</string>
     <string name="recording_max_size">Запись была остановлена и сохранена из-за достижения предельного размера видео. Если нужно, начните запись с того места, где вы остановились.</string>
@@ -70,6 +71,8 @@
     <string name="screen_record_params">Параметры записи</string>
     <string name="select_all">Выбрать все</string>
     <string name="settings">Настройки</string>
+    <string name="settings_other">Другое</string>
+    <string name="settings_privacy">Политика конфиденциальности</string>
     <string name="show_hard_key">Показывать нажатия кнопок</string>
     <string name="show_hard_key_summary">Отображать подсказки при нажатии аппаратных кнопок</string>
     <string name="show_screen_touch">Показывать касания и жесты</string>
