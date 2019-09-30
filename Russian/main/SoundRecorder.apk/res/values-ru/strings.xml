@@ -167,7 +167,7 @@
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="toast_max_record_time">Приложение \"%1$s\" поддерживает максимальное время записи: %2$s</string>
     <string name="toast_uninstall_fileexplorer">Проводник не установлен</string>
-    <string name="usage_description">Запись звука и синхронизация элементов с облаком</string>
+    <string name="usage_description">Транскрибирование и синхронизация элементов с облаком</string>
     <string name="webview_check_network">Настройки сети</string>
     <string name="webview_data_error">Произошла ошибка</string>
     <string name="webview_locating_fail">Не удалось определить местоположение</string>
