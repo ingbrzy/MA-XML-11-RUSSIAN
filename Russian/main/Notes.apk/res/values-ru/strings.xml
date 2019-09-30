@@ -32,6 +32,8 @@
     <string name="check_in_todo_app">Просмотр задач</string>
     <string name="cloud_service_state_open_reminder">Включите синхронизацию с облаком</string>
     <string name="cloud_trash_bin_title">Удаленные заметки в облаке</string>
+    <string name="confirm_cancel">Не согласен</string>
+    <string name="confirm_ok">Согласен</string>
     <string name="cta_confirm_cancel">Не разрешать</string>
     <string name="cta_confirm_ok">Разрешить</string>
     <string name="cta_dialog_message">Для нормальной работы Заметкам требуется подключение к интернету, разрешение на запись звука и доступ к вашим контактам. Разрешить?</string>
@@ -138,9 +140,16 @@
     <string name="notealert_ok">Закрыть</string>
     <string name="notify_alarm_title">Напоминание</string>
     <string name="permdesc_accessNote">Вредоносные приложения могут использовать это разрешение для доступа к вашей личной информации.</string>
+    <string name="permission_get_account_desc">Синхронизация заметок с облаком</string>
+    <string name="permission_microphone_desc">Создание голосовых заметок</string>
+    <string name="permission_network_for_cloud_desc">Для синхронизации заметок с облаком, необходимо подключение к интернету. Могут использоваться мобильные данные. Подключиться?</string>
+    <string name="permission_read_contact_desc">Связывание заметок, созданных во время звонков, с контактами</string>
+    <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI сохранит ваши голосовые записи и ID устройства для транскрибирования и создания голосовых заметок. Узнайте больше в Mi AI о &amp;lt;a href=\"%1$s\"&amp;gt;Политике конфиденциальности&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
     <string name="permlab_accessNote">Доступ к заметкам</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Используйте свайп двумя пальцами вверх для удаления заметок без подтверждения.</string>
     <string name="pref_desc_todo_float_mode">Проведите от края экрана, чтобы открыть панель инструментов задач</string>
+    <string name="pref_remind_type_summary">Воспроизведение звука напоминания в режиме \"Без звука\"</string>
+    <string name="pref_remind_type_title">Игнорировать режим \"Без звука\"</string>
     <string name="pref_title_cloud_trash_bin">Удаленные заметки в облаке</string>
     <string name="pref_title_common">Дополнительные настройки</string>
     <string name="pref_title_font_size">Размер шрифта</string>
@@ -153,6 +162,7 @@
     <string name="redo">Вернуть</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Дождитесь загрузки заметки и повторите попытку</string>
     <string name="refuse_to_share_as_pic_because_of_content">Эта заметка слишком большая</string>
+    <string name="remind_title">Напоминания</string>
     <string name="rename_folder_dialog_tile">Переименование папки</string>
     <string name="rich_text_bold_description">Жирный</string>
     <string name="rich_text_center_description">По центру</string>
