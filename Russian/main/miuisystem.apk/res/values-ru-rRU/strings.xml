@@ -79,6 +79,8 @@
   <string name="makewishes">Загадайте желание</string>
   <string name="martix">Матрица</string>
   <string name="messagesent">Сообщение доставлено</string>
+  <string name="mihouse">Mi (электро)</string>
+  <string name="mijazz">Mi (джаз)</string>
   <string name="miremix">Mi (ремикс)</string>
   <string name="moment">Мгновение</string>
   <string name="monet">Моне</string>
@@ -114,6 +116,7 @@
   <string name="vip_not_login">Вход не выполнен</string>
   <string name="vip_sign">Подпись:</string>
   <string name="waterdrop_preview">Звуки природы (капли воды)</string>
+  <string name="windchime">Музыка ветра</string>
   <string name="yellow_page_module_sms_sent">Сообщение отправлено</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Нельзя отправлять сообщения в режиме \"Гость\"</string>
   <string name="yellow_page_sms_send_failed">Не удалось отправить сообщение</string>
