@@ -167,6 +167,14 @@
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="toast_max_record_time">Приложение \"%1$s\" поддерживает максимальное время записи: %2$s</string>
     <string name="toast_uninstall_fileexplorer">Проводник не установлен</string>
+    <string name="usage_description">Запись звука и синхронизация элементов с облаком</string>
+    <string name="webview_check_network">Настройки сети</string>
+    <string name="webview_data_error">Произошла ошибка</string>
+    <string name="webview_locating_fail">Не удалось определить местоположение</string>
+    <string name="webview_network_access_denied">Доступ к сети запрещен</string>
+    <string name="webview_network_unavaliable">Не удалось подключиться к сети</string>
+    <string name="webview_service_unavailiable">Сервис недоступен</string>
+    <string name="webview_try_again">Повторите попытку</string>
     <string name="wifi_recommended_body" formatted="false">Использование мобильного интернета для загрузки этого файла (%s) увеличит расход трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату. Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi.</string>
     <string name="wifi_recommended_title">Предупреждение о трафике</string>
 </resources>
