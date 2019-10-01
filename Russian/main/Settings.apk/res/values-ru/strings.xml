@@ -155,7 +155,7 @@
     <string name="account_dashboard_title">Пользователи и аккаунты</string>
     <string name="account_for_section_header">Аккаунты для пользователя %1$s</string>
     <string name="account_list">Другие аккаунты</string>
-    <string name="account_other">Другие</string>
+    <string name="account_other">Другое</string>
     <string name="account_settings">Аккаунты</string>
     <string name="account_settings_menu_auto_sync">Автосинхронизация данных</string>
     <string name="account_settings_menu_auto_sync_personal">Автосинхронизация личных данных</string>
@@ -5250,7 +5250,7 @@ UT-интерфейс: %5$s"</string>
     <string name="title_jeejen">Рабочий стол Jeejen</string>
     <string name="title_layout_current">Размер текста</string>
     <string name="title_layout_current2">Размер текста</string>
-    <string name="title_layout_current2_weight">Размер текста и толщина шрифта</string>
+    <string name="title_layout_current2_weight">Параметры шрифта</string>
     <string name="title_layout_v2">Размер текста и масштаб</string>
     <string name="to_close">Отключить</string>
     <string name="toast_lockscreen_glogin_empty_password">Введите пароль</string>
