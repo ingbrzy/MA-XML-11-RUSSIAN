@@ -1114,6 +1114,7 @@
   <string name="privacy_policy_title">Политика конфиденциальности</string>
   <string name="private_num">Скрытый номер</string>
   <string name="progress_dialog_exiting_ecm">Выход из режима экстренных обратных вызовов</string>
+  <string name="prompt_to_suggest_to_open_volte_from_operator">Не удается осуществить вызов. Свяжитесь с China Telecom, чтобы включить услугу VoLTE.</string>
   <string name="prompt_to_turnoff_volte_when_failed">Услуги VoLTE недоступны. Для совершения вызова отключите VoLTE.</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">Услуга недоступна. Отключите VoLTE в Настройках.</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Перед включением VoLTE выберите LTE в качестве предпочтительного типа сети.</string>
@@ -1551,9 +1552,17 @@ SIM-карта будет заблокирована при неудачной �
   <string name="wifi_allow_scan_with_traffic">Всегда включать поиск сетей Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">Включать или отключать поиск сетей Wi-Fi во время передачи данных в зависимости от объема трафика</string>
   <string name="wifi_ap_unable_to_handle_new_sta">К точке доступа подключено слишком много устройств</string>
+  <string name="wifi_call_accept">ОК</string>
+  <string name="wifi_call_available_message">Вы можете осуществлять звонки с помощью Wi-Fi. Если вы подключены к сети Wi-Fi, вы сможете говорить, даже если вы находитесь в районах без покрытия мобильной сети.</string>
+  <string name="wifi_call_available_title">Включение Wi-Fi вызовов</string>
+  <string name="wifi_call_cancel">Отмена</string>
+  <string name="wifi_call_help">Помощь</string>
+  <string name="wifi_call_help_message">При выборе мобильных сетей в качестве предпочтительных, они будут использоваться для вызовов по умолчанию. В случае отстутствия или очень слабого сигнала мобильной сети, будет использоваться сеть Wi-Fi.</string>
+  <string name="wifi_call_help_title">Помощь по Wi-Fi вызовам</string>
+  <string name="wifi_call_notification_message">Эта услуга предоставляется Orange. Для активации этой услуги может потребоваться несколько часов. Вы получите SMS-подтверждение, как только услуга будет доступна.</string>
   <string name="wifi_call_setting">Wi-Fi вызовы</string>
-  <string name="wifi_call_setting_vodafone_de">Wi-Fi вызов</string>
-  <string name="wifi_call_setting_vodafone_uk">Wi-Fi вызов</string>
+  <string name="wifi_call_setting_vodafone_de">Wi-Fi вызовы</string>
+  <string name="wifi_call_setting_vodafone_uk">Wi-Fi вызовы</string>
   <string name="wifi_calling">Wi-Fi вызовы</string>
   <string name="wifi_calling_settings_title">Wi-Fi вызовы</string>
   <string name="wifi_cant_connect">Ошибка подключения</string>
