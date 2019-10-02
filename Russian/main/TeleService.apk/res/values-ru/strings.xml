@@ -1529,10 +1529,10 @@ SIM-карта будет заблокирована при неудачной �
   <string name="volte_switch_title_ct">Включить VoLTE</string>
   <string name="volte_tips_when_turn_on">Услуги VoLTE от China Telecom предоставляются только в зонах покрытия сети VoLTE. Услуги VoLTE предоставляются оператором связи.</string>
   <string name="vowifi_emergency_notification_channel">Экстренный вызов по Wi-Fi</string>
-  <string name="vowifi_emergency_notification_content">Экстренные вызовы доступны только в сотовой сети.</string>
+  <string name="vowifi_emergency_notification_content">Экстренные вызовы доступны только в зонах сотовой связи.</string>
   <string name="vowifi_emergency_notification_title">Vodafone Wifi вызовы</string>
   <string name="vowifi_emergency_warning_check">"Не показывать снова."</string>
-  <string name="vowifi_emergency_warning_message">"Экстренные вызовы невозможны через Wi-Fi.
+  <string name="vowifi_emergency_warning_message">"Экстренные вызовы невозможны через Wi-Fi вызовы.
 
 Устройство автоматически переключится на сотовую сеть (2G/3G) для экстренного вызова.
 
