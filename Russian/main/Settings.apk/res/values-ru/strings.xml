@@ -3019,8 +3019,8 @@
     <string name="miui_lab_ai_cloud_closed">Предзагрузка пока недоступна</string>
     <string name="miui_lab_ai_preload_desc">Предзагрузка увеличивает скорость запуска приложений</string>
     <string name="miui_lab_ai_preload_title">Предзагрузка</string>
-    <string name="miui_lab_aiasst_call_screen_desc">Подсказки по подключению</string>
-    <string name="miui_lab_aiasst_call_screen_title">Подсказки по вызовам</string>
+    <string name="miui_lab_aiasst_call_screen_desc">Преобразование голоса и текста для ответов на вызовы без вашего участия</string>
+    <string name="miui_lab_aiasst_call_screen_title">AI Ассистент вызовов</string>
     <string name="miui_lab_drive_mode_desc">Используйте управление голосом и слушайте сообщения WeChat</string>
     <string name="miui_lab_drive_mode_title">Режим \"За рулем\"</string>
     <string name="miui_lab_feature_applied">Применено</string>
@@ -4898,6 +4898,12 @@ UT-интерфейс: %5$s"</string>
     <string name="speaker">Динамик</string>
     <string name="speaker_clean">Почистите динамик</string>
     <string name="special_access">Специальный доступ</string>
+    <string name="speed_label_fast">Быстрая</string>
+    <string name="speed_label_medium">Средняя</string>
+    <string name="speed_label_okay">ОК</string>
+    <string name="speed_label_slow">Медленная</string>
+    <string name="speed_label_very_fast">Очень быстрая</string>
+    <string name="speed_label_very_slow">Очень медленная</string>
     <string name="spell_checker_not_selected">Не выбрано</string>
     <string name="spellchecker_language">Язык</string>
     <string name="spellchecker_quick_settings">Настройки</string>
