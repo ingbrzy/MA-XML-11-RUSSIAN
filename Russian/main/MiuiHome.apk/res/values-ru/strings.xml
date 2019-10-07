@@ -4,6 +4,7 @@
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="activity_not_unlocked">Перед открытием приложений дождитесь полной перезагрузки устройства</string>
     <string name="add_screen">Добавить экран</string>
+    <string name="additional_settings">Дополнительные настройки</string>
     <string name="all_apps">Все приложения</string>
     <string name="all_apps_no_search_results">Нет результатов</string>
     <string name="all_apps_search_app">Поиск приложений</string>
@@ -124,6 +125,11 @@
     <string name="download_action">Загрузить</string>
     <string name="drag_multiple_item_name" />
     <string name="drag_single_item_name" />
+    <string name="drawer_background">Фон</string>
+    <string name="drawer_background_dark">Темный</string>
+    <string name="drawer_background_light">Светлый</string>
+    <string name="drawer_background_transparency">Прозрачность</string>
+    <string name="drawer_settings">Меню приложений</string>
     <string name="dual_app">Клонировать</string>
     <string name="edit_folder_title">Переименовать папку</string>
     <string name="edit_mode_dual_app">Клонирование</string>
@@ -211,6 +217,7 @@
     <string name="home_gesture_notification_bar">Уведомления</string>
     <string name="home_pull_down_action">Свайп вниз на рабочем столе</string>
     <string name="home_screen">Рабочий стол</string>
+    <string name="home_screen_settings">Рабочий стол</string>
     <string name="home_slide_up_action">Свайп вверх на рабочем столе</string>
     <string name="icon_reorganize_channel">Упорядочить значки</string>
     <string name="image_too_small_message">Размер изображения слишком мал</string>
@@ -227,6 +234,7 @@
     <string name="liked">Добавлено в избранные</string>
     <string name="loading_desktop">Подождите…</string>
     <string name="loading_wallpaper">Подождите…</string>
+    <string name="local_apps">Локальные приложения</string>
     <string name="local_wallpaper">Локальные</string>
     <string name="lock_screen">Экран блокировки</string>
     <string name="lock_screen_cells_title">Защитить от изменений</string>
@@ -311,6 +319,7 @@
     <string name="recent_apps">Недавние</string>
     <string name="recents_config_title">Недавние</string>
     <string name="recommend_apk_size_and_desc">%1$d МБ | %2$s</string>
+    <string name="recommend_app">Рекомендуемые</string>
     <string name="recommend_apps_default_title">Пусто</string>
     <string name="recommend_apps_no_data">Данных нет</string>
     <string name="recommend_apps_no_data_toast">На данный момент нет рекомендаций.</string>
@@ -328,6 +337,8 @@
     <string name="screen_cells_config_title">Сетка рабочего стола</string>
     <string name="screen_locked_toast">Рабочий стол защищен от изменений</string>
     <string name="screen_number">Экран %d</string>
+    <string name="search_in_apps_store">Поиск \"%1$s\" в %2$s</string>
+    <string name="search_no_result">Ничего не найдено</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_frame">Рамка</string>
     <string name="select_photo">Фото</string>
@@ -343,6 +354,7 @@
     <string name="shortcut_share_dialog_title">Отказ от ответственности</string>
     <string name="show_all">Показать все</string>
     <string name="show_mem_info_title">Показывать состояние памяти</string>
+    <string name="show_most_popular_apps_you_used">Показывать часто используемые приложения в меню приложений</string>
     <string name="show_recents_recommend_title">Показывать виджеты Безопасности</string>
     <string name="sort_by_abc">По имени</string>
     <string name="sort_by_frequency">По популярности</string>
