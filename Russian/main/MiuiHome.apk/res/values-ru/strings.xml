@@ -225,7 +225,7 @@
     <string name="invalid_contact_shortcut">Недопустимый контакт</string>
     <string name="is_setting_wallpaper_message">Установка обоев…</string>
     <string name="is_system_wallpaper_message">Нельзя удалить системные обои</string>
-    <string name="launcher_minus_screen_title">Минус один экран</string>
+    <string name="launcher_minus_screen_title">Рабочий стол слева</string>
     <string name="launcher_not_exist">Произошла ошибка. Вернитесь на рабочий стол и повторите попытку.</string>
     <string name="launcher_pull_down_title">Свайп вниз на рабочем столе</string>
     <string name="launcher_slide_up_title">Свайп вверх на рабочем столе</string>
