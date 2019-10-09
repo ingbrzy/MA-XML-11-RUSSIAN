@@ -6327,7 +6327,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_status_mac_randomized">Установлен случайный MAC-адрес</string>
     <string name="wifi_status_no_internet">Интернет отсутствует</string>
     <string name="wifi_status_sign_in_required">Требуется вход</string>
-    <string name="wifi_status_test"Статус Wi-Fi</string>
+    <string name="wifi_status_test">Статус Wi-Fi</string>
     <string name="wifi_stopping">Отключение Wi-Fi…</string>
     <string name="wifi_subnet_mask">Маска подсети</string>
     <string name="wifi_suspend_efficiency_title">Сбережение энергии</string>
