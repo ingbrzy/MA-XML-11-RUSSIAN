@@ -3,7 +3,7 @@
     <string name="Accounts_settings_title">Аккаунты</string>
     <string name="a11y_settings_label">Спец. возможности</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
-    <string name="abc_action_bar_up_descriptdevice_description_ramion">Перейти вверх</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показать все</string>
@@ -1633,7 +1633,7 @@
     <string name="device_description_camera">Камера</string>
     <string name="device_description_cpu">Процессор</string>
     <string name="device_description_screen">Экран</string>
-    <string name="device_description_ram">Память</string>
+    <string name="device_description_ram">ОЗУ</string>
     <string name="device_description_resolution">Разрешение</string>
     <string name="device_details_title">Сведения об устройстве</string>
     <string name="device_display_layout_title">Возможности телефона</string>
@@ -3804,7 +3804,7 @@ OTG отключается автоматически через 10 минут �
     <string name="priority_storage_app_settings">Данные приложения %1$s</string>
     <string name="priority_storage_settings_summary">При отсутствии SD карты данные будут автоматически сохраняться во внутреннюю память</string>
     <string name="priority_storage_summary">Выберите место для сохранения данных</string>
-    <string name="priority_storage_title">Настройки памяти</string>
+    <string name="priority_storage_title">Настройки сохранения</string>
     <string name="privacy_authorize_cloud_msg">Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com, если вы хотите отозвать разрешения для сервисов Xiaomi Cloud (включая синхронизацию и резервное копирование)</string>
     <string name="privacy_authorize_dialog_agree">Согласен</string>
     <string name="privacy_authorize_dialog_exit">Выход</string>
