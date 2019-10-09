@@ -18,6 +18,7 @@
   <string name="accessibility_filter_open_panel">Меню эффектов открыто</string>
   <string name="accessibility_filter_pad_close">Меню эффектов скрыто</string>
   <string name="accessibility_flash_auto">Режим вспышки Авто включен</string>
+  <string name="accessibility_flash_back_soft_light">Вспышка включена для режима мягкого света</string>
   <string name="accessibility_flash_off">Вспышка отключена</string>
   <string name="accessibility_flash_on">Вспышка включена</string>
   <string name="accessibility_flash_torch">Вспышка включена, режим фонарика</string>
@@ -130,6 +131,8 @@
   <string name="custom_watermark_words_save_success">Сохранено успешно</string>
   <string name="dialog_google_lens_option_0">Google Lens (Рекомендуется)</string>
   <string name="dialog_ok">OK</string>
+  <string name="dialog_ok_time">ОК (%d сек.)</string>
+  <string name="dirty_tip_toast">Объектив загрязнен, протрите его.</string>
   <string name="do_not_remind_me">Больше не показывать</string>
   <string name="dual_camera_lens_covered_toast">Объектив закрыт</string>
   <string name="dual_camera_lowlight_toast">Похоже, что здесь слишком темно</string>
@@ -263,6 +266,7 @@
   <string name="pano_how_to_use_prompt_start">Нажмите на стрелку для смены направления и плавно перемещайте устройство</string>
   <string name="pano_how_to_use_prompt_to_move">Перемещайте устройство плавно</string>
   <string name="path_settings">Системные приложения/Камера/Настройки</string>
+  <string name="photo_assistance_tips_title">Подсказки</string>
   <string name="popup_tip_3d_beauty_intro_text">3D улучшение</string>
   <string name="portait_effect_entry_blackwhite">Ч/Б</string>
   <string name="portait_effect_entry_cool">Мята</string>
@@ -291,6 +295,7 @@
 и увеличивает резкость переднего плана"</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Попробуйте режим \"Портрет\".
 Держите объект в фокусе, размывая фон."</string>
+  <string name="pref_960_watermark_title">Водяной знак 960FPS</string>
   <string name="pref_advance_settings">Дополнительные настройки</string>
   <string name="pref_ai_detect">Обнаружение AI</string>
   <string name="pref_audio_focus_entry_front">Передний</string>
@@ -534,10 +539,16 @@
   <string name="pref_google_lens_summary">Направьте камеру на контактную информацию, URL-адреса и QR-коды, чтобы просмотреть доступные функции</string>
   <string name="pref_google_lens_title">Предложения от Google Lens</string>
   <string name="pref_groupshot_with_primitive_title">Сохранять оригиналы снимков</string>
+  <string name="pref_hdr_value_default">откл.</string>
+  <string name="pref_lens_dirty_detect_summary">Разрешить уведомления о загрязнении объектива</string>
+  <string name="pref_lens_dirty_detect_title">Уведомлять о загрязнении объектива</string>
+  <string name="pref_live_volumekey_function_default">громкость</string>
   <string name="pref_manual_exposure_title">ВЫДЕРЖКА</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Вы можете записать с 240fps только видео 720p</string>
   <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
   <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
+  <string name="pref_photo_assistance_tips_off">Откл.</string>
+  <string name="pref_photo_assistance_tips_on">Вкл.</string>
   <string name="pref_priority_storage_title">Сохранять на SD карту</string>
   <string name="pref_privacy_title">Политика конфиденциальности</string>
   <string name="pref_qc_focus_position_title">ФОКУС</string>
@@ -587,7 +598,10 @@
   <string name="pref_video_time_lapse_frame_interval_entry_900">900X (30 секунд)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Интервал в режиме \"Ускорение\"</string>
   <string name="preparing_sd">Подготовка SD карты…</string>
-  <string name="recommend_soft_light_tip">Используйте вспышку в режиме мягкого света</string>
+  <string name="recommend_macro_mode">Попробуйте режим Макро</string>
+  <string name="recommend_portrait">Попробуйте Портретный режим</string>
+  <string name="recommend_soft_light_tip">Используйте вспышку</string>
+  <string name="recommend_super_night">Попробуйте Ночной режим</string>
   <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
   <string name="reset_manually_parameter_confirmed">ОК</string>
   <string name="reset_manually_parameter_hint">Сброс</string>
@@ -621,6 +635,10 @@
   <string name="start_capture">OK</string>
   <string name="sticker_tab1">Милый</string>
   <string name="sticker_tab2">Забавный</string>
+  <string name="super_eis">Улучшенная стабилизация</string>
+  <string name="super_eis_disabled_hint">Улучшенная стабилизация отключена</string>
+  <string name="super_night_hint">Оптимизация изображения… Держите телефон неподвижно.</string>
+  <string name="super_night_toast">Держите телефон неподвижно во время съемки</string>
   <string name="tap_to_exposure">Нажмите для ручной настройки экспозиции</string>
   <string name="tap_to_focus">Нажмите для фокусировки</string>
   <string name="text_ai_scene_selector_text_off">КОНТРАЖУР</string>
@@ -634,7 +652,11 @@
   <string name="ubifocus_capture_warning_message">Используйте 2 объекта для фокусировки: первый расположите на расстоянии менее 1 метра от объектива, второй - вдали.</string>
   <string name="ultra_pixel_photography_close_tip">%s Ultra HD отключен</string>
   <string name="ultra_pixel_photography_open_tip">%s Ultra HD включен</string>
+  <string name="ultra_pixel_portrait_hint">HD портрет</string>
   <string name="ultra_pixel_zoom_no_support_tip">"Увеличение на работает в режиме %s Ultra HD"</string>
+  <string name="ultra_tele_use_hint_text_body">"Используйте 50-кратный зум для захвата удаленных объектов
+с улучшенной детализацией"</string>
+  <string name="ultra_tele_use_hint_text_title">50-кратный зум</string>
   <string name="ultra_wide_bokeh_close_tip">Режим \"Во весь рост\" отключен</string>
   <string name="ultra_wide_bokeh_open_tip">Режим \"Во весь рост\"</string>
   <string name="ultra_wide_close_tip">Ультра-широкоугольный режим отключен</string>
@@ -661,6 +683,13 @@
   <string name="video_effect_entry_polaroid">Полароид</string>
   <string name="video_reach_size_limit">Достигнут максимальный размер видео</string>
   <string name="view_privacy_policy">Политика конфиденциальности</string>
+  <string name="vv_duartion_hint">%1$s | Сегмент %2$d | %3$s сек.</string>
+  <string name="vv_hint">Вы можете снимать видеоблоги только в ландшафтном режиме</string>
+  <string name="vv_stability_hint">Держите устройство неподвижно</string>
+  <string name="vv_start">Съемка</string>
+  <string name="vv_use_hint_text_body">"Режим видеоблога позволяет
+записывать и редактировать видео на ходу"</string>
+  <string name="vv_use_hint_text_title">Видеоблог</string>
   <string name="wait">Подождите…</string>
   <string name="wideselfie_press_shoot_key_to_start">Нажмите кнопку съемки</string>
   <string name="wideselfie_result_image_lossless">"Не удалось сохранить панораму"</string>
