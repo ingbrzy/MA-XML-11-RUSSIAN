@@ -1770,6 +1770,11 @@
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Проверить батарею</string>
   <string name="power_cell">Мобильная сеть</string>
+  <string name="power_center_5g_save_close_detail">Энергосбережение для 5G увеличивает время автономной работы без ущерба для подключения 5G. Все равно выключить?</string>
+  <string name="power_center_5g_save_close_later">Не выключать</string>
+  <string name="power_center_5g_save_close_title">Выключение энергосбережения для 5G</string>
+  <string name="power_center_5g_save_summary_text">Уменьшение энергопотребления 5G при определенных сценариях использования</string>
+  <string name="power_center_5g_save_title_text">Энергосбережение для 5G</string>
   <string name="power_center_auto_shutdown">Таймер питания</string>
   <string name="power_center_back">Назад</string>
   <string name="power_center_battery_last">Осталось%s</string>
@@ -2054,6 +2059,7 @@
 Во время калибровки MIUI отправит оператору SMS для получения шаблона калибровки."</string>
   <string name="privacy_prompt_upload">Отправить</string>
   <string name="process_mediaserver_label">Медиа-сервер</string>
+  <string name="process_vpnsdkmanager_label">Ускорение игр</string>
   <string name="promotion">Реклама</string>
   <string name="prompt_all">Запрашивать для всех</string>
   <string name="prompt_input_time_illegal">Это время занято, измените его и повторите попытку</string>
