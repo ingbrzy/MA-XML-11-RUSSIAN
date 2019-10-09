@@ -24,6 +24,7 @@
   <string name="fast_connect_device_connect_retry">Повторить</string>
   <string name="fast_connect_device_connect_setup">Настройки</string>
   <string name="fast_connect_device_connect_success">Готово</string>
+  <string name="fast_connect_device_headset">Батарея</string>
   <string name="fast_connect_device_headset_l">Левый</string>
   <string name="fast_connect_device_headset_r">Правый</string>
   <string name="fast_connect_device_headset_reset">Нажмите и удерживайте кнопку на устройстве</string>
