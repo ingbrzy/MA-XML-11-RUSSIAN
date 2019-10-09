@@ -58,6 +58,8 @@
   <string name="open_dark_mode">Переключиться в Темный режим</string>
   <string name="open_dark_mode_tip">Качество отображения некоторых функций в Темном режиме может ухудшиться. При выходе из режима оно вернется к нормальному состоянию. Переключиться?</string>
   <string name="performance_category">Производительность</string>
+  <string name="permstep_description">Разрешить приложению доступ к информации о количестве шагов</string>
+  <string name="permstep_label">Чтение информации о количестве шаги</string>
   <string name="power_center">Батарея</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s работает неправильно</string>
   <string name="power_checker_background_cpu_title">%1$s работает неправильно</string>
