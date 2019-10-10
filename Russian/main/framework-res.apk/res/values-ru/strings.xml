@@ -298,7 +298,7 @@
   <string name="ext_media_new_notification_message">Обнаружена новая карта \"%s\"</string>
   <string name="ext_media_nomedia_notification_message">Карта \"%s\" извлечена. Вставьте другую.</string>
   <string name="ext_media_nomedia_notification_title">Карта \"%s\" извлечена</string>
-  <string name="ext_media_ready_notification_message">Для переноса фотографий и других файлов</string>
+  <string name="ext_media_ready_notification_message">Нажмите для переноса фотографий и других файлов</string>
   <string name="ext_media_status_bad_removal">Удалено небезопасно</string>
   <string name="ext_media_status_checking">Проверка…</string>
   <string name="ext_media_status_ejecting">Извлечение…</string>
