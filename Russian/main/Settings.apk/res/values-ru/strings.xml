@@ -3652,7 +3652,7 @@ OTG отключается автоматически через 10 минут �
     <string name="personal_device_admin_title">Личный</string>
     <string name="personal_section_title">Персонализация</string>
     <string name="phone_call_noise_suppression">Подавление шумов во время разговора</string>
-    <string name="phone_info_label">Информация о телефоне </string>
+    <string name="phone_info_label">Информация о телефоне&#160;</string>
     <string name="phone_language">Языки</string>
     <string name="phone_language_summary" />
     <string name="physical_keyboard_title">Физическая клавиатура</string>
@@ -3807,7 +3807,7 @@ OTG отключается автоматически через 10 минут �
     <string name="priority_storage_app_settings">Данные приложения %1$s</string>
     <string name="priority_storage_settings_summary">При отсутствии SD карты данные будут автоматически сохраняться во внутреннюю память</string>
     <string name="priority_storage_summary">Выберите место для сохранения данных</string>
-    <string name="priority_storage_title">Сохранение данных</string>
+    <string name="priority_storage_title">Данные приложений</string>
     <string name="privacy_authorize_cloud_msg">Для обеспечения безопасности вашего аккаунта выполните вход на i.mi.com, если вы хотите отозвать разрешения для сервисов Xiaomi Cloud (включая синхронизацию и резервное копирование)</string>
     <string name="privacy_authorize_dialog_agree">Согласен</string>
     <string name="privacy_authorize_dialog_exit">Выход</string>
@@ -5248,7 +5248,7 @@ UT-интерфейс: %5$s"</string>
     <string name="temporary_style">10 секунд после нажатия на экран</string>
     <string name="terms_title">Условия использования</string>
     <string name="testing">Проверка</string>
-    <string name="testing_phone_info">Информация о телефоне</string>
+    <string name="testing_phone_info">Информация о телефоне&#160;</string>
     <string name="testing_usage_stats">Статистика использования</string>
     <string name="testing_wifi_info">Информация о Wi-Fi</string>
     <string name="tether_and_hotspot_title">Модем и точка доступа</string>
