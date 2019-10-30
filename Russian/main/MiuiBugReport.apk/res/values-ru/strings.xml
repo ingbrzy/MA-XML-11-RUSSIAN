@@ -4,8 +4,8 @@
   <string name="action_submit">Отправить</string>
   <string name="announcement">Внимание</string>
   <string name="app_empty">Приложения не найдены.</string>
-  <string name="app_label">Отчет</string>
-  <string name="app_name">Отчет</string>
+  <string name="app_label">Обратная связь</string>
+  <string name="app_name">Обратная связь</string>
   <string name="app_search">Поиск приложений</string>
   <string name="btn_send">Отправить</string>
   <string name="bugreport_dialog_not_show_again">Больше не показывать</string>
@@ -210,7 +210,7 @@
   <string name="kr_authorization_user_protocol">Пользовательское соглашение (обязательно)</string>
   <string name="loading_apps">Загрузка списка приложений…</string>
   <string name="login_system_failed">Ошибка авторизации, повторите попытку</string>
-  <string name="logo_title">Отчет</string>
+  <string name="logo_title">Обратная связь</string>
   <string name="max_error">Ваш %1$s слишком длинный.</string>
   <string name="menu_copy">Копировать</string>
   <string name="message_label">Сообщение</string>
