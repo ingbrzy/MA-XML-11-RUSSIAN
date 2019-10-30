@@ -1332,6 +1332,16 @@
         <item>Анимация 5x</item>
         <item>Анимация 10x</item>
     </string-array>
+    <string-array name="true_color_screen_optimize_summary">
+        <item>Регулировка цвета в зависимости от освещения</item>
+        <item>Увеличенная насыщенность цвета</item>
+        <item>Восстановление стандартного цвета с помощью калибровки</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Автонастройка</item>
+        <item>Насыщенный</item>
+        <item>Оригинальный</item>
+    </string-array>    
     <string-array name="tts_rate_entries">
         <item>Очень медленная</item>
         <item>Медленная</item>
@@ -1588,15 +1598,5 @@
     <string-array name="default_vol_stream_values">
       <item>2</item>
       <item>3</item>
-    </string-array>
-    <string-array name="aod_clock_style_entries">
-      <item>Горизонтальный</item>
-      <item>Вертикальный</item>
-      <item>Встроенный</item>
-    </string-array>
-    <string-array name="aod_clock_style_values">
-      <item>0</item>
-      <item>1</item>
-      <item>2</item>
     </string-array>
 </resources>
