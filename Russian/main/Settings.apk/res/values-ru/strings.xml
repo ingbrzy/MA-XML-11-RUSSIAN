@@ -2033,7 +2033,7 @@
     <string name="fcc_equipment_id">Идентификатор оборудования</string>
     <string name="feature_flags_dashboard_title">Флаги функций</string>
     <string name="feedback">Обратная связь</string>
-    <string name="feedback_settings">Руководство и обратная связь</string>
+    <string name="feedback_settings">Сервисы и обратная связь</string>
     <string name="file_privacy_password_role_instruction">Здесь будут храниться ваши скрытые файлы</string>
     <string name="filter">Фильтр</string>
     <string name="filter_all_apps">Все приложения</string>
