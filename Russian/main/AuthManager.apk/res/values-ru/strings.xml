@@ -53,7 +53,7 @@
   <string name="HIPS_Perm_Location_Desc">точное определение местоположения (с помощью сети или GPS)</string>
   <string name="HIPS_Perm_PhoneID">Информация об устройстве</string>
   <string name="HIPS_Perm_PhoneID_Desc">доступ к номеру телефона, IMEI и IMSI</string>
-  <string name="HIPS_Perm_PhoneID_Desc_Q">Доступ к номеру телефона и IMSI</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Доступ к номеру телефона и состоянию устройства</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
   <string name="HIPS_Perm_process_nfc_Desc">доступ к аппаратным компонентам NFC (коммуникация ближнего поля)</string>
   <string name="HIPS_Perm_process_outgoing_calls">Доступ к телефону</string>
