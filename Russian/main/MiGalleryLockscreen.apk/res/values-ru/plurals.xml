@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="feed_article_entrance_title">
-        <item quantity="other">%d историй на эту тему</item>
-        <item quantity="one">%d история на эту тему</item>
-        <item quantity="few">%d истории на эту тему</item>
-        <item quantity="many">%d историй на эту тему</item>
+        <item quantity="other">Посмотреть %s рекомендованных статей</item>
+        <item quantity="one">Посмотреть %s рекомендованную статью</item>
+        <item quantity="few">Посмотреть %s рекомендованные статьи</item>
+        <item quantity="many">Посмотреть %s рекомендованных статей</item>
     </plurals>
     <plurals name="llks_tools_remote_control_data">
-        <item quantity="other">%d объектов</item>
-        <item quantity="one">%d объект</item>
-        <item quantity="few">%d объекта</item>
-        <item quantity="many">%d объектов</item>
+        <item quantity="other">%s объектов</item>
+        <item quantity="one">%s объект</item>
+        <item quantity="few">%s объекта</item>
+        <item quantity="many">%s объектов</item>
     </plurals>
     <plurals name="llks_tools_smart_devices_data">
-        <item quantity="other">%d устройств</item>
-        <item quantity="one">%d устройство</item>
-        <item quantity="few">%d устройства</item>
-        <item quantity="many">%d устройств</item>
+        <item quantity="other">%s устройств</item>
+        <item quantity="one">%s устройство</item>
+        <item quantity="few">%s устройства</item>
+        <item quantity="many">%s устройств</item>
     </plurals>
     <plurals name="lockscreen_magazine_subscribe">
         <item quantity="other">%1$s подписчиков</item>
@@ -46,4 +46,10 @@
         <item quantity="few">%d минуты назад</item>
         <item quantity="many">%d минут назад</item>
     </plurals>
+    <plurals name="wm_cw_count">
+        <item quantity="other">%d изображений</item>
+        <item quantity="one">%d изображение</item>
+        <item quantity="few">%d изображения</item>
+        <item quantity="many">%d изображений</item>
+    </plurals>    
 </resources>
