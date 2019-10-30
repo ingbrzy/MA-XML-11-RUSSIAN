@@ -184,6 +184,7 @@
     <string name="add_account_label">Добавить аккаунт</string>
     <string name="add_auto_startup_application">Добавить приложение с автозапуском</string>
     <string name="add_back_fingerprint_instruction_msg">Приложите палец к сканеру</string>
+    <string name="add_broadsize_fingerprint_instruction_msg">Сканер отпечатков пальцев расположен на правом краю устройства</string>
     <string name="add_device_admin">Активировать приложение администратора устройства</string>
     <string name="add_device_admin_msg">Приложение администратора устройства</string>
     <string name="add_facerecoginition_text">Добавить данные лица</string>
@@ -2032,7 +2033,7 @@
     <string name="fcc_equipment_id">Идентификатор оборудования</string>
     <string name="feature_flags_dashboard_title">Флаги функций</string>
     <string name="feedback">Обратная связь</string>
-    <string name="feedback_settings">Обратная связь</string>
+    <string name="feedback_settings">Руководство и обратная связь</string>
     <string name="file_privacy_password_role_instruction">Здесь будут храниться ваши скрытые файлы</string>
     <string name="filter">Фильтр</string>
     <string name="filter_all_apps">Все приложения</string>
@@ -2828,7 +2829,7 @@
     <string name="lockscreen_glogin_submit_button">Войти</string>
     <string name="lockscreen_label">Блокировка</string>
     <string name="lockscreen_magazine">Карусель обоев</string>
-    <string name="lockscreen_magazine_summary">Обновляемые обои для экрана блокировки и рабочего стола</string>
+    <string name="lockscreen_magazine_summary">Ежедневно обновляемые обои и истории</string>
     <string name="lockscreen_magazine_title">Карусель обоев</string>
     <string name="lockscreen_remote_input">Запретить набор текста в уведомлениях, если устройство заблокировано</string>
     <string name="lockscreen_settings_title">Настройки заблокированного экрана</string>
