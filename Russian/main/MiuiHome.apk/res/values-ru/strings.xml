@@ -15,9 +15,12 @@
     <string name="all_apps_setting_drawer_tips_desc">"Свайп вверх на рабочем столе будет использоваться для открытия меню приложений, поиск свайпом вверх будет недоступен. Для перемещения приложения с рабочего стола в меню приложений, нажмите и удерживайте иконку приложения, затем переместите на значок \"Удалить\"."</string>
     <string name="all_apps_setting_drawer_tips_title">Меню приложений</string>
     <string name="all_apps_setting_drawer_title">Меню приложений</string>
-    <string name="all_apps_setting_title">Рабочий стол</string>
+    <string name="all_apps_setting_letter_scrollbar">Буквенный</string>
+    <string name="all_apps_setting_original_scrollbar">По умолчанию</string>
+    <string name="all_apps_setting_scroll_bar">Стиль полосы прокрутки</string>
+    <string name="all_apps_setting_title">Стиль рабочего стола</string>
     <string name="all_apps_slide_up_tips">Свайп вверх используется для открытия меню приложений. Для поиска свайпом вверх на рабочем столе переключитесь на классический рабочий стол.</string>
-    <string name="all_apps_suggestions">Рекомендуемые</string>
+    <string name="all_apps_suggestions">Недавние приложения</string>
     <string name="announce_for_app_move_in_folder">Перемещено в позицию %1$d в папке</string>
     <string name="announce_for_checked">%1$s, выбрано</string>
     <string name="announce_for_choose_default_screen">Установить экран %1$d в качестве основного</string>
@@ -75,6 +78,7 @@
     <string name="apply_as_lock_screen">Установить на экран блокировки</string>
     <string name="apply_as_wallpaper">Установить на рабочий стол</string>
     <string name="apply_both">Установить везде</string>
+    <string name="apply_text">ПРИМЕНИТЬ</string>
     <string name="aqi_quality_index_dangerous">Очень нездоровый</string>
     <string name="aqi_quality_index_good">Хороший</string>
     <string name="aqi_quality_index_hazardous">Опасный</string>
@@ -105,7 +109,7 @@
     <string name="current_preview">Просмотр</string>
     <string name="current_wallpaper">Выбранные</string>
     <string name="custom_wallpaper_picker">Обзор</string>
-    <string name="defalut_launcher_title">Рабочий стол</string>
+    <string name="defalut_launcher_title">Рабочий стол по умолчанию</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Игры</string>
     <string name="default_folder_title_meitu">Meitu приложения</string>
@@ -220,12 +224,13 @@
     <string name="home_screen_settings">Рабочий стол</string>
     <string name="home_slide_up_action">Свайп вверх на рабочем столе</string>
     <string name="icon_reorganize_channel">Упорядочить значки</string>
+    <string name="icon_size">Размер иконок</string>
     <string name="image_too_small_message">Размер изображения слишком мал</string>
     <string name="install">Установить</string>
     <string name="invalid_contact_shortcut">Недопустимый контакт</string>
     <string name="is_setting_wallpaper_message">Установка обоев…</string>
     <string name="is_system_wallpaper_message">Нельзя удалить системные обои</string>
-    <string name="launcher_minus_screen_title">Рабочий стол слева</string>
+    <string name="launcher_minus_screen_title">Дополнительный экран слева</string>
     <string name="launcher_not_exist">Произошла ошибка. Вернитесь на рабочий стол и повторите попытку.</string>
     <string name="launcher_pull_down_title">Свайп вниз на рабочем столе</string>
     <string name="launcher_slide_up_title">Свайп вверх на рабочем столе</string>
@@ -267,8 +272,6 @@
     <string name="menu_workspace_preview">Просмотр рабочего стола</string>
     <string name="mi_wallpaper">Темы MIUI</string>
     <string name="minus_one_screen">Ассистент</string>
-    <string name="minus_one_screen_google">Google</string>
-    <string name="minus_one_screen_none">Ничего нет</string>
     <string name="miui_screen_config_title">Настройки рабочего стола</string>
     <string name="mtzgadget_missing_text">Виджет недоступен</string>
     <string name="multi_selecting_tips">Нажмите и удерживайте значок для его перемещения</string>
@@ -322,7 +325,7 @@
     <string name="recent_apps">Недавние</string>
     <string name="recents_config_title">Недавние</string>
     <string name="recommend_apk_size_and_desc">%1$d МБ | %2$s</string>
-    <string name="recommend_app">Рекомендуемые</string>
+    <string name="recommend_app">Недавние приложения</string>
     <string name="recommend_apps_default_title">Пусто</string>
     <string name="recommend_apps_no_data">Данных нет</string>
     <string name="recommend_apps_no_data_toast">На данный момент нет рекомендаций.</string>
@@ -357,7 +360,7 @@
     <string name="shortcut_share_dialog_title">Отказ от ответственности</string>
     <string name="show_all">Показать все</string>
     <string name="show_mem_info_title">Показывать состояние памяти</string>
-    <string name="show_most_popular_apps_you_used">Показывать часто используемые приложения в меню приложений</string>
+    <string name="show_most_popular_apps_you_used">Показывать недавние приложения в начале меню приложений</string>
     <string name="show_recents_recommend_title">Показывать виджеты Безопасности</string>
     <string name="sort_by_abc">По имени</string>
     <string name="sort_by_frequency">По популярности</string>
@@ -370,7 +373,8 @@
     <string name="status_paused">Пауза</string>
     <string name="status_pending">Ожидание</string>
     <string name="system_shortcuts_more_operation">О приложении</string>
-    <string name="title_jeejen">Рабочий стол Jeejen</string>
+    <string name="system_text">По умолчанию</string>
+    <string name="title_jeejen">Рабочий стол для пожилых</string>
     <string name="title_select_live_folder">Выберите папку</string>
     <string name="title_select_shortcut">Выберите ярлык</string>
     <string name="toast_screen_icons_misplaced">Восстановлено из другого источника, некоторые значки могут быть не на месте</string>
