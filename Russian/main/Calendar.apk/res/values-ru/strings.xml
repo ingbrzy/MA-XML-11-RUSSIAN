@@ -110,7 +110,7 @@
     <string name="date_interval_text_to">По %1$s</string>
     <string name="date_jump_title">Переход к дате</string>
     <string name="date_today">" (сегодня)"</string>
-    <string name="day_view_new_event_hint">+ Новое мероприятие</string>
+    <string name="day_view_new_event_hint">Новое мероприятие</string>
     <string name="default_reminder_later_time">Интервал по умолчанию для \"Напомнить позже\"</string>
     <string name="default_reminder_mode">Напоминания</string>
     <string name="delete_recurring_event_title">Удалить %s?</string>
@@ -169,7 +169,10 @@
     <string name="event_info_reminders_label">Напоминания</string>
     <string name="event_info_reminders_label_1">Напоминание</string>
     <string name="event_info_repeat">Повтор</string>
-    <string name="event_info_title">Просмотр мероприятия</string>
+    <string name="event_info_title">Подробности мероприятия</string>
+    <string name="event_info_title_anniversary">Юбилей</string>
+    <string name="event_info_title_birthday">День рождения</string>
+    <string name="event_info_title_countdown">Обратный отсчет</string>
     <string name="event_info_title_invite">Приглашение на встречу</string>
     <string name="event_info_when">Когда</string>
     <string name="event_info_where">Место</string>
@@ -367,6 +370,7 @@
     <string name="setting_holiday_display_desc">Карточки праздников расположены под вашей повесткой дня на главной странице</string>
     <string name="setting_holiday_reminder">Напоминания о праздниках</string>
     <string name="setting_others">Дополнительные настройки</string>
+    <string name="setting_show_reject_agenda">Показать отклоненные мероприятия</string>
     <string name="setting_title_about">О приложении</string>
     <string name="setting_title_holiday_display">Показывать праздники</string>
     <string name="setting_title_import_todo">Импорт задач</string>
@@ -421,7 +425,6 @@
     <string name="travel_item_virtual_sim">Виртуальная Mi SIM-карта</string>
     <string name="travel_item_weather_forecast">Прогноз погоды</string>
     <string name="travel_item_weather_now">Погода в пункте назначения</string>
-    <string name="travel_load_failed">Ошибка загрузки</string>
     <string name="travel_loaded">Поддержка: Veryzhun</string>
     <string name="travel_loading">Подождите…</string>
     <string name="travel_local">Пункт назначения</string>
