@@ -5,7 +5,7 @@
     <string name="calendar_sound">Звуки напоминаний</string>
     <string name="calendar_tip">Звуки напоминаний для событий календаря, заметок и задач</string>
     <string name="follow_sim1">Применить настройки SIM (слот 1)</string>
-    <string name="intelligent_recognition_item_summary">Идентификация входящих звонков, сделанных сервисами (например, доставка еды) и использование отдельных рингтонов для них</string>
+    <string name="intelligent_recognition_item_summary">Используйте назначенный рингтон для звонков из служб доставки или такси. Эта функция будет работать, если %s установлен в качестве рингтона по умолчанию.</string>
     <string name="intelligent_recognition_item_title">Идентификация сервисов</string>
     <string name="mms">Сообщения</string>
     <string name="more_ringtone">Все рингтоны</string>
