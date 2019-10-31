@@ -32,6 +32,10 @@
   <string name="accessibility_hdr_on">Режим HDR включен</string>
   <string name="accessibility_intent_done_apply">Готово</string>
   <string name="accessibility_intent_done_retry">Повторить</string>
+  <string name="accessibility_lighting_panel_off">Панель студийного света скрыта</string>
+  <string name="accessibility_lighting_panel_on">Панель студийного света включена</string>
+  <string name="accessibility_mode">Режим доступности</string>
+  <string name="accessibility_mode_dismiss_button">Кнопка закрытия выбора режима</string>
   <string name="accessibility_more">Еще</string>
   <string name="accessibility_open">Включено</string>
   <string name="accessibility_portrait_button">Портрет</string>
