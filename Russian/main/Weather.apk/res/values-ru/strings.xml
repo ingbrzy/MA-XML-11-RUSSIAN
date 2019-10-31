@@ -141,6 +141,7 @@
     <string name="international_details_uv_index_title">ИНДЕКС УФ</string>
     <string name="international_details_wind_title">ВЕТЕР</string>
     <string name="it_is_going_to_rain">Собирается дождь</string>
+    <string name="life_index_title">Индекс погоды</string>
     <string name="locate_fail_detail_err">"Местоположение не определено
 Нажмите для добавления или изменения города"</string>
     <string name="location_provider_btn_text">Включите определение местоположения</string>
@@ -191,6 +192,7 @@
     <string name="privacy_settings">Политика конфиденциальности</string>
     <string name="pull_fresh_updated">Данные обновлены</string>
     <string name="pull_fresh_updating">Обновление…</string>
+    <string name="q_version_location_provider_btn_text">Включите доступ к местоположению чтобы повысить точность определения местоположения</string>
     <string name="radar_cloud_image_title">Карта</string>
     <string name="rainfall_settings_summary">Предупреждения об осадках</string>
     <string name="rainfall_settings_title">Осадки</string>
@@ -200,6 +202,8 @@
     <string name="realtime_humidity_title">Влажность</string>
     <string name="realtime_temperature_no_data">Н/Д</string>
     <string name="realtime_wind_default_title">Ветер</string>
+    <string name="receive_net_mock_success">Макет успешно загружен</string>
+    <string name="refresh_empty_data">Не удалось загрузить данные. Повторите попытку позже.</string>
     <string name="refresh_fail">Не удалось подключиться к сети</string>
     <string name="reminder_from_xiaomi_weather_app">Оповещения погоды</string>
     <string name="request_permission_location_dialog_content">Отображение информации о погоде для текущего местоположения</string>
@@ -260,6 +264,7 @@
     <string name="video_dialog_subtitle" />
     <string name="video_dialog_title" />
     <string name="view_forecast_item_yesterday">Вчера</string>
+    <string name="view_indexes_item_day_after_tommorrow">Через 2 дня</string>
     <string name="view_indexes_item_today">Сегодня</string>
     <string name="view_indexes_item_tommorrow">Завтра</string>
     <string name="warning_weather_day_and_night_settings_summary">Получать ежедневные сводки о погоде в 7:00 и 19:00</string>
