@@ -82,6 +82,7 @@
   <string name="handy_mode_summary">Для выхода нажмите на темную область</string>
   <string name="handy_mode_title">Управление одной рукой</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Поместите палец на кнопку \"Домой\"</string>
+  <string name="input_method_clipboard_tips">Скопированные элементы будут удалены из буфера обмена через 48 часов</string>
   <string name="input_method_edit_phrase_text">Редактирование частых фраз</string>
   <string name="input_method_no_content_text">Ничего нет</string>
   <string name="input_method_switch_settings_text">Настройки клавиатуры</string>
