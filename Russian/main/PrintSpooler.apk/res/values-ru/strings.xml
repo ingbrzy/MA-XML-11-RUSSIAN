@@ -10,6 +10,10 @@
   <string name="cancelling_notification_title_template">Отмена задания %1$s…</string>
   <string name="cannot_add_printer">Невозможно добавить принтеры</string>
   <string name="collapse_handle">Свернуть.</string>
+  <string name="connectio_delay_content">Может потребоваться подтверждение соединения на принтере.</string>
+  <string name="connectio_help_title">Подключение к принтеру</string>
+  <string name="copies_decrease">-1 копия</string>
+  <string name="copies_increase">+1 копия</string>
   <string name="could_not_create_file">Не удалось создать файл</string>
   <string name="destination_default_text">Выберите принтер</string>
   <string name="disabled_services_title">Отключенные службы</string>
