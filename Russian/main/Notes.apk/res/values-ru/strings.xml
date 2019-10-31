@@ -89,7 +89,7 @@
     <string name="folder_exist">Папка с таким именем уже существует</string>
     <string name="folder_operation_delete">Удалить</string>
     <string name="folder_operation_rename">Переименовать</string>
-    <string name="force_touch_menu_add">Добавить заметку</string>
+    <string name="force_touch_menu_add">Заметка</string>
     <string name="format_move_note_out_folder">Заметка перемещена</string>
     <string name="format_move_note_to_folder">Перемещено в %1$s</string>
     <string name="format_move_notes_out_folder">Перемещено: %1$s</string>
@@ -102,8 +102,8 @@
     <string name="loading_text">Подождите…</string>
     <string name="login_sync">ОК</string>
     <string name="lunar_day">Лунный %1$s</string>
-    <string name="menu_add_audio_description">Добавить голосовую заметку</string>
-    <string name="menu_add_description">Добавить заметку</string>
+    <string name="menu_add_audio_description">Голосовая заметка</string>
+    <string name="menu_add_description">Заметка</string>
     <string name="menu_add_folder">Добавить в папку</string>
     <string name="menu_add_folder_description">Добавить папку</string>
     <string name="menu_create_folder">Новая папка</string>
@@ -269,8 +269,8 @@
     <string name="todo_item_status_delete">Удалить</string>
     <string name="todo_item_status_finished">Завершенные</string>
     <string name="todo_item_status_unfinished">Незавершенные</string>
-    <string name="todo_menu_add_audio_description">Добавить голосовую задачу</string>
-    <string name="todo_menu_add_description">Добавить задачу</string>
+    <string name="todo_menu_add_audio_description">Голосовая задача</string>
+    <string name="todo_menu_add_description">Задача</string>
     <string name="todo_menu_cancel">Отмена</string>
     <string name="todo_menu_delete">Удалить</string>
     <string name="todo_module_name">Задачи</string>
