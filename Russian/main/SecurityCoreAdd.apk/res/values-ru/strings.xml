@@ -449,6 +449,8 @@
   <string name="xspace_description">"Клоны - это копии приложений, которые могут использоваться отдельно с другой учетной записью.
 
 Некоторые клоны требуют поддержки Google Services Framework. В таких случаях создается клон Google Services Framework."</string>
+  <string name="xspace_disable">Не создан</string>
+  <string name="xspace_enable">Создан</string>
   <string name="xspace_guide_des">Используйте 2 аккаунта одновременно</string>
   <string name="xspace_guide_title">Создайте клон приложения</string>
   <string name="xspace_header">Клонированные</string>
@@ -459,9 +461,12 @@
   <string name="xspace_introduce">Рекомендуемые</string>
   <string name="xspace_label">Клонирование приложений</string>
   <string name="xspace_loading_msg">Загрузка приложений…</string>
+  <string name="xspace_notification">Уведомления клонированных приложений</string>
+  <string name="xspace_notification_error">Войдите в клон WeChat и повторите попытку</string>
   <string name="xspace_qq_title">QQ</string>
   <string name="xspace_remove">Удалить аккаунты клонов</string>
   <string name="xspace_setting_label">Настройки клонирования</string>
+  <string name="xspace_settins">Настройка</string>
   <string name="xspace_uninstall_completed">Удаление клона приложения завершено</string>
   <string name="xspace_uninstall_dialog_content">Удаление клона приложения очистит все его данные.</string>
   <string name="xspace_uninstall_dialog_title">Удалить клон приложения?</string>
