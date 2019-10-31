@@ -94,6 +94,7 @@
   <string name="click_to_update">Нажмите для проверки обновлений</string>
   <string name="click_to_view">Нажмите для просмотра</string>
   <string name="close">Закрыть</string>
+  <string name="cloud_recommend_view_tip">Включите синхронизацию с облаком для восстановления важных сообщений в любое время</string>
   <string name="cloud_state_disabled">Включите синхронизацию с облаком</string>
   <string name="cloud_state_sync_finished">Синхронизировано с Xiaomi Cloud</string>
   <string name="cloud_state_syncing">Синхронизация с Xiaomi Cloud…</string>
