@@ -30,6 +30,12 @@
         <item quantity="few">Загружено %d записи</item>
         <item quantity="many">Загружено %d записей</item>
     </plurals>
+    <plurals name="search_result">
+        <item quantity="other">Найдено %d записей</item>
+        <item quantity="one">Найдена %d запись</item>
+        <item quantity="few">Найдено %d записи</item>
+        <item quantity="many">Найдено %d записей</item>    
+    </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">Не синхронизировано %d записей</item>
         <item quantity="one">Не синхронизирована %d запись</item>
