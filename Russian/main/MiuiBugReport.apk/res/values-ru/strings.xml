@@ -90,6 +90,7 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s проблема \"%2$s\"</string>
   <string name="feedback_choose_module">Выбор категории</string>
   <string name="feedback_choose_module_hint">Обязательно</string>
+  <string name="feedback_choose_occurrence_time">Время</string>
   <string name="feedback_choose_reproductivity">Повторяемость</string>
   <string name="feedback_choose_third_app_name">Выбор приложения</string>
   <string name="feedback_collect_log_failed">Не удалось собрать журналы</string>
@@ -119,6 +120,7 @@
   <string name="feedback_detail_waiting">Создание…</string>
   <string name="feedback_empty_report_list">Пока нет отчетов</string>
   <string name="feedback_guess">Наше предположение</string>
+  <string name="feedback_hint_optional">Выбор</string>
   <string name="feedback_history_remind_login_desc">Войдите в свой Mi Аккаунт для просмотра подробностей о ваших отчетах</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">JIRA Key: %s</string>
@@ -183,6 +185,7 @@
   <string name="feedback_third_packagename_hint">Какое приложение вызывает проблемы?</string>
   <string name="feedback_title">Заголовок</string>
   <string name="feedback_title_hint">Кратко опишите проблему</string>
+  <string name="feedback_title_occurrence_time">Укажите время</string>
   <string name="feedback_title_reproductivity">Укажите повторяемость</string>
   <string name="feedback_tracking">Отслеживание проблем</string>
   <string name="feedback_version_label">Версия</string>
