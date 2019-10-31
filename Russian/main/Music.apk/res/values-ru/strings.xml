@@ -8,7 +8,17 @@
     <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
     <string name="abc_capital_off">ОТКЛ.</string>
     <string name="abc_capital_on">ВКЛ.</string>
-    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">удаление</string>
+    <string name="abc_menu_enter_shortcut_label">ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Поиск…</string>
     <string name="abc_searchview_description_clear">Удалить запрос</string>
     <string name="abc_searchview_description_query">Поисковый запрос</string>
     <string name="abc_searchview_description_search">Поиск</string>
@@ -42,6 +52,7 @@
     <string name="add_to_last_of_playlist">Добавить в конец плейлиста</string>
     <string name="add_to_playlist_successful">Успешно добавлено</string>
     <string name="added_next_play">Добавлено в очередь</string>
+    <string name="agreement_desc">Пользовательское соглашение (обязательно)</string>
     <string name="alaka_required">Необходимо заплатить за песню, чтобы прослушать ее</string>
     <string name="alarm_clock_ringtones_successful">Будильник успешно установлен</string>
     <string name="album_label">Обложки</string>
@@ -125,6 +136,7 @@
     <string name="current_album">Текущая обложка</string>
     <string name="current_lyric">Текущий текст</string>
     <string name="current_version">Текущая версия</string>
+    <string name="dark_mode">Темный режим</string>
     <string name="data_usage_warning">Предупреждение о трафике</string>
     <string name="data_usage_warning_summary">При прослушивании музыки высокого качества через мобильный интернет возможно чрезмерное потребление трафика.</string>
     <string name="date_format_str">dd.MM.yyyy</string>
@@ -168,7 +180,7 @@
     <string name="dialog_renew_success">Спасибо за подтверждение</string>
     <string name="dialog_song_sort_type">Сортировка треков</string>
     <string name="dialog_song_sort_type_name">По названиям</string>
-    <string name="dialog_song_sort_type_playing_times">По числу воспроизведений</string>
+    <string name="dialog_song_sort_type_playing_times">По частоте</string>
     <string name="dialog_song_sort_type_time">По времени добавления</string>
     <string name="dialog_song_view_type">Отображение треков</string>
     <string name="dialog_song_view_type_album">По альбомам</string>
@@ -371,6 +383,7 @@
     <string name="hungama_category_playlist">Плейлисты</string>
     <string name="hungama_category_radio">Радио</string>
     <string name="hungama_category_video">Видео</string>
+    <string name="hungama_category_vip">ВИП</string>
     <string name="hungama_free_download_out_summary">Вы больше не можете загружать бесплатные треки. Купить PRO подписку для загрузки без ограничений?</string>
     <string name="hungama_playlist_category">Категория</string>
     <string name="hungama_privacy_desc">Политика конфиденциальности Hungama (необязательное)</string>
@@ -588,6 +601,7 @@
     <string name="preset_music_playlist">Mi плейлист</string>
     <string name="priority_storage">Использовать накопитель</string>
     <string name="priority_storage_summary">Автоматически сохранять файлы на накопитель, если он подключен</string>
+    <string name="privacy_desc">Политика конфиденциальности (обязательно)</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
     <string name="pro_member">PRO подписчик</string>
     <string name="project_device">Mi Phone</string>
@@ -788,4 +802,15 @@
 
 Нажмите %s для продолжения загрузки при следующем подключении к сети Wi-Fi."</string>
     <string name="wifi_required_title">Файл слишком большой</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$s б</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Не удалось подключить Диспетчер загрузки, проверьте его состояние.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Доступна версия %1$s
+Размер: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Доступна версия %1$s
+Размер инкрементального обновления: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s обновление!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Накопитель недоступен. Проверьте SD-карту.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Кб</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$s Мб</string>
+    <string name="you_can_switch_mode_in_settings">Вы можете переключить режим в настройках</string>
 </resources>
