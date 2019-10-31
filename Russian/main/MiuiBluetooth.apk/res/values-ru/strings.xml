@@ -17,6 +17,8 @@
   <string name="bluetooth_search_for_devices">Поиск устройств</string>
   <string name="device_picker">Настройки устройства Bluetooth</string>
   <string name="disconnect">Отключить</string>
+  <string name="expand_button_title">Дополнительно</string>
+  <string name="fast_connect_device_battery">Батарея</string>
   <string name="fast_connect_device_box">Box</string>
   <string name="fast_connect_device_box_name">%1$s Box</string>
   <string name="fast_connect_device_connect_cancel">Отмена</string>
@@ -24,14 +26,13 @@
   <string name="fast_connect_device_connect_retry">Повторить</string>
   <string name="fast_connect_device_connect_setup">Настройки</string>
   <string name="fast_connect_device_connect_success">Готово</string>
-  <string name="fast_connect_device_headset">Батарея</string>
   <string name="fast_connect_device_headset_l">Левый</string>
   <string name="fast_connect_device_headset_r">Правый</string>
   <string name="fast_connect_device_headset_reset">Нажмите и удерживайте кнопку на устройстве</string>
   <string name="fast_connect_device_title_connect_fail">Не удалось подключить %1$s</string>
   <string name="fast_connect_device_title_connecting">Подключение…</string>
-  <string name="fast_connect_device_title_find_headset">Найти гарнитуру %1$s</string>
-  <string name="fast_connect_device_title_find_headset_others">Найти другую гарнитуру %1$s</string>
+  <string name="fast_connect_device_title_find_headset">Найти %1$s</string>
+  <string name="fast_connect_device_title_find_headset_others">Другое устройство: %1$s</string>
   <string name="goto_package">Открыть %1$s</string>
   <string name="install_package">Установите %1$s для доп. функций</string>
   <string name="mi_band_vibrate_alarm">Вибрировать при сигнале</string>
