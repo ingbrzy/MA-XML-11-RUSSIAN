@@ -30,6 +30,18 @@
         <item quantity="few">%1$d часа</item>
         <item quantity="many">%1$d часов</item>
     </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$d минут</item>
+        <item quantity="one">%1$d минута</item>
+        <item quantity="few">%1$d минуты</item>
+        <item quantity="many">%1$d минут</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$d секунд</item>
+        <item quantity="one">%1$d секунда</item>
+        <item quantity="few">%1$d секунды</item>
+        <item quantity="many">%1$d секунд</item>
+    </plurals>
     <plurals name="selected_count">
         <item quantity="other">Выбрано %1$d из %2$d</item>
         <item quantity="one">Выбрано %1$d из %2$d</item>
