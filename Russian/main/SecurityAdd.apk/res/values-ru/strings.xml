@@ -57,7 +57,14 @@
   <string name="privacy_prompt_traffic_purchase_message">Ваш номер телефона и данные оператора будут зашифрованы и загружены на серверы Mi для получения информации о тарифах.</string>
   <string name="share">Поделиться</string>
   <string name="superpower_app_add">Добавить</string>
+  <string name="superpower_app_contact">Контакты</string>
+  <string name="superpower_app_delete">Удалить</string>
+  <string name="superpower_app_edit">Редактировать</string>
+  <string name="superpower_app_exit">Выход</string>
   <string name="superpower_app_finish">Готово</string>
+  <string name="superpower_app_isadded">Добавлено</string>
+  <string name="superpower_app_mms">Сообщения</string>
+  <string name="superpower_app_phone">Телефон</string>
   <string name="superpower_battery_dangerous">Подключите зарядное устройство как можно скорее</string>
   <string name="superpower_dialog_app_select_content">Сторонние приложения обычно потребляют больше энергии, чем системные приложения. Добавить в любом случае?</string>
   <string name="superpower_dialog_app_select_title">Внимание</string>
@@ -68,8 +75,10 @@
   <string name="superpower_search_hint">Поиск приложений</string>
   <string name="superpower_select_app_title">Макет рабочего стола</string>
   <string name="superpower_settings">Ультра энергосбережение</string>
+  <string name="superpower_settings_launcher">Ультра энергосбережение</string>
   <string name="superpower_system">Рекомендуемые</string>
   <string name="superpower_third">Сторонние приложения</string>
+  <string name="superpower_toast_app_select_full">Можно добавить до 6 часто используемых приложений</string>
   <string name="title_share_link">Поделиться ссылкой</string>
   <string name="usage_sorted_loading_text">Подождите…</string>
   <string name="xunyou_pay_webview">Сервисы Xunyou</string>
