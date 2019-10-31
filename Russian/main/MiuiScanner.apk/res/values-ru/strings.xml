@@ -86,6 +86,7 @@
     <string name="feed_search_fail">Ничего не найдено, повторите</string>
     <string name="feedback_description_camera_access">Сканеру не удалось подключиться к Камере</string>
     <string name="feedback_description_save_photo">Не удалось сохранить фото или видео</string>
+    <string name="flight_mode_connecting_to_wifi">Включите Wi-Fi вручную, когда включен Режим полета</string>
     <string name="got_it">Понятно</string>
     <string name="gps">Навигация</string>
     <string name="import_contact">Импортировать контакт</string>
