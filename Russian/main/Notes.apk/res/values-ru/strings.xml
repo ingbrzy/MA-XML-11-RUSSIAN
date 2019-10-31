@@ -158,6 +158,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">Удаление жестом</string>
     <string name="pref_title_todo_float_mode">Панель инструментов задач</string>
     <string name="pref_title_todo_shorcut">Панель инструментов</string>
+    <string name="privacy_note_content_empty">Ничего нет</string>
     <string name="recover_notes_hint">Произошла ошибка, посетите i.mi.com для восстановления заметок.</string>
     <string name="redo">Вернуть</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Дождитесь загрузки заметки и повторите попытку</string>
