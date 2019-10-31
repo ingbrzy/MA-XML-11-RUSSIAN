@@ -38,7 +38,7 @@
     <string name="can_not_backup_in_lite_mode">Нельзя выполнить резервное копирование в Простом режиме</string>
     <string name="can_not_restore_in_lite_mode">Нельзя выполнить восстановление в Простом режиме</string>
     <string name="cancel_backup">Отмена резервного копирования…</string>
-    <string name="cancel_recover_settings"><u>Отмена</u></string>
+    <string name="cancel_recover_settings">Отмена</string>
     <string name="cancel_restore_home">Отмена восстановления…</string>
     <string name="click_try_to_restore_again">Повторить</string>
     <string name="cloud_app_backup_success">Резервное копирование завершено</string>
@@ -48,7 +48,6 @@
     <string name="cloud_app_no_data">Нет резервных копий</string>
     <string name="cloud_app_no_network">Не удалось подключиться к сети</string>
     <string name="cloud_app_other_devices">Другие устройства</string>
-    <string name="cloud_app_restore_app_and_data">Настроить устройство</string>
     <string name="cloud_app_restore_data">Личные данные и ранее установленные приложения появятся на устройстве автоматически</string>
     <string name="cloud_app_restore_error">Восстановление не удалось</string>
     <string name="cloud_app_restore_success">Восстановление завершено</string>
@@ -131,6 +130,7 @@
     <string name="lack_of_storage">Недостаточно места</string>
     <string name="latest_backup_time_loading">Загрузка…</string>
     <string name="load_backup_failed">Ошибка загрузки копий</string>
+    <string name="loading_progress_num">Загружено %s%%</string>
     <string name="loading_user_backup">Загрузка резервных копий…</string>
     <string name="managespace_delete_backup">Удалить</string>
     <string name="menu_item_managespace">Управление памятью</string>
@@ -202,6 +202,9 @@
     <string name="restore_task_unfinished">"Не удалось восстановить"</string>
     <string name="restore_unfinished">Идет восстановление, повторите попытку позже</string>
     <string name="restoring_data">Восстановление данных…</string>
+    <string name="restoring_file_title_no_progress">Восстановление файлов…</string>
+    <string name="restoring_home_screen_apps">Восстановление из Xiaomi Cloud…</string>
+    <string name="restoring_settings">Восстановление настроек…</string>
     <string name="retry">Повторить</string>
     <string name="selected">Выбрано</string>
     <string name="self_device_main_space">Первое пространство этого устройства</string>
