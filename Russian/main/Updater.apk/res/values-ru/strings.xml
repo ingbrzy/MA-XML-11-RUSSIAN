@@ -32,6 +32,7 @@
     <string name="download_md5">MD5: %1$s</string>
     <string name="downloading">Загрузка:</string>
     <string name="downloading_desc">Идет загрузка, проверьте статус в области уведомлений.</string>
+    <string name="fetching_data">Получение ссылки для скачивания, пожалуйста, подождите…</string>
     <string name="install_desc">Устройство перезагрузится в Recovery и установит выбранный файл: &lt;b&gt;%1$s&lt;/b&gt;"
 Все данные будут сохранены."</string>
     <string name="install_title">Вы уверены, что хотите продолжить?</string>
@@ -43,6 +44,7 @@
     <string name="new_desc">%1$s</string>
     <string name="new_version">Найдена новая версия!</string>
     <string name="no_info">Информация недоступна.</string>
+    <string name="no_mirror">Все зеркала в данный момент отключены, попробуйте позже…</string>
     <string name="no_network">Сеть недоступна.</string>
     <string name="no_update">Установлена последняя версия</string>
     <string name="no_xioamieu">"Установлена прошивка не xiaomi.eu!
