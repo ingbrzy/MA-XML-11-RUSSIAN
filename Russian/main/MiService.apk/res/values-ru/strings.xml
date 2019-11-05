@@ -46,6 +46,7 @@
     <string name="miui_feedback_edit_add_original_images_dialog_content">Если проблема, о которой вы сообщаете, связана с качеством изображения камеры, добавьте образец фото (без обрезки), чтобы помочь нам найти ее. Добавить фото?</string>
     <string name="miui_feedback_edit_choose_module">Выбор категории</string>
     <string name="miui_feedback_edit_choose_module_hint">Обязательно</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">Время</string>
     <string name="miui_feedback_edit_choose_reproductivity">Повторяемость</string>
     <string name="miui_feedback_edit_choose_third_app_name">Выбор приложения</string>
     <string name="miui_feedback_edit_contact_info_hint">Телефон/Email</string>
@@ -58,6 +59,7 @@
     <string name="miui_feedback_edit_discard_draft_dialog_title">Удалить черновик?</string>
     <string name="miui_feedback_edit_hint">Сообщайте об ошибках каждый раз, когда вы сталкиваетесь с проблемами, чтобы помочь нам решить их быстрее</string>
     <string name="miui_feedback_edit_hint_gone">Сообщение закрыто</string>
+    <string name="miui_feedback_edit_hint_optional">Выбрать</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Отложить</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Отправить</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">Вы подключены к платной сети. Отправка журналов может вызвать дополнительные затраты.</string>
@@ -92,6 +94,7 @@
     <string name="miui_feedback_edit_submit_dialog_not_show_again">Больше не показывать</string>
     <string name="miui_feedback_edit_submit_dialog_title">Отправка отчета</string>
     <string name="miui_feedback_edit_submit_directly">Отправить</string>
+    <string name="miui_feedback_edit_title_occurrence_time">Укажите время</string>
     <string name="miui_feedback_edit_title_reproductivity">Укажите повторяемость</string>
     <string name="miui_feedback_edit_toast_description_required">Требуется описание</string>
     <string name="miui_feedback_edit_toast_module_required">Выберите категорию</string>
