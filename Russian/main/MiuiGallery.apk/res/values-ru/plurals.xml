@@ -16,20 +16,20 @@
     <item quantity="other">Через полчаса</item>
   </plurals>
   <plurals name="abbrev_in_less_than_one_minute">
-    <item quantity="other">Сразу</item>
+    <item quantity="other">Скоро</item>
   </plurals>
   <plurals name="abbrev_in_num_minutes">
-    <item quantity="other">через %d минут</item>
-    <item quantity="one">через 1 минуту</item>
-    <item quantity="few">через %d минуты</item>
-    <item quantity="many">через %d минут</item>
+    <item quantity="other">Через %d минут</item>
+    <item quantity="one">Через %d минуту</item>
+    <item quantity="few">Через %d минуты</item>
+    <item quantity="many">Через %d минут</item>
   </plurals>
   <plurals name="abbrev_less_than_one_minute_ago">
     <item quantity="other">Прямо сейчас</item>
   </plurals>
   <plurals name="abbrev_num_minutes_ago">
     <item quantity="other">%d минут назад</item>
-    <item quantity="one">1 минуту назад</item>
+    <item quantity="one">%d минуту назад</item>
     <item quantity="few">%d минуты назад</item>
     <item quantity="many">%d минут назад</item>
   </plurals>
@@ -130,10 +130,16 @@
     <item quantity="many">%d слишком больших объектов</item>
   </plurals>
   <plurals name="backup_pause_desc">
-    <item quantity="other">%d фото или видео | Пауза</item>
-    <item quantity="one">%d фото или видео | Пауза</item>
-    <item quantity="few">%d фото или видео | Пауза</item>
-    <item quantity="many">%d фото или видео | Пауза</item>
+    <item quantity="other">Возобновится через %d минут</item>
+    <item quantity="one">Возобновится через %d минуту</item>
+    <item quantity="few">Возобновится через %d минуты</item>
+    <item quantity="many">Возобновится через %d минут</item>
+  </plurals>
+  <plurals name="backup_pause_dialog_message">
+    <item quantity="other">Синхронизация с облаком приостановлена на %d минут.</item>
+    <item quantity="one">Синхронизация с облаком приостановлена на %d минуту.</item>
+    <item quantity="few">Синхронизация с облаком приостановлена на %d минуты.</item>
+    <item quantity="many">Синхронизация с облаком приостановлена на %d минут.</item>
   </plurals>
   <plurals name="backuping_desc_gprs">
     <item quantity="other">%1$d фото и видео | %2$s</item>
