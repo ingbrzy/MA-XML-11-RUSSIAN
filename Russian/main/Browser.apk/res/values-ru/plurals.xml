@@ -6,12 +6,6 @@
         <item quantity="few">Заблокировано рекламы: %d</item>
         <item quantity="many">Заблокировано рекламы: %d</item>
     </plurals>
-    <plurals name="adblock_rules_number_text">
-        <item quantity="other">Заблокировано %d объектов</item>
-        <item quantity="one">Заблокирован %d объект</item>
-        <item quantity="few">Заблокировано %d объекта</item>
-        <item quantity="many">Заблокировано %d объектов</item>
-    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">Проверьте %1$d новых статей</item>
         <item quantity="one">Проверьте %1$d новую статью</item>
@@ -23,12 +17,6 @@
         <item quantity="one">Удалить %d загрузку?</item>
         <item quantity="few">Удалить %d загрузки?</item>
         <item quantity="many">Удалить %d загрузок?</item>
-    </plurals>
-    <plurals name="find_on_page_matches">
-        <item quantity="other">%d совпадений</item>
-        <item quantity="one">%d совпадение</item>
-        <item quantity="few">%d совпадения</item>
-        <item quantity="many">%d совпадений</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Последние %d дней</item>
