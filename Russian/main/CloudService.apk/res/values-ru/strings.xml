@@ -238,14 +238,14 @@
     <string name="micloud_notif_content_battery_low">Батарея разряжена.</string>
     <string name="micloud_notif_content_depend_wifi">Подключитесь к Wi-Fi.</string>
     <string name="micloud_notif_content_dirty_data">Подробности</string>
-    <string name="micloud_notif_content_master_depend_wifi">Подключитесь к Wi-Fi.</string>
+    <string name="micloud_notif_content_master_depend_wifi">Подключитесь к Wi-Fi или измените настройки синхронизации. Нажмите, чтобы изменить.</string>
     <string name="micloud_notif_content_memory_low">Недостаточно места.</string>
     <string name="micloud_notif_content_multi_user_error">Вы вошли в тот же аккаунт, что и в первом пространстве.</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Нажмите для просмотра.</string>
     <string name="micloud_notif_content_sync_with_off">Нажмите для синхронизации.</string>
     <string name="micloud_notif_title_battery_low">Ошибка синхронизации</string>
     <string name="micloud_notif_title_dirty_data">Объекты не синхронизированы</string>
-    <string name="micloud_notif_title_master_depend_wifi">Ошибка синхронизации</string>
+    <string name="micloud_notif_title_master_depend_wifi">Синхронизация приостановлена, используется мобильный интернет</string>
     <string name="micloud_notif_title_memory_low">Ошибка синхронизации</string>
     <string name="micloud_notif_title_multi_user_error">Ошибка синхронизации</string>
     <string name="micloud_notif_title_privacy_reopen_failed">Не удалось включить сервисы Xiaomi Cloud</string>
