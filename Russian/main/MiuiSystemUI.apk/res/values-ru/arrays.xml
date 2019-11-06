@@ -92,6 +92,8 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC</item>
         <item>Включить дополнительные кодеки</item>
         <item>Отключить дополнительные кодеки</item>
     </string-array>
@@ -103,6 +105,8 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC</item>
         <item>Включить дополнительные кодеки</item>
         <item>Отключить дополнительные кодеки</item>
     </string-array>
