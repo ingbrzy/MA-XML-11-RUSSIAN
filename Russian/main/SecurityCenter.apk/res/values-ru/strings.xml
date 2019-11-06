@@ -283,10 +283,12 @@
   <string name="applock_face_unlock_title">Разблокировка по лицу</string>
   <string name="applock_function_base_settings">Блокировка приложения</string>
   <string name="applock_function_pwd_settings">Пароль</string>
+  <string name="applock_go_to">Настройки</string>
   <string name="applock_header_text_less_than_half">Слишком мало. Перетащите дальше.</string>
   <string name="applock_login_and_add_account">Войти и привязать</string>
   <string name="applock_not_add_account"><u>Не сейчас</u></string>
   <string name="applock_not_login_account">Вход не выполнен</string>
+  <string name="applock_settings_unlock_all_toast">Все приложения разблокированы</string
   <string name="applock_toast_tip">Проверено успешно</string>
   <string name="apps_item_sign_dialog_content">Подпись %s отличается от версии в Mi Apps. Удалить это приложение и установить официальную версию? Внимание: установка приложения с конфликтующей подписью может привести к потере данных приложения.</string>
   <string name="apps_item_sign_dialog_title">Установите официальное приложение</string>
@@ -1275,6 +1277,7 @@
   <string name="load_only_under_wlan">Загружать только по Wi-Fi</string>
   <string name="loading">Подождите…</string>
   <string name="local_ip_exception_summary">Ошибка получения локального IP адреса. Чтобы уведомить нас о проблеме, войдите в приложение \"Отчет\" и отправьте журнал с вашего устройства.</string>
+  <string name="lock_all_title">Блокировка всех приложений</string>
   <string name="lock_mode_title">Режим защиты</string>
   <string name="lock_screen_traffic_guide_notification_summary">Используется на экране блокировки: %s</string>
   <string name="lock_screen_traffic_guide_notification_title">Нажмите для управления трафиком.</string>
@@ -1766,7 +1769,7 @@
   <string name="pm_remember_choice">Запомнить выбор</string>
   <string name="pm_root_success_notification_infomation">Убедитесь, что вы понимаете риски, связанные с ROOT доступом</string>
   <string name="pm_root_success_notification_title">ROOT доступ разрешен</string>
-  <string name="power_20s_shutdown">Устройство выключится через %d с</string>
+  <string name="power_20s_shutdown">Устройство выключится через %d сек.</string>
   <string name="power_ambient_display">Амбиентный дисплей</string>
   <string name="power_analysis_consume_title">Расход заряда батареи</string>
   <string name="power_analysis_suggestion_need_optimize">Найдены проблемы с питанием</string>
@@ -1793,7 +1796,8 @@
   <string name="power_center_list_item_battery_status_time">ч.</string>
   <string name="power_center_list_item_close_bluetooth">Отключить Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Глубокая экономия</string>
-  <string name="power_center_list_item_set_lockscreen_time">Спящий режим через 30 с бездействия</string>
+  <string name="power_center_list_item_set_lockscreen_time">Спящий режим через 30 сек. бездействия</string>
+  <string name="power_center_list_item_set_lockscreen_time_holder">Блокировка устройства через %d сек. бездействия</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_one_key_save">Оптимизировать</string>
   <string name="power_center_ontime_boot">Включение по расписанию</string>
@@ -2055,8 +2059,15 @@
   <string name="privacy_apps_tutorial_prompt_pagethree">После ввода пароля появится папка со скрытыми приложениями.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Разведите два пальца на экране. Появится сообщение с просьбой ввести пароль защиты приложений.</string>
   <string name="privacy_declare_dialog_title">Условия использования</string>
+  <string name="privacy_description_camera">%1s использует камеру в фоновом режиме. Вы можете переключить переключатель ниже, чтобы ограничить деятельность.</string>
+  <string name="privacy_description_camera_mic">%1s использует камеру и микрофон в фоновом режиме. Вы можете переключить переключатель ниже, чтобы ограничить деятельность.</string>
+  <string name="privacy_description_mic">%1s использует микрофон в фоновом режиме. Вы можете переключить переключатель ниже, чтобы ограничить деятельность.</string>
   <string name="privacy_dialog_message">При подключении к интернету это сообщение вместе с данными оператора будет зашифровано и загружено на серверы Mi для улучшения мониторинга трафика.</string>
   <string name="privacy_mode_dialog_title">Режим \"Гость\"</string>
+  <string name="privacy_notification_subtitle">Нажмите для управления разрешениями</string>
+  <string name="privacy_notification_title_camera">%1s использует камеру в фоновом режиме</string>
+  <string name="privacy_notification_title_camera_mic">%1s использует камеру и микрофон в фоновом режиме</string>
+  <string name="privacy_notification_title_mic">%1s использует микрофон в фоновом режиме</string>
   <string name="privacy_prompt_tc_sms_report_message">Ваш номер телефона и данные оператора будут зашифрованы и загружены на серверы Mi для обновления статистики трафика.</string>
   <string name="privacy_prompt_traffic_adjust_message">"После начала калибровки MIUI подключится к сети, зашифрует данные об операторе, номере телефона, IMEI и Mi Аккаунте, и загрузит их на серверы Xiaomi. Это нужно для получения от оператора шаблона калибровки и определения возможности покупки данных в вашем расположении.
 
@@ -2492,10 +2503,8 @@
   <string name="system_permission_declare_no_say_no">"Это приложение не сможет работать корректно, если вы не предоставите необходимые разрешения."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Если вы не хотите предоставлять эти разрешения, вы можете отменить их в Настройки &gt; Защита и безопасность &gt; Конфиденциальность &gt; Программа улучшения качества."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Это приложение не сможет работать корректно, если вы не предоставите необходимые разрешения или не разрешите сбор и использование данных.</string>
-  <string name="system_permission_declare_privacy_declare">Мы уважаем и защищаем вашу конфиденциальность.
-Обратите внимание, что приложению %1s необходимы следующие разрешения для нормальной работы:</string>
-  <string name="system_permission_declare_privacy_no_permission">Обратите внимание, что приложению %1s необходим доступ к вашим данным для нормальной работы.
-Мы уважаем и защищаем вашу конфиденциальность.</string>
+  <string name="system_permission_declare_privacy_declare">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. Обратите внимание, что Безопасности требуются подключение к Интернету и следующие разрешения для сбора вашей личной информации:</string>
+  <string name="system_permission_declare_privacy_no_permission">Обратите внимание, что Безопасности требуется подключение к Интернету и сбор необходимой личной информации для предоставления услуг. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
   <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Прочитайте и примите нашу &lt;a href=\"%1$s\"&gt;Политику конфиденциальности&lt;/a&gt; перед использованием этой функции.&lt;/Data&gt;</string>
   <string name="system_permission_declare_revoke_system">Вы можете выйти из этого приложения.</string>
   <string name="system_permission_declare_revoke_uninstallable">Вы можете выйти, удалить это приложение или отозвать авторизацию в Безопасность &gt; Приложения &gt; Разрешения &gt; Другие разрешения.</string>
