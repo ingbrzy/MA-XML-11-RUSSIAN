@@ -3251,6 +3251,14 @@
     <string name="nearby_wifi">Доступные сети</string>
     <string name="need_reboot_now">Требуется перезагрузка</string>
     <string name="netcheck_title">Диагностика сети</string>
+    <string name="network_1x">1x</string>
+    <string name="network_2G">2G</string>
+    <string name="network_3G">3G</string>
+    <string name="network_4G">4G (рекомендуется)</string>
+    <string name="network_alarm">Не приглушать интернет-вызовы</string>
+    <string name="network_alarm_summary">"Примечание. Некоторые приложения не совместимы с этой функцией. %1$s"</string>
+    <string name="network_alarm_summary_reg">Совместимые приложения</string>
+    <string name="network_alarm_support_apps">Совместимые приложения</string>
     <string name="network_assistant">Передача данных</string>
     <string name="network_changed_noti_summary">Используется мобильный интернет</string>
     <string name="network_changed_noti_title">Сеть Wi-Fi отключена</string>
@@ -6193,8 +6201,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_network_optimization">Оптимизация подключения</string>
     <string name="wifi_network_prefix_length">Префикс</string>
     <string name="wifi_no_domain_warning">Укажите домен.</string>
-    <string name="wifi_no_internet">Без доступа в интернет</string>
-    <string name="wifi_no_internet_no_reconnect">Без доступа в интернет</string>
+    <string name="wifi_no_internet">Нет подключения к интернету</string>
+    <string name="wifi_no_internet_no_reconnect">Нет подключения к интернету</string>
     <string name="wifi_not_in_range">Недоступно</string>
     <string name="wifi_notify_cmcc_connected_summary">Показывать уведомление при подключении к сети CMCC</string>
     <string name="wifi_notify_cmcc_connected_title">Уведомлять о сети CMCC</string>
@@ -6480,6 +6488,7 @@ UT-интерфейс: %5$s"</string>
     <string name="write_tag">Записать</string>
     <string name="wrong_pin_code_pukked">Неверный ПИН-код. Обратитесь к оператору связи, чтобы разблокировать SIM-карту.</string>
     <string name="xiaomi_account">Mi Аккаунт</string>
+    <string name="xiaomi_cloud_find_device">Поиск устройства</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_description">Xiaomi Cloud синхронизирует ваши контакты и фото, создает резервные копии приложений и настроек, поможет найти телефон с помощью функции Поиск устройства.</string>
     <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud синхронизирует ваши фото, создает резервные копии приложений и настроек, поможет найти телефон с помощью функции Поиск устройства.</string>
