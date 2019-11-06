@@ -500,12 +500,17 @@
   <string name="pref_camera_touchafaec_entry_off">Откл</string>
   <string name="pref_camera_touchafaec_entry_on">Вкл</string>
   <string name="pref_camera_ubifocus_title">Комбо фокус</string>
+  <string name="pref_camera_ultra_wide_ldc_description">Автоматически корректировать искаженные объекты</string>
+  <string name="pref_camera_ultra_wide_ldc_title">Коррекция искажений в ультра-широкоугольных снимках</string>
+  <string name="pref_camera_ultra_wide_mode_title">Ультра-широкоугольный режим</string>
+  <string name="pref_camera_video_8k_tips">8K</string>
   <string name="pref_camera_video_bokeh_off">Боке отключено</string>
   <string name="pref_camera_video_bokeh_on">Боке включено</string>
   <string name="pref_camera_video_duration_entry_10">10 минут</string>
   <string name="pref_camera_video_duration_entry_120">Без ограничений</string>
   <string name="pref_camera_video_duration_entry_30">30 минут</string>
   <string name="pref_camera_video_duration_entry_mms">30 секунд (MMS)</string>
+  <string name="pref_camera_video_log_tips">ЖУРНАЛ</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Снимок</string>
   <string name="pref_camera_volumekey_function_entry_timer">Таймер</string>
   <string name="pref_camera_volumekey_function_entry_volume">Громкость</string>
