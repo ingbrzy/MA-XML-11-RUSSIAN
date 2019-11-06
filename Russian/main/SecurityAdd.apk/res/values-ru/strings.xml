@@ -20,6 +20,7 @@
   <string name="ad_downloading">Загрузка…</string>
   <string name="app_name">Плагин службы безопасности</string>
   <string name="app_select_title">Часто используемые приложения</string>
+  <string name="cancel">Отмена</string>
   <string name="cancel_button">Отмена</string>
   <string name="cta_main_purpose">Добро пожаловать в Ускорение игр</string>
   <string name="dual_app_title">Клонирование</string>
@@ -34,6 +35,11 @@
   <string name="fastboot_status_locked_summary">Не удалось получить ROOT доступ</string>
   <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
   <string name="fastboot_unlock_web_title">Посетите сайт MIUI, чтобы загрузить утилиту разблокировки.</string>
+  <string name="fingerprint_not_remind">Больше не спрашивать</string>
+  <string name="free_send_net_booster">Бесплатное ускорение скорости сети</string>
+  <string name="free_send_net_booster_busniess">Получить бесплатное ускорение Xunlei</string>
+  <string name="free_send_net_booster_busniess_tip">Нажмите для получения</string>
+  <string name="free_send_net_booster_tip">Наслаждайтесь плавной игрой с бесплатным ускорением скорости сети.</string>
   <string name="game_booster">Ускорение игр</string>
   <string name="gamebooster_network_dialog_message">Разрешить Безопасности подключение к сети, чтобы использовать все функции Ускорения игр?</string>
   <string name="gamebooster_network_dialog_title">"Некоторые функции недоступны"</string>
@@ -47,6 +53,9 @@
   <string name="miuishare_title_share">Поделиться</string>
   <string name="miuishare_wechat_timeline_title">Моменты WeChat</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="net_booster_expire_notification">Сессия повышения скорости сети подходит к концу</string>
+  <string name="net_booster_overdue_notification">Сессия повышения скорости сети подходит к концу</string>
+  <string name="net_booster_overdue_notification_tip">Сессия повышения скорости сети скоро закончится. Продлить сессию?</string>
   <string name="network_not_available">Не удалось подключиться к сети</string>
   <string name="no_network_btn">Повторить</string>
   <string name="ok_button">OK</string>
@@ -55,6 +64,7 @@
   <string name="pm_lable_name">О ROOT доступе</string>
   <string name="privacy_declare_dialog_title">Условия использования</string>
   <string name="privacy_prompt_traffic_purchase_message">Ваш номер телефона и данные оператора будут зашифрованы и загружены на серверы Mi для получения информации о тарифах.</string>
+  <string name="renew_now">Продлить</string>
   <string name="share">Поделиться</string>
   <string name="superpower_app_add">Добавить</string>
   <string name="superpower_app_contact">Контакты</string>
