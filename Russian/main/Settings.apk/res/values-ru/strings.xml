@@ -5504,7 +5504,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_set_unlock_pin_title">ПИН-код</string>
     <string name="unlock_set_unlock_summary">Выберите способ защиты</string>
     <string name="unlock_setup_wizard_fingerprint_details">После включения блокировки экрана, перейдите \"Настройки > Защита и безопасность\", чтобы добавить отпечаток пальца.</string>
-    string name="unlock_type_category_title">Метод распознавания</string>
+    <string name="unlock_type_category_title">Метод распознавания</string>
     <string name="unlogin_account_summary">Все Mi сервисы. Один Mi Аккаунт</string>
     <string name="unlogin_account_title">Вход в Mi Аккаунт</string>
     <string name="unmount_inform_text">SD-карта будет отключена.</string>
