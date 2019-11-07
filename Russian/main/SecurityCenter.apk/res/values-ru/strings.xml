@@ -288,7 +288,7 @@
   <string name="applock_login_and_add_account">Войти и привязать</string>
   <string name="applock_not_add_account"><u>Не сейчас</u></string>
   <string name="applock_not_login_account">Вход не выполнен</string>
-  <string name="applock_settings_unlock_all_toast">Все приложения разблокированы</string
+  <string name="applock_settings_unlock_all_toast">Все приложения разблокированы</string>
   <string name="applock_toast_tip">Проверено успешно</string>
   <string name="apps_item_sign_dialog_content">Подпись %s отличается от версии в Mi Apps. Удалить это приложение и установить официальную версию? Внимание: установка приложения с конфликтующей подписью может привести к потере данных приложения.</string>
   <string name="apps_item_sign_dialog_title">Установите официальное приложение</string>
