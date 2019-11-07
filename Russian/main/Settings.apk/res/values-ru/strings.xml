@@ -2077,8 +2077,8 @@
     <string name="fingerprint_intro_error_max">Вы уже добавили максимальное количество отпечатков</string>
     <string name="fingerprint_intro_error_unknown">Больше нельзя добавить отпечатки пальцев</string>
     <string name="fingerprint_last_delete_confirm">Удалить</string>
-    <string name="fingerprint_last_delete_message">Вы больше не сможете использовать отпечатки пальцев для разблокировки телефона, подтверждения покупок и входа в приложения.</string>
-    <string name="fingerprint_last_delete_message_profile_challenge">Вы больше не сможете использовать отпечатки пальцев для разблокировки рабочего профиля, подтверждения покупок и входа в рабочие приложения.</string>
+    <string name="fingerprint_last_delete_message">Вы больше не сможете использовать отпечатки для разблокировки телефона, подтверждения покупок и входа в приложения.</string>
+    <string name="fingerprint_last_delete_message_profile_challenge">Вы больше не сможете использовать отпечатки для разблокировки рабочего профиля, подтверждения покупок и входа в рабочие приложения.</string>
     <string name="fingerprint_last_delete_title">Удалить отпечатки пальцев?</string>
     <string name="fingerprint_list_title">Отпечаток пальца</string>
     <string name="fingerprint_lock_first">Разблокировать первое пространство</string>
@@ -2093,11 +2093,14 @@
     <string name="fingerprint_removal_failed">Ошибка удаления отпечатка, повторите попытку позже</string>
     <string name="fingerprint_swipe_for_notifications_summary">Чтобы увидеть уведомления, проведите вниз по сканеру отпечатков пальцев на задней панели телефона</string>
     <string name="fingerprint_swipe_for_notifications_title">Использовать сканер отпечатков для просмотра уведомлений</string>
+    <string name="fingerprint_unlock_press_type">Нажатие</string>
     <string name="fingerprint_unlock_set_unlock_password">Отпечатки пальцев и пароль</string>
     <string name="fingerprint_unlock_set_unlock_pattern">Отпечатки пальцев и графический ключ</string>
     <string name="fingerprint_unlock_set_unlock_pin">Отпечатки пальцев и ПИН-код</string>
     <string name="fingerprint_unlock_skip_fingerprint">Продолжить без настройки отпечатка</string>
     <string name="fingerprint_unlock_title">Вы можете настроить разблокировку телефона с помощью отпечатка пальца. В целях безопасности вам нужно будет также установить дополнительный способ разблокировки.</string>
+    <string name="fingerprint_unlock_touch_type">Касание</string>
+    <string name="fingerprint_unlock_type">Метод распознавания отпечатков</string>
     <string name="fingerprint_usage_category_title">Для чего использовать</string>
     <string name="fingerprint_wakeup_summary">Пробуждение устройства при отсутствии отпечатков для разблокировки</string>
     <string name="fingerprint_wakeup_title">Пробуждать сканером отпечатков</string>
@@ -2288,6 +2291,7 @@
     <string name="gxzw_add_fingerprint_put_finger_message">Нажмите на экран и уберите палец после вибрации. Повторите несколько раз.</string>
     <string name="gxzw_add_fingerprint_put_finger_title">Нажмите и отпустите после вибрации</string>
     <string name="gxzw_add_fingerprint_title">Добавление отпечатка</string>
+    <string name="gxzw_anim_aurora">Аврора</string>
     <string name="gxzw_anim_light">Неон</string>
     <string name="gxzw_anim_pulse">Пульс</string>
     <string name="gxzw_anim_rhythm">Ритм</string>
@@ -5499,7 +5503,8 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_set_unlock_pin_summary" formatted="false">Введите от %d до %d цифр</string>
     <string name="unlock_set_unlock_pin_title">ПИН-код</string>
     <string name="unlock_set_unlock_summary">Выберите способ защиты</string>
-    <string name="unlock_setup_wizard_fingerprint_details">Включив блокировку экрана, выберите \"Настройки > Безопасность\", чтобы отсканировать и сохранить отпечаток пальца.</string>
+    <string name="unlock_setup_wizard_fingerprint_details">После включения блокировки экрана, перейдите \"Настройки > Защита и безопасность\", чтобы добавить отпечаток пальца.</string>
+    string name="unlock_type_category_title">Метод распознавания</string>
     <string name="unlogin_account_summary">Все Mi сервисы. Один Mi Аккаунт</string>
     <string name="unlogin_account_title">Вход в Mi Аккаунт</string>
     <string name="unmount_inform_text">SD-карта будет отключена.</string>
@@ -5631,6 +5636,10 @@ UT-интерфейс: %5$s"</string>
     <string name="usb_eject_summary">Извлечение USB накопителя для безопасного отсоединения</string>
     <string name="usb_format">Форматирование USB накопителя</string>
     <string name="usb_format_summary">Удаление всех данных на USB накопителе</string>
+    <string name="usb_headset_not_support_cancel">Понятно</string>
+    <string name="usb_headset_not_support_message">"Аналоговые USB-наушники не поддерживаются, замените на цифровые наушники 
+ или используйте 3.5-мм разъем для наушников"</string>
+    <string name="usb_headset_not_support_tile">Распознавание наушников</string>
     <string name="usb_host_mode_subtext">Использование игровых контроллеров и других периферийных устройств с USB портом может увеличить расход батареи</string>
     <string name="usb_host_mode_text">Включить режим USB хост</string>
     <string name="usb_insert_summary">Подключите USB-накопитель</string>
@@ -5994,6 +6003,7 @@ UT-интерфейс: %5$s"</string>
     <string name="weight_light">Тонкий</string>
     <string name="weight_setting_toast">Изменение толщины шрифта доступно только для системного шрифта по умолчанию</string>
     <string name="welcome">Добро пожаловать!</string>
+    <string name="wellbing_title">Цифровое благополучие и родительский контроль</string>
     <string name="wfc_provisioned_switch_string">Связь по Wi-Fi предоставлена</string>
     <string name="wfd_available_devices">Доступные устройства</string>
     <string name="wfd_disconnect_diag_msg">Отключиться от %1$s?</string>
