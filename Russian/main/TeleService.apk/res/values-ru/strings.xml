@@ -1290,6 +1290,7 @@ SIM-карта будет заблокирована при неудачной �
   <string name="sip_system_decide">Автоматически</string>
   <string name="smart_divert_summary">Настройки CFNRc</string>
   <string name="smart_divert_title">Smart Divert</string>
+  <string name="sms_messages_title">SMS</string>
   <string name="smsc_dialog_message">"Убедитесь, что номер правильный. В противном случае вы не сможете отправлять или получать SMS. Свяжитесь с вашим оператором, чтобы подтвердить номер SMS-центра."</string>
   <string name="speed_label_fast">Быстрая</string>
   <string name="speed_label_medium">Средняя</string>
@@ -1513,7 +1514,7 @@ SIM-карта будет заблокирована при неудачной �
   <string name="voicemail_provider">Служба голосовой почты</string>
   <string name="voicemail_provider_summary">Выбор службы голосовой почты</string>
   <string name="voicemail_set_pin_dialog_title">Установка PIN</string>
-  <string name="voicemail_settings">Голосовая почта</string>
+  <string name="voicemail_settings">Настройки голосовой почты</string>
   <string name="voicemail_settings_number_hint">Введите номер голосовой почты</string>
   <string name="voicemail_settings_number_label">Номер голосовой почты</string>
   <string name="voicemail_settings_number_title">Номер голосовой почты</string>
