@@ -437,6 +437,7 @@ ID:%s
   <string name="push_notification_title">Вы вошли в Mi Аккаунт с неизвестного устройства</string>
   <string name="push_notify_dialog_message">Произведен вход в ваш Mi Аккаунт с неизвестного устройства. Введите код подтверждения на этом устройстве. Если это были не вы, немедленно смените пароль от вашего Mi аккаунта. Не показывайте код подтверждения посторонним лицам.</string>
   <string name="push_notify_dialog_title">Проверка аккаунта</string>
+  <string name="pwd_width_phone_number_or_mail_num">Пароль не может содержать ваш номер телефона, адрес электронной почты или идентификатор Mi аккаунта</string>
   <string name="qq">QQ</string>
   <string name="recycle_phone_notification_msg">Похоже, что ваш номер был перевыпущен. Нажмите для обновления.</string>
   <string name="recycle_phone_notification_title">Угроза безопасности</string>
@@ -453,6 +454,8 @@ ID:%s
   <string name="restart_action">Начать сначала</string>
   <string name="restart_phone_bind_message">Получение SMS может занять некоторое время. Всё равно начать сначала?</string>
   <string name="restart_phone_bind_title">Изменение номера для восстановления</string>
+  <string name="risky_pwd_not_allow">Новый пароль небезопасен. Установите другой.</string>
+  <string name="same_new_and_old_pwd">Новый пароль должен отличаться от старого</string>
   <string name="scan_barcode_title">Для входа в Mi Аккаунт отсканируйте QR-код</string>
   <string name="search_account_security">Безопасность аккаунта</string>
   <string name="search_account_security_desc">Настройки аккаунта</string>
