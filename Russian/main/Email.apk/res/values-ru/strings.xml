@@ -131,8 +131,8 @@
     <string name="account_setup_incoming_username_label_default_hint">Вы можете использовать доменное имя</string>
     <string name="account_setup_need_password_verification">Ваш аккаунт использует двухэтапную авторизацию. Требуется авторизация.</string>
     <string name="account_setup_options_actionbar_title">Быстрые настройки</string>
-    <string name="account_setup_options_mail_check_frequency_10min">Каждые 10 минут</string>
     <string name="account_setup_options_mail_check_frequency_12hour">Каждые 12 часов</string>
+    <string name="account_setup_options_mail_check_frequency_15min">Каждые 15 минут</string>
     <string name="account_setup_options_mail_check_frequency_1hour">Каждый час</string>
     <string name="account_setup_options_mail_check_frequency_4hour">Каждые 4 часа</string>
     <string name="account_setup_options_mail_check_frequency_imap_push">Автоматически (Push)</string>
@@ -558,6 +558,7 @@
     <string name="login">Вход</string>
     <string name="login139">Войти с помощью China Mobile</string>
     <string name="login_err_message">%1$sВам также может понадобиться код подтверждения для входа. Чтобы сбросить пароль, перейдите на https://email.163.com/ чтобы посмотреть доступные способы.</string>
+    <string name="login_err_sina_message">%1$sВам также может понадобиться код подтверждения для входа. Чтобы сбросить пароль, перейдите на https://mail.sina.com.cn/ чтобы посмотреть доступные способы.</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
     <string name="login_mail">Вход</string>
@@ -1016,8 +1017,8 @@
     <string name="ser_resp_err_map_max_connections">Слишком много попыток подключения</string>
     <string name="ser_resp_err_map_nouser">Такого пользователя нет</string>
     <string name="ser_resp_err_map_or">%1$s или %2$s</string>
-    <string name="ser_resp_err_map_pserr">Неверное имя пользователя или пароль.</string>
-    <string name="ser_resp_err_map_serclosed">%s сервер закрыт</string>
+    <string name="ser_resp_err_map_pserr">Неверное имя пользователя или пароль</string>
+    <string name="ser_resp_err_map_serclosed">%s сервер закрыт.</string>
     <string name="ser_resp_err_map_ssl">Попробуйте выбрать пункт \"SSL/TLS (принимать все сертификаты)\" в параметрах безопасности</string>
     <string name="service_protocol_discribe"><u>Я прочитал и принимаю Соглашение об обслуживании WPS Mail</u></string>
     <string name="service_protocol_title">Соглашение об обслуживании</string>
@@ -1127,6 +1128,9 @@
     <string name="upload_logs">Загрузить журналы</string>
     <string name="upload_logs_keywords">загрузить журналы</string>
     <string name="uploading_logs">Подождите…</string>
+    <string name="user_privacy_settings_path">Совет: Вы можете отозвать свое согласие в Настройки > Настройки конфиденциальности пользователя.</string>
+    <string name="user_privacy_settings_summary">Мы будем использовать ваш Android ID (зашифрованный как ваш уникальный идентификатор пользователя с помощью MI Mail) и журнал операций. Вы можете в любое время отозвать свое согласие в настройках конфиденциальности пользователя.</string>
+    <string name="user_privacy_settings_title">Напоминание о конфиденциальности MI Mail</string>
     <string name="validation_failed_prompt">Невозможно подтвердить аккаунт, проверьте настройки сервера %s</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
