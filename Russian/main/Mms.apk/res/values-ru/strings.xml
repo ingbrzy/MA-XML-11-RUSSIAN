@@ -401,7 +401,9 @@
   <string name="mx_filter_message_from_stranger_dialog_title">Блокировать Mi сообщения с неизвестных номеров</string>
   <string name="mx_filter_message_from_stranger_summary">Вы по-прежнему сможете получать SMS с неизвестных номеров</string>
   <string name="mx_main_purpose">"Mi сообщения позволяют отправлять сообщения другим пользователям Mi сообщений через интернет без дополнительной оплаты.
-Для активации Mi Сообщений потребуется отправка SMS-сообщения. Ваш оператор может взимать плату за это сообщение."</string>
+Для активации Mi сообщений потребуется отправка SMS-сообщения. Ваш оператор может взимать плату за это сообщение."</string>
+  <string name="mx_main_purpose_short">Mi сообщения позволяют пользователям MIUI отправлять и получать бесплатные SMS и MMS сообщения.</string>
+  <string name="mx_message">Mi сообщения</string>
   <string name="mx_msg">Mi сообщения</string>
   <string name="mx_msg_pageview_setting_title">Настройки Mi сообщений</string>
   <string name="mx_offline">Не в сети</string>
@@ -813,12 +815,11 @@
   <string name="switch_to_editor">Режим редактирования</string>
   <string name="switch_to_menu">Режим меню</string>
   <string name="system_permission_declare_agree">Согласен</string>
-  <string name="system_permission_declare_disagree">Не согласен</string>
+  <string name="system_permission_declare_disagree">Отмена</string>
   <string name="system_permission_declare_double_link" formatted="false">Прочитайте и примите %1s and %2s перед использованием этого сервиса.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Добро пожаловать в %1s! %2s</string>
-  <string name="system_permission_declare_no_say_no">"Если необходимые разрешения не будут предоставлены или вы не разрешите нам собирать и использовать ваши данные,  приложение не сможет нормально работать."</string>
-  <string name="system_permission_declare_privacy_declare">"Мы уважаем и защищаем вашу конфиденциальность.
-Обратите внимание, что %1s для нормальной работы необходим сбор ваших данных и следующие разрешения:"</string>
+  <string name="system_permission_declare_no_say_no">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. Если вы не согласны предоставить такие разрешения или поделиться своей личной информацией, вы не сможете использовать это приложение.</string>
+  <string name="system_permission_declare_privacy_declare">Для нормальной работы %1s необходим сбор ваших данных и следующие разрешения:</string>
   <string name="system_permission_declare_revoke_path">Вы можете отменить авторизацию и отключить сервисы в настройках Сообщений.</string>
   <string name="system_permission_declare_single_link">Прочитайте и примите  %1s перед использованием этого сервиса.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Прочитайте и примите  %1s, %2s, и %3s перед использованием этих сервисов.</string>
