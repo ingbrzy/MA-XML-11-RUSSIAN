@@ -906,7 +906,7 @@
     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">Качество воспроизведения LHDC</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Частота дискретизации для Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">Частота дискретизации для Bluetooth</string>
-    <string name="bluetooth_select_a2dp_codec_streaming_label">Потоковая передача: %1$s</string>
+    <string name="bluetooth_select_a2dp_codec_streaming_label">%1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">Аудиокодек для Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">Аудиокодек для Bluetooth</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Версия Bluetooth AVRCP</string>
