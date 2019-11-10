@@ -145,6 +145,24 @@
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Сетевое подключение приложения \"Безопасность\"</string>
   <string name="connecting">Подключение…</string>
+  <string name="dc_activity_title">Глубокая очистка</string>
+  <string name="dc_advise_delete">Очистить</string>
+  <string name="dc_group_title_appclean">Приложения</string>
+  <string name="dc_header_can_clean">Можно очистить</string>
+  <string name="dc_header_can_not_clean">Занято</string>
+  <string name="dc_header_used_space_text">всей памяти занято</string>
+  <string name="dc_item_summary_wechat_chat">Очистка истории чатов для освобождения места</string>
+  <string name="dc_item_title_apk">Пакеты установки</string>
+  <string name="dc_item_title_app_data">Данные приложений</string>
+  <string name="dc_item_title_image">Фото</string>
+  <string name="dc_item_title_large_file">Большие файлы</string>
+  <string name="dc_item_title_qq">QQ очистка</string>
+  <string name="dc_item_title_uninstall_app">Приложения</string>
+  <string name="dc_item_title_video">Видео</string>
+  <string name="dc_item_title_wechat">WeChat очистка</string>
+  <string name="dc_item_title_wechat_chat">История WeChat</string>
+  <string name="dc_storage_cleaned">Освобождено %s</string>
+  <string name="dc_storage_info">Доступно %1$s | Всего %2$s</string>
   <string name="deep_clean_completed_tips">Очистка завершена</string>
   <string name="deep_clean_data_path_clean_title">Очистка кэша</string>
   <string name="deep_clean_uninstall_completed_tips">Удаление завершено</string>
@@ -243,6 +261,12 @@
   <string name="go_to">Перейти</string>
   <string name="goto_set">Настроить</string>
   <string name="grabage_rank_title">Очищено сегодня</string>
+  
+  <string name="guide_dc_dialog_message">Осталось менее 2 ГБ свободного места. Это может замедлить ваше устройство. Выполните глубокую очистку, чтобы освободить место.</string>
+  <string name="guide_dc_dialog_negative">Отмена</string>
+  <string name="guide_dc_dialog_positive">ОК</string>
+  <string name="guide_dc_dialog_title">Место заканчивается</string>
+  
   <string name="guide_secure_dialog_message">Оценка оптимизации вашего устройства ниже 80 баллов. Оптимизировать его?</string>
   <string name="guide_secure_dialog_negative">Отмена</string>
   <string name="guide_secure_dialog_positive">Оптимизировать</string>
@@ -337,7 +361,7 @@
   <string name="mainbtn_text_quick_cleanup">Очистить %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Очистить</string>
   <string name="megabyteShort">" МБ"</string>
-  <string name="memeory_check_content">Приложений: %1$d | Память: %2$s</string>
+  <string name="memeory_check_content">Приложения: %1$d | Память: %2$s</string>
   <string name="memory_clean_icon_text">Очистка памяти</string>
   <string name="memory_clean_no_trash_tip">Всё в порядке</string>
   <string name="menu_add_to_white_list">Добавить в исключения</string>
