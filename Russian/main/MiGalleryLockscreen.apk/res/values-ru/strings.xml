@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-	<string name="abc_action_bar_home_description">Перейти на главный экран</string>
+  <string name="abc_action_bar_home_description">Перейти на главный экран</string>
   <string name="abc_action_bar_up_description">Перейти вверх</string>
   <string name="abc_action_menu_overflow_description">Другие параметры</string>
   <string name="abc_action_mode_done">Готово</string>
@@ -84,7 +84,7 @@
   <string name="carousel_suggest1">Получайте каждый день бесплатно новые обои прямо на экран блокировки.</string>
   <string name="carousel_suggest2">Карусель обоев включена?</string>
   <string name="category_subscribe_failed">Не удалось добавить в подписки</string>	
-  <string name="change_time">Смена обоев</string>
+  <string name="change_time">Обновление обоев</string>
   <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
   <string name="choose_to_signin">Да</string>
   <string name="choose_to_signup">"Нет, я создам"</string>
@@ -109,7 +109,7 @@
   <string name="cw_add2">Добавить (%1$d)</string>
   <string name="cw_add_fail">"Не удалось добавить в слайд-шоу"</string>
   <string name="cw_add_num_tip">"Не удалось добавить больше элементов в слайд-шоу"</string>
-  <string name="cw_add_success">Успешно добавлено в слайд-шоу</string>
+  <string name="cw_add_success">Добавлено в слайд-шоу</string>
   <string name="cw_add_tip_fail">"Ошибка добавления"</string>
   <string name="cw_add_wallpaper">Добавить обои</string>
   <string name="cw_add_wallpaper_more_recomm">Дополнительные истории</string>
@@ -131,7 +131,7 @@
   <string name="cw_delete2">Удалить (%d)</string>
   <string name="cw_deleting">Удаление (%1$d/%2$d)</string>
   <string name="cw_local_pic">Галерея</string>
-  <string name="cw_my_fav">Избранное</string>
+  <string name="cw_my_fav">Избранные</string>
   <string name="cw_permission_tip">Разрешите Карусели обоев доступ к памяти в Разрешениях приложений.</string>
   <string name="cw_wallpaper_empty_dlg_btn">ОК</string>
   <string name="cw_wallpaper_empty_dlg_content">"Обои отсутствуют в слайд-шоу. Будут включены Истории."</string>
@@ -149,8 +149,8 @@
   <string name="detail_add_shortcut_new">Создать ярлык на рабочем столе</string>
   <string name="detail_menu_checkimg_apply">Применить</string>
   <string name="detail_menu_checkimg_delete">Удалить</string>
-  <string name="detail_menu_checkimg_favor">Добавить в избранное</string>
-  <string name="detail_menu_favor">Избранное</string>
+  <string name="detail_menu_checkimg_favor">Добавить в избранные</string>
+  <string name="detail_menu_favor">Избранные</string>
   <string name="detail_menu_history">Истории</string>
   <string name="detail_menu_home">Домой</string>
   <string name="detail_menu_setting">Настройки приложения</string>
@@ -164,9 +164,9 @@
   <string name="detail_recomm_fail">"Не удалось загрузить истории"</string>
   <string name="detail_recomm_load_tip">Загрузка историй…</string>
   <string name="detail_share_moment">Моменты</string>
-  <string name="detail_toast_deny_apply">"Ошибка применения."</string>
+  <string name="detail_toast_deny_apply">"Ошибка применения"</string>
   <string name="detail_toast_deny_dislike">"Ошибка удаления"</string>
-  <string name="detail_toast_deny_favor">"Ошибка добавления в избранное."</string>
+  <string name="detail_toast_deny_favor">"Ошибка добавления в избранные"</string>
   <string name="detail_toast_dislike_fail">"Не удалось удалить"</string>
   <string name="detail_toast_favor_permission">Разрешите Карусели обоев доступ к памяти в Безопасность.</string>
   <string name="dislike">Удалить</string>
@@ -177,8 +177,8 @@
   <string name="explorer_activity_title">Карусель обоев</string>
   <string name="facebook_application_id"/>
   <string name="favor_list_no_data">Ничего нет</string>
-  <string name="favor_list_title">Избранное</string>
-  <string name="favor_success">Успешно добавлено в избранное</string>
+  <string name="favor_list_title">Избранные</string>
+  <string name="favor_success">Добавлено в избранные</string>
   <string name="feed_article_entrance_about">О \"%s\"</string>
   <string name="find_psw">Забыли пароль</string>
   <string name="from_migallerylockscreen">Из Mi Карусель обоев</string>
@@ -188,24 +188,24 @@
   <string name="history_list_no_data">Ничего нет</string>
   <string name="hour_1">Каждый час</string>
   <string name="hour_3">Каждые 3 часа</string>
-  <string name="idbct_desc">Выбор качества загружаемых изображений</string>
-  <string name="idbct_opt_auto_select_desc_text">Загружать в обычном качестве через мобильный интернет, 
-загружать в HD качестве по Wi-Fi</string>
+  <string name="idbct_desc">Выбор качества обоев</string>
+  <string name="idbct_opt_auto_select_desc_text">Загрузка в обычном качестве по мобильному 
+ интернету и загрузка в HD качестве по Wi-Fi</string>
   <string name="idbct_opt_auto_select_main_text">Авто</string>
-  <string name="idbct_opt_high_def_desc_text">Всегда загружать в HD качестве</string>
+  <string name="idbct_opt_high_def_desc_text">Загрузка в HD качестве</string>
   <string name="idbct_opt_high_def_main_text">HD</string>
-  <string name="idbct_title">Качество изображений</string>
+  <string name="idbct_title">Качество обоев</string>
   <string name="isornot_your_mi_account">Это ваш Mi Аккаунт?</string>
   <string name="later">Не выключать</string>
   <string name="launch_bg_permission_exception">Разрешите Карусели обоев отображение всплывающих окон в фоновом режиме в Безопасности</string>
-  <string name="like">Добавить в избранное</string>
-  <string name="liked">Добавлено в избранное</string>
+  <string name="like">Добавить в избранные</string>
+  <string name="liked">Добавлено в избранные</string>
   <string name="lks_left_net_deny">Сетевое подключение ограничено</string>
   <string name="lks_left_net_error">"Не удалось подключиться к сети."</string>
   <string name="lks_left_top_notice">Нажмите здесь, чтобы вернуться к началу</string>
   <string name="lks_left_top_notice_refresh">Нажмите для обновления</string>
   <string name="lks_logo_desc2">Новые обои ежедневно</string>
-  <string name="lks_subscription_toast">Обои успешно изменены</string>
+  <string name="lks_subscription_toast">Обои изменены</string>
   <string name="llks_add_cate">Подписаться на %s</string>
   <string name="llks_auto_switch_wp">Подпишитесь на понравившиеся категории</string>
   <string name="llks_display_error">Требуются разрешения</string>
@@ -352,7 +352,7 @@
   <string name="rv_with_footer_pull_load_more">Потяните вниз, чтобы увидеть больше</string>
   <string name="save_hdpicture_in_favor">Просмотр HD изображений в \"Избранном\"</string>
   <string name="save_picture_success">Успешно сохранено</string>
-  <string name="save_to_album">Успешно сохранено в Галерее</string>
+  <string name="save_to_album">Сохранено в Галерее</string>
   <string name="save_to_album_fail">"Не удалось сохранить"</string>
   <string name="scribe_btn_ok">Включить</string>
   <string name="scribe_title1">Включить Карусель обоев</string>
@@ -374,7 +374,7 @@
   <string name="settings">Настройки</string>
   <string name="share">Поделиться</string>
   <string name="share_today_morning">Поделиться</string>
-  <string name="shield">"Заблокированные: "</string>
+  <string name="shield">Блокировка: </string>
   <string name="shield_failed">Не удалось заблокировать</string>
   <string name="shield_tag_dislike_desc">Показывать такие изображения реже</string>
   <string name="shield_tag_dislike_title">Не интересно</string>
@@ -392,11 +392,11 @@
   <string name="sns_sign_in">Другой способ входа</string>
   <string name="sst_auto_recommand_desc">Выберите категории ежедневно обновляемыех обоев и историй</string>
   <string name="sst_auto_recommand_title">Истории</string>
-  <string name="sst_change_wallpaper_desc">"Выбор экранов для применения"</string>
+  <string name="sst_change_wallpaper_desc">Выбор экранов</string>
   <string name="sst_change_wallpaper_desk">Рабочий стол</string>
   <string name="sst_change_wallpaper_lock">Экран блокировки</string>
   <string name="sst_change_wallpaper_lock_desk">Экран блокировки и рабочий стол</string>
-  <string name="sst_change_wallpaper_title">Выбор экранов</string>
+  <string name="sst_change_wallpaper_title">Применение обоев</string>
   <string name="sst_close_wallpaper">Выключить Карусель обоев</string>
   <string name="sst_cover_chg_enable_desc">Показывать Карусель обоев во время зарядки устройства</string>
   <string name="sst_cover_chg_enable_title">Показывать при зарядке</string>
@@ -405,8 +405,8 @@
   <string name="sst_custom_wallpaper_title2">Слайд-шоу</string>
   <string name="sst_disable_unopen">Бета-функции</string>
   <string name="sst_effect_next_wallpaper">Установите новые обои чтобы увидеть изменения</string>
-  <string name="sst_favor_desc">Просмотр избранного</string>
-  <string name="sst_favor_title">Избранное</string>
+  <string name="sst_favor_desc">Просмотр избранных историй</string>
+  <string name="sst_favor_title">Избранные</string>
   <string name="sst_feedback_title">Отзыв</string>
   <string name="sst_grid_view_select_all">Выбрать все</string>
   <string name="sst_grid_view_unselect_all">Снять выделение</string>
@@ -416,7 +416,7 @@
   <string name="sst_mode_selection">Выбор режима</string>
   <string name="sst_more_subscription">Выбор категорий</string>
   <string name="sst_morning_greeting_desc">Загружать ежедневно утренние приветствия</string>
-  <string name="sst_morning_greeting_desc2">Загружать приветствия между %1$s и %2$s каждое утро</string>
+  <string name="sst_morning_greeting_desc2">Загружать приветствия каждое утро между %1$s и %2$s часами</string>
   <string name="sst_morning_greeting_disable_toast">Эта функция будет доступна позже</string>
   <string name="sst_morning_greeting_title">Утренние приветствия</string>
   <string name="sst_new_feature">Слайд-шоу</string>
@@ -433,16 +433,16 @@
   <string name="sst_show_lockscreen_entry_title">Ярлык на экране блокировки</string>
   <string name="sst_sliding_checkbox_checked">Вкл.</string>
   <string name="sst_sliding_checkbox_unchecked">Выкл.</string>
-  <string name="sst_sti_desc">Выберите частоту обновления</string>
-  <string name="sst_sti_title">Частота обновления</string>
+  <string name="sst_sti_desc">Выбор частоты обновления</string>
+  <string name="sst_sti_title">Обновление обоев</string>
   <string name="sst_subscribe_title">Категории</string>
   <string name="sst_subscrible_manager_title_bar_text">Выбор категорий</string>
   <string name="sst_subscripted">Истории</string>
-  <string name="sst_switch_wallpaper_order_desc">Выберите порядок обновления</string>
+  <string name="sst_switch_wallpaper_order_desc">Выбор порядка обновления</string>
   <string name="sst_switch_wallpaper_order_fixed">Последовательно</string>
   <string name="sst_switch_wallpaper_order_random">Случайно</string>
   <string name="sst_switch_wallpaper_order_title">Порядок обновления</string>
-  <string name="sst_wallpaper_define_desc">Управление обоями</string>
+  <string name="sst_wallpaper_define_desc">Выбор категорий</string>
   <string name="sst_wallpaper_define_title">Слайд-шоу</string>
   <string name="sst_wallpaper_history_des">Просмотр и выбор историй</string>
   <string name="sst_wallpaper_history_title">Истории</string>
