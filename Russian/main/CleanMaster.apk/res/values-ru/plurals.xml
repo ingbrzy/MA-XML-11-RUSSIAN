@@ -34,6 +34,42 @@
         <item quantity="few">%1$d объекта в секунду | Оставшееся время: %2$s</item>
         <item quantity="many">%1$d объектов в секунду | Оставшееся время: %2$s</item>
     </plurals>
+    <plurals name="dc_group_title_normal">
+        <item quantity="other">Сделайте %1$d шагов, чтобы освободить %2$s</item>
+        <item quantity="one">Сделайте %1$d шаг, чтобы освободить %2$s</item>
+        <item quantity="few">Сделайте %1$d шага, чтобы освободить %2$s</item>
+        <item quantity="many">Сделайте %1$d шагов, чтобы освободить %2$s</item>
+    </plurals>
+    <plurals name="dc_item_summary_apk">
+        <item quantity="other">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> пакетов&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> пакет&lt;/Data></item>
+        <item quantity="few">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> пакета&lt;/Data></item>
+        <item quantity="many">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> пакетов&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_app_data">
+        <item quantity="other">&lt;Data>Можно удалить данные &lt;font color=#0097FF>%d&lt;/font> приложений&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можно удалить данные &lt;font color=#0097FF>%d&lt;/font> приложения&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_image">
+        <item quantity="other">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> ненужных фото&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> ненужное фото&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_large_file">
+        <item quantity="other">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> больших файлов&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> большой файл&lt;/Data></item>
+        <item quantity="few">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> больших файла&lt;/Data></item>
+        <item quantity="many">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> больших файлов&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_uninstall_app">
+        <item quantity="other">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> редко используемых приложений&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> редко используемое приложение&lt;/Data></item>
+        <item quantity="few">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> редко используемых приложения&lt;/Data></item>
+        <item quantity="many">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> редко используемых приложений&lt;/Data></item>
+    </plurals>
+    <plurals name="dc_item_summary_video">
+        <item quantity="other">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> видео&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> видео&lt;/Data></item>
+    </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d дней назад</item>
         <item quantity="one">%1$d день назад</item>
