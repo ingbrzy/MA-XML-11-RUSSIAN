@@ -4,7 +4,7 @@
   <string name="activity_title_apk">Пакеты</string>
   <string name="activity_title_brightness_image">Неверная экспозиция</string>
   <string name="activity_title_cache">Кэш</string>
-  <string name="activity_title_cache_data">Данные приложения</string>
+  <string name="activity_title_cache_data">Данные приложений</string>
   <string name="activity_title_deep_apk">Пакеты установки</string>
   <string name="activity_title_deep_clean">Глубокая очистка</string>
   <string name="activity_title_garbage_cleanup">Очистка</string>
@@ -172,8 +172,8 @@
   <string name="deepclean_apk_version_error">Неизвестно</string>
   <string name="deepclean_app_content">Удаление приложений, не запускавшихся в течение 30 дней</string>
   <string name="deepclean_app_summary_empty">Всё в порядке, удалять приложения не нужно</string>
-  <string name="deepclean_cache_content">Очистите данные, созданные приложениями</string>
-  <string name="deepclean_cache_header_left">Файлы данных: %d</string>
+  <string name="deepclean_cache_content">Очистить данные, созданные приложениями</string>
+  <string name="deepclean_cache_header_left">Данные приложений: %d</string>
   <string name="deepclean_cache_summary_empty">Всё в порядке, удалять данные не нужно</string>
   <string name="deepclean_empty">Всё в порядке</string>
   <string name="deepclean_install_info_desc2">Удаление приложений для освобождения места</string>
@@ -200,7 +200,7 @@
   <string name="deepclean_title_uninstall_apps">Редко используемые приложения</string>
   <string name="deepclean_video_content">Удаление уже просмотренных или ненужных видео</string>
   <string name="deepclean_video_summary_empty">Всё в порядке</string>
-  <string name="default_cache_type">Файлы данных</string>
+  <string name="default_cache_type">Данные приложения</string>
   <string name="delete_confirm">Удалить</string>
   <string name="delete_confirm_msg">Удалить выбранные файлы навсегда?</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Также удалить фото из Mi Cloud</string>
@@ -247,7 +247,7 @@
   <string name="facebook_cleaner">Очистка Facebook</string>
   <string name="facebook_function_summery">Очистка кэша Facebook</string>
   <string name="facebook_function_title">Очистка Facebook</string>
-  <string name="facebook_group_cache">Файлы данных</string>
+  <string name="facebook_group_cache">Файлы кэша</string>
   <string name="facebook_group_gif">GIF</string>
   <string name="facebook_group_image">Изображения</string>
   <string name="facebook_group_video">Видео</string>
@@ -261,12 +261,10 @@
   <string name="go_to">Перейти</string>
   <string name="goto_set">Настроить</string>
   <string name="grabage_rank_title">Очищено сегодня</string>
-  
   <string name="guide_dc_dialog_message">Осталось менее 2 ГБ свободного места. Это может замедлить ваше устройство. Выполните глубокую очистку, чтобы освободить место.</string>
   <string name="guide_dc_dialog_negative">Отмена</string>
   <string name="guide_dc_dialog_positive">ОК</string>
   <string name="guide_dc_dialog_title">Место заканчивается</string>
-  
   <string name="guide_secure_dialog_message">Оценка оптимизации вашего устройства ниже 80 баллов. Оптимизировать его?</string>
   <string name="guide_secure_dialog_negative">Отмена</string>
   <string name="guide_secure_dialog_positive">Оптимизировать</string>
@@ -281,7 +279,7 @@
   <string name="hints_apk_header_left">Пакеты</string>
   <string name="hints_apk_version">" Версия: %s"</string>
   <string name="hints_app_uninstall_residual">Очистить остатки данных?</string>
-  <string name="hints_cache_header_left">Файлы данных</string>
+  <string name="hints_cache_header_left">Файлы кэша</string>
   <string name="hints_cache_msd_desc">Удаление частичных обновлений не повлияет на приложения</string>
   <string name="hints_cache_msd_title">Частичные обновления</string>
   <string name="hints_cleanfinish">Очистка завершена</string>
