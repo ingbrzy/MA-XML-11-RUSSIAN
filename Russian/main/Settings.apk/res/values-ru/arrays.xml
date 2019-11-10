@@ -288,7 +288,7 @@
         <item>Качество</item>
         <item>Баланс</item>
         <item>Скорость</item>
-        <item>Адаптивный</item>
+        <item>Адаптивное</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>Качество звука (990/909 Кбит/с)</item>
@@ -310,7 +310,7 @@
         <item>Скорость</item>
         <item>Баланс</item>
         <item>Качество</item>
-        <item>Адаптивный</item>
+        <item>Адаптивное</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
         <item>Скорость подключения (400 Кбит/с)</item>
