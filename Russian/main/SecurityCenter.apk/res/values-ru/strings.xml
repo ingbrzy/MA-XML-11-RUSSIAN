@@ -2516,7 +2516,7 @@
   <string name="system_permission_perm_read_numbers">Чтение телефонных номеров</string>
   <string name="system_permission_perm_send_mms">Отправка MMS</string>
   <string name="system_tool_green_guard">Семейный защитник</string>
-  <string name="system_tool_sos">Экстренная информация</string>
+  <string name="system_tool_sos">Режим SOS</string>
   <string name="tab_blacklist">Черный список</string>
   <string name="tab_block_log_unKnowNumber">Скрытый номер</string>
   <string name="tab_call">Вызовы</string>
