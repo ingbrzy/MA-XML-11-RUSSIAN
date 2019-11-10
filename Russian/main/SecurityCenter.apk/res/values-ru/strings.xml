@@ -531,7 +531,7 @@
   <string name="card_main_deepclean_wechat_action">Очистить</string>
   <string name="card_main_deepclean_wechat_summary">Очистка кэша WeChat для освобождения места</string>
   <string name="card_main_deepclean_wechat_title">Очистка WeChat</string>
-  <string name="card_main_deepclean_whatsapp_title">"Очистка WhatsApp"</string>
+  <string name="card_main_deepclean_whatsapp_title">Очистка WhatsApp</string>
   <string name="card_main_gamebooster_summary">Улучшение производительности и управления</string>
   <string name="card_main_gamebooster_title">Ускорение игр</string>
   <string name="card_main_hbassistant_summary">Используйте данный инструмент для быстрой ловли конвертов</string>
