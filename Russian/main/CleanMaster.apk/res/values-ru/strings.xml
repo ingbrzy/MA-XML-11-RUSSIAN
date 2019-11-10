@@ -4,7 +4,7 @@
   <string name="activity_title_apk">Пакеты</string>
   <string name="activity_title_brightness_image">Неверная экспозиция</string>
   <string name="activity_title_cache">Кэш</string>
-  <string name="activity_title_cache_data">Файлы данных</string>
+  <string name="activity_title_cache_data">Данные приложения</string>
   <string name="activity_title_deep_apk">Пакеты установки</string>
   <string name="activity_title_deep_clean">Глубокая очистка</string>
   <string name="activity_title_garbage_cleanup">Очистка</string>
@@ -150,7 +150,7 @@
   <string name="dc_group_title_appclean">Приложения</string>
   <string name="dc_header_can_clean">Можно очистить</string>
   <string name="dc_header_can_not_clean">Занято</string>
-  <string name="dc_header_used_space_text">всей памяти занято</string>
+  <string name="dc_header_used_space_text">всей памяти использовано</string>
   <string name="dc_item_summary_wechat_chat">Очистка истории чатов для освобождения места</string>
   <string name="dc_item_title_apk">Пакеты установки</string>
   <string name="dc_item_title_app_data">Данные приложений</string>
