@@ -1750,10 +1750,10 @@
   <string name="person_hotpot">Мобильные точки доступа</string>
   <string name="phone">Телефон</string>
   <string name="phone_manage">Утилиты</string>
-  <string name="phone_manage_app_manager_summary">Управление приложениями на устройстве</string>
-  <string name="phone_manage_clean_summary">Освобождение места на устройстве</string>
+  <string name="phone_manage_app_manager_summary">Управление приложениями</string>
+  <string name="phone_manage_clean_summary">Освобождение места и ускорение</string>
   <string name="phone_manage_clean_title">Очистка</string>
-  <string name="phone_manage_electric_summary">Оптимизация устройства для энергосбережения</string>
+  <string name="phone_manage_electric_summary">Оптимизация для энергосбережения</string>
   <string name="phone_manage_electric_title">Батарея</string>
   <string name="phone_manage_special_summary">Ознакомьтесь с новыми функциями</string>
   <string name="phone_manage_special_title">Специальные функции</string>
