@@ -23,7 +23,7 @@
     <string name="passport_account_hint_text">Email, номер телефона или ID Mi Аккаунта</string>
     <string name="passport_account_identity_title">Подтвердить подлинность аккаунта</string>
     <string name="passport_account_label">Mi Аккаунт</string>
-    <string name="passport_account_name">Аккаунт: %1$s</string>
+    <string name="passport_account_name">"Аккаунт: %1$s "</string>
     <string name="passport_account_not_activated">Аккаунт не активирован</string>
     <string name="passport_account_not_actived">Ваш аккаунт не активирован</string>
     <string name="passport_account_set_password">Задать пароль</string>
