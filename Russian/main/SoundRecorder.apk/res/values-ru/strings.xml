@@ -12,6 +12,7 @@
     <string name="call_record_list_group_all">Все</string>
     <string name="call_record_list_group_connected">Подключенные</string>
     <string name="call_record_list_group_unconnected">Не подключенные</string>
+    <string name="cancel_rename">Отмена</string>
     <string name="clear_records">Удаление записей из Xiaomi Cloud</string>
     <string name="cloud_record_open">Синхронизация записей</string>
     <string name="cloud_record_tip">Синхронизировать записи с Xiaomi Cloud.</string>
@@ -50,6 +51,9 @@
     <string name="keywords_search_call_record">Записать вызовы;Записать вызов;Запись вызова;Записи вызовов</string>
     <string name="keywords_search_record">Новая запись;Добавить запись;Запись;Записи;Расшифровка;Расшифровать;Диктофон;Запись речи;Запись звука;Диктофон;Приложение для записи;Как записать;Как записать звук;Как найти Диктофон;Диктофон MIUI</string>
     <string name="keywords_search_record_list">Диктофон;Расшифровка;Расшифровки;Запись;Поделиться записью;Поделиться записями;Запись;Записи</string>
+    <string name="loading_more">Подождите…</string>
+    <string name="loading_order_list">Подождите…</string>
+    <string name="loading_order_list_empty">Заказов нет</string>
     <string name="low_battery_error">Осталось менее 5% заряда батареи. Остановите и сохраните вашу запись, чтобы не потерять ее.</string>
     <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_title">Батарея разряжена</string>
