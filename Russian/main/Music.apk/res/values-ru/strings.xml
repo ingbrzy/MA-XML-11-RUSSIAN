@@ -136,6 +136,7 @@
     <string name="current_album">Текущая обложка</string>
     <string name="current_lyric">Текущий текст</string>
     <string name="current_version">Текущая версия</string>
+    <string name="daily_recommendation">Ежедневный микс</string>
     <string name="dark_mode">Темный режим</string>
     <string name="data_usage_warning">Предупреждение о трафике</string>
     <string name="data_usage_warning_summary">При прослушивании музыки высокого качества через мобильный интернет возможно чрезмерное потребление трафика.</string>
@@ -178,6 +179,10 @@
     <string name="dialog_renew_free_end">Пробный период окончен. Подписаться на Hungama PRO?</string>
     <string name="dialog_renew_positive_text">ДА, Я ЛЮБЛЮ МУЗЫКУ</string>
     <string name="dialog_renew_success">Спасибо за подтверждение</string>
+    <string name="dialog_score_btn_good">Оценить</string>
+    <string name="dialog_score_prompt_bad">Спасибо за ваш отзыв! Мы сделаем все возможное, чтобы улучшить наше приложение и сервисы.</string>
+    <string name="dialog_score_prompt_good">Оцените наше приложение в Google Play?</string>
+    <string name="dialog_score_title">Оценить приложение</string>
     <string name="dialog_song_sort_type">Сортировка треков</string>
     <string name="dialog_song_sort_type_name">По названиям</string>
     <string name="dialog_song_sort_type_playing_times">По частоте</string>
@@ -195,6 +200,7 @@
     <string name="dialog_title_remove_tracks">Убрать</string>
     <string name="disallow_add_to_fm">Нельзя добавить треки в Радио</string>
     <string name="do_not_remind_this_version">Не напоминать об этой версии</string>
+    <string name="do_not_support_google_voice_search">Голосовой поиск Google не поддерживается на вашем устройстве.</string>
     <string name="download">Загрузить</string>
     <string name="download_added_to_list">Добавлено в очередь загрузок</string>
     <string name="download_apk_desktop_installing">Установка</string>
@@ -378,13 +384,15 @@
     <string name="home_tab_search">Поиск</string>
     <string name="home_tab_yandex">Яндекс Музыка</string>    
     <string name="hot_icon_in_fast_indexer">H</string>
-    <string name="hungama_batch_download_alert_summary">Загружать несколько треков одновременно могут только владельцы PRO подписки. Купить её?</string>
-    <string name="hungama_category_chart">Хит-парад</string>
+    <string name="hungama_batch_download_alert_summary">Загрузить все треки могут только владельцы PRO подписки. Купить её?</string>
+    <string name="hungama_batch_download_alert_summary_toast">Оформите подписку для скачивания всего плейлиста.</string>
+    <string name="hungama_category_chart">Чарты</string>
     <string name="hungama_category_playlist">Плейлисты</string>
     <string name="hungama_category_radio">Радио</string>
     <string name="hungama_category_video">Видео</string>
     <string name="hungama_category_vip">ВИП</string>
     <string name="hungama_free_download_out_summary">Вы больше не можете загружать бесплатные треки. Купить PRO подписку для загрузки без ограничений?</string>
+    <string name="hungama_free_download_out_summary_toast">Вы уже загрузили %d треков. Оформите подписку, чтобы загрузить больше.</string>
     <string name="hungama_playlist_category">Категория</string>
     <string name="hungama_privacy_desc">Политика конфиденциальности Hungama (необязательное)</string>
     <string name="hungama_privacy_tips_content">Для получения доступа к онлайн-контенту, вы должны принять &lt;a href="/link/click"&gt;Политика конфиденциальности Hungama&lt;/a&gt;.</string>
@@ -481,6 +489,7 @@
     <string name="more_settings">Расширенные настройки</string>
     <string name="more_settings_summary">Таймер сна, фильтрация файлов и многое другое</string>
     <string name="more_share">Отправить</string>
+    <string name="more_splendid_contents">Еще</string>
     <string name="mtrl_chip_close_icon_content_description">Удаление %1$s</string>
     <string name="mulit_choice_management">Управление элементами</string>
     <string name="music_browser_label">Музыка</string>
@@ -730,6 +739,7 @@
     <string name="tab_album_list">Альбомы</string>
     <string name="tab_artist">Исполнители</string>
     <string name="tab_artist_list">Исполнители</string>
+    <string name="tab_chart">Чарты</string>
     <string name="tab_folder">Папки</string>
     <string name="tab_playlist">Плейлисты</string>
     <string name="tab_top_results">Лучшее</string>
@@ -813,4 +823,5 @@
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$s Кб</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$s Мб</string>
     <string name="you_can_switch_mode_in_settings">Вы можете переключить режим в настройках</string>
+    <string name="you_may_like">Вам также может понравиться</string>
 </resources>
