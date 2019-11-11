@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="adblock_notification">
-        <item quantity="other">Заблокировано рекламы: %d</item>
-        <item quantity="one">Заблокировано рекламы: %d</item>
-        <item quantity="few">Заблокировано рекламы: %d</item>
-        <item quantity="many">Заблокировано рекламы: %d</item>
+    <plurals name="hot_word_hot_count">
+        <item quantity="other">%d просмотров</item>
+        <item quantity="one">%d просмотр</item>
+        <item quantity="few">%d просмотра</item>
+        <item quantity="many">%d просмотров</item>
     </plurals>
-    <plurals name="articles_updated_amount">
-        <item quantity="other">Проверьте %1$d новых статей</item>
-        <item quantity="one">Проверьте %1$d новую статью</item>
-        <item quantity="few">Проверьте %1$d новых статьи</item>
-        <item quantity="many">Проверьте %1$d новых статей</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">Удалить %d загрузок?</item>
-        <item quantity="one">Удалить %d загрузку?</item>
-        <item quantity="few">Удалить %d загрузки?</item>
-        <item quantity="many">Удалить %d загрузок?</item>
+    <plurals name="info_flow_tips">
+        <item quantity="other">Найдено %d новых элементов</item>
+        <item quantity="one">Найден %d новый элемент</item>
+        <item quantity="few">Найдено %d новых элемента</item>
+        <item quantity="many">Найдено %d новых элементов</item>
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Последние %d дней</item>
@@ -114,34 +108,52 @@
         <item quantity="few">Проверьте %1$d новых видео</item>
         <item quantity="many">Проверьте %1$d новых видео</item>
     </plurals>
-    <plurals name="view_count">
-        <item quantity="other">%1$d просмотров</item>
-        <item quantity="one">%1$d просмотр</item>
-        <item quantity="few">%1$d просмотра</item>
-        <item quantity="many">%1$d просмотров</item>
+    <plurals name="vo_comment">
+        <item quantity="other">%s комментариев</item>
+        <item quantity="one">%s комментарий</item>
+        <item quantity="few">%s комментария</item>
+        <item quantity="many">%s комментариев</item>
     </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Ясно</item>
-        <item quantity="one">Ясно</item>
-        <item quantity="few">Ясно</item>
-        <item quantity="many">Ясно</item>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d изображений</item>
+        <item quantity="one">%d изображение</item>
+        <item quantity="few">%d изображения</item>
+        <item quantity="many">%d изображений</item>
     </plurals>
-    <plurals name="vote_all_people">
-        <item quantity="other">Всего %d голосов</item>
-        <item quantity="one">Всего %d голос</item>
-        <item quantity="few">Всего %d голоса</item>
-        <item quantity="many">Всего %d голосов</item>
+    <plurals name="vo_short_video_play_count">
+        <item quantity="other">%s просмотров</item>
+        <item quantity="one">%s просмотр</item>
+        <item quantity="few">%s просмотра</item>
+        <item quantity="many">%s просмотров</item>
     </plurals>
-    <plurals name="last_num_days">
-        <item quantity="other">Последние %d дней</item>
-        <item quantity="one">Последний %d день</item>
-        <item quantity="few">Последние %d дня</item>
-        <item quantity="many">Последние %d дней</item>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s | %2$s комментариев</item>
+        <item quantity="one">%1$s | %2$s комментарий</item>
+        <item quantity="few">%1$s | %2$s комментария</item>
+        <item quantity="many">%1$s | %2$s комментариев</item>
     </plurals>
-    <plurals name="matches_found">
-        <item quantity="other">%1$d совпадений из %2$d</item>
-        <item quantity="one">%d совпадение</item>
-        <item quantity="few">%1$d совпадения из %2$d</item>
-        <item quantity="many">%1$d совпадений из %2$d</item>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d человек уже проголосовали</item>
+        <item quantity="one">%d человек уже проголосовал</item>
+        <item quantity="few">%d человека уже проголосовали</item>
+        <item quantity="many">%d человек уже проголосовали</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· %s часов назад</item>
+        <item quantity="one">· %s час назад</item>
+        <item quantity="few">· %s часа назад</item>
+        <item quantity="many">· %s часов назад</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· %s минут назад</item>
+        <item quantity="one">· %s минуту назад</item>
+        <item quantity="few">· %s минуты назад</item>
+        <item quantity="many">· %s минут назад</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">%d ответов на Zhihu</item>
+        <item quantity="one">%d ответ на Zhihu</item>
+        <item quantity="few">%d ответа на Zhihu</item>
+        <item quantity="many">%d ответов на Zhihu</item>
     </plurals>
 </resources>
