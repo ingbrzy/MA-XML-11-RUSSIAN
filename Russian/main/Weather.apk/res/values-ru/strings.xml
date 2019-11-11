@@ -6,6 +6,8 @@
     <string name="abrupt_weather_settings_summary_type_a">Переключатель нестандартного оповещения о погоде</string>
     <string name="abrupt_weather_settings_summary_type_b">Переключатель нестандартного оповещения о погоде</string>
     <string name="abrupt_weather_settings_title">Нестандартные оповещения о погоде</string>
+    <string name="accessibility_ad_close">Закрыть</string>
+    <string name="accessibility_webview_share">Поделиться</string>
     <string name="act_find_city_hint">Введите местоположение</string>
     <string name="act_find_city_hot_attractions_title">Популярные места</string>
     <string name="act_find_city_hot_city_title">Популярные города</string>
@@ -74,6 +76,7 @@
     <string name="button_settings_confirm_to_revoke_msg">Вы не сможете использовать Погоду после отзыва разрешения.</string>
     <string name="button_settings_confirm_to_revoke_title">Отозвать разрешение?</string>
     <string name="button_sure_abandon">Отменить изменения?</string>
+    <string name="card_item_ad_text">Реклама</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Проверьте подключение и повторите попытку</string>
     <string name="china_version_first_start_network_msg">Для использования Погоды вы должны принять %1$s и %2$s Xiaomi. Для нормальной работы Погоде требуется подключение к интернету и доступ к вашему местоположению. Вы согласны?</string>
