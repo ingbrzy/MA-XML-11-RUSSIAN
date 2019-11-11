@@ -49,6 +49,7 @@
   <string name="copy">Копировать</string>
   <string name="customer_location_judgment">Китай</string>
   <string name="cut">Вырезать</string>
+  <string name="data_usage_context">Если Wi-Fi не включен, устройство подключится к мобильной сети, что может привести к дополнительным расходам в зависимости от вашего тарифного плана.</string>
   <string name="default_device_name">Неизвестное устройство</string>
   <string name="default_name">По умолчанию</string>
   <string name="description_title">Режим \"Без звука\"</string>
