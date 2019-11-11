@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="usage_days">
+        <item quantity="other">%d дней</item>
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Разблокирован %d раз</item>
         <item quantity="one">Разблокирован %d раз</item>
@@ -23,6 +29,12 @@
         <item quantity="one">Получено %d уведомление</item>
         <item quantity="few">Получено %d уведомления</item>
         <item quantity="many">Получено %d уведомлений</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d минут - хороший шаг к внимательности и концентрации.</item>
+        <item quantity="one">%d минута - хороший шаг к внимательности и концентрации.</item>
+        <item quantity="few">%d минуты - хороший шаг к внимательности и концентрации.</item>
+        <item quantity="many">%d минут - хороший шаг к внимательности и концентрации.</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d ч.</item>
