@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="article_num">
+        <item quantity="other">%d статей</item>
+        <item quantity="one">%d статья</item>
+        <item quantity="few">%d статьи</item>
+        <item quantity="many">%d статей</item>
+    </plurals>
     <plurals name="feed_article_entrance_title">
         <item quantity="other">Посмотреть %s рекомендованных статей</item>
         <item quantity="one">Посмотреть %s рекомендованную статью</item>
