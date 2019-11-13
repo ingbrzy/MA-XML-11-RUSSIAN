@@ -13,6 +13,20 @@
         <item>Резервное копирование фотографий</item>
         <item>Синхронизация фотографий с облаком</item>
     </string-array>
+    <string-array name="last_month">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>    
     <string-array name="last_weekend_title">
         <item>Мои выходные</item>
         <item>Ритмы жизни</item>
@@ -72,4 +86,10 @@
         <item>Движение вперед</item>
         <item>Полный энергии</item>
     </string-array>
+    <string-array name="weekend_title">
+        <item>Прошедшие выходные</item>
+        <item>Памятные дни</item>
+        <item>Повседневные события</item>
+        <item>Обычное и необычное</item>
+    </string-array>    
 </resources>
