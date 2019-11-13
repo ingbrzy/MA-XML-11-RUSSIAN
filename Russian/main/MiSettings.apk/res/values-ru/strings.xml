@@ -42,8 +42,8 @@
     <string name="sim_slot_2">" SIM (слот 2)"</string>
     <string name="sms_delivered_sound_title">Доставленное сообщение</string>
     <string name="sms_received_sound_title">Входящее сообщение</string>
-    <string name="stop_app_timer">Отключить</string>
-    <string name="stop_app_timer_fail">Не удалось отключить время экрана</string>
+    <string name="stop_app_timer">Отключить Время экрана</string>
+    <string name="stop_app_timer_fail">Не удалось отключить Время экрана</string>
     <string name="stop_app_timer_success">Время экрана отключено</string>
     <string name="stop_app_timer_tip">После отключения, данные и разрешения, связанные с временем экрана, будут удалены, включая настройки, локальные и облачные данные.</string>
     <string name="thememanager_not_found">"Не удалось открыть приложение Темы. Убедитесь, что приложение установлено на устройстве."</string>
@@ -59,7 +59,7 @@
     <string name="usage_app_over_content">"Вы уже использовали это приложение %s сегодня."</string>
     <string name="usage_app_over_summary">"Вы достигли своего лимита. Время вышло!"</string>
     <string name="usage_app_set_limit_time">Установка лимита</string>
-    <string name="usage_app_system_app_summary">"Нельзя ограничить время экрана для системных приложений"</string>
+    <string name="usage_app_system_app_summary">Нельзя ограничить время экрана для системных приложений</string>
     <string name="usage_app_weekday_limit">Рабочие дни</string>
     <string name="usage_app_weekend_limit">Выходные дни</string>
     <string name="usage_beat_fans">Лучше чем %s пользователей</string>
@@ -148,7 +148,7 @@
     <string name="usage_state_thursday">Чт</string>
     <string name="usage_state_time_end">Достигнут лимит времени экрана на сегодня</string>
     <string name="usage_state_today">Сегодня</string>
-    <string name="usage_state_today_total_text">"Время экрана сегодня"</string>
+    <string name="usage_state_today_total_text">"Cегодня: "</string>
     <string name="usage_state_tuesday">Вт</string>
     <string name="usage_state_turn_on">Включить</string>
     <string name="usage_state_unlock_mourth_day">Разблокирован %s</string>
@@ -161,7 +161,7 @@
     <string name="usage_state_wakeups_title">Включение экрана</string>
     <string name="usage_state_wednesday">Ср</string>
     <string name="usage_state_week_day_hour_minute">Выходные дни: %1$d ч. %2$d мин.</string>
-    <string name="usage_state_week_total_text">"Время экрана за 7 дней"</string>
+    <string name="usage_state_week_total_text">"За 7 дней: "</string>
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Рабочие дни</string>
     <string name="usage_state_work_day_hour_minute">Рабочие дни: %1$d ч. %2$d мин.</string>
