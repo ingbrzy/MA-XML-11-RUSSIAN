@@ -59,7 +59,7 @@
     <string name="usage_app_over_content">"Вы уже использовали это приложение %s сегодня."</string>
     <string name="usage_app_over_summary">"Вы достигли своего лимита. Время вышло!"</string>
     <string name="usage_app_set_limit_time">Установка лимита</string>
-    <string name="usage_app_system_app_summary">Нельзя ограничить время экрана для системных приложений</string>
+    <string name="usage_app_system_app_summary">Ограничение времени экрана для системных приложений недоступно</string>
     <string name="usage_app_weekday_limit">Рабочие дни</string>
     <string name="usage_app_weekend_limit">Выходные дни</string>
     <string name="usage_beat_fans">Лучше чем %s пользователей</string>
@@ -86,8 +86,8 @@
     <string name="usage_state_app">Приложения</string>
     <string name="usage_state_app_remain_time">Оставшееся время: %s</string>
     <string name="usage_state_app_timer">Время экрана</string>
-    <string name="usage_state_app_usage_detail_title">Использование приложения</string>
-	<string name="usage_state_app_usage_limit">Лимит времени для приложений</string>
+    <string name="usage_state_app_usage_detail_title">Статистика использования</string>
+    <string name="usage_state_app_usage_limit">Лимит времени для приложений</string>
     <string name="usage_state_app_usage_limit_summary">Установка ежедневного лимита времени использования приложений</string>
     <string name="usage_state_app_usage_list_title">Время экрана</string>
     <string name="usage_state_app_usage_list_week_title">Время экрана</string>
