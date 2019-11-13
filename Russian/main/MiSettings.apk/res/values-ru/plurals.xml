@@ -7,16 +7,12 @@
         <item quantity="many">%d дней</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Разблокирован %d раз</item>
-        <item quantity="one">Разблокирован %d раз</item>
-        <item quantity="few">Разблокирован %d раза</item>
-        <item quantity="many">Разблокирован %d раз</item>
+        <item quantity="other">Разблокировок: %d</item>
+        <item quantity="one">Разблокировок: %d</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Разблокирован %d раз</item>
-        <item quantity="one">Разблокирован %d раз</item>
-        <item quantity="few">Разблокирован %d раза</item>
-        <item quantity="many">Разблокирован %d раз</item>
+        <item quantity="other">Разблокировок: %d</item>
+        <item quantity="one">Разблокировок: %d</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
         <item quantity="other">Получено %d уведомлений</item>
