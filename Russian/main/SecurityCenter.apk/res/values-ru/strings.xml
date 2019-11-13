@@ -4,16 +4,16 @@
   <string name="ac_enter_applock">Войдите в Защиту приложений</string>
   <string name="ac_firstUseApplock_subTitle">Используйте лучшие средства безопасности</string>
   <string name="ac_firstUseApplock_title">Задайте пароль для защиты приложений</string>
-  <string name="ac_mask_all_apps">Скрыть для всех приложений</string>
+  <string name="ac_mask_all_apps">Скрывать для всех</string>
   <string name="ac_notification_contentText">Нажмите для включения</string>
   <string name="ac_notification_contentTitle">Защитите ваши приложения</string>
   <string name="ac_post_notification_contentText">Защита на системном уровне</string>
   <string name="ac_post_notification_contentTitle">Включите Защиту приложений</string>
   <string name="ac_pre_notification_contentText">Защитите ваши личные данные</string>
   <string name="ac_pre_notification_contentTitle">Защита приложений</string>
-  <string name="ac_summaryOff">Для открытия приложений не требуется пароль</string>
-  <string name="ac_summaryOn">Для открытия приложений требуется пароль</string>
-  <string name="ac_unmask_all_apps">Не скрывать для всех приложений</string>
+  <string name="ac_summaryOff">Защита отключена, ввод пароля для открытия приложений не требуется</string>
+  <string name="ac_summaryOn">Для открытия защищенных приложений требуется ввод пароля</string>
+  <string name="ac_unmask_all_apps">Не скрывать для всех</string>
   <string name="access_control_app_is_launching">Приложение запускается</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Перед использованием нового отпечатка введите пароль</string>
   <string name="access_control_fingerprint_not_identified_msg">Отпечаток не распознан</string>
@@ -276,12 +276,12 @@
   <string name="applock_add_account_info">Привяжите Mi Аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
   <string name="applock_add_account_setting">Привязка к аккаунту Mi</string>
   <string name="applock_bind_account_title">Забыли пароль?</string>
-  <string name="applock_close_dialog_summary">Скрытие всех приложений будет отменено, их ярлыки на рабочем столе восстановлены, а ваш пароль защиты приложений удален. Отключить защиту приложений?</string>
-  <string name="applock_close_dialog_title">Отключить защиту?</string>
+  <string name="applock_close_dialog_summary">Защита приложений будет отключена. Ярлыки скрытых приложений будут восстановлены на рабочем столе, а пароль защиты удален. Отключить защиту?</string>
+  <string name="applock_close_dialog_title">Отключение защиты</string>
   <string name="applock_exit_account_info">После выхода аккаунт будет автоматически отвязан</string>
-  <string name="applock_face_unlock_summary">Разблокировка приложений, используя данные лица</string>
+  <string name="applock_face_unlock_summary">Разблокировка приложений с использованием данных лица</string>
   <string name="applock_face_unlock_title">Разблокировка по лицу</string>
-  <string name="applock_function_base_settings">Блокировка приложения</string>
+  <string name="applock_function_base_settings">Защита приложений</string>
   <string name="applock_function_pwd_settings">Пароль</string>
   <string name="applock_go_to">Настройки</string>
   <string name="applock_header_text_less_than_half">Слишком мало. Перетащите дальше.</string>
@@ -439,7 +439,7 @@
   <string name="bind_xiaomi_account_dialog_summery">Вы собираетесь привязать Mi Аккаунт %s. Если вы забудете свой пароль, можно будет использовать этот аккаунт для его сброса. Аккаунт будет автоматически отвязан после выхода из него.</string>
   <string name="bind_xiaomi_account_success">Mi Аккаунт успешно привязан</string>
   <string name="bind_xiaomi_account_summary">Использовать Mi Аккаунт для сброса пароля</string>
-  <string name="bind_xiaomi_account_title">Привязать Mi Аккаунт</string>
+  <string name="bind_xiaomi_account_title">Привязка к Mi Аккаунту</string>
   <string name="birthday">Дата рождения</string>
   <string name="bl_no_blacklist">Нет заблокированных номеров</string>
   <string name="bl_no_block_call">Нет заблокированных вызовов</string>
@@ -522,7 +522,7 @@
   <string name="cancel_button">Отмена</string>
   <string name="card_main_applock_action">Включить</string>
   <string name="card_main_applock_summary">Защита паролем выбранных приложений</string>
-  <string name="card_main_applock_title">"Защита приложений"</string>
+  <string name="card_main_applock_title">Защита приложений</string>
   <string name="card_main_deepclean_action">Очистить</string>
   <string name="card_main_deepclean_facebook_title">"Очистка Facebook"</string>
   <string name="card_main_deepclean_qq_title">Очистка QQ</string>
@@ -579,7 +579,7 @@
   <string name="connecting">Подключение…</string>
   <string name="continue_install">Установить</string>
   <string name="convenient_mode">Групповая разблокировка</string>
-  <string name="convenient_summary">Введите пароль один раз для разблокировки всех приложений</string>
+  <string name="convenient_summary">Введенный пароль разблокирует все защищенные приложения</string>
   <string name="correction_attention_dialog_message">Идет корректировка настроек. Дождитесь завершения и повторите попытку.</string>
   <string name="cpu_usage_android_system">Система Android</string>
   <string name="cpu_usage_process_run_time_little_time">Менее 1 минуты</string>
@@ -908,7 +908,7 @@
   <string name="fingerprint_not_remind">Больше не спрашивать</string>
   <string name="fingerprint_remind_dialog_title">Разблокировка отпечатком</string>
   <string name="fingerprint_to_lock">Разблокировка отпечатком</string>
-  <string name="fingerprint_to_lock_summary">Разблокировка приложений, используя отпечаток</string>
+  <string name="fingerprint_to_lock_summary">Разблокировка приложений с использованием отпечатка</string>
   <string name="fingerprint_verify_failed">Не удалось проверить отпечаток</string>
   <string name="fingerprint_verify_succeed">Отпечаток проверен</string>
   <string name="fingerprint_verify_try_agin">Не удалось считать отпечаток, повторите попытку</string>
@@ -1478,8 +1478,8 @@
   <string name="mixed_recording_intro_header">Введите %1$s-%2$s символов</string>
   <string name="mixed_retry_button_text">Отмена</string>
   <string name="mixed_settings_help_how_to_record">Как задать пароль</string>
-  <string name="modify_password_mode"><u>Изменить способ защиты</u></string>
-  <string name="modifypassword">Изменить способ защиты</string>
+  <string name="modify_password_mode"><u>Способ защиты</u></string>
+  <string name="modifypassword">Способ защиты</string>
   <string name="monitor_app_add">Добавить</string>
   <string name="monitor_app_more">Еще</string>
   <string name="monitor_requests_from_pc">Управление установкой через USB</string>
@@ -1563,10 +1563,10 @@
   <string name="notification_battery_scan_consume_abnormal_title_set">%s разряжает батарею</string>
   <string name="notification_exit_power_save_mode">Энергосбережение отключено</string>
   <string name="notification_exit_power_save_mode_subtitle">Заряд батареи %s</string>
-  <string name="notification_mask_summary">"Не показывать содержимое уведомлений для защищенных приложений"</string>
-  <string name="notification_mask_title">Скрытие содержимого уведомления</string>
-  <string name="notification_masked_item">Скрыть уведомления</string>
-  <string name="notification_masked_subtitle">Скрывать уведомления от защищенных приложений</string>
+  <string name="notification_mask_summary">Не показывать содержимое уведомлений для выбранных приложений</string>
+  <string name="notification_mask_title">Скрытие содержимого</string>
+  <string name="notification_masked_item">Как скрыть содержимое уведомлений?</string>
+  <string name="notification_masked_subtitle">Используйте Защиту приложений, чтобы скрыть содержимое уведомлений для выбранных приложений.</string>
   <string name="notification_summary_cmcc_app_check">Нажмите для просмотра.</string>
   <string name="notify_channel_mipush">Push-сообщения Безопасности</string>
   <string name="notify_channel_name_security">Безопасность системы</string>
@@ -1805,6 +1805,7 @@
   <string name="power_center_power_save_summary_text">Увеличить автономность до %1$d ч. %2$d мин.</string>
   <string name="power_center_power_save_title_text">Энергосбережение</string>
   <string name="power_center_repeat">Повтор</string>
+  <string name="power_center_scan_item_title_5g">5G подключение</string>
   <string name="power_center_scan_item_title_abnormal">Расход заряда батареи</string>
   <string name="power_center_scan_item_title_abnormal_apps">Приложения, разряжающие батарею</string>
   <string name="power_center_scan_item_title_auto_invoke">Взаимный запуск</string>
@@ -1834,7 +1835,8 @@
   <string name="power_customize_giveup_change">Отменить изменения?</string>
   <string name="power_dialog_cancel">Отмена</string>
   <string name="power_dialog_ok">ОК</string>
-  <string name="power_dialog_super_save_msg">"Ультра энергосбережение ограничивает большинство функций, расходующих заряд батареи, и снижает производительность устройства, чтобы обеспечить базовую функциональность (звонки, SMS и подключение к сети) как можно дольше. Включить ультра энергосбережение?"</string>
+  <string name="power_dialog_super_save_msg">Ультра энергосбережение ограничивает большинство энергопотребляющих функций и снижает производительность устройства, чтобы обеспечить базовую функциональность (звонки, SMS и подключение к сети) как можно дольше. Включить ультра энергосбережение?</string>
+  <string name="power_dialog_super_save_msg_5g">Ультра энергосбережение ограничивает большинство энергопотребляющих функций (например, 5G подключение) и снижает производительность устройства. Звонки, SMS и подключение к сети затронуты не будут. Включить ультра энергосбережение?</string>
   <string name="power_dialog_super_save_title">Ультра энергосбережение</string>
   <string name="power_idle">Режим ожидания</string>
   <string name="power_main_battery_last_day_hour">Заряда хватит на %1$s д. %2$s ч.</string>
@@ -1885,6 +1887,7 @@
   <string name="power_optimize_btn_text_fixed">✓</string>
   <string name="power_optimize_catagory_fixed_title">Оптимизировано</string>
   <string name="power_optimize_close_app">Закрытие приложений, разряжающих батарею</string>
+  <string name="power_optimize_disable_5g">Ограничить подключение 5G</string>
   <string name="power_optimize_disable_app_autostart">Запрет приложениям запускаться автоматически</string>
   <string name="power_optimize_disable_gps">Отключение GPS</string>
   <string name="power_optimize_disable_start_other_app">Запрет приложениям запускать другие приложения</string>
@@ -1932,6 +1935,7 @@
   <string name="power_save_on_time_title">Расписание</string>
   <string name="power_save_ps_clean">Очистка кэша при блокировке устройства</string>
   <string name="power_save_ps_close_setting">Отключение фоновых сервисов (синхронизация, GPS)</string>
+  <string name="power_save_ps_close_setting_5g">Ограничить энергопотребляющие функции (синхронизация, 5G подключение, GPS)</string>
   <string name="power_save_ps_freeze">Заморозка приложений, работающих в фоновом режиме</string>
   <string name="power_save_ps_limit">Ограничение активности системных приложений</string>
   <string name="power_save_settings">Настройки оптимизации питания</string>
@@ -2051,8 +2055,8 @@
   <string name="privacy_apps_manage_dialog_title">О скрытых приложениях</string>
   <string name="privacy_apps_manager_dialog_message">После скрытия этого приложения его значок не будет отображаться на рабочем столе. Скрыть приложение?</string>
   <string name="privacy_apps_next_stup">Далее</string>
-  <string name="privacy_apps_shield_message_summary">"Не показывать уведомления для защищенных приложений"</string>
-  <string name="privacy_apps_shield_message_title">"Не показывать уведомления"</string>
+  <string name="privacy_apps_shield_message_summary">Не показывать уведомления для скрытых приложений</string>
+  <string name="privacy_apps_shield_message_title">Не показывать уведомления</string>
   <string name="privacy_apps_tutorial">Руководство</string>
   <string name="privacy_apps_tutorial_dlg_title">Как найти скрытые приложения</string>
   <string name="privacy_apps_tutorial_prompt_pageone">"Эта функция позволяет скрыть значки приложений на рабочем столе."</string>
@@ -2073,6 +2077,8 @@
 
 Во время калибровки MIUI отправит оператору SMS для получения шаблона калибровки."</string>
   <string name="privacy_prompt_upload">Отправить</string>
+  <string name="privacyapp_number_masked_text">Содержимое уведомления скрыто</string>
+  <string name="privacyapp_number_unmasked_text">Содержимое уведомления может быть скрыто</string>
   <string name="process_mediaserver_label">Медиа-сервер</string>
   <string name="process_vpnsdkmanager_label">Ускорение игр</string>
   <string name="promotion">Реклама</string>
@@ -2413,8 +2419,8 @@
   <string name="still_retain_btn">Оставить</string>
   <string name="stop_milink_connect">Трансляция прекращена</string>
   <string name="suggest_app_tolock">Предложения</string>
-  <string name="suggest_app_tolock_masked">Скрытые</string>
-  <string name="suggest_app_tolock_unmasked">Видимые</string>
+  <string name="suggest_app_tolock_masked">Содержимое скрыто</string>
+  <string name="suggest_app_tolock_unmasked">Содержимое отображается</string>
   <string name="suggest_scan_again">Повторите проверку во избежание угроз безопасности.</string>
   <string name="summary_app_lock_disable">Обезопасьте ваши данные с Защитой приложений</string>
   <string name="summary_auto_update">MIUI подберет наиболее подходящее время для загрузки и установки обновлений.</string>
