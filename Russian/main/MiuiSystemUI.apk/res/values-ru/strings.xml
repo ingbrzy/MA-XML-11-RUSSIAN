@@ -296,6 +296,8 @@
     <string name="auto_disable_screenbuttons_enable_toast_text">Кнопки навигации включены</string>
     <string name="available_via_passpoint">Доступно через %1$s</string>
     <string name="back">Назад</string>
+    <string name="band_24G">" (2,4 ГГц)"</string>
+    <string name="band_5G">" (5 ГГц)"</string>
     <string name="battery">Батарея</string>
     <string name="battery_can_use_time">Осталось примерно %s</string>
     <string name="battery_detail_charging_summary">Экономию энергии нельзя включить во время зарядки</string>
