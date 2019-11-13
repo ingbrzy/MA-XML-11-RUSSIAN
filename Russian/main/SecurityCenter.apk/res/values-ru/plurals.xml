@@ -367,10 +367,8 @@
     <item quantity="many">%d</item>
   </plurals>
   <plurals name="number_masked_text">
-    <item quantity="other">Скрыто %d уведомлений</item>
-    <item quantity="one">Скрыто %d уведомление</item>
-    <item quantity="few">Скрыто %d уведомления</item>
-    <item quantity="many">Скрыто %d уведомлений</item>
+    <item quantity="other">Скрывается для %d приложений</item>
+    <item quantity="one">Скрывается для %d приложения</item>
   </plurals>
   <plurals name="number_to_lock">
     <item quantity="other">%d приложений не защищено</item>
@@ -379,10 +377,8 @@
     <item quantity="many">%d приложений не защищено</item>
   </plurals>
   <plurals name="number_to_mask_text">
-    <item quantity="other">Не скрыто %d уведомлений</item>
-    <item quantity="one">Не скрыто %d уведомление</item>
-    <item quantity="few">Не скрыто %d уведомления</item>
-    <item quantity="many">Не скрыто %d уведомлений</item>
+    <item quantity="other">Не скрывается для %d приложений</item>
+    <item quantity="one">Не скрывается для %d приложения</item>
   </plurals>
   <plurals name="numeric_recording_incorrect_too_short">
     <item quantity="other">Введите не менее %d цифр</item>
@@ -559,16 +555,16 @@
     <item quantity="many">проблем</item>
   </plurals>
   <plurals name="privacy_apps_disable_header_title">
-    <item quantity="other">Скрыты значки %d приложений</item>
-    <item quantity="one">Скрыт значок %d приложения</item>
-    <item quantity="few">Скрыты значки %d приложений</item>
-    <item quantity="many">Скрыты значки %d приложений</item>
+    <item quantity="other">Скрыто %d приложений</item>
+    <item quantity="one">Скрыто %d приложение</item>
+    <item quantity="few">Скрыто %d приложения</item>
+    <item quantity="many">Скрыто %d приложений</item>
   </plurals>
   <plurals name="privacy_apps_enable_header_title">
-    <item quantity="other">Можно скрыть значки %d приложений</item>
-    <item quantity="one">Можно скрыть значок %d приложения</item>
-    <item quantity="few">Можно скрыть значки %d приложений</item>
-    <item quantity="many">Можно скрыть значки %d приложений</item>
+    <item quantity="other">Не скрыто %d приложений</item>
+    <item quantity="one">Не скрыто %d приложение</item>
+    <item quantity="few">Не скрыто %d приложения</item>
+    <item quantity="many">Не скрыто %d приложений</item>
   </plurals>
   <plurals name="quick_optimize_issue_count">
     <item quantity="other">%d проблем с питанием</item>
@@ -631,22 +627,22 @@
     <item quantity="many">Удалено %d вирусов</item>
   </plurals>
   <plurals name="sp_monitored_apps_count">
-    <item quantity="other">%s платежных приложений защищено</item>
-    <item quantity="one">%s платежное приложение защищено</item>
-    <item quantity="few">%s платежных приложения защищено</item>
-    <item quantity="many">%s платежных приложений защищено</item>
+    <item quantity="other">Защищено %s платежных приложений</item>
+    <item quantity="one">Защищено %s платежное приложение</item>
+    <item quantity="few">Защищено %s платежных приложения</item>
+    <item quantity="many">Защищено %s платежных приложений</item>
   </plurals>
   <plurals name="sp_monitored_apps_list_group_disable">
-    <item quantity="other">%s приложений не защищено</item>
-    <item quantity="one">%s приложение не защищено</item>
-    <item quantity="few">%s приложения не защищено</item>
-    <item quantity="many">%s приложений не защищено</item>
+    <item quantity="other">Не защищено %s приложений</item>
+    <item quantity="one">Не защищено %s приложение</item>
+    <item quantity="few">Не защищено %s приложения</item>
+    <item quantity="many">Не защищено %s приложений</item>
   </plurals>
   <plurals name="sp_monitored_apps_list_group_enable">
-    <item quantity="other">%s приложений защищено</item>
-    <item quantity="one">%s приложение защищено</item>
-    <item quantity="few">%s приложения защищено</item>
-    <item quantity="many">%s приложений защищено</item>
+    <item quantity="other">Защищено %s приложений</item>
+    <item quantity="one">Защищено %s приложение</item>
+    <item quantity="few">Защищено %s приложения</item>
+    <item quantity="many">Защищено %s приложений</item>
   </plurals>
   <plurals name="sp_settings_exception_count">
     <item quantity="other">%d объектов</item>
