@@ -200,4 +200,5 @@
   <string name="wait_prompt_str">"Отправить следующие тоны?
 "</string>
   <string name="waiting_close_airplane_mode">Подождите…</string>
+  <string name="wifi_call">VoWifi вызов</string>
 </resources>
