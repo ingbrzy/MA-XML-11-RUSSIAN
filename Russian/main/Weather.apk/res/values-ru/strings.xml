@@ -227,6 +227,8 @@
     <string name="share_weather_desc">\#MIUI Weather#Сегодня %1$s %2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Не удалось сделать снимок</string>
+    <string name="shortcut_short_label_24_hour_forecast">24-часовой прогноз</string>
+    <string name="shortcut_short_label_recent_forecast">Проверить погоду</string>
     <string name="some_where_on_earth">Где-то на Земле</string>
     <string name="sunrise">Восход</string>
     <string name="sunset">Закат</string>
