@@ -415,6 +415,8 @@
     <string name="smb_loading">Подождите…</string>
     <string name="sort_size_asc">От меньшего к большему</string>
     <string name="sort_size_desc">От большего к меньшему</string>
+    <string name="start_doc">Документы</string>
+    <string name="start_phone">Устройство</string>
     <string name="start_server">Запустить сервер</string>
     <string name="status_bar_notification_info_overflow">&gt;999</string>
     <string name="stay_awake_summary">"Не переходить в спящий режим при использовании FTP"</string>
