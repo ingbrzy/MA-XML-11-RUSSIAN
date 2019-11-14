@@ -112,7 +112,7 @@
     <string name="miui_feedback_main_submit_dialog_confirm">Отправить</string>
     <string name="miui_feedback_main_submit_dialog_content">Похоже, мы не смогли найти решение вашей проблемы. Вы можете отправить нам отчет.</string>
     <string name="miui_feedback_main_submit_dialog_title">Отправьте отчет</string>
-    <string name="miui_feedback_main_title">Отчет</string>
+    <string name="miui_feedback_main_title">Обратная связь</string>
     <string name="miui_guide_clear_db_service">Приложение \"Сервисы и обратная связь\" очищает языковой кэш…</string>
     <string name="miui_guide_footer_desc">Руководство для начинающих разработано, чтобы помочь вам узнать больше о вашем устройстве и MIUI. Некоторые изображения и видео в руководстве были созданы только для справочных целей и могут отличаться от реального продукта. Функции, описанные в этом руководстве, могут различаться в зависимости от модели вашего устройства, версии MIUI и среды использования.</string>
     <string name="miui_guide_item_complete">Завершено</string>
