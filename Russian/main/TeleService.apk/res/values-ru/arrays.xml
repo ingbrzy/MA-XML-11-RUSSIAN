@@ -276,19 +276,29 @@
         <item>Не скрывать номер</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>LTE/WCDMA</item>
-        <item>LTE</item>
-        <item>Глобальный</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EVDO</item>
-        <item>CDMA/EVDO/GSM/WCDMA</item>
-        <item>Только EVDO</item>
-        <item>CDMA без EVDO</item>
-        <item>CDMA/EVDO авто</item>
+        <item>GSM/WCDMA предпочтительно</item>
+        <item>GSM только</item>
+        <item>WCDMA только</item>
         <item>GSM/WCDMA авто</item>
-        <item>Только WCDMA</item>
-        <item>Только GSM</item>
-        <item>Предпочтительно GSM/WCDMA</item>
+        <item>CDMA/EvDo авто</item>
+        <item>CDMA без EvDo</item>
+        <item>EvDo только</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Глобальный</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>TDSCDMA только</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>Английский</item>
