@@ -15,6 +15,12 @@
     <plurals name="days_ago">
         <item quantity="other">%1$d д. назад</item>
     </plurals>
+    <plurals name="express_setting_phone_binded_info">
+        <item quantity="other">Добавлено %d телефонных номеров</item>
+        <item quantity="one">Добавлен %d телефонный номер</item>
+        <item quantity="few">Добавлено %d телефонных номера</item>
+        <item quantity="many">Добавлено %d телефонных номеров</item>
+    </plurals>    
     <plurals name="hours_ago">
         <item quantity="other">%1$d ч. назад</item>
     </plurals>
