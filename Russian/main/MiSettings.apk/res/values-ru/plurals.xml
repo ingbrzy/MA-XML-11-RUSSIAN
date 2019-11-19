@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="last_several_days">
+        <item quantity="other">%d дней</item>
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">Время экрана равно среднему показателю за %d дней</item>
+        <item quantity="one">Время экрана равно среднему показателю за %d день</item>
+        <item quantity="few">Время экрана равно среднему показателю за %d дня</item>
+        <item quantity="many">Время экрана равно среднему показателю за %d дней</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">Время экрана на %2$s меньше среднего показателя за %1$d дней</item>
+        <item quantity="one">Время экрана на %2$s меньше среднего показателя за %1$d день</item>
+        <item quantity="few">Время экрана на %2$s меньше среднего показателя за %1$d дня</item>
+        <item quantity="many">Время экрана на %2$s меньше среднего показателя за %1$d дней</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">Время экрана на %2$s больше среднего показателя за %1$d дней</item>
+        <item quantity="one">Время экрана на %2$s больше среднего показателя за %1$d день</item>
+        <item quantity="few">Время экрана на %2$s больше среднего показателя за %1$d дня</item>
+        <item quantity="many">Время экрана на %2$s больше среднего показателя за %1$d дней</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f</item>
+        <item quantity="zero">%.2f</item>
+        <item quantity="one">%.2f</item>
+    </plurals>    
     <plurals name="usage_days">
         <item quantity="other">%d дней</item>
         <item quantity="one">%d день</item>
