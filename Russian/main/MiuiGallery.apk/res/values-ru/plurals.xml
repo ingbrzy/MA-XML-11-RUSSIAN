@@ -1,38 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="a_hour_ago">
-    <item quantity="other">Час назад</item>
-  </plurals>
-  <plurals name="abbrev_a_hour_ago">
-    <item quantity="other">Час назад</item>
-  </plurals>
-  <plurals name="abbrev_half_hour_ago">
-    <item quantity="other">Полчаса назад</item>
-  </plurals>
-  <plurals name="abbrev_in_a_hour">
-    <item quantity="other">Через час</item>
-  </plurals>
-  <plurals name="abbrev_in_half_hour">
-    <item quantity="other">Через полчаса</item>
-  </plurals>
-  <plurals name="abbrev_in_less_than_one_minute">
-    <item quantity="other">Скоро</item>
-  </plurals>
-  <plurals name="abbrev_in_num_minutes">
-    <item quantity="other">Через %d минут</item>
-    <item quantity="one">Через %d минуту</item>
-    <item quantity="few">Через %d минуты</item>
-    <item quantity="many">Через %d минут</item>
-  </plurals>
-  <plurals name="abbrev_less_than_one_minute_ago">
-    <item quantity="other">Прямо сейчас</item>
-  </plurals>
-  <plurals name="abbrev_num_minutes_ago">
-    <item quantity="other">%d минут назад</item>
-    <item quantity="one">%d минуту назад</item>
-    <item quantity="few">%d минуты назад</item>
-    <item quantity="many">%d минут назад</item>
-  </plurals>
   <plurals name="add_secret_ensure_message">
     <item quantity="other">Скрыть эти файлы?</item>
     <item quantity="one">Скрыть этот файл?</item>
@@ -400,6 +367,12 @@
     <item quantity="few">Всего %1$d файла</item>
     <item quantity="many">Всего %1$d файлов</item>
   </plurals>
+  <plurals name="photo_remain_days">
+    <item quantity="other">%d дней</item>
+    <item quantity="one">%d день</item>
+    <item quantity="few">%d дня</item>
+    <item quantity="many">%d дней</item>
+  </plurals>
   <plurals name="picker_all_image_need_download">
     <item quantity="other">Выбранных фото нет на устройстве. Загрузить через мобильный интернет?</item>
     <item quantity="one">Выбранных фото нет на устройстве. Загрузить через мобильный интернет?</item>
@@ -543,6 +516,28 @@
     <item quantity="one">%d объект</item>
     <item quantity="few">%d объекта</item>
     <item quantity="many">%d объектов</item>
+  </plurals>
+  <plurals name="trash_purge_dialog_message_image">
+	  <item quantity="other">Вы не сможете восстановить %d выбранных фото, если удалите их. Все равно удалить?</item>
+	  <item quantity="one">Вы не сможете восстановить %d выбранное фото, если удалите его. Все равно удалить?</item>
+  </plurals>
+  <plurals name="trash_purge_dialog_message_media">
+	  <item quantity="other">Вы не сможете восстановить %d выбранных объектов, если удалите их. Все равно удалить?</item>
+	  <item quantity="one">Вы не сможете восстановить %d выбранный объект, если удалите его. Все равно удалить?</item>
+	  <item quantity="few">Вы не сможете восстановить %d выбранных объекта, если удалите их. Все равно удалить?</item>
+	  <item quantity="many">Вы не сможете восстановить %d выбранных объектов, если удалите их. Все равно удалить?</item>
+  </plurals>
+  <plurals name="trash_purge_dialog_message_video">
+	  <item quantity="other">Вы не сможете восстановить %d выбранных видео, если удалите их. Все равно удалить?</item>
+	  <item quantity="one">Вы не сможете восстановить %d выбранное видео, если удалите его. Все равно удалить?</item>
+  </plurals>
+  <plurals name="trash_vip_info_text_login">
+	  <item quantity="other">Объекты могут храниться здесь до %1$d дней (%2$s)</item>
+	  <item quantity="one">Объекты могут храниться здесь до %1$d дня (%2$s)</item>
+  </plurals>
+  <plurals name="trash_vip_info_text_unlogin">
+	  <item quantity="other">Объекты могут храниться здесь до %1$d дней. Обновите план, чтобы продлить период.</item>
+	  <item quantity="one">Объекты могут храниться здесь до %1$d дня. Обновите план, чтобы продлить период.</item>
   </plurals>
   <plurals name="video_count_format">
     <item quantity="other">Всего %1$d файлов</item>
