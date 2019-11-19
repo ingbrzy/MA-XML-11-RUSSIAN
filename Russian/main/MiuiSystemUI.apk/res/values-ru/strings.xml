@@ -1385,7 +1385,7 @@
     <string name="quick_settings_screenshot_label">Скриншот</string>
     <string name="quick_settings_secondary_label_until">До %s</string>
     <string name="quick_settings_settings_label">Настройки</string>
-    <string name="quick_settings_sim_disabled">(Отключена)</string>
+    <string name="quick_settings_sim_disabled">" (Отключена)"</string>
     <string name="quick_settings_sync_label">Синхронизация</string>
     <string name="quick_settings_tethering_label">Режим модема</string>
     <string name="quick_settings_time_label">Время</string>
@@ -1486,7 +1486,9 @@
     <string name="screenshot_edit">Изменить</string>
     <string name="screenshot_failed_title">Не удалось сделать скриншот.</string>
     <string name="screenshot_failed_to_capture_text">Скриншоты не разрешены приложением или вашей организацией</string>
+    <string name="screenshot_failed_to_capture_title">Запрет скриншотов</string>
     <string name="screenshot_failed_to_save_text">Недостаточно места для сохранения скриншота.</string>
+    <string name="screenshot_failed_to_save_title">Недостаточно места для нового скриншота</string>
     <string name="screenshot_failed_to_save_unknown_text">Не удалось сохранить скриншот.</string>
     <string name="screenshot_feedback_txt">Отчет</string>
     <string name="screenshot_insert_failed">Не удалось загрузить скриншот. Сделайте новый или просмотрите изображение в Галерее.</string>
