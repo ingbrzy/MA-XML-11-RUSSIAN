@@ -118,6 +118,14 @@
     <string name="lgDesc">логарифм</string>
     <string name="ln">ln</string>
     <string name="lnDesc">натуральный логарифм</string>
+    <string name="ln_mathematical_value">ln</string>
+    <string name="loading">Подождите…</string>
+    <string name="loading_fail_message_no_network">Не удалось подключиться к сети. Нажмите, чтобы повторить попытку.</string>
+    <string name="loading_fail_refresh">Обновление</string>
+    <string name="loading_message">Загрузка приложения…</string>
+    <string name="loading_slogan">Используйте приложения не устанавливая их</string>
+    <string name="loading_tips">Настройки успешно загружены. Перезапустите Калькулятор.</string>
+    <string name="loan_basic_point">Базисный пункт</string>
     <string name="loan_edittext_hint_commercial">Введите сумму</string>
     <string name="loan_edittext_hint_commercial_combined">Коммерческий (×10K)</string>
     <string name="loan_edittext_hint_fund">Введите сумму</string>
@@ -130,8 +138,15 @@
     <string name="loan_payback_way">Погашение</string>
     <string name="loan_repayment_detail">Сведения о погашении</string>
     <string name="loan_repayment_detail_loading">Загрузка информации о погашениях…</string>
-    <string name="loan_repayment_detail_unit">Сведения о погашении (CNY)</string>
+    <string name="loan_type_summary_lpr">Основная ставка по кредиту (LPR)</string>
+    <string name="loan_type_title">Interest rate standard</string>
     <string name="loan_unit">(×10K)</string>
+    <string name="lpr_format">%1$s%% %2$s %3$s‱ = %4$s%%</string>
+    <string name="lpr_ok">Понятно</string>
+    <string name="lpr_tips_msg">"Начиная с 8 октября 2019 года, процентная ставка по кредиту для личного коммерческого жилья будет рассчитываться в соответствии с основной ставкой по кредиту (LPR) вместо ранее установленной базовой процентной ставки в 4,9%. Теперь окончательная ставка будет подтверждаться путем добавления базисного пункта LPR.
+
+Годовые и пятилетние LPR будут указываться 20-го числа каждого месяца (задержки могут произойти из-за банковских выходных) на веб-сайте Народного банка Китая."</string>
+    <string name="lpr_tips_title">Основная ставка по кредиту (LPR)</string>
     <string name="menuDesc">меню</string>
     <string name="minusDesc">минус</string>
     <string name="month" />
@@ -560,6 +575,7 @@
     <string name="unit_data_short_weight_uk.st">st</string>
     <string name="unit_data_short_weight_us.cwt">cwt</string>
     <string name="unit_myriads">×10K</string>
+    <string name="unit_per_ten_thousand">‱</string>
     <string name="unit_times" />
     <string name="unit_year">Г</string>
     <string name="unit_year_format">Год %s</string>
