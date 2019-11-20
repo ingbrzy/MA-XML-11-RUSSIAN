@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="extra_photo_common_permission_name">Боке</string>
+  <string name="extra_photo_common_save_fail">Не удалось сохранить</string>
   <string name="extra_photo_common_saving">Сохранение…</string>
   <string name="motion_photo_cancel">Отмена</string>
   <string name="motion_photo_re_pick_title">Живые фото</string>
