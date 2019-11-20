@@ -5232,8 +5232,8 @@ UT-интерфейс: %5$s"</string>
     <string name="sum_carrier_select">Выберите оператора связи</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_range_verbal_combination">с %1$s по %2$s</string>
-    <string name="sunlight_mode">Режим дневного освещения</string>
-    <string name="sunlight_mode_summary">Регулировка яркости для дневного освещения при отключенной автоматической яркости</string>
+    <string name="sunlight_mode">Режим солнечного света</string>
+    <string name="sunlight_mode_summary">Установить максимальную яркость при ярком окружающем освещении, когда автонастройка отключена</string>
     <string name="supl_not_set">&lt;Не настроено&gt;</string>
     <string name="supplicant_state_label">Статус подключения:</string>
     <string name="support_gesture_title">3D шаблоны</string>
