@@ -76,6 +76,30 @@
         <item quantity="few">%1$d дня</item>
         <item quantity="many">%1$d дней</item>
     </plurals>    
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%d часов</item>
+        <item quantity="one">%d час</item>
+        <item quantity="few">%d часа</item>
+        <item quantity="many">%d часов</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+        <item quantity="few">%d ч.</item>
+        <item quantity="many">%d ч.</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%d минут</item>
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+        <item quantity="few">%d мин.</item>
+        <item quantity="many">%d мин.</item>
+    </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">Интервал повтора изменен на %d минут</item>
         <item quantity="one">Интервал повтора изменен на %d минуту</item>
