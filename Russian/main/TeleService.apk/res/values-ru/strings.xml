@@ -689,10 +689,6 @@
   <string name="international_roaming_setting">Интернет в роуминге</string>
   <string name="internet_phone">Интернет вызов</string>
   <string name="invalid_password">Введите пароль из %d символов</string>
-  <string name="invalid_pin">PIN должен содержать от %d до %d цифр.</string>
-  <string name="invalid_pin2">PIN2 должен содержать от %d до %d цифр.</string>
-  <string name="invalid_puk">PUK должен содержать от %d до %d цифр.</string>
-  <string name="invalid_puk2">PUK2 должен содержать %d цифр.</string>
   <string name="ivr_mo_area_code_settings">Текущий код региона</string>
   <string name="ivr_mo_area_code_settings_hint">Введите код региона</string>
   <string name="ivr_parameter_settings">Настройки голосового меню</string>
