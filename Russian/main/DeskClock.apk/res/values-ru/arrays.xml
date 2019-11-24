@@ -642,15 +642,6 @@
         <item>25 минут</item>
         <item>30 минут</item>
     </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="time">
         <item>%1$s</item>
         <item>%2$s</item>
@@ -674,21 +665,31 @@
         <item>Отложить</item>
         <item>Отключить</item>
     </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Понедельник-пятница</item>
+        <item>Каждый день</item>
+        <item>Рабочие дни</item>
     </string-array>
-    <string-array name="weather_tips_value">
-        <item>Сократите пребывание на улице.</item>
-        <item>Сегодня на дорогах скользко.</item>
-        <item>Погода бурная, будьте осторожны.</item>
-        <item>Сегодня туман. Будьте аккуратны за рулем.</item>
-        <item>Воздух загрязнен, наденьте маску.</item>
-        <item>Не забудьте зонтик.</item>
-        <item>Будьте осторожны на дороге.</item>
-        <item>Приближается град, будьте осторожны.</item>
-        <item>Приближается пыльная буря, наденьте маску.</item>
-        <item>Хорошего дня!</item>
+    <string-array name="bedtime_repeat_entries">
+        <item>Каждый день</item>
+        <item>Понедельник-пятница</item>
+        <item>Рабочие дни</item>
+        <item>По выбору</item>
     </string-array>
+    <string-array name="days_of_week">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>В заданное время</item>
+        <item>За 15 минут</item>
+        <item>За 30 минут</item>
+        <item>За 1 час</item>
+        <item>Отключено</item>
+    </string-array>    
 </resources>
