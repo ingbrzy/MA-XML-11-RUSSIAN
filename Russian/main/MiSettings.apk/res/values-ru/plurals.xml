@@ -62,8 +62,8 @@
         <item quantity="many">%d минут - хороший шаг к внимательности и концентрации.</item>
     </plurals>
     <plurals name="usage_state_hour">
-        <item quantity="other">%d ч.</item>
-        <item quantity="one">%d ч.</item>
+        <item quantity="other">%d ч</item>
+        <item quantity="one">%d ч</item>
     </plurals>
     <plurals name="usage_state_hour24">
         <item quantity="other">%d часов</item>
@@ -72,16 +72,16 @@
         <item quantity="many">%d часов</item>
     </plurals>
     <plurals name="usage_state_hour_text">
-        <item quantity="other"> ч.</item>
-        <item quantity="one"> ч.</item>
+        <item quantity="other"> ч</item>
+        <item quantity="one"> ч</item>
     </plurals>
     <plurals name="usage_state_minute">
-        <item quantity="other">%d мин.</item>
-        <item quantity="one">%d мин.</item>
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
-        <item quantity="other">" мин."</item>
-        <item quantity="one">" мин."</item>
+        <item quantity="other">" мин"</item>
+        <item quantity="one">" мин"</item>
     </plurals>
     <plurals name="usage_state_noti_count">
         <item quantity="other">%d уведомлений</item>
@@ -120,11 +120,11 @@
         <item quantity="many">Рабочие дни: %d минут</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" ч. "</item>
-        <item quantity="one">" ч. "</item>
+        <item quantity="other">" ч "</item>
+        <item quantity="one">" ч "</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_min">
-        <item quantity="other">" мин."</item>
-        <item quantity="one">" мин."</item>
+        <item quantity="other">" мин"</item>
+        <item quantity="one">" мин"</item>
     </plurals>
 </resources>
