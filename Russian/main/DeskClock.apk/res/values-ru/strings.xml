@@ -33,48 +33,50 @@
     <string name="auto_silence_title">Автоотключение сигнала</string>
     <string name="back">Выход</string>
     <string name="battery_charging_level">%d%%</string>
-    
-    <string name="bedtime">Время сна</string>
-    <string name="bedtime_analysis_more">Еще</string>
+    <string name="bedtime">Режим сна</string>
+    <string name="bedtime_analysis_more">Подробнее</string>
     <string name="bedtime_banner_desc">Регулярный сон важен</string>
-    <string name="bedtime_banner_guide_desc">Расписание времени сна</string>
-    <string name="bedtime_guide_back_desc">Вы не сможете получать уведомления о времени сна, если выйдете сейчас. Выйти?</string>
-    <string name="bedtime_manage">Управление временем сна</string>
-    <string name="bedtime_manage_desc">Расписание времени сна и его отслеживание</string>
-    <string name="bedtime_manage_open">Расписание времени сна</string>
-    <string name="bedtime_manage_tip">Управляйте временем сна</string>
-    <string name="bedtime_not_open_text">Your stats will appear here after you start using bedtime reminders</string>
-    <string name="bedtime_repeat_desc">Дни получения уведомлений</string>
+    <string name="bedtime_banner_guide_desc">Режим сна</string>
+    <string name="bedtime_guide_back_desc">Вы не сможете больше получать напоминания режима сна, если выйдете сейчас. Выйти?</string>
+    <string name="bedtime_manage">Управление режимом сна</string>
+    <string name="bedtime_manage_desc">Расписание режима сна и отслеживание</string>
+    <string name="bedtime_manage_open">Режим сна</string>
+    <string name="bedtime_manage_tip">Управляйте своим режимом сна</string>
+    <string name="bedtime_not_open_text">Статистика будет доступна позже</string>
+    <string name="bedtime_repeat_desc">Дни напоминаний</string>
     <string name="bedtime_repeat_type">Расписание</string>
-    <string name="bedtime_setting_complete">Sleep tight!</string>
-    <string name="bedtime_setting_complete_desc">Follow your new bedtime schedule to function at your best</string>
-    <string name="bedtime_setting_no_disturbance">Switch to DND while you sleep?</string>
-    <string name="bedtime_setting_no_disturbance_desc">Ringtones, notification sounds, and vibration will be silenced until you wake up</string>
-    <string name="bedtime_setting_repeat_type">When will your bedtime schedule apply?</string>
-    <string name="bedtime_setting_repeat_type_desc">"Select the days when you'll receive reminders"</string>
+    <string name="bedtime_setting_complete">Спокойного сна!</string>
+    <string name="bedtime_setting_complete_desc">Соблюдайте режим сна, чтобы быть в хорошей форме</string>
+    <string name="bedtime_setting_no_disturbance">Режим \"Не беспокоить\"</string>
+    <string name="bedtime_setting_no_disturbance_desc">Рингтоны, звуки уведомлений и вибрация будут отключены до момента пробуждения</string>
+    <string name="bedtime_setting_repeat_type">Расписание</string>
+    <string name="bedtime_setting_repeat_type_desc">Выберите дни напоминаний</string>
     <string name="bedtime_settings">Настройки</string>
-    <string name="bedtime_sleep_time_remind">"You'll be reminded to go to bed 15 minutes before this time"</string>
-    <string name="bedtime_sleep_time_setting">When will you go to bed?</string>
-    <string name="bedtime_wake_up_time_remind">An alarm will go off at this</string>
-    <string name="bedtime_wake_up_time_setting">When will you get up?</string>
-    <string name="bedtime_welcome">Управление временем сна</string>
-    <string name="bedtime_welcome_desc">Поддержание регулярного и последовательного графика сна приносит пользу вашему здоровью. Установите напоминания, которые помогут вам ложиться спать и вставать вовремя каждый день.</string>
-
+    <string name="bedtime_sleep_time_remind">Напоминание сработает за 15 минут до этого времени</string>
+    <string name="bedtime_sleep_time_setting">Время начала сна</string>
+    <string name="bedtime_wake_up_time_remind">Будильник сработает в это время</string>
+    <string name="bedtime_wake_up_time_setting">Время пробуждения</string>
+    <string name="bedtime_welcome">Управление режимом сна</string>
+    <string name="bedtime_welcome_desc">Регулярный и правильный режима сна идет на пользу здоровью. Установите напоминания, которые помогут каждый день вовремя ложиться спать и вставать.</string>
     <string name="birthday_alarm">Песня ко дню рождения</string>
     <string name="birthday_alarm_summary">Воспроизводить \"Happy Birthday\" вместо стандартной мелодии будильника в ваш день рождения</string>
     <string name="cancel">Отмена</string>
     <string name="channel_name_alarm">Будильник</string>
+   <string name="channel_name_sleep">Сон</string>
     <string name="channel_name_timer">Таймер</string>
     <string name="check_theme_app_install">Убедитесь, что приложение Темы установлено на вашем устройстве.</string>
     <string name="check_voice_assist_app_version">Обновите Mi AI до последней версии.</string>
     <string name="clock_bg_button_setting_summary_common">Выбор цвета фона приложения Часы</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Черный будет использоваться в качестве цвета фона при каждом переходе в темный режим</string>
     <string name="clock_bg_button_setting_title">Цвет фона</string>
+   <string name="close">Закрыть</string>
     <string name="close_alarm">Отключить</string>
     <string name="common_settings">Основные настройки</string>
     <string name="confirm">ОК</string>
     <string name="confirm_abort">Выход</string>
     <string name="content_desc_keep_screen">Кнопка \"Не выключать экран\"</string>
+    <string name="continue_operation">Продолжить</string>
+    <string name="continue_step">Далее</string>
     <string name="control_set_alarm">Установить</string>
     <string name="control_set_alarm_with_existing">Будильник установлен: %s</string>
     <string name="day_concat">", "</string>
@@ -86,23 +88,25 @@
     <string name="delete_selected_timer_item">Удалить выбранный таймер?</string>
     <string name="delete_timer_item_title">Удалить таймер</string>
     <string name="delete_timezone_title">Удаление часового пояса</string>
+    <string name="deskclock_sleep_no_disturbance">Часы - Управление режимом сна - Режим \"Не беспокоить\"</string>
     <string name="dialog_confirm_abort">Отменить изменения?</string>
     <string name="dialog_legal_off_day">&lt;Data&gt;"Используются будильники для праздничных дней. Для правильной работы приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашениеt&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?"&lt;/Data&gt;</string>
-    <string name="dialog_legal_off_day_desc">"У приложения Часы нет доступа к интернету для обновления информации о праздниках. Будильники для праздничных дней сработают в субботу и воскресенье."</string>
+    <string name="dialog_legal_off_day_desc">"У приложения нет доступа к интернету для обновления информации о праздниках. Будильники для праздничных дней сработают в субботу и воскресенье."</string>
     <string name="dialog_legal_workday">&lt;Data&gt;"Используются будильники для рабочих дней. Для правильной работы приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашениеt&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?"&lt;/Data&gt;</string>
     <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;"Используются будильники для рабочих и праздничных дней. Для правильной работы приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашениеt&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?"&lt;/Data&gt;</string>
-    <string name="dialog_legal_workday_and_off_day_desc">"У приложения Часы нет доступа к интернету для обновления информации о праздниках. Будильники для рабочих дней сработают с понедельника по пятницу. Будильники в праздничные дни сработают в субботу и воскресенье."</string>
-    <string name="dialog_legal_workday_desc">"У приложения Часы нет доступа к интернету для обновления информации о рабочих днях. Будильники для рабочих дней сработают с понедельника по пятницу."</string>
+    <string name="dialog_legal_workday_and_off_day_desc">"У приложения нет доступа к интернету для обновления информации о праздниках. Будильники для рабочих дней сработают с понедельника по пятницу. Будильники в праздничные дни сработают в субботу и воскресенье."</string>
+    <string name="dialog_legal_workday_desc">"У приложения нет доступа к интернету для обновления информации о рабочих днях. Будильники для рабочих дней сработают с понедельника по пятницу."</string>
     <string name="dialog_message_agree">Согласен</string>
-    <string name="dialog_message_for_contact_permission">Для активации оповещений о днях рождения приложению Часы требуется доступ к вашим контактам. Вы согласны?</string>
+    <string name="dialog_message_for_contact_permission">Для активации оповещений о днях рождения приложению требуется доступ к вашим контактам. Вы согласны?</string>
     <string name="dialog_message_negative">Отмена</string>
     <string name="dialog_message_not_remind">Больше не показывать</string>
     <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Для правильной работы этой функции требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашениеt&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?"&lt;/Data&gt;</string>
-    <string name="dialog_privacy_content">Для получения актуальной информации о местных праздниках и настройки будильников, предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы должны прочитать и принять %1$s и %2$s. Согласны?</string>
+    <string name="dialog_privacy_content">Для получения актуальной информации о праздниках, настройки будильников и предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы должны прочитать и принять %1$s и %2$s. Согласны?</string>
     <string name="dialog_privacy_content_global">Для предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы также должны прочитать и принять %1$s и %2$s. Согласны?</string>
     <string name="dialog_privacy_content_news">Для предоставления персонализированных услуг и включения утренних новостей в будильники, приложению требуется подключение к интернету. Перед использованием вы должны прочитать и принять %1$s и %2$s. Согласны?</string>
     <string name="dialog_privacy_content_timer">Для загрузки аудиофайлов звуков природы и предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы должны прочитать и принять %1$s и %2$s. Согласны?</string>
     <string name="dialog_privacy_content_timer_data">"Для загрузки аудиофайлов звуков природы (≈20 МБ) и предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы должны прочитать и принять %1$s и %2$s. Будет использоваться мобильный интернет. Согласны?"</string>
+    <string name="disagree">Отмена</string>
     <string name="done">Готово</string>
     <string name="dynamic_alarm_speech">Умный будильник</string>
     <string name="edit_alarm">Изменение будильника</string>
@@ -128,6 +132,7 @@
     <string name="label_pref_summary">Описание</string>
     <string name="lap">Круг</string>
     <string name="lap_num">Круг</string>
+    <string name="last_step">Назад</string>
     <string name="legal_off_day">Выходной день</string>
     <string name="legal_off_day_message">" (пропускать рабочие дни)"</string>
     <string name="legal_workday">Рабочий день</string>
@@ -154,7 +159,7 @@
     <string name="life_post_weather_invalid">Нажмите для получения информации о погоде</string>
     <string name="life_post_weather_no_network">Требуется подключение к сети для обновления информации о погоде</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
-    <string name="listen_news_privacy">&lt;Data&gt;Для предоставления персонализированных услуг и включения утренних новостей в будильники, приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href= %1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
+    <string name="listen_news_privacy">&lt;Data&gt;Для предоставления персонализированных услуг и включения утренних новостей в будильники, приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
     <string name="loading_ringtone">Загрузка мелодий…</string>
     <string name="menu_add_worldclock">Добавить</string>
     <string name="menu_desk_clock">Часы</string>
@@ -182,37 +187,39 @@
     <string name="module_download_title">Требуются аудиофайлы</string>
     <string name="module_downloading">Загрузка аудиофайлов…</string>
     <string name="module_unzipping">Распаковка аудиофайлов…</string>
-    <string name="module_update_success">Аудиофайлы для умных будильников обновлены.</string>
+    <string name="module_update_success">Аудиофайлы умных будильников обновлены.</string>
     <string name="module_update_success_control">Понятно</string>
-    <string name="module_weather_ringtone_download_data">Для сводки погоды используются различные мелодии в зависимости от текущей погоды. Приложению требуется загрузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
-    <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Для сводки погоды используются различные мелодии в зависимости от текущей погоды. Требуется подключение к интернету для загрузки &amp;#8776;30 МБ аудиофайлов. Перед использованием вы должны принять наши &amp;lt;a href= %1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
-    <string name="module_weather_ringtone_download_wifi">Для сводки погоды используются различные мелодии в зависимости от текущей погоды. Приложению требуется загрузить аудиофайлы. Загрузить?</string>
-    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Для сводки погоды используются различные мелодии в зависимости от текущей погоды. Приложению требуется подключение к интернету для загрузки аудиофайлов. Перед использованием вы должны принять наши &amp;lt;a href= %1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
-    <string name="module_weather_ringtone_introduce">Для сводки погоды используются различные мелодии в зависимости от текущей погоды. Это позволит прослушивать информацию о текущей погоде по утрам.</string>
-    <string name="module_weather_ringtone_introduce_global">Для сводки погоды используются различные мелодии в зависимости от текущей погоды.</string>
-    <string name="module_weather_ringtone_update_data">Сводка погоды теперь идет с фоновой музыкой и улучшенными голосовыми объявлениями. Приложению требуется загрузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
-    <string name="module_weather_ringtone_update_success">Сводка погоды теперь идет с фоновой музыкой и улучшенными голосовыми объявлениями. Создайте новый будильник, чтобы попробовать эту функцию.</string>
-    <string name="module_week_ringtone_download_data">Будильник воспроизводит разные звуки природы, в зависимости от даты. Приложению требуется загрузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
-    <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Будильник воспроизводит разные звуки природы, в зависимости от даты. Приложению требуется подключение к интернету для загрузки &amp;#8776;30 МБ аудиофайлов. Перед использованием вы должны принять наши &amp;lt;a href= %1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
-    <string name="module_week_ringtone_download_wifi">Будильник воспроизводит разные звуки природы, в зависимости от даты. Приложению требуется загрузить аудиофайлы. Загрузить?</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Будильник воспроизводит разные звуки природы, в зависимости от даты. Приложению требуется подключение к интернету для загрузки аудиофайлов. Перед использованием вы должны принять наши &amp;lt;a href= %1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
-    <string name="module_week_ringtone_introduce">Будильник воспроизводит разные звуки природы, в зависимости от даты.</string>
-    <string name="module_week_ringtone_update_data">Будильник воспроизводит разные звуки природы, в зависимости от даты. Приложению требуется загрузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
-    <string name="module_week_ringtone_update_success">Будильник воспроизводит разные звуки природы, в зависимости от даты. Создайте новый будильник, чтобы попробовать эту функцию.</string>
+    <string name="module_weather_ringtone_download_data">Погодный будильник выбирает различные мелодии в зависимости от текущей погоды. Приложению требуется загрузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
+    <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;Погодный будильник выбирает различные мелодии в зависимости от текущей погоды. Требуется подключение к интернету для загрузки &amp;#8776;30 МБ аудиофайлов. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
+    <string name="module_weather_ringtone_download_wifi">Погодный будильник выбирает различные мелодии в зависимости от текущей погоды. Приложению требуется загрузить аудиофайлы. Загрузить?</string>
+    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;Погодный будильник выбирает различные мелодии в зависимости от текущей погоды. Приложению требуется подключение к интернету для загрузки аудиофайлов. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
+    <string name="module_weather_ringtone_introduce">Погодный будильник выбирает различные мелодии в зависимости от текущей погоды. Это позволит прослушивать информацию о текущей погоде по утрам.</string>
+    <string name="module_weather_ringtone_introduce_global">Погодный будильник выбирает различные мелодии в зависимости от текущей погоды.</string>
+    <string name="module_weather_ringtone_update_data">Погодный будильник теперь включает в себя фоновую музыку и улучшенные голосовые объявления. Приложению требуется загрузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
+    <string name="module_weather_ringtone_update_success">Погодный будильник теперь включает в себя фоновую музыку и улучшенные голосовые объявления. Вы можете создать новый будильник, чтобы попробовать эту функцию.</string>
+    <string name="module_week_ringtone_download_data">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты. Приложению требуется загрузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты. Приложению требуется подключение к интернету для загрузки &amp;#8776;30 МБ аудиофайлов. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
+    <string name="module_week_ringtone_download_wifi">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты. Приложению требуется загрузить аудиофайлы. Загрузить?</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты. Приложению требуется подключение к интернету для загрузки аудиофайлов. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
+    <string name="module_week_ringtone_introduce">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты.</string>
+    <string name="module_week_ringtone_update_data">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты. Приложению требуется загрузить ≈ 30 МБ аудиофайлов. Загрузить?</string>
+    <string name="module_week_ringtone_update_success">Будильник со звуками природы воспроизводит разные мелодии, в зависимости от текущей даты. Вы можете создать новый будильник, чтобы попробовать эту функцию.</string>
     <string name="module_white_noise_download_data">Приложению требуется загрузить аудиофайлы звуков природы для таймеров. ≈30MB мобильного интернета понадобится для загрузки. Загрузить?</string>
-    <string name="module_white_noise_download_data_privacy">&lt;Data&gt;"Для загрузки аудиофайлов звуков природы для таймеров (&amp;#8776;30 МБ) и предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href= %1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Для загрузки будет использоваться мобильный интернет. Согласны?"&lt;/Data&gt;</string>
+    <string name="module_white_noise_download_data_privacy">&lt;Data&gt;"Для загрузки аудиофайлов звуков природы для таймеров (&amp;#8776;30 МБ) и предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Для загрузки будет использоваться мобильный интернет. Согласны?"&lt;/Data&gt;</string>
     <string name="module_white_noise_download_wifi">Приложению требуется загрузить аудиофайлы звуков природы для таймеров. Загрузить?</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Для загрузки аудиофайлов звуков природы для таймеров и предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href= %1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; Согласны?&lt;/Data&gt;</string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Для загрузки аудиофайлов звуков природы для таймеров и предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; Согласны?&lt;/Data&gt;</string>
     <string name="monday_to_friday">По будням</string>
     <string name="more_setting">Прочие настройки</string>
     <string name="more_settings">Настройки</string>
-    <string name="network_privacy">&lt;Data&gt;Для получения актуальной информации о местных праздниках и настройки будильников, приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href= %1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
-    <string name="network_privacy_global">&lt;Data&gt;Для предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href= %1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
+    <string name="network_privacy">&lt;Data&gt;Для получения актуальной информации о праздниках и настройки будильников приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
+    <string name="network_privacy_global">&lt;Data&gt;Для предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
     <string name="never">Однократно</string>
     <string name="no_alarm_setting">Нет будильников</string>
     <string name="no_worldclock">Нет часов</string> 
+    <string name="not_update">Не сейчас</string>
     <string name="oneshot_alarm">Удалить после срабатывания</string>
     <string name="open_keep_screen">Экран будет включен постоянно</string>
+    <string name="open_sleep_record">Включить</string>
     <string name="other_category_title">Прочее</string>
     <string name="pause">Пауза</string>
     <string name="percentage_sign">%</string>
@@ -246,6 +253,7 @@
     <string name="setting_alarm_arriving_subtitle">Показывать уведомления перед отключением будильников</string>
     <string name="setting_alarm_arriving_summary">Оповещать уведомлением перед звонком будильника</string>
     <string name="setting_alarm_arriving_title">Уведомление перед звонком</string>
+    <string name="setting_complete">Готово</string>
     <string name="settings">Настройки</string>
     <string name="shortcut_new_alarm">Будильник</string>
     <string name="shortcut_start_timer">Таймер</string>
@@ -258,6 +266,27 @@
     <string name="shutdown_alarm_title">Срабатывание при выключенном устройстве</string>
     <string name="silent_alarm_summary">Без звука</string>
     <string name="skip_alarm_once_hint">Отключить один раз %s</string>
+    <string name="sleep_analysis">Статистика</string>
+    <string name="sleep_date_provider_text">Данные о сне предоставлены Mi Health</string>
+    <string name="sleep_duration">"Длительность сна: "</string>
+    <string name="sleep_duration_avg_text_diff">Средняя продолжительность сна  (%1$s-%2$s)</string>
+    <string name="sleep_duration_desc">Сон %1$s %2$s</string>
+    <string name="sleep_duration_no_data">Ничего нет</string>
+    <string name="sleep_duration_recommendation">Большинству людей требуется от 7 до 9 часов сна в сутки</string>
+    <string name="sleep_duration_text">%1$s %2$s</string>
+    <string name="sleep_duration_text_avg">%1$s %2$s</string>
+    <string name="sleep_no_disturbance">Режим \"Не беспокоить\"</string>
+    <string name="sleep_no_disturbance_desc">Включение режима \"Не беспокоить\" до пробуждения</string>
+    <string name="sleep_no_record_text">Начните отслеживние сна, чтобы появилась статистика</string>
+    <string name="sleep_notification_desc">Придерживайтесь своего режима сна</string>
+    <string name="sleep_notification_title">Время ложиться спать</string>
+    <string name="sleep_record">Отслеживание сна</string>
+    <string name="sleep_record_desc">Включение отслеживания сна</string>
+    <string name="sleep_record_desc_detailed">Функция отслеживания сна предоставляется Mi Health. После включения, Mi Health автоматически записывает ваш сон на основе использования вашего телефона и статистики активности, а также установленного времени засыпания и пробуждения, показывая вам статистику в виде диаграмм. Для более точного отслеживания сна, разрешите автозапуск для Mi Health. Все данные будут храниться локально на вашем устройстве, что позволяет легко управлять ими.</string>
+    <string name="sleep_record_no_data">Ваша статистика появится здесь после того, как наберется достаточно данных и Mi Health проанализирует их</string>
+    <string name="sleep_remind">Напоминание</string>
+    <string name="sleep_time">Начало сна</string>
+    <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Сдвиньте вверх для отключения</string>
     <string name="snooze_confirm_cancel">Отключить</string>
     <string name="snooze_duration">Повтор</string>
@@ -330,13 +359,21 @@
     <string name="turn_off_this_repeat_alarm">Отключить насовсем</string>
     <string name="upcoming_alarm">Будильник: %s</string>
     <string name="upcoming_alarm_hint">Вы можете отключить этот будильник</string>
+    <string name="update_health_app">Обновление Mi Health</string>
+    <string name="update_health_app_desc">Функция отслеживания сна предоставляется Mi Health. Обновите Mi Health до последней версии, чтобы получить доступ к соответствующим функциям.</string>
+    <string name="update_it">Обновить</string>
     <string name="update_notification_info">Обновление данных в фоновом режиме…</string>
+    <string name="usage_start">Начать</string>
     <string name="user_agreement">Пользовательское соглашение</string>
     <string name="vibrate_pref_summary">Вибрировать при сигнале</string>
     <string name="vibrate_when_ringing">Вибрировать при сигнале</string>
     <string name="volume_button_setting_desc">Назначьте функции для кнопок питания и громкости +/-</string>
     <string name="volume_button_setting_summary">Настройка функции боковых кнопок при их нажатии во время звонка будильника</string>
     <string name="volume_button_setting_title">Функция боковых кнопок</string>
+    <string name="wake_up_alert">Будильник</string>
+    <string name="wake_up_alert_desc">Включение будильника в установленное время</string>
+    <string name="wake_up_ringtone">Рингтон будильника</string>
+    <string name="wake_up_time">Пробуждение</string>
     <string name="workday_alarm_clock">По рабочим дням</string>
     <string name="worldclock_empty_text">Нет часовых поясов</string>
     <string name="worldclock_input_hint_text">Поиск страны или города</string>
@@ -349,5 +386,5 @@
     <string name="worldcolock_timezone_current">Текущий пояс: %1$s</string>
     <string name="worldcolock_timezone_date">d MMMM</string>
     <string name="worldcolock_timezone_gap">| %s ч.</string>
-    <string name="worldcolock_timezone_local">| как и местное время</string>
+    <string name="worldcolock_timezone_local">| как местное время</string>
 </resources>

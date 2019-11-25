@@ -52,6 +52,17 @@
         <item>25 минут</item>
         <item>30 минут</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>Понедельник-пятница</item>
+        <item>Каждый день</item>
+        <item>Рабочие дни</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Каждый день</item>
+        <item>Понедельник-пятница</item>
+        <item>Рабочие дни</item>
+        <item>По выбору</item>
+    </string-array>	
     <string-array name="cities_names_miui">
         <item>Абиджан</item>
         <item>Аккра</item>
@@ -633,6 +644,15 @@
         <item>Суринам</item>
         <item>Эквадор</item>
     </string-array>
+    <string-array name="days_of_week">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>	
     <string-array name="snooze_duration_entries">
         <item>1 минута</item>
         <item>5 минут</item>
@@ -664,26 +684,6 @@
         <item>Нет действий</item>
         <item>Отложить</item>
         <item>Отключить</item>
-    </string-array>
-    <string-array name="bedtime_guide_repeat_type">
-        <item>Понедельник-пятница</item>
-        <item>Каждый день</item>
-        <item>Рабочие дни</item>
-    </string-array>
-    <string-array name="bedtime_repeat_entries">
-        <item>Каждый день</item>
-        <item>Понедельник-пятница</item>
-        <item>Рабочие дни</item>
-        <item>По выбору</item>
-    </string-array>
-    <string-array name="days_of_week">
-        <item>Вс</item>
-        <item>Пн</item>
-        <item>Вт</item>
-        <item>Ср</item>
-        <item>Чт</item>
-        <item>Пт</item>
-        <item>Сб</item>
     </string-array>
     <string-array name="notification_adv_time_entries">
         <item>В заданное время</item>
