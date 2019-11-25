@@ -49,16 +49,16 @@
         <item quantity="many">через %d часов</item>
     </plurals>
     <plurals name="duration_hours_shortest">
-        <item quantity="other">%d ч</item>
-        <item quantity="one">%d ч</item>
-        <item quantity="few">%d ч</item>
-        <item quantity="many">%d ч</item>
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+        <item quantity="few">%d ч.</item>
+        <item quantity="many">%d ч.</item>
     </plurals>
     <plurals name="duration_hours_shortest_future">
-        <item quantity="other">через %d ч</item>
-        <item quantity="one">через %d ч</item>
-        <item quantity="few">через %d ч</item>
-        <item quantity="many">через %d ч</item>
+        <item quantity="other">через %d ч.</item>
+        <item quantity="one">через %d ч.</item>
+        <item quantity="few">через %d ч.</item>
+        <item quantity="many">через %d ч.</item>
     </plurals>
     <plurals name="duration_minutes_relative">
         <item quantity="other">%d минуты назад</item>
@@ -73,16 +73,16 @@
         <item quantity="many">через %d минут</item>
     </plurals>
     <plurals name="duration_minutes_shortest">
-        <item quantity="other">%d мин</item>
-        <item quantity="one">%d мин</item>
-        <item quantity="few">%d мин</item>
-        <item quantity="many">%d мин</item>
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+        <item quantity="few">%d мин.</item>
+        <item quantity="many">%d мин.</item>
     </plurals>
     <plurals name="duration_minutes_shortest_future">
-        <item quantity="other">через %d мин</item>
-        <item quantity="one">через %d мин</item>
-        <item quantity="few">через %d мин</item>
-        <item quantity="many">через %d мин</item>
+        <item quantity="other">через %d мин.</item>
+        <item quantity="one">через %d мин.</item>
+        <item quantity="few">через %d мин.</item>
+        <item quantity="many">через %d мин.</item>
     </plurals>
     <plurals name="duration_years_relative">
         <item quantity="other">%d года назад</item>
