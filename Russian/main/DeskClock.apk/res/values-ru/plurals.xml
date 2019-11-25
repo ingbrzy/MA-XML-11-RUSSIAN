@@ -53,22 +53,22 @@
         <item quantity="many">%d дней</item>
     </plurals>
     <plurals name="hour">
-        <item quantity="other">%d ч</item>
-        <item quantity="one">%d ч</item>
-        <item quantity="few">%d ч</item>
-        <item quantity="many">%d ч</item>
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+        <item quantity="few">%d ч.</item>
+        <item quantity="many">%d ч.</item>
     </plurals>
     <plurals name="minute">
-        <item quantity="other">%d мин</item>
-        <item quantity="one">%d мин</item>
-        <item quantity="few">%d мин</item>
-        <item quantity="many">%d мин</item>
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+        <item quantity="few">%d мин.</item>
+        <item quantity="many">%d мин.</item>
     </plurals>
     <plurals name="second">
-        <item quantity="other">%d с</item>
-        <item quantity="one">%d с</item>
-        <item quantity="few">%d с</item>
-        <item quantity="many">%d с</item>
+        <item quantity="other">%d с.</item>
+        <item quantity="one">%d с.</item>
+        <item quantity="few">%d с.</item>
+        <item quantity="many">%d с.</item>
     </plurals>
     <plurals name="life_post_wake_up_item_acumu_day">
         <item quantity="other">%1$d дней</item>
@@ -83,10 +83,10 @@
         <item quantity="many">%d часов</item>
     </plurals>
     <plurals name="sleep_duration_hour_avg">
-        <item quantity="other">%d ч</item>
-        <item quantity="one">%d ч</item>
-        <item quantity="few">%d ч</item>
-        <item quantity="many">%d ч</item>
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+        <item quantity="few">%d ч.</item>
+        <item quantity="many">%d ч.</item>
     </plurals>
     <plurals name="sleep_duration_min">
         <item quantity="other">%d минут</item>
@@ -95,10 +95,10 @@
         <item quantity="many">%d минут</item>
     </plurals>
     <plurals name="sleep_duration_min_avg">
-        <item quantity="other">%d мин</item>
-        <item quantity="one">%d мин</item>
-        <item quantity="few">%d мин</item>
-        <item quantity="many">%d мин</item>
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+        <item quantity="few">%d мин.</item>
+        <item quantity="many">%d мин.</item>
     </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">Интервал повтора изменен на %d минут</item>
@@ -113,19 +113,19 @@
         <item quantity="many">Сработает %1$s раз</item>
     </plurals>
     <plurals name="snooze_duration_desc">
-        <item quantity="other">%2$s повторов (интервал %1$s мин)</item>
-        <item quantity="one">%2$s повтор (интервал %1$s мин)</item>
-        <item quantity="few">%2$s повтора (интервал %1$s мин)</item>
-        <item quantity="many">%2$s повторов (интервал %1$s мин)</item>
+        <item quantity="other">%2$s повторов (интервал %1$s мин.)</item>
+        <item quantity="one">%2$s повтор (интервал %1$s мин.)</item>
+        <item quantity="few">%2$s повтора (интервал %1$s мин.)</item>
+        <item quantity="many">%2$s повторов (интервал %1$s мин.)</item>
     </plurals>
     <plurals name="snooze_duration_min">
-        <item quantity="other">Каждые %1$s мин</item>
-        <item quantity="one">Каждую %1$s мин</item>
+        <item quantity="other">Каждые %1$s мин.</item>
+        <item quantity="one">Каждую %1$s мин.</item>
     </plurals>    
     <plurals name="snooze_duration_summary">
-        <item quantity="other">Будильник сработает %2$s раз (каждые %1$s мин)</item>
-        <item quantity="one">Будильник сработает %2$s раз (%1$s мин)</item>
-        <item quantity="few">>Будильник сработает %2$s раза (каждые %1$s мин)</item>
-        <item quantity="many">Будильник сработает %2$s раз (каждые %1$s мин)</item>
+        <item quantity="other">Будильник сработает %2$s раз (каждые %1$s мин.)</item>
+        <item quantity="one">Будильник сработает %2$s раз (%1$s мин.)</item>
+        <item quantity="few">>Будильник сработает %2$s раза (каждые %1$s мин.)</item>
+        <item quantity="many">Будильник сработает %2$s раз (каждые %1$s мин.)</item>
     </plurals>    
 </resources>
