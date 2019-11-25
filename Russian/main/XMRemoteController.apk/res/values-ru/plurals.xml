@@ -25,10 +25,10 @@
         <item quantity="many">%1$d д. назад</item>
     </plurals>
     <plurals name="hours_ago">
-        <item quantity="other">%1$d ч. назад</item>
-        <item quantity="one">%1$d ч. назад</item>
-        <item quantity="few">%1$d ч. назад</item>
-        <item quantity="many">%1$d ч. назад</item>
+        <item quantity="other">%1$d ч назад</item>
+        <item quantity="one">%1$d ч назад</item>
+        <item quantity="few">%1$d ч назад</item>
+        <item quantity="many">%1$d ч назад</item>
     </plurals>
     <plurals name="match_brand_selection_des">
         <item quantity="other">Доступно %d моделей</item>
@@ -37,10 +37,10 @@
         <item quantity="many">Доступно %d моделей</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">%1$d мин. назад</item>
-        <item quantity="one">%1$d мин. назад</item>
-        <item quantity="few">%1$d мин. назад</item>
-        <item quantity="many">%1$d мин. назад</item>
+        <item quantity="other">%1$d мин назад</item>
+        <item quantity="one">%1$d мин назад</item>
+        <item quantity="few">%1$d мин назад</item>
+        <item quantity="many">%1$d мин назад</item>
     </plurals>
     <plurals name="mitv_show_update_full">
         <item quantity="other">%d эпизодов</item>
