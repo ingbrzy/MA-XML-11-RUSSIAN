@@ -90,6 +90,7 @@
     <string name="ad_go_see">Еще</string>
     <string name="ad_look_detail">Сведения</string>
     <string name="add_bookmark_group">Добавить папку</string> 
+    <string name="add_bookshelf_popup_text">Добавлено на книжную полку</string>
     <string name="add_favorites_to">Добавить в избранное</string>
     <string name="add_new_bookmark">Новая закладка</string>
     <string name="add_new_quicklink">Добавить на стартовую страницу</string>
@@ -118,6 +119,16 @@
     <string name="app_open_text">Открыть</string>
     <string name="app_task_download_exists_text">Загрузка уже есть</string>
     <string name="application_name">Браузер</string>
+    <string name="aqi_quality_index_break">Черезвычайно грязный</string>
+    <string name="aqi_quality_index_dangerous">Грязный</string>
+    <string name="aqi_quality_index_good">Чистый</string>
+    <string name="aqi_quality_index_hazardous">Очень грязный</string>
+    <string name="aqi_quality_index_light_pollution">Умеренно загрязненный</string>
+    <string name="aqi_quality_index_moderate">Загрязненный</string>
+    <string name="aqi_quality_index_pure">Очень чистый</string>
+    <string name="aqi_quality_index_unhealthy">Небезопасный</string>
+    <string name="autologin_bar_hide_text">Скрыть</string>
+    <string name="autologin_bar_login_text">Вход</string>	
     <string name="autologin_bar_hide_text">Скрыть</string>
     <string name="autologin_bar_login_text">Вход</string>
     <string name="back_button_label">Назад</string>
@@ -173,11 +184,30 @@
     <string name="cloud_tabs_sync_off">Синхронизация выключена</string>
     <string name="cloud_time_tips">Последняя синхронизация</string>
     <string name="cloud_up_to_loading_tips">Отпустите для синхронизации</string>
+   
+    <string name="collect_video">Добавить видео</string>
+    <string name="comment_app_menu">Комментарий</string>
+    <string name="comment_description">Комментарий</string>
+    <string name="comment_hint">Комментарий</string>
+    <string name="comment_max_length">Комментарий слишком длинный.</string>
+    <string name="comment_menu">Комментарий</string>
+    <string name="comment_num_description">Номер комментария</string>
+    <string name="comment_publish_to_topic">Синхронизация с</string>
+    <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+    <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
+    <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+    <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+    <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
+    <string name="common_use_phrase_bottom_bar_point_txt">.</string>
+    <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+    <string name="common_use_phrase_bottom_bar_text_next">След.</string>
+    <string name="common_use_phrase_bottom_bar_text_previous">Предыд.</string>
+    <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
     <string name="context_menu_add_to_desk_id">Добавить на Рабочий стол</string>
     <string name="context_menu_orientation_portrait_swap_id">Повернуть экран</string>
     <string name="contextmenu_add_contact">Добавить контакт</string>
     <string name="contextmenu_copy">Копировать</string>
-    <string name="contextmenu_copylink">Скопировать ссылку URL</string>
+    <string name="contextmenu_copylink">Скопировать URL</string>
     <string name="contextmenu_dial_dot">Набор номера…</string>
     <string name="contextmenu_download_image">Сохранить изображение</string>
     <string name="contextmenu_download_image_as">Сохранить изображение</string>
@@ -200,6 +230,8 @@
     <string name="current_version_pc">Компьютер</string>
     <string name="current_version_phone">Телефон</string>
     <string name="custom_head_card_text">Всегда верьте, что произойдет что-то замечательное</string>
+    <string name="custom_head_content_pull_down_text">Потяните вниз</string>
+    <string name="custom_head_pull_down_text">Введите infoFlow</string>
     <string name="custom_head_weather">Погода</string>
     <string name="data_monitor">Напоминать о трафике</string>
     <string name="data_monitor_dialog_message">Повышенный расход мобильных данных. Перейдите на стартовую страницу, чтобы остановить расход.</string>
@@ -356,6 +388,7 @@
     <string name="more_option">Дополнительные параметры</string>
     <string name="movie_player_3g_tip_retry">Продолжить</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+    <string name="multi_window_max_tips">Количество вкладок достигло максимума</string>
     <string name="mw_accessibility_date_picker_month">Месяц</string>
     <string name="mw_accessibility_date_picker_week">Неделя</string>
     <string name="mw_accessibility_date_picker_year">Год</string>
@@ -427,9 +460,41 @@
     <string name="no_space_alert_text">Недостаточно места</string>
     <string name="no_space_alert_title">Загрузка приостановлена</string>
     <string name="not_remind_again">Запомнить выбор</string>
+    <string name="notif_install_successful">Загрузка завершена</string>
+    <string name="novel_toast_hint">Сайт добавлен на книжную полку</string>
     <string name="ok">ОК</string>
     <string name="open_cloud_sync">Включить синхронизацию с облаком</string>
     <string name="open_cloud_sync_desc">Закладка успешно добавлена. Включите синхронизацию с облаком, чтобы синхронизировать закладки, добавленные на других устройствах. Войти и включить?</string>
+    <string name="open_file_explorer_failed">Не удалось открыть Проводник</string>
+    <string name="open_voice_permission">Разрешите микрофону подключение к интернету</string>
+    <string name="page_hang_message">Страница не отвечает, необходимо перезапустить браузер</string>
+    <string name="page_hang_title">Страница не отвечает</string>
+    <string name="page_info">Сведения</string>
+    <string name="page_info_address">Адрес:</string>
+    <string name="page_info_view">Посмотреть</string>
+    <string name="passport_oauth_sucess_tip">Успешная авторизация</string>
+    <string name="password">Пароль</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="pause_download">Приостановлено</string>
+    <string name="paused_queued_for_wifi">Ожидание соединения…</string>
+    <string name="paused_unknown">Приостановлено</string>
+    <string name="paused_waiting_for_network">Ожидание соединения…</string>
+    <string name="paused_waiting_to_retry">Повторная попытка…</string>
+    <string name="pay_failed_toast">Не удалось завершить платеж</string>
+    <string name="pay_success_toast">Успешная оплата</string>
+    <string name="permission_alert_window">Чтобы использовать эту функцию, разрешите всплывающие уведомления.</string>
+    <string name="permission_notification">отправлять уведомления.</string>
+    <string name="permission_unknown">Неизвестная опция</string>
+    <string name="permissions_prompt_message">%s хочет</string>
+    <string name="play_pause_video">Воспроизвести/приостановить</string>
+    <string name="play_retry">Повтор</string>
+    <string name="play_video">Воспроизвести видео</string>
+    <string name="player_3g_tip_title">Используется мобильный интернет, продолжение воспроизведения может привести к расходу трафика</string>
+    <string name="player_data_error_tip">Видео временно недоступно. Повторите попытку позже.</string>
+    <string name="player_net_error">Сеть недоступна, проверьте настройки сети</string>
+    <string name="popup_video">Всплывающее видео</string>
+    <string name="popup_window_attempt">Разрешить сайту всплывающие окна?</string>
+    <string name="positive_confirm_message">Отключить</string>
     <string name="pref_accept_quicklink_push">Новостная лента</string>
     <string name="pref_accessibility_recommending_search_title">Рекомендовать поиск</string>
     <string name="pref_accessibility_title">Специальные возможности</string> 
@@ -440,12 +505,22 @@
     <string name="pref_advert_null">Нет элементов, помеченных как реклама. Чтобы отметить, нажмите и удерживайте элемент на странице.</string>
     <string name="pref_auto_update_under_wifi">Автоматическое обновление через Wi-Fi</string>
     <string name="pref_cancel_screen">Разблокировать</string>
+    <string name="pref_category_hint">Категории</string>
+    <string name="pref_check_security_url_summary">Отправка URL на серверы Mi для проверки безопасности.</string>
+    <string name="pref_check_security_url_summary_international">Разрешить браузеру доступ к посещенным URL для получения актуальных рекомендаций.</string>
+    <string name="pref_check_security_url_title">Проверить безопасность URL</string>
+    <string name="pref_check_security_url_title_international">Получить URL</string>
+    <string name="pref_checkbox_tab_restore">Запомнить (можно изменить в Дополнительных настройках)</string>
+    <string name="pref_clear_adblock_statistics">Очистить историю блокировки рекламы</string>
+    <string name="pref_clear_adblock_statistics_dlg">Очистить счетчик блокировок?</string>
     <string name="pref_clear_all_data_dlg">Удалить все сохраненные данные?</string>
     <string name="pref_clear_all_data_title">Очистить все</string>
     <string name="pref_clear_data_title">Очистить данные</string>
     <string name="pref_confirm_for_exit">Подтверждение выхода</string>
+    <string name="pref_content_auto_light_mode">Авто-яркость</string>
     <string name="pref_content_block_popups">Блокировать всплывающие окна</string>
     <string name="pref_content_cloud_speedup">Быстрая загрузка контента с использованием прокси</string>
+    <string name="pref_content_fontsize_setting">Настройки шрифта</string>
     <string name="pref_content_homepage">Стартовая страница</string>
     <string name="pref_content_javascript">Включить JavaScript</string>
     <string name="pref_content_search_engine">Поисковая система</string>
@@ -454,10 +529,14 @@
     <string name="pref_debug_mode">Режим отладки</string>
     <string name="pref_download_setting">Настройка загрузки</string>
     <string name="pref_enable_adblock_notification">Показывать уведомления блокировщика рекламы</string>
+    <string name="pref_enable_news">Новости</string>
+    <string name="pref_enable_novels">Книги</string>
+    <string name="pref_enable_videos">Видео</string>
     <string name="pref_extras_devopt">Настройки разработчика</string>
     <string name="pref_extras_reset_default">Сбросить настройки</string>
     <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>
     <string name="pref_extras_reset_default_summary">Восстановить каталог по умолчанию</string>
+    <string name="pref_extras_reset_default_title">Другое</string>
     <string name="pref_extras_send_feedback">Отправить отзыв</string>
     <string name="pref_extras_title">Дополнительные настройки</string>
     <string name="pref_extras_title_version">Версия</string>
@@ -495,6 +574,7 @@
     <string name="pref_privacy_clear_geolocation_access_dlg">Очистить геоданные?</string>
     <string name="pref_privacy_clear_geolocation_access_summary">Удалить сайты, имеющие доступ к вашему местоположению</string>
     <string name="pref_privacy_clear_history">Очистить историю</string>
+    <string name="pref_privacy_clear_history_by_group_dlg">Очистить журнал браузера?</string>
     <string name="pref_privacy_clear_history_dlg">Очистить историю?</string>
     <string name="pref_privacy_clear_history_summary">Удалить историю просмотров</string>
     <string name="pref_privacy_clear_passwords">Очистить сохраненные пароли</string>
@@ -502,11 +582,13 @@
     <string name="pref_privacy_clear_passwords_summary">Удалить все сохраненные пароли</string>
     <string name="pref_privacy_enable_geolocation">Местоположение</string>
     <string name="pref_privacy_enable_geolocation_summary">Разрешить браузеру запрашивать доступ к вашему местоположению</string>
+    <string name="pref_privacy_location_title">Доступ к местоположению</string>
     <string name="pref_privacy_policy">Политика конфиденциальности</string>
     <string name="pref_privacy_security_title">Конфиденциальность и безопасность</string>
     <string name="pref_save_bandwidth_mode_title">Экономия трафика</string>
     <string name="pref_security_accept_cookies">Разрешить cookies</string>
     <string name="pref_security_accept_cookies_summary">Разрешить сайтам сохранять и читать файлы cookie</string>
+   <string name="pref_security_passwords_title">Пароли</string>
     <string name="pref_security_remember_passwords">Запоминать пароли</string>
     <string name="pref_security_remember_passwords_summary">Сохранять имена пользователей и пароли</string>
     <string name="pref_security_save_form_data">Запоминать данные веб-форм</string>
@@ -550,6 +632,7 @@
     <string name="removed_from_bookmarks">Удалено из закладок</string>
     <string name="reopen">Открыть</string>
     <string name="replace">Заменить</string>
+    <string name="resume_download">Начать</string>
     <string name="retry_after_network_available">Ошибка подключения к сети</string>
     <string name="retry_download">Повторить попытку</string>
     <string name="return_to_homepage">Возврат на стартовую страницу</string>
@@ -605,7 +688,7 @@
     <string name="short_video_tip">Посмотри! Веселое видео</string>
     <string name="show_check_security_url_check_tip_dialog_description">"Мы будем собирать и использовать ваши личные данные, если вы решите воспользоваться нашим сервисом.
 Сбор данных:
-1. Безопасные URL-адреса: сбор посещаемых URL-адресов веб-сайтов.
+1. Безопасные URL: сбор посещаемых URL веб-сайтов.
 2. Данные о местоположении:  доступ к информации о вашем местоположении.
 Использование данных:
 1. Безопасность: мы будем использовать ваши данные, для защиты от мошенничества и вирусов, а также для хранения и резервного копирования.
@@ -616,6 +699,7 @@
     <string name="sign_in_to" formatted="false">Вход в %s1 \"%s2\"</string>
     <string name="slide_guide">Слайд для возврата</string>
     <string name="small_video_ad_app_text_click">Загрузить</string>
+    <string name="small_video_ad_app_text_resume">Продолжить</string>
     <string name="small_video_ad_download_text">Загрузить</string>
     <string name="small_video_ad_web_text">Открыть</string>
     <string name="small_video_boba_tab">Транслировать</string>
@@ -729,7 +813,7 @@
     <string name="video_download_error_http_gone">Не удалось найти файл</string>
     <string name="video_download_exists">Загрузка уже существует.</string>
     <string name="video_download_failed">Ошибка загрузки</string>
-    <string name="video_download_finding_address">Получение URL-адреса загрузки</string>
+    <string name="video_download_finding_address">Получение URL загрузки</string>
     <string name="video_download_pause">Загрузка приостановлена</string>
     <string name="video_download_start">Загрузка…</string>
     <string name="video_download_unknown_name">Неизвестное имя</string>
