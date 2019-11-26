@@ -3,7 +3,6 @@
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="activity_not_unlocked">Перед открытием приложений дождитесь полной перезагрузки устройства</string>
-    <string name="add">Добавить</string>
     <string name="add_custom_category">Настроить</string>
     <string name="add_screen">Добавить экран</string>
     <string name="added_all_category">Приложения добавлены</string>
@@ -161,6 +160,7 @@
     <string name="drawer_background_transparency">Прозрачность</string>
     <string name="drawer_settings">Меню приложений</string>
     <string name="dual_app">Клонировать</string>
+    <string name="edit">Редактировать</string>
     <string name="edit_folder_title">Переименовать папку</string>
     <string name="edit_mode_dual_app">Клонирование</string>
     <string name="edit_mode_group">Группировать</string>
