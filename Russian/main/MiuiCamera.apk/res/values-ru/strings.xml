@@ -364,7 +364,7 @@
   <string name="pref_camera_device_watermark_title">Водяной знак</string>
   <string name="pref_camera_exposuretime_entry_0_3">0.3 с</string>
   <string name="pref_camera_exposuretime_entry_0_4">0.4 с</string>
-  <string name="pref_camera_exposuretime_entry_0_5">0.5 с</string>
+  <string name="pref_camera_exposuretime_entry_0_5">1/2 с</string>
   <string name="pref_camera_exposuretime_entry_0_6">0.6 с</string>
   <string name="pref_camera_exposuretime_entry_0_8">0.8 с</string>
   <string name="pref_camera_exposuretime_entry_10">1/10 с</string>
@@ -590,7 +590,6 @@
   <string name="pref_camera_ultra_wide_ldc_description">Автоматически корректировать искаженные объекты</string>
   <string name="pref_camera_ultra_wide_ldc_title">Коррекция искажений в ультра-широкоугольных снимках</string>
   <string name="pref_camera_ultra_wide_mode_title">Ультра-широкоугольный режим</string>
-  <string name="pref_camera_video_8k_tips">8K</string>
   <string name="pref_camera_video_bokeh_off">Боке отключено</string>
   <string name="pref_camera_video_bokeh_on">Боке включено</string>
   <string name="pref_camera_video_duration_entry_10">10 минут</string>
@@ -663,7 +662,7 @@
   <string name="pref_priority_storage_title">Сохранять на SD карту</string>
   <string name="pref_privacy_title">Политика конфиденциальности</string>
   <string name="pref_qc_focus_position_title">ФОКУС</string>
-  <string name="pref_qc_focus_position_title_abbr">АФ</string>
+  <string name="pref_qc_focus_position_title_abbr">А/Р Ф</string>
   <string name="pref_retain_camera_mode_summary">При запуске камеры переключаться в последний используемый режим</string>
   <string name="pref_retain_camera_mode_title">Сохранять предыдущий режим</string>
   <string name="pref_scan_qrcode_summary">Сканировать QR-коды в режиме \"Фото\" может только основная камера</string>
