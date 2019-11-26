@@ -51,14 +51,14 @@
         <item quantity="one">&lt;Data>Можно удалить данные &lt;font color=#0097FF>%d&lt;/font> приложения&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_image">
-        <item quantity="other">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> ненужных фото&lt;/Data></item>
-        <item quantity="one">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> ненужное фото&lt;/Data></item>
+        <item quantity="other">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> фото&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> фото&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_large_file">
-        <item quantity="other">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> больших файлов&lt;/Data></item>
-        <item quantity="one">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> большой файл&lt;/Data></item>
-        <item quantity="few">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> больших файла&lt;/Data></item>
-        <item quantity="many">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> больших файлов&lt;/Data></item>
+        <item quantity="other">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> файлов&lt;/Data></item>
+        <item quantity="one">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> файл&lt;/Data></item>
+        <item quantity="few">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> файла&lt;/Data></item>
+        <item quantity="many">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> файлов&lt;/Data></item>
     </plurals>
     <plurals name="dc_item_summary_uninstall_app">
         <item quantity="other">&lt;Data>Можно удалить &lt;font color=#0097FF>%d&lt;/font> редко используемых приложений&lt;/Data></item>
@@ -129,6 +129,30 @@
         <item quantity="one">Удалить %1$s фото со всех устройств?</item>
         <item quantity="few">Удалить %1$s фото со всех устройств?</item>
         <item quantity="many">Удалить %1$s фото со всех устройств?</item>
+    </plurals>
+	<plurals name="global_wa_clean_finish_audio">
+        <item quantity="other">&lt;Data>Освобождено &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (достаточно для &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> треков)&lt;/Data></item>
+        <item quantity="one">&lt;Data>Освобождено &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (достаточно для &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> трека)&lt;/Data></item>
+    </plurals>
+    <plurals name="global_wa_clean_finish_picture">
+        <item quantity="other">&lt;Data>Освобождено &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (достаточно для &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> фото)&lt;/Data></item>
+        <item quantity="one">&lt;Data>Освобождено &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (достаточно для &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> фото)&lt;/Data></item>
+    </plurals>
+    <plurals name="global_wa_image">
+        <item quantity="other">%1$d изображений</item>
+        <item quantity="one">%1$d изображение</item>
+        <item quantity="few">%1$d изображения</item>
+        <item quantity="many">%1$d изображений</item>
+    </plurals>
+    <plurals name="global_wa_video">
+        <item quantity="other">%1$d видео</item>
+        <item quantity="one">%1$d видео</item>
+    </plurals>
+    <plurals name="global_wa_voice">
+        <item quantity="other">&lt;Data>Найдено &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> голосовых сообщений&lt;/Data></item>
+        <item quantity="one">&lt;Data>Найдено &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> голосовое сообщение&lt;/Data></item>
+        <item quantity="few">&lt;Data>Найдено &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> голосовых сообщения&lt;/Data></item>
+        <item quantity="many">&lt;Data>Найдено &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> голосовых сообщений&lt;/Data></item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d групп</item>
@@ -221,9 +245,9 @@
         <item quantity="many">%1$s</item>
     </plurals>
     <plurals name="whatsapp_delete_files">
-        <item quantity="other">Удалить %1$d объектов?</item>
-        <item quantity="one">Удалить %1$d объект?</item>
-        <item quantity="few">Удалить %1$d объекта?</item>
-        <item quantity="many">Удалить %1$d объектов?</item>
+        <item quantity="other">Удалить %1$d файлов?</item>
+        <item quantity="one">Удалить %1$d файл?</item>
+        <item quantity="few">Удалить %1$d файла?</item>
+        <item quantity="many">Удалить %1$d файлов?</item>
     </plurals>
 </resources>
