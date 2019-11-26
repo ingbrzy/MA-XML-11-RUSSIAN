@@ -403,6 +403,7 @@
     <string name="status_paused">Пауза</string>
     <string name="status_pending">Ожидание</string>
     <string name="system_shortcuts_more_operation">О приложении</string>
+	<string name="system_shortcuts_remove">Удалить</string>
     <string name="system_text">По умолчанию</string>
     <string name="title_jeejen">Рабочий стол для пожилых</string>
     <string name="title_select_live_folder">Выберите папку</string>
