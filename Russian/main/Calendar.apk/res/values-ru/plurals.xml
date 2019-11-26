@@ -126,6 +126,12 @@
         <item quantity="few">+%d</item>
         <item quantity="many">+%d</item>
     </plurals>
+    <plurals name="other_all_day_events">
+        <item quantity="other">Еще %d событий</item>
+        <item quantity="one">Еще %d событие</item>
+        <item quantity="few">Еще %d события</item>
+        <item quantity="many">Еще %d событий</item>
+    </plurals>	
     <plurals name="reminder_custom_unit_day">
         <item quantity="other">" дней"</item>
         <item quantity="one">" день"</item>
