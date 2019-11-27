@@ -57,22 +57,22 @@
         <item>°F</item>
     </string-array>
     <string-array name="week">
-        <item>Воскресение</item>
-        <item>Понедельник</item>
-        <item>Вторник</item>
-        <item>Среда</item>
-        <item>Четверг</item>
-        <item>Пятница</item>
-        <item>Суббота</item>
+        <item>воскресение</item>
+        <item>понедельник</item>
+        <item>вторник</item>
+        <item>среда</item>
+        <item>четверг</item>
+        <item>пятница</item>
+        <item>суббота</item>
     </string-array>
     <string-array name="week_label">
-        <item>Вс</item>
-        <item>Пн</item>
-        <item>Вт</item>
-        <item>Ср</item>
-        <item>Чт</item>
-        <item>Пт</item>
-        <item>Сб</item>
+        <item>вс</item>
+        <item>пн</item>
+        <item>вт</item>
+        <item>ср</item>
+        <item>чт</item>
+        <item>пт</item>
+        <item>сб</item>
     </string-array>
     <integer-array name="weight_line_chart_default_y">
         <item>42</item>

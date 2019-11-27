@@ -63,12 +63,14 @@
         <item quantity="one">%1$d-дневная менструация</item>
     </plurals>
     <plurals name="mesens_card_title_day_in_predict">
-        <item quantity="other">День %1$d (ожидается)</item>
-        <item quantity="one">День %1$d (ожидается)</item>
+        <item quantity="other">%1$d день 
+(предположительно)</item>
+        <item quantity="one">%1$d день 
+(предположительно)</item>
     </plurals>
     <plurals name="mesens_card_title_days">
-        <item quantity="other">День %1$d</item>
-        <item quantity="one">День %1$d</item>
+        <item quantity="other">%1$d день</item>
+        <item quantity="one">%1$d день</item>
     </plurals>
     <plurals name="mesens_card_title_predict_date">
         <item quantity="other">Следующий период через %1$d дней</item>
