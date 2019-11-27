@@ -428,7 +428,7 @@
   <string name="battery_low_button_not_open_power_save">Не сейчас</string>
   <string name="battery_low_button_open_power_save">Включить</string>
   <string name="battery_low_percent_format_save_mode_closed">Осталось менее %s заряда батареи. Не забудьте зарядить свое устройство.</string>
-  <string name="battery_low_percent_format_save_mode_open">Осталось менее %s заряда батареи. Включите энергосбережение, чтобы добавить %2$s дополнительного времени.</string>
+  <string name="battery_low_percent_format_save_mode_open">Осталось менее %1$s заряда батареи. Включите энергосбережение, чтобы добавить %2$s дополнительного времени.</string>
   <string name="battery_low_title">Батарея разряжена</string>
   <string name="battery_low_title_power_save">Энергосбережение</string>
   <string name="battery_statistics_activity_title">Использование батареи</string>
