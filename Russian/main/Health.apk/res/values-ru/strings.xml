@@ -90,20 +90,20 @@
     <string name="date_format_mm_dd">d MMM</string>
     <string name="date_format_y">yyyy</string>
     <string name="date_format_y_m">MMM yyyy</string>
-    <string name="date_format_y_m_d">dd.MM.yyyy</string>
+    <string name="date_format_y_m_d">dd/MM/yyyy</string>
     <string name="date_format_y_m_d_2">dd MMM, yyyy</string>
-    <string name="date_format_y_m_d_h_m">dd.MM.yyyy HH:mm</string>
+    <string name="date_format_y_m_d_h_m">dd/MM/yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_2">dd MMM, yyyy HH:mm</string>
-    <string name="date_format_y_m_d_h_m_s">dd.MM.yyyy HH:mm:ss</string>
-    <string name="date_format_y_m_d_notranslate">dd.MM.yyyy</string>
-    <string name="date_week_index">yyyy 'W'ww</string>
+    <string name="date_format_y_m_d_h_m_s">dd/MM/yyyy HH:mm:ss</string>
+    <string name="date_format_y_m_d_notranslate">dd/MM/yyyy</string>
+    <string name="date_week_index">yyyy 'Н'ww</string>
     <string name="day">День</string>
     <string name="deep_sleep">Медленный сон</string>
     <string name="delete_menstruation_record_confirm">Удалить запись?</string>
     <string name="dialog_abandon">Выход</string>
     <string name="dialog_abandon_sleep_edit">Отменить изменения?</string>
     <string name="dialog_agree_and_continue">Согласен</string>
-    <string name="dialog_auto_start_detail">"Разрешите приложению Mi Здоровье, чтобы получать уведомления.
+    <string name="dialog_auto_start_detail">"Разрешите приложению Mi Здоровье автозапуск, чтобы получать уведомления.
 Приложение будет отправлять только важные уведомления."</string>
     <string name="dialog_auto_start_title">Разрешите приложению Mi Здоровье автозапуск</string>
     <string name="dialog_auto_start_title2">Разрешите приложению Mi Здоровье автозапуск</string>
@@ -151,8 +151,7 @@
     <string name="exercise_info_tool_bar_title">Активность</string>
     <string name="exercise_reminder_accomplished">Цель достигнута!</string>
     <string name="exercise_reminder_title">Напоминание об активности</string>
-    <string name="exercise_reminder_unaccomplished">Желаемый результат пока не достигнут. Постарайтесь!</string>
-    <string name="exercise_setting_label_reach_standard_remind">Оповещения активности</string>
+    <string name="exercise_reminder_unaccomplished">Постарайтесь достигнуть цели</string>
     <string name="exercise_setting_page_title">Настройки активности</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="feedback_need_permission_msg">Разрешите приложению Mi Здоровье доступ к памяти устройства для создания журналов, используемых в отчетах.</string>
@@ -368,7 +367,7 @@
     <string name="state_disagree2">Отмена</string>
     <string name="subtitle_be_ready">Будьте готовы</string>
     <string name="subtitle_exercise_and_sleep">Следите за сном и больше двигайтесь</string>
-    <string name="subtitle_get_health_advice">Для более точной статистики и советов, укажите свои данные</string>
+    <string name="subtitle_get_health_advice">Для более точной статистики и советов по здоровью введите свои данные</string>
     <string name="subtitle_keep_warm">Следите за питанием и не переохлаждайтесь</string>
     <string name="subtitle_mi_health_predict_menstruation">Следите за вашим менструальным циклом при помощи приложения Mi Здоровье</string>
     <string name="subtitle_record_and_start_predict">Ведите записи о вашем цикле, чтобы рассчитать приблизительную дату начала следующей менструации</string>
@@ -428,11 +427,11 @@
     <string name="update_notify_dialog_title">Доступно обновление</string>
     <string name="update_notify_no_update_log">Здесь пока ничего нет.</string>
     <string name="user_agreement">Пользовательское соглашение</string>
-    <string name="user_birthday_display_format">dd.MM.yyyy</string>
+    <string name="user_birthday_display_format">dd/MM/yyyy</string>
     <string name="user_invalid_value">--</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
-    <string name="weight_trend_offset_date">"С %1$s по %2$s: "</string>
-    <string name="weight_unit_kg">КГ</string>
+    <string name="weight_trend_offset_date">С %1$s по %2$s: </string>
+    <string name="weight_unit_kg"> КГ</string>
     <string name="year">Год</string>
 </resources>

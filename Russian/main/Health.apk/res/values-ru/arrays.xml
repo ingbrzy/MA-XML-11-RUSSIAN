@@ -20,13 +20,13 @@
         <item>2 часа</item>
     </string-array>
     <string-array name="energy_unit">
-        <item>" ккал"</item>
-        <item>" кДж"</item>
+        <item> ккал</item>
+        <item> кДж</item>
     </string-array>
     <string-array name="length_unit">
-        <item>" см"</item>
-        <item>" м"</item>
-        <item>" км"</item>
+        <item> см</item>
+        <item> м</item>
+        <item> км</item>
     </string-array>
     <string-array name="pager_titles">
         <item>День</item>
@@ -40,8 +40,8 @@
         <item>Никогда</item>
     </string-array>
     <string-array name="speed_unit">
-        <item>" км/ч"</item>
-        <item>" м/с"</item>
+        <item> км/ч</item>
+        <item> м/с</item>
     </string-array>
     <string-array name="splash_loading">
         <item>Подсчет шагов…</item>
@@ -80,11 +80,11 @@
         <item>48</item>
     </integer-array>
     <string-array name="weight_unit">
-        <item>" г"</item>
-        <item>" кг"</item>
-        <item>" т"</item>
-        <item>" лян"</item>
-        <item>" цзинь"</item>
-        <item>" фунт"</item>
+        <item> г</item>
+        <item> кг</item>
+        <item> т</item>
+        <item> лян</item>
+        <item> цзинь</item>
+        <item> фунт</item>
     </string-array>
 </resources>
