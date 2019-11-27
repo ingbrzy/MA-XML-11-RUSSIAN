@@ -266,6 +266,18 @@
     <item quantity="few">Добавлено %d игры</item>
     <item quantity="many">Добавлено %d игр</item>
   </plurals>
+  <plurals name="keyguard_charging_info_drained_hour_time_format">
+     <item quantity="other">%s часов</item>
+     <item quantity="one">%s час</item>
+     <item quantity="few">%s часа</item>
+     <item quantity="many">%s часов</item>
+ </plurals>
+ <plurals name="keyguard_charging_info_drained_min_time_format">
+     <item quantity="other">%s минут</item>
+     <item quantity="one">%s минута</item>
+     <item quantity="few">%s минуты</item>
+     <item quantity="many">%s минут</item>
+ </plurals> 
   <plurals name="lockpattern_recording_incorrect_too_short">
     <item quantity="other">Соедините не менее %d точек</item>
     <item quantity="one">Соедините не менее %d точки</item>
