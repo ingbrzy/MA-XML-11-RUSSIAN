@@ -64,9 +64,9 @@
     </plurals>
     <plurals name="mesens_card_title_day_in_predict">
         <item quantity="other">%1$d день 
-(предположительно)</item>
+(расчетный)</item>
         <item quantity="one">%1$d день 
-(предположительно)</item>
+(расчетный)</item>
     </plurals>
     <plurals name="mesens_card_title_days">
         <item quantity="other">%1$d день</item>
