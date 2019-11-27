@@ -129,8 +129,6 @@
     <string name="aqi_quality_index_unhealthy">Небезопасный</string>
     <string name="autologin_bar_hide_text">Скрыть</string>
     <string name="autologin_bar_login_text">Вход</string>	
-    <string name="autologin_bar_hide_text">Скрыть</string>
-    <string name="autologin_bar_login_text">Вход</string>
     <string name="back_button_label">Назад</string>
     <string name="back_description">Назад</string>
     <string name="block">Блокировать</string>
