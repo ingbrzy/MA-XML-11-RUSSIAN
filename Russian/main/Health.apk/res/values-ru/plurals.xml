@@ -1,33 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<plurals name="daily_suggestions_steps"><item quantity="other">Walk at least %1$d steps every day</item><item quantity="one">Walk at least %1$d step every day</item><item quantity="few">Walk at least %1$d steps every day</item><item quantity="many">Walk at least %1$d steps every day</item></plurals>
-<plurals name="day_index"><item quantity="other">%1$d дней</item><item quantity="one">%1$d день</item><item quantity="few">%1$d дня</item><item quantity="many">%1$d дней</item></plurals>
-<plurals name="dialog_choose_items"><item quantity="other">Selected %1$d items</item><item quantity="one">Selected %1$d item</item><item quantity="few">Selected %1$d items</item><item quantity="many">Selected %1$d items</item></plurals>
-<plurals name="dialog_delete_records_confirm"><item quantity="other">Delete %1$d records?</item><item quantity="one">Delete %1$d record?</item><item quantity="few">Delete %1$d records?</item><item quantity="many">Delete %1$d records?</item></plurals>
-<plurals name="goal_format_with_unit"><item quantity="other">Цель: %1$d шагов</item><item quantity="one">Цель: %1$d шаг</item><item quantity="few">Цель: %1$d шага</item><item quantity="many">Цель: %1$d шагов</item></plurals>
-<plurals name="goal_unit"><item quantity="other">" шагов"</item><item quantity="one">" шаг"</item><item quantity="few">" шага"</item><item quantity="many">" шагов"</item></plurals>
-<plurals name="goal_unit_with_number"><item quantity="other">%1$d steps</item><item quantity="one">%1$d step</item><item quantity="few">%1$d steps</item><item quantity="many">%1$d steps</item></plurals>
-<plurals name="hours"><item quantity="other">%1$d hrs</item><item quantity="one">%1$d hr</item><item quantity="few">%1$d hrs</item><item quantity="many">%1$d hrs</item></plurals>
-<plurals name="last_measure_date_interval"><item quantity="other">%1$d days since last weigh-in</item><item quantity="one">%1$d day since last weigh-in</item><item quantity="few">%1$d days since last weigh-in</item><item quantity="many">%1$d days since last weigh-in</item></plurals>
-<plurals name="last_measure_day_body_weight"><item quantity="other">%1$d days since last weigh-in</item><item quantity="one">%1$d day since last weigh-in</item><item quantity="few">%1$d days since last weigh-in</item><item quantity="many">%1$d days since last weigh-in</item></plurals>
-<plurals name="menstruation_sum_days"><item quantity="other">%1$d-дневная менструация</item><item quantity="one">%1$d-дневная менструация</item><item quantity="few">%1$d-дневная менструация</item><item quantity="many">%1$d-дневная менструация</item></plurals>
-<plurals name="mesens_card_title_day_in_predict"><item quantity="other">Day %1$d (expected)</item><item quantity="one">Day %1$d (expected)</item><item quantity="few">Day %1$d (expected)</item><item quantity="many">Day %1$d (expected)</item></plurals>
-<plurals name="mesens_card_title_days"><item quantity="other">Day %1$d</item><item quantity="one">Day %1$d</item><item quantity="few">Day %1$d</item><item quantity="many">Day %1$d</item></plurals>
-<plurals name="mesens_card_title_predict_date"><item quantity="other">Next period in %1$d days</item><item quantity="one">Next period in %1$d day</item><item quantity="few">Next period in %1$d days</item><item quantity="many">Next period in %1$d days</item></plurals>
-<plurals name="minutes"><item quantity="other">%1$d mins</item><item quantity="one">%1$d min</item><item quantity="few">%1$d mins</item><item quantity="many">%1$d mins</item></plurals>
-<plurals name="sleep_goal_by_hour"><item quantity="other">Goal: %1$d hours</item><item quantity="one">Goal: %1$d hour</item><item quantity="few">Goal: %1$d hours</item><item quantity="many">Goal: %1$d hours</item></plurals>
-<plurals name="sleep_management_exp_hours"><item quantity="other">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item><item quantity="one">"Current settings won't guarantee you %1$d hour of sleep daily. You need more than that."</item><item quantity="few">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item><item quantity="many">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item></plurals>
-<plurals name="step_num_format"><item quantity="other">%1$d шагов</item><item quantity="one">%1$d шаг</item><item quantity="few">%1$d шага</item><item quantity="many">%1$d шагов</item></plurals>
-<plurals name="steps_format"><item quantity="other">%1$d</item><item quantity="one">%1$d</item><item quantity="few">%1$d</item><item quantity="many">%1$d</item></plurals>
-<plurals name="subtitle_add_record"><item quantity="other">Вы не создавали записи уже %1$d дней. Записывайте данные о цикле для получения более точных прогнозов.</item><item quantity="one">Вы не создавали записи уже %1$d день. Записывайте данные о цикле для получения более точных прогнозов.</item><item quantity="few">Вы не создавали записи уже %1$d дня. Записывайте данные о цикле для получения более точных прогнозов.</item><item quantity="many">Вы не создавали записи уже %1$d дней. Записывайте данные о цикле для получения более точных прогнозов.</item></plurals>
-<plurals name="subtitle_menstruation_continued_days"><item quantity="other">Менструация длится %1$d дней</item><item quantity="one">Менструация длится %1$d день</item><item quantity="few">Менструация длится %1$d дня</item><item quantity="many">Менструация длится %1$d дней</item></plurals>
-<plurals name="subtitle_menstruation_cycle_days"><item quantity="other">%1$d день менструального цикла</item><item quantity="one">%1$d день менструального цикла</item><item quantity="few">%1$d день менструального цикла</item><item quantity="many">%1$d день менструального цикла</item></plurals>
-<plurals name="sum_cycle_days"><item quantity="other">%1$d-дневный цикл</item><item quantity="one">%1$d-дневный цикл</item><item quantity="few">%1$d-дневный цикл</item><item quantity="many">%1$d-дневный цикл</item></plurals>
-<plurals name="times_format"><item quantity="other">%1$d раз</item><item quantity="one">%1$d раз</item><item quantity="few">%1$d раза</item><item quantity="many">%1$d раз</item></plurals>
-<plurals name="title_menstruation_day"><item quantity="other">%1$d день менструации</item><item quantity="one">%1$d день менструации</item><item quantity="few">%1$d день менструации</item><item quantity="many">%1$d день менструации</item></plurals>
-<plurals name="title_menstruation_margin_next_time_days"><item quantity="other">%1$d дней до начала менструации</item><item quantity="one">%1$d день до начала менструации</item><item quantity="few">%1$d дня до начала менструации</item><item quantity="many">%1$d дней до начала менструации</item></plurals>
-<plurals name="title_menstruation_predict_period"><item quantity="other">Примерно %1$d день менструации</item><item quantity="one">Примерно %1$d день менструации</item><item quantity="few">Примерно %1$d день менструации</item><item quantity="many">Примерно %1$d день менструации</item></plurals>
-<plurals name="title_today_exercise_steps"><item quantity="other">%1$d steps today</item><item quantity="one">%1$d step today</item><item quantity="few">%1$d steps today</item><item quantity="many">%1$d steps today</item></plurals>
-<plurals name="unit_days"><item quantity="other">" дней"</item><item quantity="one">" день"</item><item quantity="few">" дня"</item><item quantity="many">" дней"</item></plurals>
-<plurals name="user_age_display_format_year"><item quantity="other">%1$d лет</item><item quantity="one">%1$d год</item><item quantity="few">%1$d года</item><item quantity="many">%1$d лет</item></plurals>
+    <plurals name="daily_suggestions_steps">
+        <item quantity="other">Walk at least %1$d steps every day</item>
+        <item quantity="one">Walk at least %1$d step every day</item>
+        <item quantity="few"></item>
+        <item quantity="many"></item>
+    </plurals>
+    <plurals name="day_index">
+        <item quantity="other">%1$d дней</item>
+        <item quantity="one">%1$d день</item>
+        <item quantity="few">%1$d дня</item>
+        <item quantity="many">%1$d дней</item>
+    </plurals>
+    <plurals name="dialog_choose_items">
+        <item quantity="other">Выбрано %1$d объектов</item>
+        <item quantity="one">Выбрано %1$d объект</item>
+        <item quantity="few">Выбрано %1$d объекта</item>
+        <item quantity="many">Выбрано %1$d объектов</item>
+    </plurals>
+    <plurals name="dialog_delete_records_confirm">
+        <item quantity="other">Удалить %1$d записей?</item>
+        <item quantity="one">Удалить %1$d запись?</item>
+        <item quantity="few">Удалить %1$d записи?</item>
+        <item quantity="many">Удалить %1$d записей?</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">Цель: %1$d шагов</item>
+        <item quantity="one">Цель: %1$d шаг</item>
+        <item quantity="few">Цель: %1$d шага</item>
+        <item quantity="many">Цель: %1$d шагов</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" шагов"</item>
+        <item quantity="one">" шаг"</item>
+        <item quantity="few">" шага"</item>
+        <item quantity="many">" шагов"</item>
+    </plurals>
+    <plurals name="goal_unit_with_number">
+        <item quantity="other">%1$d шагов</item>
+        <item quantity="one">%1$d шаг</item>
+        <item quantity="few">%1$d шага</item>
+        <item quantity="many">%1$d шагов</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d ч.</item>
+        <item quantity="one">%1$d ч.</item>
+    </plurals>
+    <plurals name="last_measure_date_interval">
+        <item quantity="other">%1$d дней без взвешивания</item>
+        <item quantity="one">%1$d день без взвешивания</item>
+        <item quantity="few">%1$d дня без взвешивания</item>
+        <item quantity="many">%1$d дней без взвешивания</item>
+    </plurals>
+    <plurals name="last_measure_day_body_weight">
+        <item quantity="other">%1$d дней без взвешивания</item>
+        <item quantity="one">%1$d день без взвешивания</item>
+        <item quantity="few">%1$d дня без взвешивания</item>
+        <item quantity="many">%1$d дней без взвешивания</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">%1$d-дневная менструация</item>
+        <item quantity="one">%1$d-дневная менструация</item>
+    </plurals>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">День %1$d (ожидается)</item>
+        <item quantity="one">День %1$d (ожидается)</item>
+    </plurals>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">День %1$d</item>
+        <item quantity="one">День %1$d</item>
+    </plurals>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">Следующий период через %1$d дней</item>
+        <item quantity="one">Следующий период через %1$d день</item>
+        <item quantity="few">Следующий период через %1$d дня</item>
+        <item quantity="many">Следующий период через %1$d дней</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%1$d мин.</item>
+        <item quantity="one">%1$d мин.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d новых уведомлений</item>
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+    </plurals>
+    <plurals name="sleep_goal_by_hour">
+        <item quantity="other">Цель: %1$d часов</item>
+        <item quantity="one">Цель: %1$d час</item>
+        <item quantity="few">Цель: %1$d часа</item>
+        <item quantity="many">Цель: %1$d часов</item>
+    </plurals>
+    <plurals name="sleep_management_exp_hours">
+        <item quantity="other">Текущие настройки не гарантируют вам %1$d часов сна в день. Необходимо больше часов.</item>
+        <item quantity="one">Текущие настройки не гарантируют вам %1$d час сна в день. Необходимо больше часов.</item>
+        <item quantity="few">Текущие настройки не гарантируют вам %1$d часа сна в день. Необходимо больше часов.</item>
+        <item quantity="many">Текущие настройки не гарантируют вам %1$d часов сна в день. Необходимо больше часов.</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d шагов</item>
+        <item quantity="one">%1$d шаг</item>
+        <item quantity="few">%1$d шага</item>
+        <item quantity="many">%1$d шагов</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">Вы не делали записи %1$d дней. Записывайте данные о цикле для более точных прогнозов.</item>
+        <item quantity="one">Вы не делали записи %1$d день. Записывайте данные о цикле для более точных прогнозов.</item>
+        <item quantity="few">Вы не делали записи %1$d дня. Записывайте данные о цикле для более точных прогнозов.</item>
+        <item quantity="many">Вы не делали записи %1$d дней. Записывайте данные о цикле для более точных прогнозов.</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Период длится %1$d дней</item>
+        <item quantity="one">Период длится %1$d день</item>
+        <item quantity="few">Период длится %1$d дня</item>
+        <item quantity="many">Период длится %1$d дней</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">%1$d день менструального цикла</item>
+        <item quantity="one">%1$d день менструального цикла</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">%1$d-дневный цикл</item>
+        <item quantity="one">%1$d-дневный цикл</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d раз</item>
+        <item quantity="one">%1$d раз</item>
+        <item quantity="few">%1$d раза</item>
+        <item quantity="many">%1$d раз</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">%1$d день периода</item>
+        <item quantity="one">%1$d день периода</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d дней до следующего периода</item>
+        <item quantity="one">%1$d день до следующего периода</item>
+        <item quantity="few">%1$d дня до следующего периода</item>
+        <item quantity="many">%1$d дней до следующего периода</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Расчетный период: %1$d дней</item>
+        <item quantity="one">Расчетный период: %1$d день</item>
+        <item quantity="few">Расчетный период: %1$d дня</item>
+        <item quantity="many">Расчетный период: %1$d дней</item>
+    </plurals>
+    <plurals name="title_today_exercise_steps">
+        <item quantity="other">%1$d шагов</item>
+        <item quantity="one">%1$d шаг</item>
+        <item quantity="few">%1$d шага</item>
+        <item quantity="many">%1$d шагов</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" дней"</item>
+        <item quantity="one">" день"</item>
+        <item quantity="few">" дня"</item>
+        <item quantity="many">" дней"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d лет</item>
+        <item quantity="one">%1$d год</item>
+        <item quantity="few">%1$d года</item>
+        <item quantity="many">%1$d лет</item>
+    </plurals>
 </resources>
