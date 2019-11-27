@@ -1,3 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="arr_prompt_label">
+        <item>Разумно</item>
+        <item>Долго</item>
+        <item>Слишком долго</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Время двигаться!</item>
+        <item>Узнать больше</item>
+        <item>Выпейте немного воды и прогуляйтесь</item>
+        <item>Узнать больше</item>
+        <item>Поднимитесь по лестнице</item>
+        <item>Узнать больше</item>
+        <item>Не сидите слишком долго</item>
+        <item>Узнать больше</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 час</item>
+        <item>2 часа</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>" ккал"</item>
+        <item>" кДж"</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" см"</item>
+        <item>" м"</item>
+        <item>" км"</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>День</item>
+        <item>Неделя</item>
+        <item>Месяц</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Без ограничений</item>
+        <item>Ограничить фоновую активность</item>
+        <item>Закрыть через 10 минут</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" км/ч"</item>
+        <item>" м/с"</item>
+    </string-array>
+    <string-array name="splash_loading">
+        <item>Подсчет шагов…</item>
+        <item>Цель (шаги): %1$d</item>
+        <item>Пройдено: %1$d</item>
+        <item>Подсчет данных сна…</item>
+        <item>Цель (сон): %1$d ч</item>
+        <item>Данные отсутствуют</item>
+        <item>Запуск приложения…</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week">
+        <item>Воскресение</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <integer-array name="weight_line_chart_default_y">
+        <item>42</item>
+        <item>45</item>
+        <item>48</item>
+    </integer-array>
+    <string-array name="weight_unit">
+        <item>" г"</item>
+        <item>" кг"</item>
+        <item>" т"</item>
+        <item>" лян"</item>
+        <item>" цзинь"</item>
+        <item>" фунт"</item>
+    </string-array>
 </resources>
