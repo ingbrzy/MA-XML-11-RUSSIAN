@@ -109,10 +109,10 @@
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="subtitle_add_record">
-        <item quantity="other">Вы не делали записи %1$d дней. Записывайте данные о цикле для более точных прогнозов.</item>
-        <item quantity="one">Вы не делали записи %1$d день. Записывайте данные о цикле для более точных прогнозов.</item>
-        <item quantity="few">Вы не делали записи %1$d дня. Записывайте данные о цикле для более точных прогнозов.</item>
-        <item quantity="many">Вы не делали записи %1$d дней. Записывайте данные о цикле для более точных прогнозов.</item>
+        <item quantity="other">Вы не делали записи %1$d дней. Записывайте свои периоды для более точных прогнозов.</item>
+        <item quantity="one">Вы не делали записи %1$d день. Записывайте свои периоды для более точных прогнозов.</item>
+        <item quantity="few">Вы не делали записи %1$d дня. Записывайте свои периоды для более точных прогнозов.</item>
+        <item quantity="many">Вы не делали записи %1$d дней. Записывайте свои периоды для более точных прогнозов.</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
         <item quantity="other">Период длится %1$d дней</item>
@@ -151,10 +151,10 @@
         <item quantity="many">Расчетный период: %1$d дней</item>
     </plurals>
     <plurals name="title_today_exercise_steps">
-        <item quantity="other">%1$d шагов</item>
-        <item quantity="one">%1$d шаг</item>
-        <item quantity="few">%1$d шага</item>
-        <item quantity="many">%1$d шагов</item>
+        <item quantity="other">%1$d шагов сегодня</item>
+        <item quantity="one">%1$d шаг сегодня</item>
+        <item quantity="few">%1$d шага сегодня</item>
+        <item quantity="many">%1$d шагов сегодня</item>
     </plurals>
     <plurals name="unit_days">
         <item quantity="other">" дней"</item>
