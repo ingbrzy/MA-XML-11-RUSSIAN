@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="daily_suggestions_steps">
-        <item quantity="other">Walk at least %1$d steps every day</item>
-        <item quantity="one">Walk at least %1$d step every day</item>
-        <item quantity="few"></item>
-        <item quantity="many"></item>
+        <item quantity="other">Старайтесь делать не меньше %1$d шагов в день</item>
+        <item quantity="one">Старайтесь делать не меньше %1$d шаг в день</item>
+        <item quantity="few">Старайтесь делать не меньше %1$d шага в день</item>
+        <item quantity="many">Старайтесь делать не меньше %1$d шагов в день</item>
     </plurals>
     <plurals name="day_index">
         <item quantity="other">%1$d дней</item>
@@ -93,10 +93,10 @@
         <item quantity="many">Цель: %1$d часов</item>
     </plurals>
     <plurals name="sleep_management_exp_hours">
-        <item quantity="other">Текущие настройки не гарантируют вам %1$d часов сна в день. Необходимо больше часов.</item>
-        <item quantity="one">Текущие настройки не гарантируют вам %1$d час сна в день. Необходимо больше часов.</item>
-        <item quantity="few">Текущие настройки не гарантируют вам %1$d часа сна в день. Необходимо больше часов.</item>
-        <item quantity="many">Текущие настройки не гарантируют вам %1$d часов сна в день. Необходимо больше часов.</item>
+        <item quantity="other">Текущие настройки не гарантируют вам %1$d часов сна в день. Вам нужно больше.</item>
+        <item quantity="one">Текущие настройки не гарантируют вам %1$d час сна в день. Вам нужно больше.</item>
+        <item quantity="few">Текущие настройки не гарантируют вам %1$d часа сна в день. Вам нужно больше.</item>
+        <item quantity="many">Текущие настройки не гарантируют вам %1$d часов сна в день. Вам нужно больше.</item>
     </plurals>
     <plurals name="step_num_format">
         <item quantity="other">%1$d шагов</item>

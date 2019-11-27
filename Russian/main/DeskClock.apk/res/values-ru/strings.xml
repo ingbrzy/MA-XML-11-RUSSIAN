@@ -267,7 +267,7 @@
     <string name="silent_alarm_summary">Без звука</string>
     <string name="skip_alarm_once_hint">Отключить один раз %s</string>
     <string name="sleep_analysis">Статистика</string>
-    <string name="sleep_date_provider_text">Данные о сне предоставлены Mi Health</string>
+    <string name="sleep_date_provider_text">Данные о сне предоставлены приложением Mi Здоровье</string>
     <string name="sleep_duration">"Длительность сна: "</string>
     <string name="sleep_duration_avg_text_diff">Средняя продолжительность сна  (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Сон %1$s %2$s</string>
@@ -282,8 +282,8 @@
     <string name="sleep_notification_title">Время ложиться спать</string>
     <string name="sleep_record">Отслеживание сна</string>
     <string name="sleep_record_desc">Включение отслеживания сна</string>
-    <string name="sleep_record_desc_detailed">Функция отслеживания сна предоставляется Mi Health. После включения, Mi Health автоматически записывает ваш сон на основе использования вашего телефона и статистики активности, а также установленного времени засыпания и пробуждения, показывая вам статистику в виде диаграмм. Для более точного отслеживания сна, разрешите автозапуск для Mi Health. Все данные будут храниться локально на вашем устройстве, что позволяет легко управлять ими.</string>
-    <string name="sleep_record_no_data">Ваша статистика появится здесь после того, как наберется достаточно данных и Mi Health проанализирует их</string>
+    <string name="sleep_record_desc_detailed">Функция отслеживания сна предоставляется приложением Mi Здоровье. После включения, приложение будет автоматически записывать ваш сон на основе использования вашего телефона и статистики активности, а также установленного времени засыпания и пробуждения, показывая вам статистику в виде диаграмм. Для более точного отслеживания сна, разрешите автозапуск для приложения Mi Здоровье. Все данные будут храниться локально на вашем устройстве, что позволяет легко управлять ими.</string>
+    <string name="sleep_record_no_data">Ваша статистика появится здесь после того, как наберется достаточно данных и Mi Здоровье проанализирует их</string>
     <string name="sleep_remind">Напоминание</string>
     <string name="sleep_time">Начало сна</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
@@ -359,8 +359,8 @@
     <string name="turn_off_this_repeat_alarm">Отключить насовсем</string>
     <string name="upcoming_alarm">Будильник: %s</string>
     <string name="upcoming_alarm_hint">Вы можете отключить этот будильник</string>
-    <string name="update_health_app">Обновление Mi Health</string>
-    <string name="update_health_app_desc">Функция отслеживания сна предоставляется Mi Health. Обновите Mi Health до последней версии, чтобы получить доступ к соответствующим функциям.</string>
+    <string name="update_health_app">Обновление приложения</string>
+    <string name="update_health_app_desc">Функция отслеживания сна предоставляется приложением Mi Здоровье. Обновите приложение до последней версии, чтобы получить доступ к соответствующим функциям.</string>
     <string name="update_it">Обновить</string>
     <string name="update_notification_info">Обновление данных в фоновом режиме…</string>
     <string name="usage_start">Начать</string>
