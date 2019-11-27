@@ -56,7 +56,8 @@
     <string name="bg_control_dialog_title">Ограничение фоновой активности</string>
     <string name="bmi_label">ИМТ</string>
     <string name="body_weight">Вес</string>
-    <string name="body_weight_descripe_content">Индекс массы тела (ИМТ) - масса тела, деленная на квадрат роста (кг/м²).</string>
+    <string name="body_weight_descripe_content">Индекс массы тела (ИМТ) - 
+масса тела, разделенная на квадрат роста (кг/м²).</string>
     <string name="body_weight_extremely_obesity">Патологическое ожирение</string>
     <string name="body_weight_fkg">%1$.1f кг</string>
     <string name="body_weight_kg">%1$d кг</string>
@@ -86,17 +87,17 @@
     <string name="date_format_h_m_s">HH:mm:ss</string>
     <string name="date_format_m_d">d.M</string>
     <string name="date_format_m_d_2">dd.MM</string>
-    <string name="date_format_m_d_3">dd.MM</string>
+    <string name="date_format_m_d_3">MM/dd</string>
     <string name="date_format_mm_dd">d MMM</string>
     <string name="date_format_y">yyyy</string>
     <string name="date_format_y_m">MMM yyyy</string>
     <string name="date_format_y_m_d">dd/MM/yyyy</string>
-    <string name="date_format_y_m_d_2">dd MMM, yyyy</string>
+    <string name="date_format_y_m_d_2">dd MMMM yyyy</string>
     <string name="date_format_y_m_d_h_m">dd/MM/yyyy HH:mm</string>
-    <string name="date_format_y_m_d_h_m_2">dd MMM, yyyy HH:mm</string>
+    <string name="date_format_y_m_d_h_m_2">dd MMMM yyyy, HH:mm</string>
     <string name="date_format_y_m_d_h_m_s">dd/MM/yyyy HH:mm:ss</string>
     <string name="date_format_y_m_d_notranslate">dd/MM/yyyy</string>
-    <string name="date_week_index">yyyy 'Н'ww</string>
+    <string name="date_week_index">ww неделя yyyy г.</string>
     <string name="day">День</string>
     <string name="deep_sleep">Медленный сон</string>
     <string name="delete_menstruation_record_confirm">Удалить запись?</string>
@@ -120,8 +121,8 @@
     <string name="dialog_feedback_purpose">Приложению требуется доступ к хранилищу, чтобы отправлять отзывы.</string>
     <string name="dialog_feedback_purpose2">Для отправки озывов</string>
     <string name="dialog_feedback_title">Обратная связь</string>
-    <string name="dialog_health_applicator">Mi Здоровье в настоящее время 
-предоставляет услуги только взрослым.</string>
+    <string name="dialog_health_applicator">Mi Здоровье в настоящее время предоставляет 
+услуги только взрослым.</string>
     <string name="dialog_juveniles_details">В соответствии с нашей Политикой конфиденциальности, использовать это приложение могут лица старше 18 лет.</string>
     <string name="dialog_juveniles_link">В соответствии с нашей &lt;font color=\"#FE6D67\"&gt;&lt;a href=\"%1$s\"&gt;Политикой конфиденциальности&lt;/a&gt;&lt;/font&gt;, использовать это приложение могут лица старше 18 лет.</string>
     <string name="dialog_known">Понятно</string>
@@ -133,9 +134,9 @@
     <string name="dialog_privacy_policy_statement">Положение Политики конфиденциальности</string>
     <string name="dialog_privacy_title">Условия использования</string>
     <string name="dialog_read_phone_perm_desc">Для доступа к ID устройства для идентификации вашего устройства.</string>
-    <string name="dialog_sleep_goal_setting">Задать длительность сна</string>
+    <string name="dialog_sleep_goal_setting">Задать продолжительность сна</string>
     <string name="dialog_sleep_goal_subtitle">Старайтесь спать 7-9 часов каждый день</string>
-    <string name="dialog_sleep_goal_title">Длительность сна</string>
+    <string name="dialog_sleep_goal_title">Продолжительность сна</string>
     <string name="dialog_sleep_record_auto_start">Для получения более точной статистики разрешите приложению Mi Здоровье автозапуск.</string>
     <string name="dialog_sure">ОК</string>
     <string name="dialog_user_agreement_purpose">Добро пожаловать в Mi Здоровье! Используйте это приложение для подсчета пройденных шагов, сбора статистики о вашем сне, менструальном цикле и весе. В приложении вы также сможете найти полезные советы.</string>
@@ -165,7 +166,7 @@
     <string name="go_open_sleep_detector">Начать</string>
     <string name="go_setting">Настройки</string>
     <string name="goal_daily_exercise">Активность</string>
-    <string name="goal_sleep_time">Длительность сна</string>
+    <string name="goal_sleep_time">Продолжительность</string>
     <string name="goal_title">Будьте здоровыми</string>
     <string name="goto_setting_auto_start">Настройки</string>
     <string name="guide_setting">Предоставьте следующие данные для получения более точной статистики</string>
@@ -173,17 +174,17 @@
     <string name="health_app_name">Здоровье</string>
     <string name="health_app_name_dev">Здоровье dev</string>
     <string name="health_score">Оценка состояния здоровья</string>
-    <string name="health_score_tips">Оценка состояния здоровья рассчитывается на основе вашего ИМТ (индекс массы тела), а также статистики сна и активности. Чем ближе вы к достижению целей активности, тем выше ваша оценка состояния здоровья.</string>
+    <string name="health_score_tips">Оценка состояния здоровья рассчитывается на основе вашего индекса массы тела (ИМТ), а также статистики сна и активности. Чем ближе вы к достижению целей активности, тем выше ваша оценка состояния здоровья.</string>
     <string name="history_statistics">Статистика</string>
     <string name="home_page_card_setting">Карточки</string>
-    <string name="hour">Ч</string>
+    <string name="hour"> Ч</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
     <string name="improve_step_target">Вы слишком часто достигаете цели. Повысьте планку.</string>
     <string name="improve_your_health_default_tips">Тренируйтесь и высыпайтесь, чтобы оставаться здоровым.</string>
     <string name="input_body_weight">Введите данные о весе, чтобы получить советы</string>
     <string name="jump_over">Пропустить</string>
-    <string name="label_average_daily_sleep_duration">Средняя длительность сна</string>
+    <string name="label_average_daily_sleep_duration">Средняя продолжительность</string>
     <string name="label_average_daily_sleep_time">Среднее время засыпания</string>
     <string name="label_average_daily_sleep_time2">Среднее время 
 начала сна</string>
@@ -192,7 +193,7 @@
     <string name="label_body_weight_evaluation">Оценка веса </string>
     <string name="label_body_weight_recent">Текущий</string>
     <string name="label_body_weight_trend">Прогресс</string>
-    <string name="label_duration">Длительность</string>
+    <string name="label_duration">Продолжительность</string>
     <string name="label_end_time">Конец</string>
     <string name="label_exercise_goal">Цель</string>
     <string name="label_get_device_id">Получить ID устройства</string>
@@ -201,7 +202,7 @@
     <string name="label_record_detail_page_source">Источник</string>
     <string name="label_set_exercise">Установить цель</string>
     <string name="label_sleep">Начало сна</string>
-    <string name="label_sleep_duration">Длительность сна</string>
+    <string name="label_sleep_duration">Продолжительность</string>
     <string name="label_sleep_intercept">Сон прерван</string>
     <string name="label_sleep_time">Начало сна</string>
     <string name="label_sleep_time2">Начало сна</string>
@@ -227,7 +228,8 @@
     <string name="menstrual_assistant">Менструация</string>
     <string name="menstruation">Менструация</string>
     <string name="menstruation_cycle">Менструальный цикл</string>
-    <string name="menstruation_cycle_description">Интервал между датами начала двух последовательных циклов</string>
+    <string name="menstruation_cycle_description">Интервал между датами начала 
+двух последовательных циклов</string>
     <string name="menstruation_days">Длительность</string>
     <string name="menstruation_days_description">Длительность менструации</string>
     <string name="menstruation_last_start_date">Предыдущая менструация началась</string>
@@ -239,7 +241,7 @@
     <string name="mesens_card_title_today_begin">Период предположительно начнется сегодня</string>
     <string name="mesens_card_title_tomorrow_begin">Период предположительно начнется завтра</string>
     <string name="mi_health">Mi Здоровье</string>
-    <string name="minute">М</string>
+    <string name="minute"> МИН</string>
     <string name="model_card_setting">Настройки карточек</string>
     <string name="modify">Редактировать</string>
     <string name="modify_end_date">Изменить дату окончания</string>
@@ -282,8 +284,8 @@
     <string name="remind_goto_sleep">Уже поздно. Пора ложиться спать.</string>
     <string name="remind_menstruation_acquired_start">Менструация может начаться через 2 дня</string>
     <string name="remind_open_tips">Разрешить приложению Mi Здоровье напоминать о скором начале менструации</string>
-    <string name="remind_query_menstruation_end">Менструация уже закончилась? Не забудьте создать запись.</string>
-    <string name="remind_query_menstruation_start">Менструация уже началась? Не забудьте создать запись.</string>
+    <string name="remind_query_menstruation_end">Менструация уже закончилась? Не забудьте сделать запись.</string>
+    <string name="remind_query_menstruation_start">Менструация уже началась? Не забудьте сделать запись.</string>
     <string name="remind_sleep_report_complete">Статистика сна готова</string>
     <string name="remind_subtitle_menstruation_start">Получать напоминания за два дня до возможного начала менструации</string>
     <string name="remind_subtitle_record">Получать напоминания о записи начала и окончания менструации</string>
@@ -318,10 +320,10 @@
     <string name="sleep_detector_unopened">Вы еще не начали отслеживать сон.</string>
     <string name="sleep_empty_data_tips">Пройдите полный цикл сна</string>
     <string name="sleep_goal_by_hours_minutes">Цель: %1$s %2$s</string>
-    <string name="sleep_goal_compliance">Хорошее качество сна</string>
+    <string name="sleep_goal_compliance">Хороший сон</string>
     <string name="sleep_goal_maybe_compliance">Относительное хорошее качество сна</string>
     <string name="sleep_goal_not_compliance">Недостаток сна</string>
-    <string name="sleep_goal_not_upto_standard">Вы не выспались</string>
+    <string name="sleep_goal_not_upto_standard">Недостаток сна</string>
     <string name="sleep_management_content1">Установите напоминания о том, чтобы вовремя ложиться спать и вставать</string>
     <string name="sleep_management_exp_hours_minutes">Текущие настройки не гарантируют вам %1$s %2$s часов сна в день. Вам нужно больше.</string>
     <string name="sleep_management_label">Управление режимом сна</string>
@@ -333,7 +335,7 @@
 цикл сна</string>
     <string name="sleep_no_generate_report">Статистика
 отсутствует</string>
-    <string name="sleep_record_content">Приложение Mi Здоровье будет автоматически записывать ваш сон на основе использования вашего телефона и статистики активности, а также установленного времени засыпания и пробуждения.</string>
+    <string name="sleep_record_content">Приложение Mi Здоровье будет автоматически отслеживать ваш сон на основе использования телефона и статистики активности, а также установленного времени начала сна и пробуждения.</string>
     <string name="sleep_record_go_open">Активируйте переключатель \"Отслеживание сна\", чтобы начать сбор данных о вашем сне</string>
     <string name="sleep_record_label">Отслеживание сна</string>
     <string name="sleep_remind">Напоминание о сне</string>
@@ -355,7 +357,7 @@
     <string name="splash_edit_basic_save_btn">Далее</string>
     <string name="splash_header_subtitle">"Регулярные упражнения и сон
 смогут улучшить ваше здоровье."</string>
-    <string name="splash_header_title">Органы здравоохранения утверждают:</string>
+    <string name="splash_header_title">Здравоохранение утверждает:</string>
     <string name="splash_next_btn">Ввести основные данные</string>
     <string name="splash_title">"В приложении Mi Здоровье можно задать цели активности
 и получить советы
@@ -383,12 +385,12 @@
     <string name="sustain_title">"Вы не двигались уже "</string>
     <string name="text_edit_exercise_goal">Изменить цель</string>
     <string name="text_save_exercise_goal">Готово</string>
-    <string name="tips_default">Данных нет</string>
+    <string name="tips_default">Нет данных</string>
     <string name="title_auto_run">Автозапуск</string>
-    <string name="title_click_record_menstruation">Записывать</string>
+    <string name="title_click_record_menstruation">Записать</string>
     <string name="title_data_collect">Использование личных данных</string>
     <string name="title_improve_health">Будьте здоровыми</string>
-    <string name="title_menstruation_predict_start">Менструация начнется приблизительно %1$s</string>
+    <string name="title_menstruation_predict_start">Менструация начнется ориентировочно %1$s</string>
     <string name="title_month_exercise_sum">Статистика за месяц</string>
     <string name="title_network_license">Доступ к сети</string>
     <string name="title_no_record_menstruation">Нет данных о менструальном цикле.</string>
