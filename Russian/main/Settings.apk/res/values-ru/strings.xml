@@ -3562,7 +3562,7 @@
     <string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
     <string name="open_demo_mode">Включить</string>
     <string name="open_demo_mode_warning_message">В деморежиме часы в строке состояния будут остановлены, значки батареи и сигналов сети будут показаны полными. Для изменения этого поведения отключите деморежим или перезагрузите устройство.</string>
-    <string name="open_game_accelerate">Включение Ускорения игр</string>
+    <string name="open_game_accelerate">Ускорение игр</string>
     <string name="open_miui_optimization_title">Включение оптимизации MIUI</string>
     <string name="open_optimization_message">Включите оптимизацию и наслаждайтесь плавным, быстрым интерфейсом.</string>
     <string name="open_optimization_option">Включить</string>
