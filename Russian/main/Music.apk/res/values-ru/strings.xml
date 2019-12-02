@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="account_and_cloud">Аккаунт</string>
+    <string name="account_logout">Выход</string>
     <string name="action_item_add">Добавить в</string>
     <string name="action_item_add_song">Добавить в плейлист</string>
     <string name="action_item_add_to_current_playlist">Очередь</string>
@@ -55,6 +56,8 @@
     <string name="agreement_desc">Пользовательское соглашение (обязательно)</string>
     <string name="alaka_required">Необходимо заплатить за песню, чтобы прослушать ее</string>
     <string name="alarm_clock_ringtones_successful">Будильник успешно установлен</string>
+    <string name="album_cover">Обложка</string>
+    <string name="album_is_empty">Название альбома не может быть пустым.</string>
     <string name="album_label">Обложки</string>
     <string name="album_name">Альбом</string>
     <string name="all_album_count">Все альбомы (%d)</string>
@@ -84,6 +87,8 @@
     <string name="artist_is_empty">Введите имя исполнителя</string>
     <string name="artist_name">Исполн.</string>
     <string name="audio_picker_title">Выберите трек</string>
+    <string name="auto_recommend">Авто (рекомендуется)</string>
+    <string name="auto_sound_quality">Авто</string>
     <string name="auto_update">Обновлять автоматически</string>
     <string name="auto_update_tip">Вы можете обновлять системные приложения через мобильный интернет. Это может вызвать дополнительные затраты.</string>
     <string name="available_playlist_name_format">Новый плейлист %d</string>
@@ -106,6 +111,7 @@
     <string name="choose_download_quality">Выберите качество загрузки</string>
     <string name="choose_music_lang_pref">Предпочтительные языки для песен</string>
     <string name="choose_stream_quality">Выберите качество музыки</string>
+    <string name="click_to_add_album_cover_and_lyric">Нажмите, чтобы добавить обложку и текст</string>
     <string name="click_to_shuffle">Перемешать</string>
     <string name="close_music_time">"Оставшееся время: "</string>
     <string name="comment_format" formatted="false">%s: %s</string>
@@ -243,6 +249,7 @@
     <string name="download_running">Загружается</string>
     <string name="download_running_percent">Загружено %d%%</string>
     <string name="download_share_dialog">Отправить с помощью…</string>
+    <string name="download_song_quality_title">Качество загрузки</string>
     <string name="download_start">Начинается загрузка…</string>
     <string name="download_start_apk">Начинается загрузка… Следите за процессом в шторке уведомлений.</string>
     <string name="download_start_btn">Загрузить</string>
@@ -366,6 +373,8 @@
     <string name="format_unsupported_or_corrupted">Тип файла не поддерживается или файл поврежден</string>
     <string name="fragment_title_artist_album">Альбомы</string>
     <string name="gcm_fallback_notification_channel_label">Разное</string>
+    <string name="get_more_favorite_content_after_login">Войдите для поиска песен и видео</string>
+    <string name="google_account_login">Вход с помощью Google</string>
     <string name="goto_local_search">Поиск на устройстве</string>
     <string name="goto_online_search">Поиск онлайн</string>
     <string name="handle_later">Не сейчас</string>
@@ -375,6 +384,7 @@
     <string name="headset_and_audio_effect_title">Наушники и звуковые эффекты</string>
     <string name="hide_album">Скрыть обложку</string>
     <string name="hide_lyric">Скрыть текст</string>
+    <string name="high_sound_quality">Высокое</string>
     <string name="higher_quality_music">Звук высокого качества</string>
     <string name="higher_quality_music_summary">Загрузка музыки в высоком качестве</string>
     <string name="home_tab_home">Домашняя страница</string>
@@ -390,7 +400,7 @@
     <string name="hungama_category_playlist">Плейлисты</string>
     <string name="hungama_category_radio">Радио</string>
     <string name="hungama_category_video">Видео</string>
-    <string name="hungama_category_vip">ВИП</string>
+    <string name="hungama_category_vip">PRO</string>
     <string name="hungama_free_download_out_summary">Вы больше не можете загружать бесплатные треки. Купить PRO подписку для загрузки без ограничений?</string>
     <string name="hungama_free_download_out_summary_toast">Вы уже загрузили %d треков. Оформите подписку, чтобы загрузить больше.</string>
     <string name="hungama_playlist_category">Категория</string>
@@ -442,8 +452,11 @@
     <string name="local_page_artist_more">Больше песен %s</string>
     <string name="local_page_playlist">Плейлисты</string>
     <string name="local_page_song_download_history">Загрузки</string>
+    <string name="login_instantly">Вход</string>
+    <string name="login_mi_account_and_gain_more_rights">Войдите в Mi аккаунт чтобы получить доступ к дополнительным функциям.</string>
     <string name="long_press_to_select_lyric">"Нажмите и удерживайте для 
 редактирования трека"</string>
+    <string name="low_sound_quality">Низкое</string>
     <string name="lrc_search_failed">Текст песни не найден</string>
     <string name="lrc_searching">Поиск текста песни…</string>
     <string name="lyric_is_empty">Текст песни недоступен</string>
@@ -468,6 +481,7 @@
     <string name="metered_serious_alert_msg_with_beyond_data">Ваш лимит трафика превышен на %s. Использовать мобильный интернет для воспроизведения?</string>
     <string name="metered_serious_alert_msg_with_data">Осталось %s трафика. Использовать мобильный интернет для воспроизведения?</string>
     <string name="metered_serious_allow">Воспроизвести</string>
+    <string name="middle_sound_quality">Среднее</string>
     <string name="milink_unavaliable_please_update">Mi Link недоступен. Обновите MIUI.</string>
     <string name="missing_title">&lt;Без названия></string>
     <string name="miuishare_account_login_ok">Войти</string>
@@ -494,6 +508,7 @@
     <string name="mulit_choice_management">Управление элементами</string>
     <string name="music_browser_label">Музыка</string>
     <string name="music_filter">Фильтр аудиофайлов</string>
+    <string name="music_recommendation">Рекомендации</string>
     <string name="music_service">Сервисы музыки</string>
     <string name="music_settings">Музыка</string>
     <string name="mv_metered_play_summary">Не показывать предупреждение о трафике</string>
@@ -510,6 +525,7 @@
     <string name="network_settings_error">Не удалось подключиться к сети</string>
     <string name="network_traffic">Трафик</string>
     <string name="next_time">Не сейчас</string>
+    <string name="next_to_play">Следующий</string>
     <string name="no_album_info">Нет информации об альбоме</string>
     <string name="no_artist_info">Нет информации об исполнителе</string>
     <string name="no_downloads">Нет загрузок</string>
@@ -518,6 +534,7 @@
     <string name="no_local_songs">Нет треков</string>
     <string name="no_local_songs_selected">Невозможно отправить трек, который не загружен.</string>
     <string name="no_local_source_find">Файл не найден</string>
+    <string name="no_longer_prompt">Не показывать больше</string>
     <string name="no_results_return">Ничего не найдено</string>
     <string name="no_scanned_songs">Нет треков</string>
     <string name="no_song_downloaded">Треки для загрузки не найдены</string>
@@ -558,8 +575,10 @@
     <string name="online_service_open_tip">Онлайн-сервисы музыки включены</string>
     <string name="online_service_title">Онлайн-сервисы</string>
     <string name="online_switch">Сервисы онлайн-контента</string>
+    <string name="online_switch_confirm_title">Отключение служб онлайн-контента сделает все онлайн-функции недоступными. Отключить?</string>
     <string name="online_switch_message">Отключение онлайн-сервисов повлияет на сервисы VIP и рекомендации. Отключить?</string>
     <string name="online_switch_setting">Настройки онлайн-контента</string>
+    <string name="only_pro_can_choose_hd_sound_quality">HD качесто доступно только для PRO подписчиков</string>
     <string name="open_online_service">Для использования этой функции необходимо включить онлайн-сервисы. Включить их сейчас?</string>
     <string name="open_service">Включить</string>
     <string name="other_song_in_album">Другие треки из этого альбома</string>
@@ -586,6 +605,7 @@
     <string name="pick_recent_song">Недавние</string>
     <string name="play_all_song">Воспроизвести все</string>
     <string name="play_empty_playlist">Не удается воспроизвести треки. Плейлист пуст.</string>
+    <string name="play_history">История воспроизведения</string>
     <string name="play_mode_all_loop">Повторить все</string>
     <string name="play_mode_one_loop">Повторять</string>
     <string name="play_mode_play_all">Воспроизвести все</string>
@@ -622,6 +642,7 @@
     <string name="ready_to_play">Следующий</string>
     <string name="recently_played">Недавние</string>
     <string name="recently_played_songs">Недавние</string>
+    <string name="recommend_songs_when_playing_audio_files">Получать рекомендации во время прослушивания музыки</string>
     <string name="recommended_file_size_download_in_mobile">Использовать %s трафика для загрузки этого файла?</string>
     <string name="recommended_no_file_size_download_in_mobile">Использовать мобильный интернет для загрузки этого файла?</string>
     <string name="remove">Убрать</string>
@@ -650,6 +671,7 @@
     <string name="s6">Разрешить объявлению создать мероприятие в календаре?</string>
     <string name="s7">Тестовое объявление</string>
     <string name="save_changes">Сохранить изменения</string>
+    <string name="save_image">Сохранить изображение</string>
     <string name="search_album_and_lyric">Поиск обложек и текстов песен</string>
     <string name="search_empty">Ничего не найдено</string>
     <string name="search_for_album">Альбом</string>
@@ -673,8 +695,10 @@
     <string name="select_desc_sub">Вы можете выбрать до 3 языков</string>
     <string name="select_device">Выберите устройство</string>
     <string name="select_displayed_folders">Выберите папки</string>
-    <string name="select_local_cover">Выберите локальную обложку</string>
-    <string name="select_local_lyric_file">Выберите локальный файл с текстом</string>
+    <string name="select_local_album_cover">Выберите изображение</string>
+    <string name="select_local_cover">Выберите обложку</string>
+    <string name="select_local_lyric">Выберите файл</string>
+    <string name="select_local_lyric_file">Выберите файл с текстом</string>
     <string name="select_none">Снять выбор</string>
     <string name="select_one_language">Выберите хотя бы 1 язык</string>
     <string name="select_three_languages">Вы можете выбрать до 3 языков</string>
@@ -723,6 +747,7 @@
     <string name="song_not_find">Трек недоступен.</string>
     <string name="song_offline">Этот трек больше не доступен.</string>
     <string name="song_picker_complete">Готово</string>
+    <string name="song_quality_category">Музыка</string>
     <string name="songgroup_pick_album">Альбомы</string>
     <string name="songgroup_pick_playlist">Плейлисты</string>
     <string name="sort_by_name">Название</string>
@@ -735,11 +760,13 @@
     <string name="storage_sd_card">SD карта</string>
     <string name="storage_usb">USB накопитель</string>
     <string name="streamloadingtext">Подключение к %s</string>
+    <string name="switch_success">Успешно переключено</string>
     <string name="tab_album">Альбомы</string>
     <string name="tab_album_list">Альбомы</string>
     <string name="tab_artist">Исполнители</string>
     <string name="tab_artist_list">Исполнители</string>
     <string name="tab_chart">Чарты</string>
+    <string name="tab_flow">Стримы</string>
     <string name="tab_folder">Папки</string>
     <string name="tab_playlist">Плейлисты</string>
     <string name="tab_top_results">Лучшее</string>
@@ -790,6 +817,9 @@
     <string name="toast_not_pro">Эта функция доступна только PRO подписчикам</string>
     <string name="toast_uhd_songs_for_download">Качество загрузок: высокое</string>
     <string name="toast_uhd_songs_for_stream">Качество музыки: высокое</string>
+    <string name="today">Сегодня</string>
+    <string name="top_chart_title">Чарты</string>
+    <string name="track_play_history_after_login">Войдите для просмотра истории воспроизведения</string>
     <string name="ultra_high_quality">Наивысшее качество</string>
     <string name="unknown_album_name">Неизвестный альбом</string>
     <string name="unknown_artist_name">Неизвестный исполнитель</string>
@@ -801,7 +831,8 @@
     <string name="upgrading_in_backstage">Обновление в фоновом режиме…</string>
     <string name="user_agreement">Условия использования</string>
     <string name="version_info">Версия</string>
-    <string name="video_play_cellular">Устройство не подключено к Wi-Fi. Использовать мобильный интернет?</string>
+    <string name="vhigh_sound_quality">HD</string>
+    <string name="video_play_cellular">Подключение к Wi-Fi отсутствует. Использовать мобильный интернет?</string>
     <string name="video_replay_btn">Повторить</string>
     <string name="video_retry_btn">Повторить</string>
     <string name="view_album">Просмотреть альбом</string>
