@@ -200,6 +200,8 @@
 и создаст из них оптимальное фото"</string>
   <string name="hint_groupshot_beauty">Нельзя использовать Улучшение на групповых фото</string>
   <string name="hint_slow_motion">Видео будет воспроизводиться медленнее</string>
+  <string name="hint_subtitle">Диктуйте субтитры во время съемки видео</string>
+  <string name="hint_subtitle_prompt">Вы можете диктовать субтитры</string>
   <string name="hunt_dual_water_mark">Водяной знак двойной камеры будет добавлен автоматически</string>
   <string name="install_confirmed">Установить</string>
   <string name="lens_dirty_detected_content">"Объектив вашей камеры загрязнен.
@@ -424,6 +426,7 @@
   <string name="pref_camera_face_info_watermark_title">Добавлять возраст на фото</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Автоматически скрывать рамку определения лица</string>
   <string name="pref_camera_facedetection_title">Определение лиц</string>
+  <string name="pref_camera_first_tag_tips">Успешно отмечено</string>
   <string name="pref_camera_flashmode_entry_auto">Авто</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Мягкий цвет</string>
   <string name="pref_camera_flashmode_entry_off">Откл</string>
@@ -597,6 +600,8 @@
   <string name="pref_camera_video_duration_entry_30">30 минут</string>
   <string name="pref_camera_video_duration_entry_mms">30 секунд (MMS)</string>
   <string name="pref_camera_video_log_tips">ЖУРНАЛ</string>
+  <string name="pref_camera_video_tag">Маркировка видео</string>
+  <string name="pref_camera_video_tag_description">Нажмите кнопку \"Метка\" во время съемки видео для возможности возврата к отмеченным моментам при воспроизведении</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Снимок</string>
   <string name="pref_camera_volumekey_function_entry_timer">Таймер</string>
   <string name="pref_camera_volumekey_function_entry_volume">Громкость</string>
@@ -694,6 +699,7 @@
   <string name="pref_video_speed_entry_slow">Медленная</string>
   <string name="pref_video_speed_fast_title">Ускорение</string>
   <string name="pref_video_speed_slow_title">Замедление</string>
+  <string name="pref_video_subtitle">Субтитры</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">10X (0.3 секунды)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">120X (4 секунды)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">150X (5 секунд)</string>
@@ -746,6 +752,7 @@
   <string name="start_capture">OK</string>
   <string name="sticker_tab1">Милый</string>
   <string name="sticker_tab2">Забавный</string>
+  <string name="subtitle_network_exception_tips">Не удалось транскрибировать. Сеть недоступна.</string>
   <string name="super_eis">Улучшенная стабилизация</string>
   <string name="super_eis_disabled_hint">Улучшенная стабилизация отключена</string>
   <string name="super_night_hint">Оптимизация изображения… Держите телефон неподвижно.</string>
@@ -793,6 +800,7 @@
   <string name="video_effect_entry_holiday">Отражения</string>
   <string name="video_effect_entry_polaroid">Полароид</string>
   <string name="video_reach_size_limit">Достигнут максимальный размер видео</string>
+  <string name="video_tag_flag_title">Метка</string>
   <string name="view_privacy_policy">Политика конфиденциальности</string>
   <string name="vv_duartion_hint">%1$s | Сегмент %2$d | %3$s сек.</string>
   <string name="vv_hint">Вы можете снимать видеоблоги только в ландшафтном режиме</string>
