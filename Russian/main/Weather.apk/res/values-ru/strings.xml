@@ -276,6 +276,7 @@
     <string name="warning_weather_day_and_night_settings_title">Ежедневные сводки</string>
     <string name="weather_alert_channel_name">Оповещения</string>
     <string name="weather_service_channel_name">Фоновые сервисы</string>
+    <string name="widget_cta_not_agree">Нажмите для получения информации о погоде</string>
     <string name="wind_direction_no_data">Ветер</string>
     <string name="wind_unit">%1$s км/ч</string>
     <string name="xiaomi_weather_description_content">Приложение дает вам точную информацию о погоде. Виджеты \"Погода\" в строке состояния и на рабочем столе не будут работать без него должным образом. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
