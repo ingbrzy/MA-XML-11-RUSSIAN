@@ -77,7 +77,7 @@
     <string name="accessibility_no_wifi">Сигнал Wi-Fi отсутствует.</string>
     <string name="accessibility_notification_vibration_title">Вибрация при звонке и оповещении</string>
     <string name="accessibility_personal_account_title">Личный аккаунт – %s</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">ВЫКЛ завершает вызов</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Завершение вызова кнопкой питания</string>
     <string name="accessibility_preference_magnification_summary">Экранная лупа</string>
     <string name="accessibility_screen_magnification_enable">Жесты увеличения</string>
     <string name="accessibility_screen_magnification_gestures_title">Увеличение по тройному нажатию</string>
@@ -1210,6 +1210,13 @@
     <string name="color_cyan">Голубой</string>
     <string name="color_gray">Серый</string>
     <string name="color_green">Зеленый</string>
+    <string name="color_lamp_applications_title">Управление уведомлениями</string>
+    <string name="color_lamp_applications_title_summary">Разрешение или запрет использования светодиода в уведомлениях</string>
+    <string name="color_lamp_battery_title">Держать включенным во время зарядки</string>
+    <string name="color_lamp_charging_summary">Будет выключен при достижении полного заряда</string>
+    <string name="color_lamp_incall_pulse_title">Мигать при входящих вызовах</string>
+    <string name="color_lamp_notification_pulse_title">Мигать при уведомлениях, когда экран выключен</string>
+    <string name="color_lamp_title">Светодиод</string>
     <string name="color_led_applications_title">Выберите приложения</string>
     <string name="color_led_applications_title_summary">Вы можете ограничить использование светодиода для отдельных приложений</string>
     <string name="color_led_battery_title">Держать включенным во время зарядки</string>
@@ -1218,7 +1225,7 @@
     <string name="color_led_game_mode_summary">Световые эффекты для игр при включенном Ускорении игр</string>
     <string name="color_led_game_mode_title">Использовать при Ускорении игр</string>
     <string name="color_led_hint">Выберите сценарии, когда следует использовать светодиод. Светодиод будет гореть, когда экран обращен вниз и активирован режим \"Не беспокоить\".</string>
-    <string name="color_led_incall_pulse_title">Использовать при входящих вызовах</string>
+    <string name="color_led_incall_pulse_title">Мигать при входящих вызовах</string>
     <string name="color_led_lucky_dialog_message">Эта функция требует включения помощника Красных конвертов. Включить сейчас?</string>
     <string name="color_led_lucky_dialog_title">Включение помощника</string>
     <string name="color_led_music_mode_summary">"Cветовые эффекты при воспроизведении музыки. Не работает в беззвучном режиме."</string>
@@ -1837,19 +1844,21 @@
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="dual_wifi">Двухдиапазонный Wi-Fi</string>
-    <string name="dual_wifi_acceleration">Повышение скорости</string>
+    <string name="dual_wifi_acceleration">Ускорение</string>
+    <string name="dual_wifi_auto_disable">Автоматическое отключение ускорения</string>
+    <string name="dual_wifi_auto_disable_summary">Отключение от вспомогательной сети Wi-Fi при выключенном экране для энергосбережения</string>
     <string name="dual_wifi_avaliable_slave_wifi">Доступны вспомогательные сети</string>
     <string name="dual_wifi_avaliable_slave_wifi_24G">Доступны вспомогательные сети (2.4 ГГц)</string>
     <string name="dual_wifi_avaliable_slave_wifi_5G">Доступны вспомогательные сети (5 ГГц)</string>
-    <string name="dual_wifi_enabler_summary">Повышение скорости Wi-Fi за счет объединения сетей</string>
+    <string name="dual_wifi_enabler_summary">Ускорение Wi-Fi за счет объединения сетей</string>
     <string name="dual_wifi_off">Откл.</string>
     <string name="dual_wifi_on">Вкл.</string>
     <string name="dual_wifi_primary_wifi_connected">Основная сеть Wi-Fi</string>
     <string name="dual_wifi_slave_wifi_connected">Вспомогательная сеть Wi-Fi</string>
-    <string name="dual_wifi_summary">Повысьте скорость Wi-Fi, подключившись к вспомогательным сетям</string>
+    <string name="dual_wifi_summary">Ускорение Wi-Fi с помощью подключения к вспомогательным сетям</string>
     <string name="dual_wifi_switching_not_remind">Больше не показывать</string>
     <string name="dual_wifi_switching_prompt">Переключение между сетями</string>
-    <string name="dual_wifi_switching_summary">Для повышения скорости с помощью двухдиапазонного Wi-Fi необходимы два разных диапазона Wi-Fi. При подключении к другой основной сети, вспомогательное соединение будет потеряно.</string>
+    <string name="dual_wifi_switching_summary">Для ускорения с помощью двухдиапазонного Wi-Fi необходимы два разных диапазона Wi-Fi. При подключении к другой основной сети, вспомогательное соединение будет потеряно.</string>
     <string name="dump_log">Сбор журналов проблем</string>
     <string name="dump_log_summary">"Эта функция предназначена для создания журнала 284 в Альфа и Бета версиях MIUI. Используйте ее с осторожностью.
 Вы можете просмотреть созданные журналы в Проводнике."</string>
@@ -2628,6 +2637,7 @@
     <string name="legal_workday_invalidate">Пн-пт (данные праздников устарели)</string>
     <string name="legal_workday_invalidate_message">Нажмите для обновления данных о праздниках.</string>
     <string name="legal_workday_message">(пропускать праздники)</string>
+    <string name="legal_written_offer">Письменное предложение</string>
     <string name="license_title">Лицензия</string>
     <string name="lift_to_wake_title">Активация в вертикальном положении</string>
     <string name="lights_title">Световой индикатор</string>
@@ -3724,6 +3734,7 @@ OTG отключается автоматически через 10 минут �
     <string name="popup_gesture_title">Открытие передней камеры</string>
     <string name="popup_led_summary">Показывать анимацию, когда передняя камера появляется и убирается</string>
     <string name="popup_led_title">Визуальный эффект</string>
+    <string name="popup_led_try_later">Повторите попытку позже</string>
     <string name="popup_title">Эффекты передней камеры</string>
     <string name="popup_title_cangmen">Дверь</string>
     <string name="popup_title_chilun">Шестеренка</string>
