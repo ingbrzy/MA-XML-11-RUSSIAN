@@ -1246,6 +1246,18 @@
   <string name="hints_virus_app_list_item_summary">приложение</string>
   <string name="hints_virus_app_summary">%s (приложение)</string>
   <string name="hints_virus_lib_update_default_summary">Последнее обновление: неизвестно</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">добавление системных голосовых сообщений</string>
+  <string name="HIPS_Perm_Call_Desc">непосредственное осуществление вызовов</string>
+  <string name="HIPS_Perm_CallLog_Desc">создание и удаление записей в журнале вызовов</string>
+  <string name="HIPS_Perm_Contact_Desc">изменение и удаление контактов</string>
+  <string name="HIPS_Perm_get_accounts_Desc">доступ ко всем аккаунтам на устройстве</string>
+  <string name="HIPS_Perm_PhoneID_Desc">доступ к номеру телефона, IMEI и IMSI</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Доступ к номеру телефона и состоянию устройства</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">чтение журнала вызовов</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">чтение контактов</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">чтение SMS сообщений</string>
+  <string name="HIPS_Perm_SendSMS_Desc">непосредственная отправка SMS</string>
+  <string name="HIPS_Perm_use_sip_Desc">использование протокола SIP для потокового видео</string>
   <string name="hot">Популярное</string>
   <string name="hot_today">Популярно сегодня</string>
   <string name="i_know">Понятно</string>
@@ -1754,6 +1766,8 @@
   <string name="percentage">%d%%</string>
   <string name="perfermance_optimization_summary">Предупреждение перегрева и аппаратных проблем</string>
   <string name="perfermance_optimization_title">Оптимизация производительности</string>
+  <string name="permdesc_in_calls">Отслеживать входящие вызовы</string>
+  <string name="permdesc_out_calls">Отслеживать исходящие вызовы</string>
   <string name="permgroupdesc_calendar">Доступ к календарю</string>
   <string name="permgroupdesc_calllog">Доступ к журналу вызовов</string>
   <string name="permgroupdesc_camera">Снимать фото и видео</string>
@@ -2550,6 +2564,7 @@
   <string name="system_permission_declare_use_network_no_permission">Подключение к сети</string>
   <string name="system_permission_declare_user_agreement">&lt;Data&gt;Прочитайте и примите наше &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; перед использованием этой функции.&lt;/Data&gt;</string>
   <string name="system_permission_perm_answer_call">Вызовы</string>
+  <string name="system_permission_perm_optional">" (опционально)"</string>
   <string name="system_permission_perm_read_mms">Чтение MMS</string>
   <string name="system_permission_perm_read_numbers">Чтение телефонных номеров</string>
   <string name="system_permission_perm_send_mms">Отправка MMS</string>
