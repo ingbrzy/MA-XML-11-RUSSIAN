@@ -223,6 +223,7 @@ ID:%s
   <string name="passport_bad_authentication">Неверное имя пользователя или пароль</string>
   <string name="passport_barcode_add_account_prompt">Для подключения аккаунта отсканируйте QR-код после авторизации.</string>
   <string name="passport_btn_change_account">Сменить аккаунт</string>
+  <string name="passport_can_not_receive_verification_code">Не удалось получить код подтверждения?</string>
   <string name="passport_change_account"><u>Сменить аккаунт</u></string>
   <string name="passport_change_phone_number">Выбрать другой номер</string>
   <string name="passport_checking_account">Проверка пароля…</string>
