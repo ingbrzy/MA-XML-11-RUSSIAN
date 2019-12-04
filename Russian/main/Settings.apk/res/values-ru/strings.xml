@@ -1598,6 +1598,7 @@
     <string name="default_vol_stream_title">Управление громкостью по умолчанию</string>
     <string name="delete">Удалить</string>
     <string name="delete_fingerprint_confirm_msg">Удалить отпечаток?</string>
+    <string name="delete_fingerprint_confirm_title">Внимание</string>
     <string name="delete_fingerprint_text">Удалить отпечаток</string>
     <string name="delete_legacy_fingerprint">Удалить</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Удалить отпечатки пальцев?</string>
@@ -2865,6 +2866,7 @@
     <string name="lockscreen_glogin_submit_button">Войти</string>
     <string name="lockscreen_label">Блокировка</string>
     <string name="lockscreen_magazine">Карусель обоев</string>
+    <string name="lockscreen_magazine_india">Взгляд на Mi</string>
     <string name="lockscreen_magazine_summary">Ежедневно обновляемые обои и истории</string>
     <string name="lockscreen_magazine_title">Карусель обоев</string>
     <string name="lockscreen_remote_input">Запретить набор текста в уведомлениях, если устройство заблокировано</string>
