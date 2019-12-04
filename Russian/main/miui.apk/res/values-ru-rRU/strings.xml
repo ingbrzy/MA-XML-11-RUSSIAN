@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abc_action_bar_home_description">На главную</string>
-  <string name="abc_action_bar_up_description">Наверх</string>
+  <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+  <string name="abc_action_bar_up_description">Перейти вверх</string>
   <string name="action_mode_deselect_all">Снять выбор</string>
   <string name="action_mode_select_all">Выбрать все</string>
   <string name="action_mode_title_empty">Выберите объекты</string>
