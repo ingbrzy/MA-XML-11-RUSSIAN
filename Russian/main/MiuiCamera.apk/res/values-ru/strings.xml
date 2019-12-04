@@ -139,6 +139,10 @@
   <string name="dialog_ok_time">ОК (%d сек.)</string>
   <string name="dirty_tip_toast">Объектив загрязнен, протрите его.</string>
   <string name="do_not_remind_me">Больше не показывать</string>
+  <string name="document_blackwhite">Ч/Б</string>
+  <string name="document_blur_warn">Текст размыт</string>
+  <string name="document_origin">Исходный</string>
+  <string name="document_strengthen">Улучшенный</string>
   <string name="dual_camera_lens_covered_toast">Объектив закрыт</string>
   <string name="dual_camera_lowlight_toast">Похоже, что здесь слишком темно</string>
   <string name="dual_camera_too_close_toast">Камера находится слишком близко к объекту</string>
@@ -203,6 +207,11 @@
   <string name="hint_subtitle">Диктуйте субтитры во время съемки видео</string>
   <string name="hint_subtitle_prompt">Вы можете диктовать субтитры</string>
   <string name="hunt_dual_water_mark">Водяной знак двойной камеры будет добавлен автоматически</string>
+  <string name="id_card_mode_hint_back">Отсканируйте обратную сторону удостоверения</string>
+  <string name="id_card_mode_hint_front">Отсканируйте лицевую сторону удостоверения</string>
+  <string name="id_card_mode_use_hint_text_body">"Объедините обе стороны удостоверения в одно изображение.
+Распечатайте копию по беспроводной сети на бумаге формата А4."</string>
+  <string name="id_card_mode_use_hint_text_title">Сканирование удостоверения</string>
   <string name="install_confirmed">Установить</string>
   <string name="lens_dirty_detected_content">"Объектив вашей камеры загрязнен.
 Очистите объектив для улучшения снимков."</string>
@@ -640,6 +649,7 @@
   <string name="pref_camera_zsl_entry_off">Откл</string>
   <string name="pref_camera_zsl_entry_on">Вкл</string>
   <string name="pref_capture_settings">Съемка фото</string>
+  <string name="pref_document_mode">Документы</string>
   <string name="pref_dualcamera_watermark_title">Водяной знак двойной камеры</string>
   <string name="pref_face_beauty_title">Улучшение</string>
   <string name="pref_fingerprint_capture_title">Съемка отпечатком пальца</string>
