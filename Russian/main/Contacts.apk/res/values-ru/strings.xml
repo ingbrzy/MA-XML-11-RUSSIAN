@@ -184,6 +184,7 @@
     <string name="cloud_state_loading">Подождите…</string>
     <string name="cloud_state_sync_finished">Синхронизировано с облаком</string>
     <string name="cloud_state_syncing">Синхронизация с облаком…</string>
+    <string name="cloud_upgrade_recommend">Не удалось синхронизировать контакты из-за нехватки места в облачном хранилище. Обновите план облачного хранилища.</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
