@@ -1038,7 +1038,7 @@
   <string name="function_shield_summary">Ограничить выбранные функции системы во время игр</string>
   <string name="function_shield_three_finger">Отключить жесты скриншота</string>
   <string name="function_shield_title">Улучшенное восприятие</string>
-  <string name="function_shield_voice_trigger">"Не будить Mi AI с голосом"</string>
+  <string name="function_shield_voice_trigger">Не запускать Mi AI голосом</string>
   <string name="fw_blocked">Антиспам</string>
   <string name="fw_blocked_count">"Заблокировано: "</string>
   <string name="fw_blocked_join">" и "</string>
@@ -1832,6 +1832,7 @@
   <string name="power_center_battery_last">Осталось%s</string>
   <string name="power_center_charge_time">%1$s до окончания</string>
   <string name="power_center_dialog_msg_bottom">Можно увеличить автономность до %1$d ч. %2$d мин. Включить энергосбережение?</string>
+  <string name="power_center_dialog_msg_title">Включите, чтобы увеличить время работы на %1$s. Для энергосбережения будут выполнены следующие действия:</string>
   <string name="power_center_dialog_msg_top">Когда энергосбережение включено, MIUI выполнит следующие действия:</string>
   <string name="power_center_hints_scan_danger_result">Найдены объекты для оптимизации</string>
   <string name="power_center_list_item_auto_brightness">Автоматически регулировать яркость</string>
@@ -1841,8 +1842,10 @@
   <string name="power_center_list_item_battery_status_time">ч.</string>
   <string name="power_center_list_item_close_bluetooth">Отключить Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Глубокая экономия</string>
+  <string name="power_center_list_item_haptic_feedback">Отключить виброотклик</string>
   <string name="power_center_list_item_set_lockscreen_time">Спящий режим через 30 сек. бездействия</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Блокировка устройства через %d сек. бездействия</string>
+  <string name="power_center_list_item_wake_notification">Не пробуждать для уведомлений</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_one_key_save">Оптимизировать</string>
   <string name="power_center_ontime_boot">Включение по расписанию</string>
@@ -1935,6 +1938,7 @@
   <string name="power_optimize_disable_5g">Ограничить подключение 5G</string>
   <string name="power_optimize_disable_app_autostart">Запрет приложениям запускаться автоматически</string>
   <string name="power_optimize_disable_gps">Отключение GPS</string>
+  <string name="power_optimize_disable_gps_high_accuracy">Отключение режима определения местоположения с высокой точностью</string>
   <string name="power_optimize_disable_start_other_app">Запрет приложениям запускать другие приложения</string>
   <string name="power_optimize_loading">Загрузка</string>
   <string name="power_optimize_open_hide_mode">Включение контроля активности</string>
@@ -1958,8 +1962,12 @@
   <string name="power_save_low_battery_title">Автопереключение</string>
   <string name="power_save_mode_auto_exit_summary">Автоматически отключать энергосбережение при заряде 60% и более</string>
   <string name="power_save_mode_auto_exit_title">Автоматическое отключение</string>
+  <string name="power_save_mode_close_notification_screenon_summary">Функция активна при включенном энергосбережении</string>
+  <string name="power_save_mode_close_notification_screenon_title">Не пробуждать для уведомлений</string>
   <string name="power_save_mode_close_warn_text">Энергосбережение ограничивает фоновую активность и синхронизацию. Если вы решите использовать ее при заряженной батарее, некоторые функции могут работать неправильно. Оставить энергосбережение включенным?</string>
   <string name="power_save_mode_close_warn_title">Энергосбережение</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_summary">Функция активна при включенном энергосбережении</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_title">Не запускать MI AI голосом</string>
   <string name="power_save_mode_enable">Энергосбережение</string>
   <string name="power_save_mode_end_time">Окончание</string>
   <string name="power_save_mode_ontime_enabled">Использовать по расписанию</string>
@@ -1979,8 +1987,8 @@
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Расписание</string>
   <string name="power_save_ps_clean">Очистка кэша при блокировке устройства</string>
-  <string name="power_save_ps_close_setting">Отключение фоновых сервисов (синхронизация, GPS)</string>
-  <string name="power_save_ps_close_setting_5g">Ограничить энергопотребляющие функции (синхронизация, 5G подключение, GPS)</string>
+  <string name="power_save_ps_close_setting">Отключить для энергосбережения службы и функции с высоким энергопотреблением (синхронизация, GPS, виброотклик, \"Пробуждать при взятии в руки\", \"Двойное касание\" для пробуждения или выключения экрана, \"Значок отпечатка на выключенном экране\")</string>
+  <string name="power_save_ps_close_setting_5g">Отключить для энергосбережения службы и функции с высоким энергопотреблением (синхронизация, 5G подключение, GPS, виброотклик, \"Пробуждать при взятии в руки\", \"Двойное касание\" для пробуждения или выключения экрана, \"Значок отпечатка на выключенном экране\")</string>
   <string name="power_save_ps_freeze">Заморозка приложений, работающих в фоновом режиме</string>
   <string name="power_save_ps_limit">Ограничение активности системных приложений</string>
   <string name="power_save_settings">Настройки оптимизации питания</string>
