@@ -405,9 +405,9 @@
   <string name="shield_tag_list_title">Заблокированные</string>
   <string name="shield_tag_select_title">Заблокированные</string>
   <string name="shortcut_ask">Разрешить создание ярлыков в Безопасность</string>
-  <string name="shortcut_created">Ярлык создан успешно</string>
+  <string name="shortcut_created">Ярлык успешно создан</string>
   <string name="shortcut_exist">Ярлык уже существует</string>
-  <string name="shortcut_failed">"Не удалось создать ярлык"</string>
+  <string name="shortcut_failed">Не удалось создать ярлык</string>
   <string name="show_wallpaper_loop_entry_title">Слайд-шоу рабочего стола</string>
   <string name="sign_in_title">Войти с помощью Mi Аккаунт</string>
   <string name="sliding_on_unlock">Свайп вверх для разблокировки</string>
