@@ -199,7 +199,6 @@
   <string name="confirm_unbundled_phone_dialog_message">Этот номер телефона был связан с Mi аккаунтом %2$s на %1$s. Если вы продолжите, он больше не будет связан с Mi аккаунтом %3$s. Продолжить?</string>
   <string name="content">Описание</string>
   <string name="content_can_not_null">Нельзя отправить отзыв без описания.</string>
-  <string name="content_can_not_null">Нельзя отправить пустой отзыв</string>
   <string name="data_empty">Ничего нет</string>
   <string name="day">день</string>
   <string name="define_roundedimageview"/>
