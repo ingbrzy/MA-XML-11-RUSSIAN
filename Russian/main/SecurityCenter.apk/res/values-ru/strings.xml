@@ -1971,6 +1971,7 @@
   <string name="power_save_mode_enable">Энергосбережение</string>
   <string name="power_save_mode_end_time">Окончание</string>
   <string name="power_save_mode_ontime_enabled">Использовать по расписанию</string>
+  <string name="power_save_mode_other_optimization">Дополнительная оптимизация</string>
   <string name="power_save_mode_start_time">Начало</string>
   <string name="power_save_mode_summary">Ограничение фоновой активности и отключение синхронизации</string>
   <string name="power_save_on_time_auto_save_title">По расписанию</string>

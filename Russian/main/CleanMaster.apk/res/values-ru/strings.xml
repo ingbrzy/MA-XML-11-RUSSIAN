@@ -96,6 +96,8 @@
   <string name="btn_text_quick_cleanup_video">Удалить выбранные видео %1$s</string>
   <string name="btn_text_quick_scan">Проверить</string>
   <string name="btn_text_stop">Остановить</string>
+  <string name="button_agree">Согласен</string>
+  <string name="button_deny">Отмена</string> 
   <string name="button_optimizer">OK</string>
   <string name="button_text_add_to_white_list">Исключение</string>
   <string name="button_text_backup_uninstall">Резервировать</string>

@@ -782,8 +782,10 @@
   <string name="notification_channel_car_mode">Режим \"В авто\"</string>
   <string name="notification_channel_developer">Сообщения от разработчиков</string>
   <string name="notification_channel_device_admin">Управление устройством</string>
-  <string name="notification_channel_emergency_callback">Режим экстренных обратных вызовов</string>
-  <string name="notification_channel_foreground_service">Приложения, расходующие заряд</string>
+  <string name="notification_channel_do_not_disturb">Режим \"Не беспокоить\"</string>
+  <string name="notification_channel_emergency_callback">Режим экстренных вызовов</string>
+  <string name="notification_channel_foreground_service">Расход заряда батареи</string>
+  <string name="notification_channel_heavy_weight_app">Приложение запущено</string>
   <string name="notification_channel_mobile_data_status">Состояние мобильного Интернета</string>
   <string name="notification_channel_network_alert">Оповещения</string>
   <string name="notification_channel_network_alerts">Оповещения сети</string>
@@ -793,6 +795,7 @@
   <string name="notification_channel_retail_mode">Деморежим для магазина</string>
   <string name="notification_channel_security">Безопасность</string>
   <string name="notification_channel_sms">SMS</string>
+  <string name="notification_channel_system_changes">Изменение системы</string>
   <string name="notification_channel_updates">Обновления</string>
   <string name="notification_channel_usb">USB-подключение</string>
   <string name="notification_channel_virtual_keyboard">Виртуальная клавиатура</string>

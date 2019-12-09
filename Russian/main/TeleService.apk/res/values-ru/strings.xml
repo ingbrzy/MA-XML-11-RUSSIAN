@@ -824,7 +824,7 @@
   <string name="mmiStarted">Выполняется запрос</string>
   <string name="mobile_advanced_dns_server_title">Адрес DNS-сервера</string>
   <string name="mobile_advanced_ip_address_title">IP-адрес</string>
-  <string name="mobile_connection_management">Управление подключением к мобильной сети</string>
+  <string name="mobile_connection_management">Мобильная сеть</string>
   <string name="mobile_data_activate_button">АКТИВИРОВАТЬ</string>
   <string name="mobile_data_activate_cancel_button">ОТМЕНА</string>
   <string name="mobile_data_activate_diag_message">Возможно, для этого вам потребуется обратиться к оператору связи (%s)</string>
@@ -888,7 +888,7 @@
   <string name="name">Имя</string>
   <string name="national_disable">Национальные новости отключены</string>
   <string name="national_enable">Национальные новости включены</string>
-  <string name="netcheck_title">Диагностика</string>
+  <string name="netcheck_title">Диагностика сети</string>
   <string name="network_4G">4G (рекомендуется)</string>
   <string name="network_error_message">Не удалось подключиться к сети</string>
   <string name="network_global">Глобальный</string>

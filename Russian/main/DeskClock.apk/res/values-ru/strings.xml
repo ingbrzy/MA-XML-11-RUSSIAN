@@ -80,8 +80,8 @@
     <string name="control_set_alarm">Установить</string>
     <string name="control_set_alarm_with_existing">Будильник установлен: %s</string>
     <string name="day_concat">", "</string>
-    <string name="default_alarm_alert">Мелодия по умолчанию</string>
-    <string name="default_alarm_title">Мелодия по умолчанию</string>
+    <string name="default_alarm_alert">По умолчанию</string>
+    <string name="default_alarm_title">По умолчанию</string>
     <string name="default_label">Будильник</string>
     <string name="delete">Удалить</string>
     <string name="delete_alarm">Удаление будильника</string>
@@ -169,7 +169,7 @@
     <string name="menu_item_sort_by_name">Сортировать по имени</string>
     <string name="module_dialog_negative">Отмена</string>
     <string name="module_dialog_neutral">Понятно</string>
-    <string name="module_dialog_positive">Согласен</string>
+    <string name="module_dialog_positive">ОК</string>
     <string name="module_download_cancel">Нет, спасибо</string>
     <string name="module_download_data_msg">Приложению требуется загрузить аудиофайлы для умных будильников. Умные будильники содержат функции, которые позволяют включать в сигналы текущую информацию о погоде. Для загрузки потребуется ≈20 МБ мобильного интернета. Загрузить?</string>
     <string name="module_download_data_msg_golbal">Приложению требуется загрузить аудиофайлы для умных будильников. Для загрузки потребуется ≈20 МБ мобильного интернета. Загрузить?</string>
@@ -276,12 +276,12 @@
     <string name="sleep_duration_text">%1$s %2$s</string>
     <string name="sleep_duration_text_avg">%1$s %2$s</string>
     <string name="sleep_no_disturbance">Режим \"Не беспокоить\"</string>
-    <string name="sleep_no_disturbance_desc">Включение режима \"Не беспокоить\" до пробуждения</string>
-    <string name="sleep_no_record_text">Начните отслеживние сна, чтобы появилась статистика</string>
+    <string name="sleep_no_disturbance_desc">Включить режим \"Не беспокоить\" в установленный период сна</string>
+    <string name="sleep_no_record_text">Статистика отсутствует</string>
     <string name="sleep_notification_desc">Придерживайтесь своего режима сна</string>
     <string name="sleep_notification_title">Время ложиться спать</string>
     <string name="sleep_record">Отслеживание сна</string>
-    <string name="sleep_record_desc">Включение отслеживания сна</string>
+    <string name="sleep_record_desc">Включить отслеживание сна</string>
     <string name="sleep_record_desc_detailed">Функция отслеживания сна предоставляется приложением Mi Здоровье. После включения, приложение будет автоматически отслеживать ваш сон на основе использования телефона и статистики активности, а также установленного времени начала сна и пробуждения, показывая статистику в виде диаграмм. Для более точного отслеживания сна, разрешите автозапуск для приложения Mi Здоровье. Все данные будут храниться локально на вашем устройстве, что позволяет легко управлять ими.</string>
     <string name="sleep_record_no_data">Ваша статистика появится здесь после того, как наберется достаточно данных и Mi Здоровье проанализирует их</string>
     <string name="sleep_remind">Напоминание</string>
@@ -371,7 +371,7 @@
     <string name="volume_button_setting_summary">Настройка функции боковых кнопок при их нажатии во время звонка будильника</string>
     <string name="volume_button_setting_title">Функция боковых кнопок</string>
     <string name="wake_up_alert">Будильник</string>
-    <string name="wake_up_alert_desc">Включение будильника в установленное время</string>
+    <string name="wake_up_alert_desc">Включить будильник в установленное время</string>
     <string name="wake_up_ringtone">Рингтон будильника</string>
     <string name="wake_up_time">Пробуждение</string>
     <string name="workday_alarm_clock">По рабочим дням</string>

@@ -19,10 +19,10 @@
         <item quantity="many">Не синхронизировано %d сообщений</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Удалить %1$d выбранных диалогов?</item>
-        <item quantity="one">Удалить %1$d выбранный диалог?</item>
-        <item quantity="few">Удалить %1$d выбранных диалога?</item>
-        <item quantity="many">Удалить %1$d выбранных диалогов?</item>
+        <item quantity="other">Удалить %1$s выбранных диалогов?</item>
+        <item quantity="one">Удалить %1$s выбранный диалог?</item>
+        <item quantity="few">Удалить %1$s выбранных диалога?</item>
+        <item quantity="many">Удалить %1$s выбранных диалогов?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">Выбрано: %d</item>
@@ -31,10 +31,8 @@
         <item quantity="many">Выбрано: %d</item>
     </plurals>
     <plurals name="delivery_toast_body_more_plurals">
-        <item quantity="other">Сообщение для %1$s и еще %2$d адресатов доставлено</item>
-        <item quantity="one">Сообщение для %1$s и еще %2$d адресата доставлено</item>
-        <item quantity="few">Сообщение для %1$s и еще %2$d адресатов доставлено</item>
-        <item quantity="many">Сообщение для %1$s и еще %2$d адресатов доставлено</item>
+        <item quantity="other">Сообщение получено %1$s и %2$d другими людьми</item>
+        <item quantity="one">Сообщение получено %1$s и %2$d другим человеком</item>
     </plurals>
     <plurals name="group_message_failed_title">
         <item quantity="other">Не удалось отправить %d контактам</item>
@@ -66,6 +64,12 @@
         <item quantity="few">"%s сообщения | "</item>
         <item quantity="many">"%s сообщений | "</item>
     </plurals>    
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">У вас %d приглашений в групповой чат</item>
+        <item quantity="one">У вас %d приглашение в групповой чат</item>
+        <item quantity="few">У вас %d приглашения в групповой чат</item>
+        <item quantity="many">У вас %d приглашений в групповой чат</item>
+    </plurals>	
     <plurals name="recipient_count">
         <item quantity="other">%1$s получателей</item>
         <item quantity="one">%1$s получатель</item>

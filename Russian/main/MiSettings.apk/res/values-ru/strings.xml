@@ -47,7 +47,7 @@
     <string name="sim_slot_2">" SIM (слот 2)"</string>
     <string name="sms_delivered_sound_title">Доставленное сообщение</string>
     <string name="sms_received_sound_title">Входящее сообщение</string>
-    <string name="stop_app_timer">Отключение</string>
+    <string name="stop_app_timer">Отключить</string>
     <string name="stop_app_timer_fail">Не удалось отключить</string>
     <string name="stop_app_timer_success">Успешно отключено</string>
     <string name="stop_app_timer_tip">Все данные и разрешения, включая индивидуальные настройки, хранящиеся локально и синхронизированные с облаком, после отключения этой функции будут удалены.</string>

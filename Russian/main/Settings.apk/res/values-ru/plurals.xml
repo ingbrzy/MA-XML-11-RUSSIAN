@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d дней назад</item>
+        <item quantity="one">%d день назад</item>
+        <item quantity="few">%d дня назад</item>
+        <item quantity="many">%d дней назад</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d минут назад</item>
+        <item quantity="one">%d минуту назад</item>
+        <item quantity="few">%d минуты назад</item>
+        <item quantity="many">%d минут назад</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d лет назад</item>
+        <item quantity="one">%d год назад</item>
+        <item quantity="few">%d года назад</item>
+        <item quantity="many">%d лет назад</item>
+    </plurals>
+    <plurals name="accessibility_usage_summary">
+        <item quantity="other">%1$d приложений имеют полный доступ к устройству</item>
+        <item quantity="one">1 приложение имеет полный доступ к устройству</item>
+        <item quantity="few">%1$d приложения имеют полный доступ к устройству</item>
+        <item quantity="many">%1$d приложений имеют полный доступ к устройству</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Сверхкраткая задержка (%1$d мсек.)</item>
         <item quantity="one">Сверхкраткая задержка (%1$d мсек.)</item>
@@ -155,6 +179,16 @@
         <item quantity="one">%s час</item>
         <item quantity="few">%s часа</item>
         <item quantity="many">%s часов</item>
+    </plurals>
+    <plurals name="location_app_permission_summary_location_on">
+        <item quantity="other">%1$d из %2$d приложений имеют доступ к местоположению</item>
+        <item quantity="one">%1$d из %2$d приложений имеют доступ к местоположению</item>
+    </plurals>
+    <plurals name="location_settings_summary_location_on">
+        <item quantity="other">Вкл. - %1$d приложений имеют доступ к местоположению</item>
+        <item quantity="one">Вкл. - %1$d приложение имеет доступ к местоположению</item>
+        <item quantity="few">Вкл. - %1$d приложения имеют доступ к местоположению</item>
+        <item quantity="many">Вкл. - %1$d приложений имеют доступ к местоположению</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Используйте как минимум %d буквы</item>

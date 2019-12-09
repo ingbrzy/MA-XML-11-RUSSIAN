@@ -817,7 +817,7 @@
   <string name="switch_to_menu">Режим меню</string>
   <string name="system_permission_declare_agree">Согласен</string>
   <string name="system_permission_declare_disagree">Отмена</string>
-  <string name="system_permission_declare_double_link" formatted="false">Прочитайте и примите %1s and %2s перед использованием этого сервиса.</string>
+  <string name="system_permission_declare_double_link" formatted="false">Прочитайте и примите %1s и %2s перед использованием этого сервиса.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Добро пожаловать в %1s! %2s</string>
   <string name="system_permission_declare_no_say_no">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. Если вы не согласны предоставить такие разрешения или поделиться своей личной информацией, вы не сможете использовать это приложение.</string>
   <string name="system_permission_declare_privacy_declare">Для нормальной работы %1s необходим сбор ваших данных и следующие разрешения:</string>
