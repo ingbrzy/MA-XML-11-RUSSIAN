@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Оповещение населения</string>
-    <string name="sms_cb_settings">Настройки</string>
+    <string name="sms_cb_settings">Экстренные оповещения</string>
     <string name="cell_broadcast_settings_not_available">Настройки оповещения населения недоступны этому пользователю</string>
     <string name="button_dismiss">ОК</string>
     <string name="no_cell_broadcasts">В вашей области нет активных оповещений. Изменить параметры оповещений можно в меню \"Настройки\".</string>

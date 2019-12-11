@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="confirm_delete_downloads_message">
-        <item quantity="other">Будет удалено %d загрузок.</item>
-        <item quantity="one">Будет удалена %d загрузка.</item>
-        <item quantity="few">Будет удалено %d загрузки.</item>
-        <item quantity="many">Будет удалено %d загрузок.</item>
-    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Удалить %d загрузок?</item>
         <item quantity="one">Удалить %d загрузку?</item>
@@ -42,16 +36,22 @@
         <item quantity="few">%1$d секунды</item>
         <item quantity="many">%1$d секунд</item>
     </plurals>
-    <plurals name="selected_count">
-        <item quantity="other">Выбрано %1$d из %2$d</item>
-        <item quantity="one">Выбрано %1$d из %2$d</item>
-        <item quantity="few">Выбрано %1$d из %2$d</item>
-        <item quantity="many">Выбрано %1$d из %2$d</item>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Удалить %d объектов?</item>
+        <item quantity="one">Удалить этот объект?</item>
+        <item quantity="few">Удалить %d объекта?</item>
+        <item quantity="many">Удалить %d объектов?</item>
     </plurals>
-    <plurals name="show_more">
-        <item quantity="other">Показать еще %1$d</item>
-        <item quantity="one">Показать еще %1$d</item>
-        <item quantity="few">Показать еще %1$d</item>
-        <item quantity="many">Показать еще %1$d</item>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">Найдено %d объектов</item>
+        <item quantity="one">Найден 1 объект</item>
+        <item quantity="few">Найдено %d объекта</item>
+        <item quantity="may">Найдено %d объектов</item>
     </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">Найдено %d результатов</item>
+        <item quantity="one">Найден 1 результат</item>
+        <item quantity="few">Найдено %d результата</item>
+        <item quantity="may">Найдено %d результатов</item>
+    </plurals>	
 </resources>
