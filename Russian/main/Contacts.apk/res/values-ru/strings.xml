@@ -47,6 +47,11 @@
     <string name="back_description">Назад</string>
     <string name="back_view_description">Назад</string>
     <string name="batch_delete">Групповое удаление</string>
+    <string name="bind_simcard_default">SIM-карта по умолчанию для вызовов</string>
+    <string name="bind_simcard_menu">Выбор SIM-карты по умолчанию</string>
+    <string name="bind_simcard_no_dual">Двойная SIM-карта не найдена</string>
+    <string name="bind_simcard_not_set">Не задана</string>
+    <string name="bind_simcard_title">SIM-карта по умолчанию для вызовов</string>
     <string name="blacklist">Заблокировать</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth соединение прервано</string>
     <string name="blurbJoinContactDataWith">Выберите контакт для объединения с \"%s\":</string>
