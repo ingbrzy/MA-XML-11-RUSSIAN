@@ -262,7 +262,7 @@
   <string name="review_button_cancel">Отмена</string>
   <string name="review_button_continue">Продолжить</string>
   <string name="risk_warning_bottom_button">Установить из GetApps</string>
-  <string name="risk_warning_msg">Подпись установочного пакета не является оригинальной. Чтобы избежать возможные риски, установите это приложение из GetApps.</string>
+  <string name="risk_warning_msg">Подпись установочного пакета не является оригинальной. Чтобы избежать возможные риски, установите это приложение из надежного источника.</string>
   <string name="risk_warning_title">Обнаружены риски</string>
   <string name="risk_warning_top_button">Не устанавливать</string>
   <string name="safe_guard_support">Техническая поддержка предоставлена %1$s</string>

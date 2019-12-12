@@ -1797,6 +1797,8 @@
     <string name="disabled_low_ram_device">Функция не поддерживается на этом устройстве</string>
     <string name="disallow_lock_screen_summary">Разрешите уведомления в \"Уведомлениях\"</string>
     <string name="disconnected">Нет подключения</string>
+    <string name="display_advanced_mode_summary">Цветовая гамма</string>
+    <string name="display_advanced_mode_title">Расширенные настройки</string>
     <string name="display_auto_rotate_rotate">Вкл</string>
     <string name="display_auto_rotate_stay_in_current">Откл</string>
     <string name="display_auto_rotate_stay_in_landscape">Альбомная ориентация</string>
@@ -2418,6 +2420,9 @@
     <string name="handy_mode_tips_full_screen">При использовании жестов вы можете включить режим управления одной рукой, используя Сенсорный помощник. Вы также можете переключиться на использование кнопок вместо жестов.</string>
     <string name="haptic_feedback_enable_title">Виброотклик</string>
     <string name="haptic_feedback_level">Уровень вибрации</string>
+    <string name="haptic_feedback_progress">Уровень вибрации</string>
+    <string name="haptic_feedback_summary">Виброотклик на жесты и управление системой</string>
+    <string name="haptic_feedback_title">Виброотклик</string>
     <string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
     <string name="hardware_info">Модель и серийный номер</string>
     <string name="hardware_revision">Версия аппаратного обеспечения</string>
@@ -2480,6 +2485,8 @@
     <string name="ignore_optimizations_on_desc">Батарея может разрядиться быстрее.</string>
     <string name="ignore_optimizations_title">Не ограничивать расход заряда батареи в приложении \"%s\"?</string>
     <string name="ime_security_warning">%1$s может записывать все, что вы вводите, включая пароли, номера кредитных карт и прочие личные данные.</string>
+    <string name="ime_security_warning_global">Методы ввода могут собирать весь вводимый вами текст, включая такие личные данные, как пароли и номера кредитных карт. Использовать %1$s?</string>
+    <string name="ime_security_warning_title_global">Включение клавиатуры</string>
     <string name="imei_information_summary">Сведения, касающиеся IMEI-кода</string>
     <string name="imei_information_title">Данные IMEI-кода</string>
     <string name="imei_multi_sim">IMEI (слот %1$d)</string>
@@ -3659,6 +3666,7 @@
     <string name="open_demo_mode">Включить</string>
     <string name="open_demo_mode_warning_message">В деморежиме часы в строке состояния будут остановлены, значки батареи и сигналов сети будут показаны полными. Для изменения этого поведения отключите деморежим или перезагрузите устройство.</string>
     <string name="open_game_accelerate">Ускорение игр</string>
+    <string name="open_haptic_feedback">Виброотклик</string>
     <string name="open_miui_optimization_title">Включение оптимизации MIUI</string>
     <string name="open_optimization_message">Включите оптимизацию и наслаждайтесь плавным, быстрым интерфейсом.</string>
     <string name="open_optimization_option">Включить</string>

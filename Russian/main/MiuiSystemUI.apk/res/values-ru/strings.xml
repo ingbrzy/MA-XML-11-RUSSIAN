@@ -773,6 +773,8 @@
     <string name="how_to_use_drawer_summary">Проведите вправо в верхней части экрана</string>
     <string name="how_to_use_fsg">Выполняйте эти действия с помощью жестов:</string>
     <string name="ime_security_warning">%1$s может записывать все, что вы вводите, включая пароли, номера кредитных карт и прочие личные данные.</string>
+    <string name="ime_security_warning_global">Методы ввода могут собирать весь вводимый вами текст, включая такие личные данные, как пароли и номера кредитных карт. Использовать %1$s?</string>
+    <string name="ime_security_warning_title_global">Включение клавиатуры</string>
     <string name="immediately_destroy_activities">Не хранить activities</string>
     <string name="immediately_destroy_activities_summary">Уничтожать activities после их завершения</string>
     <string name="important_desc">Все важные уведомления будут появляться в шторке уведомлений.</string>
