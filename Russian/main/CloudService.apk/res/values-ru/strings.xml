@@ -514,6 +514,7 @@
     <string name="wipe_data_dialog_msg_and_on">, и некоторые другие объекты</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Объекты не синхронизированы</string>
+    <string name="wipe_data_query_progress_title">Проверка…</string>
     <string name="wipe_secret_photo_dialog_title">Скрытые фото не синхронизированы</string>
     <string name="xiaomi_cloud_service">Облачный сервис</string>
     <string name="xiaomi_cloud_service_subtitle">Всё важное в одном месте</string>
