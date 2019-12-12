@@ -129,11 +129,11 @@
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>Откл.</item>
-        <item>Вкл. Фильтрация</item>
-        <item>Вкл.</item>
-        <item>Вкл. \"Фильтрация заголовков\"</item>
-        <item>Вкл. \"Фильтрация медиапакетов\"</item>
+        <item>Отключено</item>
+        <item>Включен фильтр</item>
+        <item>Включен фильтр заголовков</item>
+        <item>Включен фильтр медиа пакетов</item>
+        <item>Включено</item>
     </string-array>
     <string-array name="carrier_name">
         <item>China Mobile</item>

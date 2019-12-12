@@ -1449,7 +1449,7 @@
   <string name="websearch">Веб-поиск</string>
   <string name="week">нед.</string>
   <string name="weeks">нед.</string>
-  <string name="wfc_mode_cellular_preferred_summary">Приоритет мобильного Интернета</string>
+  <string name="wfc_mode_cellular_preferred_summary">Приоритет мобильной сети</string>
   <string name="wfc_mode_wifi_only_summary">Только Wi-Fi</string>
   <string name="wfc_mode_wifi_preferred_summary">Приоритет Wi-Fi</string>
   <string name="wfcRegErrorTitle">Звонки по Wi-Fi</string>

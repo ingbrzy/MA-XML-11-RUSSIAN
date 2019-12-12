@@ -260,11 +260,6 @@
         <item>50%</item>
         <item>100%</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices_world_mode">
-        <item>Global</item>
-        <item>LTE/CDMA</item>
-        <item>LTE/GSM/UMTS</item>
-    </string-array>
     <string-array name="preferred_network_mode_values_world_mode">
         <item>10</item>
         <item>8</item>
@@ -286,7 +281,7 @@
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>CDMA + LTE/EvDo</item>
         <item>GSM/WCDMA/LTE</item>
-        <item>Глобальный</item>
+        <item>LTE, CDMA, EvDo, GSM/WCDMA</item>
         <item>LTE</item>
         <item>LTE/WCDMA</item>
         <item>TDSCDMA только</item>
@@ -299,6 +294,11 @@
         <item>LTE/TDSCDMA/GSM/WCDMA</item>
         <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
         <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>LTE, CDMA, EvDo, GSM/WCDMA</item>
+        <item>LTE/CDMA</item>
+        <item>LTE/GSM/UMTS</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>Английский</item>

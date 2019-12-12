@@ -30,6 +30,20 @@
         <item>MSB</item>
         <item>MSA</item>
     </string-array>
+    <string-array name="ai_item_action_array">
+        <item>Нет действия</item>
+        <item>Запуск Google Ассистента</item>
+    </string-array>
+    <string-array name="ai_key_item_name">
+        <item>Google Ассистент</item>
+        <item>Поиск</item>
+        <item>Основная камера</item>
+        <item>Фронтальная камера</item>
+        <item>Предыдущее приложение</item>
+        <item>Фонарик</item>
+        <item>Режим чтения</item>
+        <item>Нет действия</item>
+    </string-array>	
     <string-array name="alarm_repeat_type">
         <item>Ежедневно</item>
         <item>По будням</item>
@@ -220,6 +234,11 @@
         <item>Не более 3 процессов</item>
         <item>Не более 4 процессов</item>
     </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>Отключено</item>
+        <item>Отладка</item>
+        <item>Подробно</item>
+    </string-array>	
     <string-array name="automatic_storage_management_days">
         <item>Добавленные более 30 дней назад</item>
         <item>Добавленные более 60 дней назад</item>
@@ -384,6 +403,13 @@
         <item>1 ч.</item>
         <item>Без тайм-аута</item>
     </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Отключено</item>
+        <item>Включен фильтр</item>
+        <item>Включен фильтр заголовков</item>
+        <item>Включен фильтр медиа пакетов</item>
+        <item>Включено</item>
+    </string-array>	
     <string-array name="button_light_timeout_entries">
         <item>1 секунда</item>
         <item>2 секунды</item>
@@ -432,6 +458,10 @@
         <item>Курсив</item>
         <item>Капитель</item>
     </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Только домашние сети</item>
+        <item>Автоматически</item>
+    </string-array>	
     <string-array name="change_security_lock_picker">
         <item>Данные лица</item>
         <item>Графический ключ</item>
@@ -1125,6 +1155,36 @@
         <item>Почта</item>
         <item>Видео</item>
     </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA предпочтительно</item>
+        <item>GSM только</item>
+        <item>WCDMA только</item>
+        <item>GSM/WCDMA авто</item>
+        <item>CDMA/EvDo авто</item>
+        <item>CDMA без EvDo</item>
+        <item>EvDo только</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>LTE, CDMA, EvDo, GSM/WCDMA</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>TDSCDMA только</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>LTE, CDMA, EvDo, GSM/WCDMA</item>
+        <item>LTE/CDMA</item>
+        <item>LTE/GSM/UMTS</item>
+    </string-array>	
     <string-array name="priority_storage_entries">
         <item>Внутренняя память</item>
         <item>Внешний накопитель</item>
@@ -1400,6 +1460,10 @@
         <item>2</item>
         <item>3</item>
     </string-array>
+    <string-array name="vpn_proxy_settings">
+        <item>Не используется</item>
+        <item>Ручная настройка</item>
+    </string-array>	
     <string-array name="vpn_states">
         <item>Нет подключения</item>
         <item>Инициализация...</item>
@@ -1449,10 +1513,6 @@
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>
         <item>Мобильный Интернет</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_choices_without_wifi_only">
-        <item>Приоритет Wi-Fi</item>
-        <item>Приоритет мобильного Интернета</item>
     </string-array>
     <string-array name="wifi_calling_mode_values">
         <item>2</item>
@@ -1519,6 +1579,10 @@
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
+    <string-array name="wifi_privacy_entries">
+        <item>Случайный MAC-адрес</item>
+        <item>MAC-адрес устройства</item>
+    </string-array>	
     <string-array name="wifi_proxy_settings">
         <item>Нет</item>
         <item>Вручную</item>
