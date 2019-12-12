@@ -46,12 +46,12 @@
         <item quantity="other">Найдено %d объектов</item>
         <item quantity="one">Найден 1 объект</item>
         <item quantity="few">Найдено %d объекта</item>
-        <item quantity="may">Найдено %d объектов</item>
+        <item quantity="many">Найдено %d объектов</item>
     </plurals>
     <plurals name="sniff_find_result">
         <item quantity="other">Найдено %d результатов</item>
         <item quantity="one">Найден 1 результат</item>
         <item quantity="few">Найдено %d результата</item>
-        <item quantity="may">Найдено %d результатов</item>
+        <item quantity="many">Найдено %d результатов</item>
     </plurals>	
 </resources>
