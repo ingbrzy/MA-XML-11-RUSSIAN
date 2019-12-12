@@ -60,7 +60,7 @@
     <string name="trend_from_yesterday_more">%1$s больше чем вчера</string>
     <string name="trend_from_yesterday_more_simple">%1$s больше чем вчера</string>
     <string name="unlock_times_per_day">"В день в среднем: "</string>
-    <string name="unlock_times_per_hour">"Разблоктровок в час: "</string>
+    <string name="unlock_times_per_hour">"Разблокировок в час: "</string>
     <string name="usage_app_get_it">Понятно</string>
     <string name="usage_app_limit_alter_summary">"Устанавливаемый лимит меньше времени использования приложения сегодня. Все равно установить лимит?"</string>
     <string name="usage_app_limit_alter_title">Установка лимита</string>
