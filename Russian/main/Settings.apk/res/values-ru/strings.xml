@@ -1305,6 +1305,12 @@
     <string name="category_personal">Личные данные</string>
     <string name="category_work">Работа</string>
     <string name="cdma_security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
+    <string name="cdma_subscription_dialogtitle">подписка</string>
+    <string name="cdma_subscription_summary">Переключение между RUIM/SIM и NV</string>
+    <string name="cdma_subscription_title">Подписка на CDMA</string>
+    <string name="cdma_system_select_dialogtitle">Выбор системы</string>
+    <string name="cdma_system_select_summary">Изменить режим роуминга CDMA</string>
+    <string name="cdma_system_select_title">Выбор системы</string>
     <string name="cell_broadcast_settings">Экстренные оповещения</string>
     <string name="cell_data_template">^1 мобильного трафика</string>
     <string name="cell_warning_and_limit">Предупреждения при передаче данных: %1$s/Лимит передачи данных: %2$s</string>
