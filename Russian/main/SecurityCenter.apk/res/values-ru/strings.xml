@@ -1379,7 +1379,7 @@
   <string name="main_month_used">Месячный лимит</string>
   <string name="main_no_info">Данных нет</string>
   <string name="main_normal_data_usage">Использованный трафик</string>
-  <string name="main_open_traffic_ctrl_button">Включить контроль</string>
+  <string name="main_open_traffic_ctrl_button">Включить</string>
   <string name="main_primary_message_leisure_alert">Приближение к лимиту льготного трафика</string>
   <string name="main_primary_message_leisure_overlimit">Лимит льготного трафика превышен</string>
   <string name="main_primary_message_leisure_remain">Остаток льготного трафика</string>
