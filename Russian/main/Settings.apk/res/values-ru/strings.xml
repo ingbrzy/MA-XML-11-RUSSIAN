@@ -341,9 +341,8 @@
     <string name="ambient_display_summary">Чтобы увидеть время, уведомления или другую информацию, дважды коснитесь экрана устройства</string>
     <string name="ambient_display_tap_screen_summary">Чтобы увидеть время, уведомления или другую информацию, дважды коснитесь экрана устройства</string>
     <string name="ambient_display_tap_screen_title">Коснитесь для проверки</string>
-    <string name="ambient_display_title">Дважды коснитесь экрана</string>
-    <string name="ambient_display_wake_screen_title">Включение экрана</string>	
     <string name="ambient_display_title">Просмотр времени и уведомлений двойным касанием</string>
+    <string name="ambient_display_wake_screen_title">Включение экрана</string>	
     <string name="android_beam_disabled_summary">Для использования этой функции включите NFC</string>
     <string name="android_beam_explained">Эта функция позволяет обмениваться информацией между устройствами, приложив их друг к другу. Передавать можно практически любые данные, включая контакты, веб-страницы и видео.</string>
     <string name="android_beam_label">Android Beam</string>
