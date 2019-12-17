@@ -1766,7 +1766,6 @@
     <string name="delete">Удалить</string>
     <string name="delete_fingerprint_confirm_msg">Удалить отпечаток?</string>
     <string name="delete_fingerprint_confirm_title">Внимание</string>
-    <string name="delete_fingerprint_confirm_title">Внимание</string>
     <string name="delete_fingerprint_text">Удалить отпечаток</string>
     <string name="delete_legacy_fingerprint">Удалить</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Удалить отпечатки пальцев?</string>
