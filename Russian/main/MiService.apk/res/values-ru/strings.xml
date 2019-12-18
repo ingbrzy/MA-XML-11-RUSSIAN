@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="mi_service_app_name">Сервисы и обратная связь</string>
+    <string name="miservice_channel_boot_name">Ядро</string>
+    <string name="miservice_channel_guide_name">Руководство</string>
     <string name="miservice_channel_update_notification_info">Приложение \"Сервисы и обратная связь\" запрашивает данные из интернета…</string>
     <string name="miservice_notification_boot_content">Узнайте больше о возможностях MIUI</string>
     <string name="miservice_notification_open_feedback_content">Все функции приложения \"Отзыв\" были перенесены в новое приложение</string>
@@ -89,8 +91,8 @@
     <string name="miui_feedback_edit_storage_permission_name">Доступ к памяти устройства</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">Отмена</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Согласен</string>
-    <string name="miui_feedback_edit_submit_dialog_content">&lt;Data>Вы должны принять наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a> для использования Отчета. Проблемы, о которых вы сообщаете, вместе с прикрепленными вами объектами (могут содержать личные данные, а также информацию о вашем устройстве и сети) будут загружены на серверы MIUI. Это поможет нам найти и решить проблемы, о которых вы сообщаете.&lt;/Data></string>
-    <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data>Ваш отчет вместе с вложениями (если есть) и журналами (вы можете снять флажки с соответствующих полей для объектов, которые вы не хотите отправлять) будет отправлен на серверы MIUI. Журналы могут содержать личную информацию и данные вашего местоположения. Нажатие \"Согласен\" означает, что вы прочитали и принимаете наши &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Условия использования&lt;/a>.&lt;/Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content">&lt;Data>Вы должны принять &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Пользовательское соглашение&lt;/a> для отправки отчетов. Проблемы, о которых вы сообщаете, вместе с прикрепленными вами файлами (могут содержать личные данные, а также информацию о вашем устройстве и сети) будут загружены на серверы MIUI. Это поможет нам найти и решить проблемы.&lt;/Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data>Ваш отчет вместе с вложениями (если есть) и журналами (можно снять флажки с соответствующих полей для объектов, которые вы не хотите отправлять) будет отправлен на серверы MIUI. Журналы могут содержать личную информацию и данные вашего местоположения. Нажатие \"Согласен\" означает, что вы прочитали и принимаете &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Политику конфиденциальности&lt;/a> и &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Пользовательское соглашение&lt;/a>.&lt;/Data></string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">Больше не показывать</string>
     <string name="miui_feedback_edit_submit_dialog_title">Отправка отчета</string>
     <string name="miui_feedback_edit_submit_directly">Отправить</string>
@@ -114,7 +116,7 @@
     <string name="miui_feedback_main_submit_dialog_title">Отправьте отчет</string>
     <string name="miui_feedback_main_title">Обратная связь</string>
     <string name="miui_guide_clear_db_service">Приложение \"Сервисы и обратная связь\" очищает языковой кэш…</string>
-    <string name="miui_guide_footer_desc">Руководство для начинающих разработано, чтобы помочь вам узнать больше о вашем устройстве и MIUI. Некоторые изображения и видео в руководстве были созданы только для справочных целей и могут отличаться от реального продукта. Функции, описанные в этом руководстве, могут различаться в зависимости от модели вашего устройства, версии MIUI и среды использования.</string>
+    <string name="miui_guide_footer_desc">Руководство разработано, чтобы помочь узнать больше о вашем устройстве и MIUI. Некоторые изображения и видео в руководстве были созданы только для справочных целей и могут отличаться от реального продукта. Функции, описанные в этом руководстве, могут различаться в зависимости от модели вашего устройства, версии MIUI и среды использования.</string>
     <string name="miui_guide_item_complete">Завершено</string>
     <string name="miui_guide_item_new">Новое</string>
     <string name="miui_guide_item_progress">Завершено %1$d/%2$d</string>
@@ -142,11 +144,11 @@
     <string name="permission_first_start_network_title">Условия использования</string>
     <string name="permission_main_purpose">Демонстрация функций MIUI, отправка отзывов и подача заявок на послепродажное обслуживание.</string>
     <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
-    <string name="permission_region_version_msg">&lt;Data>Перед использованием приложения \"Сервисы и обратная связь\" вы должны прочитать и принять наши &lt;a href=%1$s>Условия использования&lt;/a> и &lt;a href=%2$s>Политику конфиденциальности&lt;/a>.&lt;/Data></string>
+    <string name="permission_region_version_msg">&lt;Data>Перед использованием приложения \"Сервисы и обратная связь\" вы должны прочитать и принять наши &lt;a href=%1$s>Пользовательское соглашение&lt;/a> и &lt;a href=%2$s>Политику конфиденциальности&lt;/a>.&lt;/Data></string>
     <string name="permission_select_all">Выбрать все</string>
     <string name="permission_storage">Память</string>
     <string name="permission_storage_introduce">Для сохранения файлов на вашем устройстве</string>
-    <string name="permission_user_protocol">Условия использования (обязательно)</string>
+    <string name="permission_user_protocol">Пользовательское соглашение (обязательно)</string>
     <string name="public_loading_text">Подождите…</string>
     <string name="public_net_error_retry">Повторить</string>
     <string name="public_net_error_sub_title">Проверьте настройки сети и повторите попытку</string>

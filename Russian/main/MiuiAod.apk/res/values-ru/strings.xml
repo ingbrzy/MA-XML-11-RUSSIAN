@@ -36,9 +36,9 @@
   <string name="aod_mode_style">Стиль часов и фон</string>
   <string name="aod_mode_style_title">Дополнительные параметры</string>
   <string name="aod_mode_summary">Отображение часов, даты, уведомлений и фоновых изображений при выключенном экране</string>
-  <string name="aod_mode_time_summary">Установите расписание для включения и выключения режима \"Амбиентный дисплей\"</string>
+  <string name="aod_mode_time_summary">Установите расписание для включения и выключения функции \"Активный экран\"</string>
   <string name="aod_mode_time_title">Расписание</string>
-  <string name="aod_mode_title">Амбиентный дисплей</string>
+  <string name="aod_mode_title">Активный экран</string>
   <string name="aod_show_style_title">Отображение</string>
   <string name="aod_to_close">Отключить</string>
   <string name="apply">Применить</string>

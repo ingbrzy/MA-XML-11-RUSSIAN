@@ -404,7 +404,7 @@
   <string name="battery_charge_estimating">Оценка…</string>
   <string name="battery_charge_full">Заряжена</string>
   <string name="battery_charging_prompt">Заряжается</string>
-  <string name="battery_desc_ambient_display">Потребление амбиентным дисплеем</string>
+  <string name="battery_desc_ambient_display">Потребление Активным экраном</string>
   <string name="battery_desc_apps">Потребление приложением</string>
   <string name="battery_desc_bluetooth">Потребление модулем Bluetooth</string>
   <string name="battery_desc_display">Потребление экраном и подсветкой</string>
@@ -1815,7 +1815,7 @@
   <string name="pm_root_success_notification_infomation">Убедитесь, что вы понимаете риски, связанные с ROOT доступом</string>
   <string name="pm_root_success_notification_title">ROOT доступ разрешен</string>
   <string name="power_20s_shutdown">Устройство выключится через %d сек.</string>
-  <string name="power_ambient_display">Амбиентный дисплей</string>
+  <string name="power_ambient_display">Активный экран</string>
   <string name="power_analysis_consume_title">Расход заряда батареи</string>
   <string name="power_analysis_suggestion_need_optimize">Найдены проблемы с питанием</string>
   <string name="power_autorun_apps_empty">Нет приложений с автозапуском</string>
@@ -2541,7 +2541,7 @@
   <string name="superpower_progress_turnoff_process">Ограничение фоновой активности</string>
   <string name="superpower_savemode_limit1">Темный режим</string>
   <string name="superpower_savemode_limit2">Ограничение фоновой активности</string>
-  <string name="superpower_savemode_limit3">Ограничение энергоемких функций (синхронизация, GPS, вибрация, Амбиентный дисплей и др.)</string>
+  <string name="superpower_savemode_limit3">Ограничение энергоемких функций (синхронизация, GPS, вибрация, Активный экран и др.)</string>
   <string name="superpower_savemode_limit4">Разрешение работать нормально только выбранным приложениям</string>
   <string name="superpower_settings">Ультра энергосбережение</string>
   <string name="superpower_settins_autoenter_summary">Автоматически включать ультра энергосбережение, когда заряд батареи 10%</string>

@@ -375,7 +375,7 @@
   <string name="pref_camera_device_watermark_title">Водяной знак</string>
   <string name="pref_camera_exposuretime_entry_0_3">0.3 с</string>
   <string name="pref_camera_exposuretime_entry_0_4">0.4 с</string>
-  <string name="pref_camera_exposuretime_entry_0_5">1/2 с</string>
+  <string name="pref_camera_exposuretime_entry_0_5">0.5 с</string>
   <string name="pref_camera_exposuretime_entry_0_6">0.6 с</string>
   <string name="pref_camera_exposuretime_entry_0_8">0.8 с</string>
   <string name="pref_camera_exposuretime_entry_10">1/10 с</string>
@@ -531,6 +531,9 @@
   <string name="pref_camera_multilevel_entry_lowest">Самая низкая</string>
   <string name="pref_camera_multilevel_entry_middle">Средняя (по умолчанию)</string>
   <string name="pref_camera_multilevel_entry_normal">Средняя</string>
+  <string name="pref_camera_normal_wide_ldc_description">Исправлять искажение лица у края кадра</string>
+ <string name="pref_camera_normal_wide_ldc_title">Коррекция лица</string>
+  <string name="pref_camera_optimized_flash_enable_title">Оптимизация вспышки</string> 
   <string name="pref_camera_panoramamode_title">Панорама</string>
   <string name="pref_camera_parallel_process_enable_title">Параллельная обработка изображения</string>
   <string name="pref_camera_peak_entry_off">Откл</string>
@@ -599,8 +602,8 @@
   <string name="pref_camera_touchafaec_entry_off">Откл</string>
   <string name="pref_camera_touchafaec_entry_on">Вкл</string>
   <string name="pref_camera_ubifocus_title">Комбо фокус</string>
-  <string name="pref_camera_ultra_wide_ldc_description">Автоматически корректировать искаженные объекты</string>
-  <string name="pref_camera_ultra_wide_ldc_title">Коррекция искажений в ультра-широкоугольных снимках</string>
+  <string name="pref_camera_ultra_wide_ldc_description">Автоматически корректировать искажения в ультра-широкоугольных снимках</string>
+  <string name="pref_camera_ultra_wide_ldc_title">Коррекция искажений</string>
   <string name="pref_camera_ultra_wide_mode_title">Ультра-широкоугольный режим</string>
   <string name="pref_camera_video_bokeh_off">Боке отключено</string>
   <string name="pref_camera_video_bokeh_on">Боке включено</string>
@@ -674,6 +677,7 @@
   <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
   <string name="pref_photo_assistance_tips_off">Откл.</string>
   <string name="pref_photo_assistance_tips_on">Вкл.</string>
+  <string name="pref_popup_camera_title">Выдвижная камера</string>
   <string name="pref_priority_storage_title">Сохранять на SD карту</string>
   <string name="pref_privacy_title">Политика конфиденциальности</string>
   <string name="pref_qc_focus_position_title">ФОКУС</string>
@@ -689,6 +693,7 @@
   <string name="pref_skin_beautify_intelligent_title">Умный</string>
   <string name="pref_skin_beautify_slim_title">Стройность</string>
   <string name="pref_skin_beautify_smooth_title">Кожа</string>
+  <string name="pref_userdefine_watermark_title">Пользовательский водяной знак</string>
   <string name="pref_video_captrue_ability_title">Захват кадра при съемке</string>
   <string name="pref_video_encoder_entry_h264">H.264 (совместимость)</string>
   <string name="pref_video_encoder_entry_h265">H.265 (производительность)</string>
@@ -724,6 +729,10 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">90X (3 секунды)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">900X (30 секунд)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Интервал в режиме \"Ускорение\"</string>
+  <string name="pref_video_volumekey_function_default">затвор</string>
+  <string name="pref_watermark_off">Откл.</string>
+  <string name="pref_watermark_on">Вкл.</string>
+  <string name="pref_watermark_title">Водяной знак</string>  
   <string name="preparing_sd">Подготовка SD карты…</string>
   <string name="recommend_macro_mode">Попробуйте режим Макро</string>
   <string name="recommend_portrait">Попробуйте Портретный режим</string>
@@ -798,6 +807,8 @@
   <string name="ultra_wide_recommend_tip_hint">Попробуйте 0.6X ультра-широкоугольный режим</string>
   <string name="ultra_wide_recommend_tip_hint_sat">Попробуйте 0.6X ультра-широкоугольный режим</string>
   <string name="user_agree">Принять</string>
+  <string name="user_define_watermark_cancel">Отмена</string>
+  <string name="user_define_watermark_save">Сохранить</string>
   <string name="user_agreement2">Условия использования</string>
   <string name="user_agreement4">Политика конфиденциальности</string>
   <string name="user_notice_identify_summary_format">Используя эту услугу, вы принимаете %1$s и %2$s Xiaomi. Согласны подключиться к интернету?</string>

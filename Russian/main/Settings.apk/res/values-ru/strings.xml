@@ -39,7 +39,7 @@
     <string name="access_control_need_to_unlock">Введите пароль</string>
     <string name="access_control_no_back_footer">Нажмите [icon] для выхода</string>
     <string name="access_control_password_title">Использовать пароль</string>
-    <string name="access_control_recording_intro_header">Нарисуйте графический ключ</string>
+    <string name="access_control_recording_intro_header">Задайте графический ключ</string>
     <string name="access_control_reset_by_account">Войдите в Mi Аккаунт для сброса пароля</string>
     <string name="access_point_names">Названия точек доступа</string>
     <string name="accessibility_autoclick_delay_preference_title">Задержка перед нажатием</string>
@@ -359,14 +359,14 @@
     <string name="animator_duration_scale_title">Длительность анимации</string>
     <string name="another_migration_already_in_progress">Другая операция переноса уже выполняется.</string>
     <string name="anti_spam">Антиспам</string>
-    <string name="aod_and_lock_screen_settings_title">Амбиентный дисплей и экран блокировки</string>
+    <string name="aod_and_lock_screen_settings_title">Активный экран и блокировка</string>
     <string name="aod_close_color_inversion">Эта функция не работает с инверсией цвета. Сначала отключите инверсию цвета.</string>
-    <string name="aod_name_wanxiang">Амбиентный дисплей</string>
+    <string name="aod_name_wanxiang">Активный экран</string>
     <string name="aod_notification_style_animation">Показывать анимацию</string>
     <string name="aod_notification_style_none">Ничего не делать</string>
     <string name="aod_notification_style_screen_on">Подсветка экрана</string>
-    <string name="aod_settings_category_name">Амбиентный дисплей</string>
-    <string name="aod_settings_title">Амбиентный дисплей</string>
+    <string name="aod_settings_category_name">Активный экран</string>
+    <string name="aod_settings_title">Активный экран</string>
     <string name="aod_show_mode_title">Отображение элементов</string>
     <string name="aod_style_description">Отображение часов, даты, времени, уведомлений и других элементов при выключенном экране</string>
     <string name="aod_style_title">Стиль</string>
@@ -1333,7 +1333,7 @@
     <string name="choose_a_card_to_reset">Выберите SIM карту для сброса</string>
     <string name="choose_keyguard_clock_style">Стиль часов</string>
     <string name="choose_keyguard_clock_summary">Выбор стиля часов на экране блокировки. Работает только со стандартным экраном блокировки</string>
-    <string name="choose_lock_pattern_header_text">Графический ключ</string>
+    <string name="choose_lock_pattern_header_text">Задайте графический ключ</string>
     <string name="choose_profile">Выберите профиль</string>
     <string name="choose_smartcover_type">Тип передней крышки</string>
     <string name="choose_spell_checker">Проверка правописания</string>
@@ -2251,7 +2251,7 @@
     <string name="face_add_max">Максимальное количество данных лица: %d</string>
     <string name="face_intro_error_max">Достигнуто максимальное количество данных лица</string>
     <string name="face_intro_error_unknown">Не удалось добавить данные лица</string>
-    <string name="face_lock_screen_setup_skip_dialog_text">Включите блокировку экрана, это поможет защитить данные в случае потери или кражи устройства. Для разблокировки по лицу необходимо задать PIN-код, графический ключ или пароль. Нажмите \"Отмена\" и установите способ разблокировки.</string>
+    <string name="face_lock_screen_setup_skip_dialog_text">Включите блокировку экрана, это поможет защитить данные в случае потери или кражи устройства. Для разблокировки по лицу необходимо задать PIN-код, графический ключ или пароль. Нажмите \"Отмена\" и выберите способ защиты.</string>
     <string name="face_unlock_disable">Разблокировка по лицу отключена</string>
     <string name="face_unlock_enable">Разблокировка по лицу включена</string>
     <string name="face_unlock_set_unlock_password">Разблокировка по лицу и пароль</string>
@@ -2271,7 +2271,7 @@
     <string name="fcc_equipment_id">Идентификатор оборудования</string>
     <string name="feature_flags_dashboard_title">Флаги функций</string>
     <string name="feedback">Обратная связь</string>
-    <string name="feedback_settings">Руководство и обратная связь</string>
+    <string name="feedback_settings">Сервисы и обратная связь</string>
     <string name="file_privacy_password_role_instruction">Здесь будут храниться ваши скрытые файлы</string>
     <string name="filter">Фильтр</string>
     <string name="filter_all_apps">Все приложения</string>
@@ -2320,7 +2320,7 @@
     <string name="fingerprint_last_delete_title">Удалить отпечатки пальцев?</string>
     <string name="fingerprint_list_title">Отпечаток пальца</string>
     <string name="fingerprint_lock_first">Разблокировать первое пространство</string>
-    <string name="fingerprint_lock_screen_setup_skip_dialog_text">Включите блокировку экрана, это поможет защитить данные в случае потери или кражи устройства. Для разблокировки отпечатком необходимо задать PIN-код, графический ключ или пароль. Нажмите \"Отмена\" и установите способ разблокировки.</string>
+    <string name="fingerprint_lock_screen_setup_skip_dialog_text">Включите блокировку экрана, это поможет защитить данные в случае потери или кражи устройства. Для разблокировки отпечатком необходимо задать PIN-код, графический ключ или пароль. Нажмите \"Отмена\" и выберите способ защиты.</string>
     <string name="fingerprint_lock_second">Разблокировать второе пространство</string>
     <string name="fingerprint_manage">Управление отпечатками</string>
     <string name="fingerprint_manage_category_title">Управление отпечатками</string>
@@ -2337,7 +2337,7 @@
     <string name="fingerprint_unlock_set_unlock_pattern">Отпечатки пальцев и графический ключ</string>
     <string name="fingerprint_unlock_set_unlock_pin">Отпечатки пальцев и PIN-код</string>
     <string name="fingerprint_unlock_skip_fingerprint">Продолжить без настройки отпечатка</string>
-    <string name="fingerprint_unlock_title">Вы можете настроить разблокировку телефона с помощью отпечатка пальца. В целях безопасности вам нужно будет также установить дополнительный способ разблокировки.</string>
+    <string name="fingerprint_unlock_title">Вы можете настроить разблокировку телефона с помощью отпечатка пальца. В целях безопасности вам нужно будет  установить PIN-код, графический ключ или пароль.</string>
     <string name="fingerprint_unlock_touch_type">Касание</string>
     <string name="fingerprint_unlock_type">Метод распознавания отпечатков</string>
     <string name="fingerprint_usage_category_title">Для чего использовать</string>
@@ -3049,7 +3049,7 @@
     <string name="lock_sounds_enable_title">Звук блокировки экрана</string>
     <string name="lockpassword_cancel_label">Отмена</string>
     <string name="lockpassword_choose_for_second_user">Установите пароль</string>
-    <string name="lockpassword_choose_lock_generic_header">Способ разблокировки</string>
+    <string name="lockpassword_choose_lock_generic_header">Способ защиты</string>
     <string name="lockpassword_choose_your_password_header">Установите пароль</string>
     <string name="lockpassword_choose_your_password_header_for_face">Для распознавания по лицу установите пароль</string>
     <string name="lockpassword_choose_your_password_header_for_fingerprint">Для разблокировки отпечатком установите пароль</string>
@@ -3085,7 +3085,7 @@
     <string name="lockpassword_confirm_your_private_pattern_header">Подтвердите графический ключ</string>
     <string name="lockpassword_continue_label">Продолжить</string>
     <string name="lockpassword_credential_changed">Экран блокировки изменен. Повторите попытку.</string>
-    <string name="lockpassword_draw_your_pattern_again_header">Нарисуйте графический ключ еще раз</string>
+    <string name="lockpassword_draw_your_pattern_again_header">Повторите графический ключ</string>
     <string name="lockpassword_illegal_character">Недопустимые символы</string>
     <string name="lockpassword_invalid_password">Неверный пароль</string>
     <string name="lockpassword_invalid_pin">Неверный код</string>
@@ -3112,7 +3112,7 @@
     <string name="lockpattern_change_lock_pin_label">Изменить PIN-код</string>
     <string name="lockpattern_confirm_button_text">OK</string>
     <string name="lockpattern_continue_button_text">Далее</string>
-    <string name="lockpattern_need_to_confirm">Нарисуйте графический ключ повторно</string>
+    <string name="lockpattern_need_to_confirm">Повторите графический ключ</string>
     <string name="lockpattern_need_to_unlock_wrong">Повторите попытку</string>
     <string name="lockpattern_pattern_confirmed_header">Ваш новый графический ключ:</string>
     <string name="lockpattern_pattern_entered_header">Графический ключ записан</string>
@@ -3122,8 +3122,8 @@
     <string name="lockpattern_recording_incorrect_too_short">Соедините не менее %d точек</string>
     <string name="lockpattern_recording_inprogress">Уберите палец, когда закончите</string>
     <string name="lockpattern_recording_intro_footer">Нажмите Меню для получения справки</string>
-    <string name="lockpattern_recording_intro_header">Нарисуйте графический ключ</string>
-    <string name="lockpattern_recording_intro_header_second_space">Нарисуйте графический ключ второго пространства</string>
+    <string name="lockpattern_recording_intro_header">Задайте графический ключ</string>
+    <string name="lockpattern_recording_intro_header_second_space">Задайте графический ключ второго пространства</string>
     <string name="lockpattern_restart_button_text">Начать заново</string>
     <string name="lockpattern_retry_button_text">Начать заново</string>
     <string name="lockpattern_settings_change_lock_pattern">Изменить графический ключ</string>
@@ -4351,10 +4351,10 @@ OTG отключается автоматически через 10 минут �
     <string name="private_dns_mode_provider_failure">Не удалось подключиться</string>
     <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста DNS-провайдера</string>
     <string name="private_gallery_need_to_unlock">Введите пароль</string>
-    <string name="private_gallery_recording_intro_header">Нарисуйте графический ключ</string>
+    <string name="private_gallery_recording_intro_header">Задайте графический ключ</string>
     <string name="private_gallery_reset_by_account">Войдите в Mi Аккаунт для сброса пароля</string>
     <string name="private_sms_need_to_unlock">Введите пароль</string>
-    <string name="private_sms_recording_intro_header">Нарисуйте графический ключ</string>
+    <string name="private_sms_recording_intro_header">Задайте графический ключ</string>
     <string name="private_sms_reset_by_account">Войдите в Mi Аккаунт для сброса пароля</string>
     <string name="process_dex2oat_label">Оптимизация приложений</string>
     <string name="process_mediaserver_label">Сервер медиа</string>
@@ -4837,7 +4837,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_advanced_settings">Расширенные настройки;WiFi;Wi-Fi;Настройки WiFi;Настройки Wi-Fi;Настройки WLAN</string>
     <string name="search_airplane_mode">Режим полета;Режим самолета;Авиа режим;Самолет;Самолет;Полет</string>
     <string name="search_alarm_sound_title">Звук будильника;Мелодия будильника;будильник</string>
-    <string name="search_ambient_display_screen_title">Амбиентный дисплей</string>
+    <string name="search_ambient_display_screen_title">Активный экран</string>
     <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
     <string name="search_apn_settings">APN;Точки доступа</string>
     <string name="search_app_invisible">Скрытое приложение;Скрытые приложения</string>
@@ -4980,7 +4980,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_touch_sensitive_title">Режим В перчатках;перчатки;перчатка</string>
     <string name="search_trusted_credentials">Надежные сертификаты;Подпись приложения;Подписи приложений;Сертификаты;Подпись</string>
     <string name="search_tts_settings_title">Озвучивание текста;Синтез речи</string>
-    <string name="search_turn_on_security_lock">Способ разблокировки;Блокировка экрана;Включить защиту;блокировка экрана</string>
+    <string name="search_turn_on_security_lock">Способ защиты;Блокировка экрана;Включить защиту;блокировка экрана</string>
     <string name="search_unlogin_account_title">Mi Аккаунт; Mi Аккаунт ID;Аккаунт;Аккаунт ID</string>
     <string name="search_usb_tethering_button_text">USB-модем;Модем;USB</string>
     <string name="search_user_agreement">Условия использования</string>
@@ -5160,7 +5160,7 @@ UT-интерфейс: %5$s"</string>
     <string name="setup_choose_unlock_password_msg">Введите 4 цифры</string>
     <string name="setup_choose_unlock_password_title">Установите PIN-код</string>
     <string name="setup_choose_unlock_pattern">Графический ключ</string>
-    <string name="setup_choose_unlock_pattern_title">Нарисуйте графический ключ</string>
+    <string name="setup_choose_unlock_pattern_title">Задайте графический ключ</string>
     <string name="setup_choose_unlock_type_title">Настройки защиты</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_message">Для разблокировки телефона вы выбрали сканирование отпечатка пальца. Настройка займет около минуты. Если вы пропустите ее сейчас, вам все равно придется сделать это позже.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">Не настраивать доступ по отпечаткам?</string>
@@ -5882,7 +5882,7 @@ UT-интерфейс: %5$s"</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">Понятно (%d с)</string>
     <string name="turn_on_keyguard_password_alert_forget_content">Запомните свой пароль блокировки экрана. Если вы его забудете, то придется стереть все данные на вашем устройстве, включая фото и контакты, а затем задать новый.</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Запомните свой пароль</string>
-    <string name="turn_on_security_lock">Способ разблокировки</string>
+    <string name="turn_on_security_lock">Способ защиты</string>
     <string name="turn_on_torch">Фонарик</string>
     <string name="turn_update_keyguard_password_wait_dialog">Изменение пароля…</string>
     <string name="twohours">1 час</string>
@@ -5967,7 +5967,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlock_set_unlock_password_none">Нет</string>
     <string name="unlock_set_unlock_password_summary">Введите 4 и более цифры или буквы</string>
     <string name="unlock_set_unlock_password_title">Пароль</string>
-    <string name="unlock_set_unlock_pattern_summary">Нарисуйте графический ключ</string>
+    <string name="unlock_set_unlock_pattern_summary">Задайте графический ключ</string>
     <string name="unlock_set_unlock_pattern_title">Графический ключ</string>
     <string name="unlock_set_unlock_pin_summary" formatted="false">Введите от %d до %d цифр</string>
     <string name="unlock_set_unlock_pin_title">PIN-код</string>
