@@ -526,11 +526,11 @@
   <string name="recommend_the_following">Следующие действия помогут вам эффективнее использовать устройство</string>
   <string name="recommended">Рекомендуемые</string>
   <string name="resutl_function_deep_clean_summary">
-    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; данных</Data>" "" "</string>
+    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; данных</Data></string>
   <string name="resutl_function_qq_clean_summary">
-    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша QQ</Data>" "" "</string>
+    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша QQ</Data></string>
   <string name="resutl_function_wechat_clean_summary">
-    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша WeChat</Data>" "" "</string>
+    <Data>Вы можете очистить &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; кэша WeChat</Data></string>
   <string name="sc_allow_network_dialog_button">Разрешить</string>
   <string name="sc_allow_network_dialog_message">Разрешить приложению подключаться к интернету для получения обновлений?</string>
   <string name="scanning">Проверка…</string>
