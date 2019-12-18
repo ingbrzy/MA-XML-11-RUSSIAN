@@ -891,7 +891,7 @@
   <string name="netcheck_title">Диагностика сети</string>
   <string name="network_4G">4G (рекомендуется)</string>
   <string name="network_error_message">Не удалось подключиться к сети</string>
-  <string name="network_global">Глобальный</string>
+  <string name="network_global">Глобальная</string>
   <string name="network_id">ID сети</string>
   <string name="network_info_message">Сообщение сети</string>
   <string name="network_lte">LTE (рекомендуется)</string>
@@ -910,7 +910,7 @@
   <string name="network_settings_query_failed_message">Не удалось найти сети оператора.</string>
   <string name="network_settings_select_automatic_hint">"Не удалось зарегистрироваться в выбранной сети.
 Будет использоваться предпочтительная сеть."</string>
-  <string name="network_settings_title">SIM-карты и мобильные сети</string>
+  <string name="network_settings_title">Мобильные сети</string>
   <string name="network_settings_turn_off">Откл</string>
   <string name="network_settings_warn_message">Устройство будет подключаться только к сетям, выбранным вручную.</string>
   <string name="network_type_3g_preferred_cmcc">3G/2G</string>
