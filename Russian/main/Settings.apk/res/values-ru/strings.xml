@@ -5355,8 +5355,6 @@ UT-интерфейс: %5$s"</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Режим \"Умный чехол\"</string>
     <string name="smartcover_sensitive_summary">Автоматическая блокировка и разблокировка с помощью умного чехла</string>
     <string name="smartcover_sensitive_title">Умный чехол</string>
-    <string name="sms_access_restriction_enabled">Restrict SMS &amp; call log access</string>
-    <string name="sms_access_restriction_enabled_summary">Only default phone and messaging apps have SMS &amp; call log permissions</string>
     <string name="sms_access_restriction_enabled">Ограничить доступ к SMS и списку вызовов</string>
     <string name="sms_access_restriction_enabled_summary">Разрешить доступ к SMS и списку вызовов только для приложений по умолчанию</string>
     <string name="sms_application_title">Сообщения</string>
