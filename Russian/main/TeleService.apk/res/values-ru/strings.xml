@@ -1122,7 +1122,7 @@
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Предпочтительный режим: GSM/WCDMA/LTE</string>
   <string name="preferred_network_mode_lte_summary">Предпочтительный режим: LTE</string>
   <string name="preferred_network_mode_lte_wcdma_summary">Предпочтительный режим: LTE/WCDMA</string>
-  <string name="preferred_network_mode_summary">Изменить режим работы сети</string>
+  <string name="preferred_network_mode_summary">Изменение режима работы сети</string>
   <string name="preferred_network_mode_tdscdma_summary">Предпочтительный режим: TDSCDMA</string>
   <string name="preferred_network_mode_title">Предпочтительный тип сети</string>
   <string name="preferred_network_mode_wcdma_only_summary">Предпочтительный режим: только WCDMA</string>
