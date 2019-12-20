@@ -1915,7 +1915,7 @@
     <string name="display_summary_example">Устройство переходит в спящий режим через 10 минут бездействия</string>
     <string name="display_vr_pref_low_persistence">Уменьшить размытие (рекомендуется)</string>
     <string name="display_vr_pref_off">Уменьшить подсветку</string>
-    <string name="display_vr_pref_title">Когда устройство в VR-режиме</string>
+    <string name="display_vr_pref_title">VR-режим</string>
     <string name="display_white_balance_title">Баланс белого</string>
     <string name="dlg_cancel">Отмена</string>
     <string name="dlg_confirm_unmount_text">Если отключить SD-карту, некоторые приложения перестанут работать и могут оставаться недоступными до ее подключения.</string>
@@ -4731,6 +4731,9 @@ UT-интерфейс: %5$s"</string>
     <string name="runningservices_settings_title">Запущенные приложения</string>
     <string name="runtime_permissions_summary_no_permissions_granted">У приложения нет разрешений</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Приложение не запрашивало разрешения</string>
+    <string name="rx_link_speed">%1$d Мбит/с</string>
+    <string name="rx_link_speed_label">Скорость приема:</string>
+    <string name="rx_wifi_speed">Скорость приема</string>	
     <string name="safety_and_regulatory_info">Безопасность и соответствие стандартам</string>
     <string name="save">Сохранить</string>
     <string name="saved_network">Сохранено %1$s</string>
@@ -4753,10 +4756,16 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_confirm">Включить</string>
     <string name="screen_dark_mode_advanced_title">Дополнительно</string>
     <string name="screen_dark_mode_select_time_error_summary">Время начала и окончания не должно совпадать</string>
-    <string name="screen_dark_mode_smart_dark_summary">Применить темный режим к сторонним приложениям. Некоторые приложения могут отображаться некорректно.</string>
+    <string name="screen_dark_mode_smart_dark_summary">Применить темный режим к сторонним приложениям. Некоторые приложения могут работать некорректно.</string>
     <string name="screen_dark_mode_smart_dark_title">Глобальный темный режим</string>
     <string name="screen_dark_mode_time_title">Расписание</string>
     <string name="screen_effect">Цвета и контрастность</string>
+    <string name="screen_fps_summary_power_save">Использование фиксированной частоты обновления кадров уменьшает энергопотребление</string>
+    <string name="screen_fps_summary_smooth">Некоторые приложения автоматически увеличивают частоту обновления кадров для улучшения качества изображения</string>
+    <string name="screen_fps_title">Частота обновления</string>
+    <string name="screen_fps_unit">%d Гц</string>
+    <string name="screen_fps_unit_power_save">%dHz (энергосбережение)</string>
+    <string name="screen_fps_unit_smooth">%dHz (качество изображения)</string>	
     <string name="screen_key_long_press">Долгое нажатие кнопок</string>
     <string name="screen_key_long_press_action">Функция нажатия</string>
     <string name="screen_key_long_press_timeout">Длительность нажатия</string>
@@ -4846,7 +4855,6 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_resolution_title">Разрешение экрана</string>
     <string name="screen_resolution_ultrahigh_format">Сверхвысокое (%1$s)</string>
     <string name="screen_saturation">Насыщенность</string>
-    <string name="screen_settings">Экран блокировки</string>
     <string name="screen_shot">Снимок экрана</string>
     <string name="screen_timeout">Спящий режим</string>
     <string name="screen_timeout_summary">После %1$s бездействия</string>
@@ -4892,7 +4900,6 @@ UT-интерфейс: %5$s"</string>
     <string name="screenshot_three_gesture">Скриншот тремя пальцами</string>
     <string name="screenshot_three_gesture_summary">Проведите вниз тремя пальцами для создания скриншота. Другие жесты тремя пальцами будут отключены.</string>
     <string name="sd_card_settings_label">SD-карта</string>
-    <string name="sd_card_storage">SD-карта</string>
     <string name="sd_eject">Извлечение SD-карты</string>
     <string name="sd_eject_summary">Отключение SD-карты для ее безопасного извлечения из устройства</string>
     <string name="sd_ejecting_summary">Выполняется извлечение</string>
@@ -4937,7 +4944,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_advanced_settings">Расширенные настройки;WiFi;Wi-Fi;Настройки WiFi;Настройки Wi-Fi;Настройки WLAN</string>
     <string name="search_airplane_mode">Режим полета;Режим самолета;Авиа режим;Самолет;Самолет;Полет</string>
     <string name="search_alarm_sound_title">Звук будильника;Мелодия будильника;будильник</string>
-    <string name="search_ambient_display_screen_title">Активный экран</string>
+    <string name="search_ambient_display_screen_title">Активный экран;Режим Always-on;Амбиентный дисплей</string>
     <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
     <string name="search_apn_settings">APN;Точки доступа</string>
     <string name="search_app_invisible">Скрытое приложение;Скрытые приложения</string>
@@ -5122,6 +5129,7 @@ UT-интерфейс: %5$s"</string>
     <string name="secure_keyguard_business_title">Защита устройства</string>
     <string name="secure_lock_encryption_warning">Поскольку включена служба специальных возможностей, блокировка экрана будет отключена и надежность защиты зашифрованных данных может быть снижена.</string>
     <string name="security_dashboard_summary">Блокировка экрана, цифровой отпечаток</string>
+    <string name="security_dashboard_summary_face">Блокировка экрана, разблокировка по лицу</string>	
     <string name="security_dashboard_summary_no_fingerprint">Блокировка экрана</string>
     <string name="security_enable_widgets_disabled_summary">Отключено администратором</string>
     <string name="security_enable_widgets_title">Включить виджеты</string>
@@ -5149,9 +5157,50 @@ UT-интерфейс: %5$s"</string>
     <string name="security_patch">Обновление системы безопасности Android</string>
     <string name="security_privacy_settings_title">Конфиденциальность</string>
     <string name="security_relative">Разрешения безопасности</string>
-    <string name="security_settings_billing_desc">Это приложение может списывать деньги с вашего счета:</string>
-    <string name="security_settings_desc">У этого приложения есть доступ к следующей информации на устройстве:</string>
-    <string name="security_settings_desc_multi">Этому приложению доступны указанные ниже данные на вашем телефоне. Чтобы повысить производительность и уменьшить объем используемой памяти, приложению %1$s предоставлены некоторые из этих разрешений, так как оно выполняется в рамках того же процесса, что и %2$s:</string>
+    <string name="security_settings_face_enroll_dialog_ok">ОК</string>
+    <string name="security_settings_face_enroll_done">Готово</string>
+    <string name="security_settings_face_enroll_education_start">Начать</string>
+    <string name="security_settings_face_enroll_education_title">Как настроить разблокировку по лицу</string>
+    <string name="security_settings_face_enroll_education_title_accessibility">Настройка разблокировки по лицу</string>
+    <string name="security_settings_face_enroll_education_title_unlock_disabled">Используйте распознавание по лицу для идентификации</string>
+    <string name="security_settings_face_enroll_enrolling_skip">Пропустить</string>
+    <string name="security_settings_face_enroll_error_dialog_title">Данные лица не добавлены</string>
+    <string name="security_settings_face_enroll_error_generic_dialog_message">Не удалось добавить данные лица</string>
+    <string name="security_settings_face_enroll_error_timeout_dialog_message">Превышено время ожидания. Повторите попытку.</string>
+    <string name="security_settings_face_enroll_finish_title">Успешно</string>
+    <string name="security_settings_face_enroll_introduction_accessibility">Использовать спец. возможности</string>
+    <string name="security_settings_face_enroll_introduction_cancel">Отмена</string>
+    <string name="security_settings_face_enroll_introduction_message">Используйте распознавание по лицу для разблокировки, подтверждения платежей и входа в приложения</string>
+    <string name="security_settings_face_enroll_introduction_message_setup">Используйте распознавание по лицу для разблокировки, подтверждения платежей и входа в приложения</string>
+    <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"Разблокируйте устройство и используйте распознавание по лицу для подтверждения платежей.
+
+Примечание: Вы не можете использовать распознавание по лицу для разблокировки. Для дополнительной информации обратитесь к администратору организации."</string>
+    <string name="security_settings_face_enroll_introduction_title">Разблокировка по лицу</string>
+    <string name="security_settings_face_enroll_introduction_title_unlock_disabled">Используйте разблокировку по лицу</string>
+    <string name="security_settings_face_enroll_repeat_title">Поместите лицо в центр круга</string>
+    <string name="security_settings_face_preference_summary">Данные лица добавлены</string>
+    <string name="security_settings_face_preference_summary_none">Нажмите для настройки распознавания по лицу</string>
+    <string name="security_settings_face_preference_title">Распознавание по лицу</string>
+    <string name="security_settings_face_settings_enroll">Настройка разблокировки по лицу</string>
+    <string name="security_settings_face_settings_footer">"Используйте распознавание по лицу для разблокировки, входа в приложения и подтверждения платежей.
+
+Имейте ввиду:
+Вы можете случайно разблокировать устройство взглядом на экран.
+
+Устройство может быть разблокировано кем-то другим, если оно поднесено к вашему лицу, когда открыты глаза.
+
+Устройство может быть разблокировано кем-то похожим, вашим ребенком или близнецом."</string>
+    <string name="security_settings_face_settings_remove_dialog_details">Данные лица для разблокировки будут удалены. После удаления потребуется PIN-код, графический ключ или пароль для разблокировки, входа в приложения и подтверждения платежей.</string>
+    <string name="security_settings_face_settings_remove_dialog_title">Удалить данные лица?</string>
+    <string name="security_settings_face_settings_remove_face_data">Удалить</string>
+    <string name="security_settings_face_settings_require_attention">Держите глаза открытыми</string>
+    <string name="security_settings_face_settings_require_attention_details">Для разблокировки смотрите на экран открытыми глазами</string>
+    <string name="security_settings_face_settings_require_category">Обязательные параметры</string>
+    <string name="security_settings_face_settings_require_confirmation">Подтверждение</string>
+    <string name="security_settings_face_settings_require_confirmation_details">Запрашивать подтверждение при запуске защищенных приложений</string>
+    <string name="security_settings_face_settings_use_face_category">Использовать разблокировку по лицу для</string>
+    <string name="security_settings_face_settings_use_face_for_apps">Вход в приложения и оплата</string>
+    <string name="security_settings_face_settings_use_face_unlock_phone">Разблокировка</string>
     <string name="security_settings_fingerprint_enroll_dialog_delete">Удалить</string>
     <string name="security_settings_fingerprint_enroll_dialog_name_label">Название</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">ОК</string>
@@ -5920,7 +5969,7 @@ UT-интерфейс: %5$s"</string>
     <string name="traffic_none">Нет</string>
     <string name="transition_animation_scale_title">Анимация переходов</string>
     <string name="trigger_carrier_provisioning">Триггер обеспечения несущей</string>
-    <string name="trust_agents_extend_unlock_summary">Доверенные агенты увеличивают время, в течение которого устройство остается разблокированным, но теряют возможность разблокировать его.</string>
+    <string name="trust_agents_extend_unlock_summary">Доверенные агенты увеличивают время, в течение которого устройство остается разблокированным, но теряют возможность разблокировки</string>
     <string name="trust_agents_extend_unlock_title">Отложенная блокировка</string>    
     <string name="trust_lost_locks_screen_summary">Блокировать экран при утрате доверия последним доверенным агентом</string>
     <string name="trust_lost_locks_screen_title">Блокировка при утрате доверия</string>	
