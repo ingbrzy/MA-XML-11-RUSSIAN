@@ -877,11 +877,11 @@
   <string name="msim_setting_categery_title">Настройки SIM-карт</string>
   <string name="msim_setting_no_sim_indicator">Нет SIM-карты</string>
   <string name="msim_setting_operator_network_title">Сеть оператора</string>
-  <string name="msim_setting_screen_title">SIM-карты и мобильные сети</string>
+  <string name="msim_setting_screen_title">Мобильные сети</string>
   <string name="msim_setting_sim_info_editor_title">Информация SIM-карты</string>
   <string name="msim_sim_lock">Заблокирована</string>
   <string name="msim_sim_radio_off">Отключена</string>
-  <string name="msim_switch_data_conn_toast">Вы заменили SIM-карту. Тип сети изменен. Дополнительную информацию можно найти в меню Настройки &gt; SIM-карты и мобильные сети.</string>
+  <string name="msim_switch_data_conn_toast">Вы заменили SIM-карту. Тип сети изменен. Дополнительную информацию можно найти в меню Настройки &gt; Мобильные сети.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">SIM-карта 2 поддерживает только сети GSM. Тип сети данной SIM-карты будет изменен на 2G.</string>
   <string name="multi_category_disable">Подборка из нескольких категорий отключена</string>
   <string name="multi_category_enable">Подборка из нескольких категорий включена</string>
