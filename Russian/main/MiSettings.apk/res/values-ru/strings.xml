@@ -56,7 +56,7 @@
     <string name="p3_color_region">P3</string>
     <string name="p3_color_region_summary">Отображение в цветовой гамме P3</string>
     <string name="preview">Предварительный просмотр</string>
-    <string name="primary_color_region">Оригинальные настройки</string>
+    <string name="primary_color_region">Оригинальная</string>
     <string name="primary_color_region_summary">Автоопределение цветовой гаммы с помощью калибровки</string>
     <string name="reset_edit">Отменить изменения</string>
     <string name="restore_default">Восстановить по умолчанию</string>
@@ -70,8 +70,8 @@
     <string name="ringtone_title">Рингтоны</string>    
     <string name="screen_cancel">Отмена</string>
     <string name="screen_confirm">Включить</string>
-    <string name="screen_original_gamut">Улучшенные цвета</string>
-    <string name="screen_original_gamut_summary">Использование максимально широкой цветовой гаммы</string>
+    <string name="screen_original_gamut">Расширенная</string>
+    <string name="screen_original_gamut_summary">Отображение в максимально широкой цветовой гамме</string>
     <string name="screen_paper_mode_apps_loading">Подождите…</string>
     <string name="search_app_name">Поиск приложений</string>
     <string name="search_empty">Приложения не найдены</string>
