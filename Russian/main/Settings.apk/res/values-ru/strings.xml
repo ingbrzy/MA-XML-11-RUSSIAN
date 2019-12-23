@@ -5503,7 +5503,7 @@ UT-интерфейс: %5$s"</string>
     <string name="smartcover_sensitive_summary">Автоматическая блокировка и разблокировка с помощью умного чехла</string>
     <string name="smartcover_sensitive_title">Умный чехол</string>
     <string name="sms_access_restriction_enabled">Ограничить доступ к SMS и списку вызовов</string>
-    <string name="sms_access_restriction_enabled_summary">Разрешить доступ к SMS и списку вызовов только для приложений по умолчанию</string>
+    <string name="sms_access_restriction_enabled_summary">Доступ к SMS и списку вызовов разрешен только приложениям по умолчанию</string>
     <string name="sms_application_title">Сообщения</string>
     <string name="sms_change_default_dialog_text">Использовать приложение %1$s вместо %2$s для обмена SMS-сообщениями?</string>
     <string name="sms_change_default_dialog_title">Приложение для обмена SMS</string>
@@ -7299,13 +7299,13 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_block_effect_peek">Не показывать всплывающие уведомления</string>
     <string name="zen_mode_block_effect_sound">Отключить звук и вибрацию</string>
     <string name="zen_mode_block_effect_status">Скрыть значки в строке состояния</string>
-    <string name="zen_mode_block_effect_summary_all">Звук, вибрация и световая индикация</string>
+    <string name="zen_mode_block_effect_summary_all">Звук, вибрация и визуальное оповещение</string>
     <string name="zen_mode_block_effect_summary_none">Никогда</string>
-    <string name="zen_mode_block_effect_summary_screen_off">Когда экран отключен</string>
+    <string name="zen_mode_block_effect_summary_screen_off">Когда экран выключен</string>
     <string name="zen_mode_block_effect_summary_screen_on">Когда экран включен</string>
-    <string name="zen_mode_block_effect_summary_some">Звук, вибрация и часть световой индикации</string>
+    <string name="zen_mode_block_effect_summary_some">Звук, вибрация и часть визуального оповещения</string>
     <string name="zen_mode_block_effect_summary_sound">Звук и вибрация</string>
-    <string name="zen_mode_block_effects_screen_off">Когда экран отключен</string>
+    <string name="zen_mode_block_effects_screen_off">Когда экран выключен</string>
     <string name="zen_mode_block_effects_screen_on">Когда экран включен</string>
     <string name="zen_mode_blocked_effects_footer">Уведомления и статусы, необходимые для информирования об основной деятельности телефона, не будут скрываться</string>
     <string name="zen_mode_button_turn_off">Отключить</string>
@@ -7323,8 +7323,8 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_custom_behavior_summary">Установить особые настройки для этого расписания</string>
     <string name="zen_mode_custom_behavior_summary_default">Использовать настройки по умолчанию</string>
     <string name="zen_mode_custom_behavior_title">Настройки режима \"Не беспокоить\"</string>
-    <string name="zen_mode_custom_calls_footer">Входящие вызовы блокируются правилом \"%1$s\". Вы можете изменить настройки, чтобы ваши друзья, семья или другие контакты могли с вами связаться.</string>
-    <string name="zen_mode_custom_messages_footer">Сообщения блокируются правилом \"%1$s\". Вы можете изменить настройки, чтобы ваши друзья, семья или другие контакты могли с вами связаться.</string>
+    <string name="zen_mode_custom_calls_footer">Входящие вызовы блокируются правилом \"%1$s\". Вы можете изменить настройки, чтобы ваши друзья, семья или другие контакты могли связаться с вами.</string>
+    <string name="zen_mode_custom_messages_footer">Сообщения блокируются правилом \"%1$s\". Вы можете изменить настройки, чтобы ваши друзья, семья или другие контакты могли связаться с вами.</string>
     <string name="zen_mode_delete_automatic_rules">Удалить расписания</string>
     <string name="zen_mode_delete_rule">Удалить правило</string>
     <string name="zen_mode_delete_rule_button">Удалить</string>
@@ -7372,62 +7372,105 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_option_no_interruptions">Полная тишина</string>
    <string name="zen_mode_other_options">другие параметры</string>
     <string name="zen_mode_phone_calls">Вызовы</string>
-    <string name="zen_mode_qs_set_behavior">Эти настройки сейчас изменить нельзя. Режим \"Не беспокоить\" со своими правилами включен вручную .</string>
+    <string name="zen_mode_qs_set_behavior">Эти настройки сейчас изменить нельзя. Режим \"Не беспокоить\" со своими правилами включен вручную.</string>
     <string name="zen_mode_priority_settings_title">Только важные</string>
     <string name="zen_mode_reminders">Напоминания</string>
     <string name="zen_mode_repeat_callers">Повторные вызовы</string>
     <string name="zen_mode_repeat_callers_list">повторные вызовы</string>
     <string name="zen_mode_repeat_callers_summary">Уведомить о вызове, если абонент звонит повторно в течение %d мин.</string>
     <string name="zen_mode_rule_delete_button">Удалить</string>
-    <string name="zen_mode_restrict_notifications_custom">Пользовательские настройки</string>
-    <string name="zen_mode_restrict_notifications_disable_custom">Удалить пользовательские настройки</string>
-    <string name="zen_mode_restrict_notifications_enable_custom">Включить пользовательские настройки</string>
+    <string name="zen_mode_restrict_notifications_custom">Пользовательские установки</string>
+    <string name="zen_mode_restrict_notifications_disable_custom">Удалить пользовательские установки</string>
+    <string name="zen_mode_restrict_notifications_enable_custom">Включить пользовательские установки</string>
     <string name="zen_mode_restrict_notifications_hide">Отключить полностью</string>
-    <string name="zen_mode_restrict_notifications_hide_footer">"Все уведомления, а также звук, вибрация и световая индикация, будут отключены, за исключением критических уведомлений об активности телефона и статусов.
+    <string name="zen_mode_restrict_notifications_hide_footer">"Все уведомления, а также звук, вибрация и визуальное оповещение, будут отключены, за исключением критических уведомлений об активности телефона и статусе.
 
 После отключения режима \"Не беспокоить\", пропущенные уведомления можно будет найти в верхней части экрана, проведя пальцем вниз."</string>
     <string name="zen_mode_restrict_notifications_hide_summary">Уведомления будут полностью отключены</string>
     <string name="zen_mode_restrict_notifications_mute">Отключить звук</string>
     <string name="zen_mode_restrict_notifications_mute_footer">Уведомления будут приходить без звука и вибрации.</string>
-    <string name="zen_mode_restrict_notifications_mute_summary">Уведомления будут приходить бесшумно</string>
-    <string name="zen_mode_restrict_notifications_summary_custom">Пользовательские настройки для уведомлений</string>
-    <string name="zen_mode_restrict_notifications_summary_hidden">Отключить индикацию и звук уведомлений</string>
+    <string name="zen_mode_restrict_notifications_mute_summary">Уведомления будут только отображаться</string>
+    <string name="zen_mode_restrict_notifications_summary_custom">Пользовательские установки для уведомлений</string>
+    <string name="zen_mode_restrict_notifications_summary_hidden">Отключить полностью уведомления</string>
     <string name="zen_mode_restrict_notifications_summary_muted">Отключить звук уведомлений</string>
     <string name="zen_mode_restrict_notifications_title">Ограничения уведомлений</string>
-  
+    <string name="zen_mode_rule_delete_button">Удалить</string>
     <string name="zen_mode_rule_name">Название правила</string>
+    <string name="zen_mode_rule_name_edit">Изменить</string>
     <string name="zen_mode_rule_name_hint">Введите название правила</string>
     <string name="zen_mode_rule_name_warning">Правило с таким названием уже есть</string>
     <string name="zen_mode_rule_not_found_text">Правило не найдено.</string>
     <string name="zen_mode_rule_rename_button">Переименовать</string>
-    <string name="zen_mode_rule_summary_enabled_combination">Вкл./%1$s</string>
+    <string name="zen_mode_rule_summary_enabled_combination">Вкл. / %1$s</string>
     <string name="zen_mode_rule_summary_provider_combination">"%1$s
 %2$s"</string>
     <string name="zen_mode_rule_type_unknown">Неизвестен</string>
     <string name="zen_mode_schedule_alarm_summary">Отключать, когда наступает время остановки сигнала или срабатывает следующий (если это происходит раньше)</string>
     <string name="zen_mode_schedule_alarm_title">Следующий сигнал переопределяет время остановки текущего</string>
+    <string name="zen_mode_schedule_category_title">Расписание</string>
+    <string name="zen_mode_schedule_delete">Удалить</string>	
     <string name="zen_mode_schedule_rule_days">Дни</string>
     <string name="zen_mode_schedule_rule_days_all">Каждый день</string>
     <string name="zen_mode_schedule_rule_days_none">–</string>
+    <string name="zen_mode_schedule_title">Расписание</string>
     <string name="zen_mode_screen_off">При отключенном экране</string>
     <string name="zen_mode_screen_off_summary">Не включать экран и световой индикатор для уведомлений, отключенных в режиме \"Не беспокоить\"</string>
     <string name="zen_mode_screen_off_summary_no_led">Не включать экран для уведомлений, отключенных в режиме \"Не беспокоить\"</string>
     <string name="zen_mode_screen_on">При включенном экране</string>
     <string name="zen_mode_screen_on_summary">Не показывать на экране уведомления, отключенные в режиме \"Не беспокоить\"</string>
-    <string name="zen_mode_selected_callers">Выбранные абоненты</string>
-    <string name="zen_mode_selected_messages">Выбранные сообщения</string>
-    <string name="zen_mode_settings_summary_off">Нет правил</string>
+    <string name="zen_mode_settings_category">Режим \"Не беспокоить\"</string>
+    <string name="zen_mode_settings_dnd_automatic_rule">Режим \"Не беспокоить\" включен правилом \"%s\"</string>
+    <string name="zen_mode_settings_dnd_automatic_rule_app">Режим \"Не беспокоить\" включен приложением \"%s\"</string>
+    <string name="zen_mode_settings_dnd_custom_settings_footer">Режим \"Не беспокоить\" включен с пользовательскими установками (%s).</string>
+    <string name="zen_mode_settings_dnd_custom_settings_footer_link">&lt;annotation id="link"&gt; Пользовательские установки&lt;/annotation&gt;</string>
+    <string name="zen_mode_settings_dnd_manual_end_time">Режим \"Не беспокоить\" включен до %s</string>
+    <string name="zen_mode_settings_dnd_manual_indefinite">Режим \"Не беспокоить\" будет активен до отключения</string>
+    <string name="zen_mode_settings_summary_off">Никогда</string>
     <string name="zen_mode_settings_title">Не беспокоить</string>
+    <string name="zen_mode_settings_turn_on_dialog_title">Включите режим \"Не беспокоить\"</string>
+    <string name="zen_mode_slice_subtitle">Уменьшить задержки</string>
+    <string name="zen_mode_sound_summary_off">Откл.</string>
+    <string name="zen_mode_sound_summary_off_with_info">Откл. / %1$s</string>
+    <string name="zen_mode_sound_summary_on">Вкл.</string>
+    <string name="zen_mode_sound_summary_on_with_info">Вкл. / %1$s</string>
+    <string name="zen_mode_starred_callers">избранные контакты</string>
+    <string name="zen_mode_starred_contacts_title">Избранные контакты</string>
     <string name="zen_mode_start_time">Время начала</string>
     <string name="zen_mode_summary_alarms_only_by_time">Активировать режим \"Только будильник\" до %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Активировать режим \"Только будильник\" бессрочно</string>
     <string name="zen_mode_summary_always">Режим \"Не беспокоить\" отключен.</string>
     <string name="zen_mode_summary_combination">%1$s: %2$s</string>
+    <string name="zen_mode_system">Звук нажатия на экран</string>
+    <string name="zen_mode_system_list">звук нажатия на экран</string>
+    <string name="zen_mode_unknown_app_set_behavior">Эти настройки сейчас изменить нельзя. Приложение включило режим \"Не беспокоить\" со своими правилами.</string>
+    <string name="zen_mode_use_automatic_rule">Использовать правило</string>
     <string name="zen_mode_visual_interruptions_settings_title">Блокировка визуального оповещения</string>
+    <string name="zen_mode_visual_signals_settings_subtitle">Включить визуальное оповещение</string>
+    <string name="zen_mode_what_to_block_title">Пользовательские ограничения</string>	
     <string name="zen_mode_when">Включать автоматически</string>
     <string name="zen_mode_when_every_night">Каждый вечер</string>
     <string name="zen_mode_when_never">Никогда</string>
     <string name="zen_mode_when_weeknights">Вечером по будням</string>
+    <string name="zen_msg_event_reminder_footer">В режиме \"Не беспокоить\" все сообщения, напоминания и мероприятия будут без звука, за исключением разрешенных выше. Вы можете изменить настройки, чтобы ваши друзья, семья или другие контакты могли связаться с вами.</string>
+    <string name="zen_msg_event_reminder_title">Сообщения, мероприятия и напоминания</string>
+    <string name="zen_onboarding_current_setting_summary">(текущие)</string>
+    <string name="zen_onboarding_current_setting_title">Отключить звук уведомлений</string>
+    <string name="zen_onboarding_dnd_visual_disturbances_description">"Телефон может помочь сосредоточиться.
+
+Установите следующие настройки:
+
+- Скрыть уведомления
+
+- Разрешить вызовы от избранных контактов и повторные вызовы"</string>
+    <string name="zen_onboarding_dnd_visual_disturbances_header">Изменить настройки уведомлений для режима \"Не беспокоить\"?</string>
+    <string name="zen_onboarding_more_options">Вы можете изменить параметры в настройках.</string>
+    <string name="zen_onboarding_new_setting_summary">Уведомления будут скрыты. Будут доступны вызовы только от избранных контактов и повторные вызовы.</string>
+    <string name="zen_onboarding_new_setting_title">Скрыть уведомления</string>
+    <string name="zen_onboarding_ok">Готово</string>
+    <string name="zen_onboarding_screen_off_summary">Не включать экран для уведомлений</string>
+    <string name="zen_onboarding_screen_off_title">Блокировать, когда экран выключен</string>
+    <string name="zen_onboarding_screen_on_summary">Не показывать уведомления, кроме основной активности телефона и статуса</string>
+    <string name="zen_onboarding_screen_on_title">Блокировать, когда экран включен</string>
     <string name="zen_onboarding_settings">Настройки</string>
     <string name="zen_schedule_rule_enabled_toast">Настроено правило включения режима \"Не беспокоить\" в указанное время</string>
     <string name="zen_schedule_rule_type_name">Время</string>

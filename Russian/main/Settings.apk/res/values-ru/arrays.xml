@@ -355,12 +355,14 @@
         <item>Выбор системы</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™</item>
-        <item>Qualcomm® aptX™ HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Включить дополнительные кодеки</item>
         <item>Отключить дополнительные кодеки</item>
     </string-array>
@@ -368,15 +370,23 @@
         <item>Выбор системы</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™</item>
-        <item>Qualcomm® aptX™ HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Включить дополнительные кодеки</item>
         <item>Отключить дополнительные кодеки</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Активно"</item>
+        <item>" | Активно (медиа)"</item>
+        <item>" | Активно (устройство)"</item>
+    </string-array>	
     <string-array name="bluetooth_avrcp_version_values">
         <item>avrcp14</item>
         <item>avrcp13</item>
