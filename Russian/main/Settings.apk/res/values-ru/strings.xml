@@ -94,7 +94,7 @@
     <string name="accessibility_personal_account_title">Личный аккаунт – %s</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">Завершение вызова кнопкой питания</string>
     <string name="accessibility_preference_magnification_summary">Экранная лупа</string>
-    <string name="accessibility_ring_vibration_title">Вибрация при звонке</string>
+    <string name="accessibility_ring_vibration_title">Вибрация при вызове</string>
     <string name="accessibility_screen_magnification_enable">Жесты увеличения</string>
     <string name="accessibility_screen_magnification_gestures_title">Увеличение по тройному нажатию</string>
     <string name="accessibility_screen_magnification_navbar_configuration_warning">Кнопка специальных возможностей настроена на сервис \"%1$s\". Чтобы использовать увеличение, удерживайте ее, а затем выберите \"Увеличение изображения на экране\".</string>
@@ -182,16 +182,16 @@
     <string name="accessibility_tutorial_dialog_title_gesture">Используйте жест</string>
     <string name="accessibility_tutorial_dialog_title_gesture_settings">Новые жесты спец. возможностей</string>
     <string name="accessibility_usage_title">Использование спец. возможностей</string>
-    <string name="accessibility_vibration_intensity_high">Высокая</string>
-    <string name="accessibility_vibration_intensity_low">Низкая</string>
+    <string name="accessibility_vibration_intensity_high">Сильная</string>
+    <string name="accessibility_vibration_intensity_low">Слабая</string>
     <string name="accessibility_vibration_intensity_medium">Средняя</string>
-    <string name="accessibility_vibration_intensity_off">Выключена</string>
+    <string name="accessibility_vibration_intensity_off">Отключена</string>
     <string name="accessibility_vibration_settings_title">Вибрация</string>
-    <string name="accessibility_vibration_summary">Звонок %1$s, уведомление %2$s, касание %3$s</string>
-    <string name="accessibility_vibration_summary_high">Высокий уровень звонка и уведомления</string>
-    <string name="accessibility_vibration_summary_low">Низкий уровень звонка и уведомления</string>
-    <string name="accessibility_vibration_summary_medium">Средний уровень звонка и уведомления</string>
-    <string name="accessibility_vibration_summary_off">Звонок и уведомление отключены</string>
+    <string name="accessibility_vibration_summary">Вызовы: %1$s; уведомления: %2$s; касания: %3$s</string>
+    <string name="accessibility_vibration_summary_high">Cильная вибрация при входящих вызовах и уведомлениях</string>
+    <string name="accessibility_vibration_summary_low">Слабая вибрация при входящих вызовах и уведомлениях</string>
+    <string name="accessibility_vibration_summary_medium">Средняя вибрация при входящих вызовах и уведомлениях</string>
+    <string name="accessibility_vibration_summary_off">Вибрация при входящих вызовах и уведомлениях отключена</string>
     <string name="accessibility_vpn_settings_info">Конфигурация VPN</string>
     <string name="accessibility_wifi_off">Wi-Fi выключен.</string>
     <string name="accessibility_wifi_one_bar">Сигнал Wi-Fi: одно деление.</string>
@@ -875,10 +875,10 @@
     <string name="bluetooth_connected_multiple_devices_summary">Подключено к нескольким устройствам</string>
     <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио)</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Подключено (кроме аудио) | Уровень заряда: %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset">Подключено (кроме звонков)</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Подключено (кроме звонков) | Уровень заряда: %1$s%2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Подключено (кроме звонков и аудио)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Подключено (кроме звонков и аудио) | Уровень заряда: %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset">Подключено (кроме вызовов)</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Подключено (кроме вызовов) | Уровень заряда: %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Подключено (кроме вызовов и аудио)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Подключено (кроме вызовов и аудио) | Уровень заряда: %1$s%2$s</string>
     <string name="bluetooth_connected_no_map">Подключено (кроме сообщений)</string>
     <string name="bluetooth_connected_summary">Подключено к %1$s</string>
     <string name="bluetooth_connecting">Подключение…</string>
@@ -984,8 +984,8 @@
     <string name="bluetooth_pairing_accept_all_caps">ПРИНЯТЬ</string>
     <string name="bluetooth_pairing_decline">Отклонить</string>
     <string name="bluetooth_pairing_device_down_error_message">Не удалось установить соединение с устройством %1$s.</string>
-    <string name="bluetooth_pairing_dialog_contants_request">Устройство %1$s запрашивает доступ к контактам и журналу звонков.</string>
-    <string name="bluetooth_pairing_dialog_paring_request">%1$s пытается подключиться через Bluetooth. Устройство получит доступ к контактам и журналу звонков.</string>
+    <string name="bluetooth_pairing_dialog_contants_request">Устройство %1$s запрашивает доступ к контактам и журналу вызовов.</string>
+    <string name="bluetooth_pairing_dialog_paring_request">%1$s пытается подключиться через Bluetooth. Устройство получит доступ к контактам и журналу вызовов.</string>
     <string name="bluetooth_pairing_dialog_sharing_phonebook_title">Разрешить доступ к телефонной книге?</string>
     <string name="bluetooth_pairing_dialog_title">Подключиться к этому устройству?</string>
     <string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству %1$s.</string>
@@ -993,12 +993,12 @@
     <string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству %1$s из-за неверного PIN или ключа доступа.</string>
     <string name="bluetooth_pairing_rejected_error_message">Устройство %1$s не разрешило подключение.</string>
     <string name="bluetooth_pairing_request">Добавить %1$s?</string>
-    <string name="bluetooth_pairing_shares_phonebook">Открыть %1$s доступ к списку контактов и журналу звонков</string>
-    <string name="bluetooth_pairing_will_share_phonebook">Подключение обеспечивает доступ к вашим контактам и журналу звонков.</string>
+    <string name="bluetooth_pairing_shares_phonebook">Открыть %1$s доступ к списку контактов и журналу вызовов</string>
+    <string name="bluetooth_pairing_will_share_phonebook">Подключение обеспечивает доступ к вашим контактам и журналу вызовов.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Устройство работает в режиме модема</string>
     <string name="bluetooth_pan_profile_summary_use_for">Использовать для доступа в интернет</string>
     <string name="bluetooth_pan_user_profile_summary_connected">Используется подключение другого устройства</string>
-    <string name="bluetooth_pb_acceptance_dialog_text">Устройство %1$s запрашивает доступ к вашим контактам и журналу звонков. Разрешить доступ для %2$s?</string>
+    <string name="bluetooth_pb_acceptance_dialog_text">Устройство %1$s запрашивает доступ к вашим контактам и журналу вызовов. Разрешить доступ для %2$s?</string>
     <string name="bluetooth_pb_remember_choice">Больше не спрашивать</string>
     <string name="bluetooth_phonebook_request">Запрос на доступ к списку контактов</string>
     <string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
@@ -1008,7 +1008,7 @@
     <string name="bluetooth_preference_found_devices">Доступные устройства</string>
     <string name="bluetooth_preference_no_found_devices">Нет доступных устройств</string>
     <string name="bluetooth_preference_paired_devices">Сопряженные устройства</string>
-    <string name="bluetooth_preference_paired_dialog_contacts_option">Контакты и журнал звонков</string>
+    <string name="bluetooth_preference_paired_dialog_contacts_option">Контакты и журнал вызовов</string>
     <string name="bluetooth_preference_paired_dialog_internet_option">Подключение к Интернету</string>
     <string name="bluetooth_preference_paired_dialog_keyboard_option">Клавиатура</string>
     <string name="bluetooth_preference_paired_dialog_name_label">Название</string>
@@ -1236,9 +1236,9 @@
     <string name="calendar_sound_dialog_title">Выберите звук календаря</string>
     <string name="calendar_sound_title">Календарь</string>
     <string name="call_category">Вызовы</string>
-    <string name="call_manager_enable_summary">Управление звонками.</string>
-    <string name="call_manager_enable_title">Включить менеджер звонков</string>
-    <string name="call_manager_title">Менеджер звонков</string>
+    <string name="call_manager_enable_summary">Управление вызовами.</string>
+    <string name="call_manager_enable_title">Включить менеджер вызовов</string>
+    <string name="call_manager_title">Менеджер вызовов</string>
     <string name="call_records_name_1">Анна Петрова</string>
     <string name="call_records_name_2">Виктор Иванов</string>
     <string name="call_records_name_3">Сергей Васильев</string>
@@ -1884,7 +1884,7 @@
     <string name="disabled_by_policy_title">Действие запрещено</string>
     <string name="disabled_by_policy_title_adjust_volume">Невозможно изменить громкость</string>
     <string name="disabled_by_policy_title_camera">Доступ к камере запрещен</string>
-    <string name="disabled_by_policy_title_outgoing_calls">Звонки запрещены</string>
+    <string name="disabled_by_policy_title_outgoing_calls">Вызовы запрещены</string>
     <string name="disabled_by_policy_title_screen_capture">Запрещено делать скриншоты</string>
     <string name="disabled_by_policy_title_sms">Отправка SMS запрещена</string>
     <string name="disabled_by_policy_title_suspend_packages">Невозможно открыть приложение</string>
@@ -2116,31 +2116,31 @@
     <string name="encryption_continue_button">Продолжить</string>
     <string name="encryption_interstitial_header">Безопасный запуск</string>
 	
-    <string name="encryption_interstitial_message_password">"Вы можете задать пароль для разблокировки. Пока телефон заблокирован, звонки, сообщения и уведомления (в том числе будильники) будут недоступны. 
+    <string name="encryption_interstitial_message_password">"Вы можете задать пароль для разблокировки. Пока телефон заблокирован, вызовы, сообщения и уведомления (в том числе будильники) будут недоступны. 
 
 Это поможет защитить данные в случае потери или кражи устройства. Запрашивать пароль при включении?"</string>
-    <string name="encryption_interstitial_message_password_for_face">"Помимо пароля вы можете использовать разблокировку по лицу. Пока телефон заблокирован, звонки, сообщения и уведомления (в том числе будильники) будут недоступны.
+    <string name="encryption_interstitial_message_password_for_face">"Помимо пароля вы можете использовать разблокировку по лицу. Пока телефон заблокирован, вызовы, сообщения и уведомления (в том числе будильники) будут недоступны.
 
 Это поможет защитить данные в случае потери или кражи устройства. Запрашивать пароль при включении?"</string>
-    <string name="encryption_interstitial_message_password_for_fingerprint">"Помимо пароля для разблокировки вы можете использовать для разблокировки отпечаток. Пока телефон заблокирован, звонки, сообщения и уведомления (в том числе будильники) будут недоступны.
+    <string name="encryption_interstitial_message_password_for_fingerprint">"Помимо пароля для разблокировки вы можете использовать для разблокировки отпечаток. Пока телефон заблокирован, вызовы, сообщения и уведомления (в том числе будильники) будут недоступны.
 
 Это поможет защитить данные в случае потери или кражи устройства. Запрашивать пароль при включении?"</string>
-    <string name="encryption_interstitial_message_pattern">"Вы можете задать графический ключ для разблокировки. Пока телефон заблокирован, звонки, сообщения и уведомления (в том числе будильники) будут недоступны. 
+    <string name="encryption_interstitial_message_pattern">"Вы можете задать графический ключ для разблокировки. Пока телефон заблокирован, вызовы, сообщения и уведомления (в том числе будильники) будут недоступны. 
 
 Это поможет защитить данные в случае потери или кражи устройства. Запрашивать графический ключ при включении?"</string>
-    <string name="encryption_interstitial_message_pattern_for_face">"Помимо графического ключа вы можете использовать разблокировку по лицу. Пока телефон заблокирован, звонки, сообщения и уведомления (в том числе будильники) будут недоступны.
+    <string name="encryption_interstitial_message_pattern_for_face">"Помимо графического ключа вы можете использовать разблокировку по лицу. Пока телефон заблокирован, вызовы, сообщения и уведомления (в том числе будильники) будут недоступны.
 
 Это поможет защитить данные в случае потери или кражи устройства. Запрашивать графический ключ при включении?"</string>
-    <string name="encryption_interstitial_message_pattern_for_fingerprint">"Помимо графического ключа вы можете использовать для разблокировки отпечаток. Пока телефон заблокирован, звонки, сообщения и уведомления (в том числе будильники) будут недоступны.
+    <string name="encryption_interstitial_message_pattern_for_fingerprint">"Помимо графического ключа вы можете использовать для разблокировки отпечаток. Пока телефон заблокирован, вызовы, сообщения и уведомления (в том числе будильники) будут недоступны.
 
 Это поможет защитить данные в случае потери или кражи устройства. Запрашивать графический ключ при включении?"</string>
-    <string name="encryption_interstitial_message_pin">"Вы можете задать PIN-код для разблокировки. Пока телефон заблокирован, звонки, сообщения и уведомления (в том числе будильники) будут недоступны.. 
+    <string name="encryption_interstitial_message_pin">"Вы можете задать PIN-код для разблокировки. Пока телефон заблокирован, вызовы, сообщения и уведомления (в том числе будильники) будут недоступны.. 
 
 Это поможет защитить данные в случае потери или кражи устройства. Запрашивать PIN-код при включении?"</string>
-    <string name="encryption_interstitial_message_pin_for_face">"Помимо PIN-кода вы можете использовать разблокировку по лицу. Пока телефон заблокирован, звонки, сообщения и уведомления (в том числе будильники) будут недоступны.
+    <string name="encryption_interstitial_message_pin_for_face">"Помимо PIN-кода вы можете использовать разблокировку по лицу. Пока телефон заблокирован, вызовы, сообщения и уведомления (в том числе будильники) будут недоступны.
 
 Это поможет защитить данные в случае потери или кражи устройства. Запрашивать PIN-код при включении?"</string>
-    <string name="encryption_interstitial_message_pin_for_fingerprint">"Помимо PIN-кода вы можете использовать для разблокировки отпечаток. Пока телефон заблокирован, звонки, сообщения и уведомления (в том числе будильники) будут недоступны.
+    <string name="encryption_interstitial_message_pin_for_fingerprint">"Помимо PIN-кода вы можете использовать для разблокировки отпечаток. Пока телефон заблокирован, вызовы, сообщения и уведомления (в том числе будильники) будут недоступны.
 
 Это поможет защитить данные в случае потери или кражи устройства. Запрашивать PIN-код при включении?"</string>
     <string name="encryption_interstitial_no">Нет</string>
@@ -2465,10 +2465,10 @@
     <string name="full_screen_keyboard_optimization">Расширение клавиатуры</string>
     <string name="full_screen_keyboard_settings">Настройки клавиатуры в полноэкранном режиме</string>
     <string name="full_transparent_smarrcover_title">Прозрачная</string>
-    <string name="fullbackup_data_summary">"Автоматическое копирование данных устройства (например, паролей Wi-Fi и журнала звонков) и данных приложений (например, настроек и файлов приложений) на серверы.
+    <string name="fullbackup_data_summary">"Автоматическое копирование данных устройства (например, паролей Wi-Fi и журнала вызовов) и данных приложений (например, настроек и файлов приложений) на серверы.
 
 После включения резервного копирования, данные будут периодически сохраняться на серверах. Обратите внимание, что данные приложений могут включать конфиденциальную информацию: контакты, сообщения, фотографии и другие сведения, сохраненные приложением на устройстве согласно настройкам разработчика."</string>
-    <string name="fullbackup_erase_dialog_message">Резервное копирование данных устройства (например, паролей Wi-Fi и журнала звонков) и данных приложений (например, настроек и файлов приложений) будет прекращено. Данные, скопированные на серверы, будут удалены. Продолжить?</string>
+    <string name="fullbackup_erase_dialog_message">Резервное копирование данных устройства (например, паролей Wi-Fi и журнала вызовов) и данных приложений (например, настроек и файлов приложений) будет прекращено. Данные, скопированные на серверы, будут удалены. Продолжить?</string>
     <string name="gadget_picker_title">Выбор гаджета</string>
     <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
@@ -5095,7 +5095,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_user_dict_settings_title">Личный словарь;Словарь</string>
     <string name="search_vibrate_in_silent_title">Вибрация в режиме без звука;вибрировать;вибрация</string>
     <string name="search_vibrate_on_touch_title">Включить виброотклик;виброотклик;вибрировать;вибрация</string>
-    <string name="search_vibrate_when_ringing_title">Вибрация при звонке;вибрация;вибрация</string>
+    <string name="search_vibrate_when_ringing_title">Вибрация при вызове;вибрация;вибрация</string>
     <string name="search_virtual_sim">Международный мобильный интернет;Интернет в роуминге;Мобильный роуминг</string>
     <string name="search_vpn_enable">Включить VPN;VPN</string>
     <string name="search_vpn_settings_password">Пароль VPN;Защитить VPN</string>
@@ -5387,7 +5387,7 @@ UT-интерфейс: %5$s"</string>
     <string name="silent_total">Не беспокоить</string>
     <string name="sim_bad_pin">PIN-код должен содержать 4-8 цифр</string>
     <string name="sim_call_back_title">Ответный звонок с SIM-карты по умолчанию</string>
-    <string name="sim_calls_always_use">Всегда использовать для звонков</string>
+    <string name="sim_calls_always_use">Всегда использовать для вызовов</string>
     <string name="sim_calls_ask_first_prefs_title">Всегда спрашивать</string>
     <string name="sim_card_number_title">SIM-карта %1$d</string>
     <string name="sim_card_select_title">Выберите SIM-карту</string>
@@ -5435,13 +5435,13 @@ UT-интерфейс: %5$s"</string>
     <string name="sim_no_inserted_msg">SIM-карта не вставлена</string>
     <string name="sim_notification_summary">Нажмите, чтобы настроить</string>
     <string name="sim_notification_title">SIM-карты заменены</string>
-    <string name="sim_other_call_settings">Другие настройки звонков</string>
-    <string name="sim_outgoing_call_title">SIM-карта для исходящих звонков</string>
+    <string name="sim_other_call_settings">Другие настройки вызовов</string>
+    <string name="sim_outgoing_call_title">SIM-карта для исходящих вызовов</string>
     <string name="sim_pin_change">Изменение PIN-кода SIM-карты</string>
     <string name="sim_pin_toggle">Блокировка SIM-карты</string>
     <string name="sim_pins_dont_match">PIN-коды не совпадают</string>
     <string name="sim_pref_divider">Использование SIM-карт</string>
-    <string name="sim_preferred_message">%1$s – единственная SIM-карта в устройстве. Использовать ее для звонков, отправки SMS-сообщений и мобильных данных?</string>
+    <string name="sim_preferred_message">%1$s – единственная SIM-карта в устройстве. Использовать ее для вызовов, отправки SMS-сообщений и мобильных данных?</string>
     <string name="sim_preferred_title">Изменить основную SIM-карту?</string>
     <string name="sim_radio_off">Отключена</string>
     <string name="sim_reenter_new">Введите новый PIN-код ещё раз</string>
@@ -6406,12 +6406,12 @@ UT-интерфейс: %5$s"</string>
     <string name="user_dict_settings_more_languages">Другой язык</string>
     <string name="user_dict_settings_summary" />
     <string name="user_dict_settings_title">Личный словарь</string>
-    <string name="user_enable_calling">Включить звонки</string>
-    <string name="user_enable_calling_and_sms_confirm_message">Этот пользователь получит доступ к журналу звонков и SMS.</string>
-    <string name="user_enable_calling_and_sms_confirm_title">Включить звонки и SMS?</string>
-    <string name="user_enable_calling_confirm_message">Этот пользователь получит доступ к журналу звонков.</string>
-    <string name="user_enable_calling_confirm_title">Включить звонки?</string>
-    <string name="user_enable_calling_sms">Включить звонки и SMS</string>
+    <string name="user_enable_calling">Включить вызовы</string>
+    <string name="user_enable_calling_and_sms_confirm_message">Этот пользователь получит доступ к журналу вызовов и SMS.</string>
+    <string name="user_enable_calling_and_sms_confirm_title">Включить вызовы и SMS?</string>
+    <string name="user_enable_calling_confirm_message">Этот пользователь получит доступ к журналу вызовов.</string>
+    <string name="user_enable_calling_confirm_title">Включить вызовы?</string>
+    <string name="user_enable_calling_sms">Включить вызовы и SMS</string>
     <string name="user_exit_guest_confirm_message">Все приложения и данные этого профиля будут удалены.</string>
     <string name="user_exit_guest_confirm_title">Удалить аккаунт гостя?</string>
     <string name="user_exit_guest_dialog_remove">Удалить</string>
@@ -6641,20 +6641,23 @@ UT-интерфейс: %5$s"</string>
     <string name="wallpaper_suggestion_title">Смените обои</string>
     <string name="wapi_auto_sel_cert">Выбирать автоматически</string>
     <string name="wapi_auto_sel_cert_fail">Не удалось выбрать сертификат автоматически. Выберите сертификат из списка и попробуйте подключиться.</string>
-    <string name="wapi_cert_is_not_selected">Сначала выберите сертификат</string>
+    <string name="wapi_cert_is_not_selected">Выберите сертификат</string>
     <string name="wapi_cert_manage_summary">Установка и удаление сертификатов WAPI</string>
     <string name="wapi_cert_manage_title">Управление сертификатом WAPI</string>
     <string name="wapi_cert_select">Сертификат WAPI</string>
-    <string name="wapi_no">Нет</string>
+    <string name="wapi_no">нет</string>
     <string name="wapi_no_vaild_cert">Требуемые сертификаты не установлены. Установить их?</string>
     <string name="wapi_password_empty">Введите пароль</string>
-    <string name="wapi_password_hex_format_invalid">Неверный формат пароля</string>
+    <string name="wapi_password_hex_format_invalid">Неверные шестнадцатеричные символы</string>
     <string name="wapi_password_hex_length_invalid">Число шестнадцатеричных символов должно быть четным</string>
     <string name="wapi_password_length_invalid">Пароль должен содержать от 8 до 64 символов</string>
+    <string name="wapi_password_length_is_max">Длина пароля не должна превышать 64 символа</string>
+    <string name="wapi_password_length_is_min">Длина пароля должна быть не менее 8 символов</string>
+    <string name="wapi_password_length_is_min_to_max">Пароль должен содержать от 8 до 64 символов</string>	
     <string name="wapi_psk_type">Тип пароля</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Шестнадцатеричный</string>
-    <string name="wapi_yes">Да</string>
+    <string name="wapi_yes">да</string>
     <string name="warm_color">Теплый</string>
     <string name="web_action_enable_summary">Открывать ссылки в приложениях, даже если они не установлены на устройстве</string>
     <string name="web_action_enable_title">Приложения с мгновенным запуском</string>
@@ -6667,6 +6670,17 @@ UT-интерфейс: %5$s"</string>
     <string name="weight_setting_toast">Изменение толщины шрифта доступно только для системного шрифта по умолчанию</string>
     <string name="welcome">Добро пожаловать!</string>
     <string name="wellbing_title">Цифровое благополучие и родительский контроль</string>
+    <string name="wfc_disclaimer_agree_button_text">ДАЛЕЕ</string>
+    <string name="wfc_disclaimer_disagree_text">НЕТ</string>
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"Ваш оператор не поддерживает экстренные вызовы по Wi-Fi.
+При экстренных вызовах устройство автоматически переключится на мобильную сеть.
+Экстренные вызовы доступны только в зоне действия сотовой связи."</string>
+    <string name="wfc_disclaimer_emergency_limitation_title_text">Экстренные вызовы</string>
+    <string name="wfc_disclaimer_location_desc_text">"Для предоставления этой услуги оператор связи может собирать сведения о вашем местоположении.
+
+Ознакомьтесь с политикой конфиденциальности оператора."</string>
+    <string name="wfc_disclaimer_location_title_text">Местоположение</string>
+    <string name="wfc_disclaimer_title_text">Важная информация</string>
     <string name="wfc_provisioned_switch_string">Связь по Wi-Fi предоставлена</string>
     <string name="wfd_available_devices">Доступные устройства</string>
     <string name="wfd_disconnect_diag_msg">Отключиться от %1$s?</string>
@@ -6695,6 +6709,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_advanced_mac_address_title">MAC-адрес</string>
     <string name="wifi_advanced_not_available">Расширенные настройки Wi-Fi недоступны для этого пользователя</string>
     <string name="wifi_advanced_settings_label">Настройки IP</string>
+    <string name="wifi_advanced_ssid_title">SSID</string>
     <string name="wifi_advanced_titlebar">Дополнительно</string>
     <string name="wifi_advanced_toggle_description_collapsed">Раскрывающее меню дополнительных настроек. Нажмите дважды, чтобы развернуть.</string>
     <string name="wifi_advanced_toggle_description_expanded">Раскрывающее меню дополнительных настроек. Нажмите дважды, чтобы свернуть.</string>
@@ -6705,6 +6720,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_ap_choose_5G">5 ГГц</string>
     <string name="wifi_ap_choose_auto">Авто</string>
     <string name="wifi_ap_choose_dual">Оба</string>
+    <string name="wifi_ap_choose_vendor_both">Оба</string>
+    <string name="wifi_ap_prefer_5G">5.0 ГГц (предпочтительно)</string>	
     <string name="wifi_ap_unable_to_handle_new_sta">Точка доступа временно заполнена</string>    
     <string name="wifi_ask_disable">Приложению \"%s\" требуется отключить Wi-Fi</string>
     <string name="wifi_ask_enable">Приложению \"%s\" требуется включить Wi-Fi</string>
@@ -6715,18 +6732,18 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_assistant_data_prompt">Предупреждать о трафике</string>
     <string name="wifi_assistant_data_prompt_summary">Показывать предупреждение о трафике при переключении на мобильный интернет</string>
     <string name="wifi_assistant_description">"Как работает Помощник Wi-Fi:
-1. При плохом качестве подключения Помощник Wi-Fi попытается подключить ваше устройство к другим доступным сетям Wi-Fi
-2. Если все доступные сети Wi-Fi оказываются плохими, а мобильный интернет включен, Помощник Wi-Fi переключится на мобильный интернет."</string>
+1. При плохом качестве подключения Помощник Wi-Fi попытается подключить устройство к другим доступным сетям Wi-Fi
+2. Если все доступные сети Wi-Fi плохие и мобильный интернет включен, Помощник Wi-Fi переключится на мобильный интернет."</string>
     <string name="wifi_assistant_disconnect">Отключиться</string>
-    <string name="wifi_assistant_explicitly_confirm_data_message">Эта сеть Wi-Fi не имеет доступа в интернет. Использовать мобильный интернет?</string>
+    <string name="wifi_assistant_explicitly_confirm_data_message">Эта сеть Wi-Fi не имеет доступа в интернет. Переключиться на мобильный интернет?</string>
     <string name="wifi_assistant_explicitly_confirm_disconnect">Эта сеть Wi-Fi не имеет доступа в интернет. Отключиться от нее?</string>
     <string name="wifi_assistant_explicitly_confirm_wifi_message">Эта сеть Wi-Fi не имеет доступа в интернет. Доступны другие сети Wi-Fi. Сменить сеть?</string>
-    <string name="wifi_assistant_keep_connection">Не отключаться</string>
+    <string name="wifi_assistant_keep_connection">Отмена</string>
     <string name="wifi_assistant_off">Откл.</string>
     <string name="wifi_assistant_ok">OK</string>
     <string name="wifi_assistant_on">Вкл.</string>
     <string name="wifi_assistant_setup_wifi_assistant">Настроить</string>
-    <string name="wifi_assistant_summary">Переключение между сетью Wi-Fi и мобильным интернетом при плохом качестве подключения Wi-Fi</string>
+    <string name="wifi_assistant_summary">Переключаться между Wi-Fi сетями и мобильным интернетом при плохом Wi-Fi</string>
     <string name="wifi_assistant_switch_data">Использовать</string>
     <string name="wifi_assistant_switch_wifi">Сменить сеть</string>
     <string name="wifi_auto_connect">Автоподключение</string>
@@ -6734,14 +6751,19 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_avoid_poor_network_detection_summary">Использовать только сети с сильным сигналом</string>
     <string name="wifi_band_24ghz">2,4 ГГц</string>
     <string name="wifi_band_5ghz">5 ГГц</string>
-    <string name="wifi_calling_mode_dialog_title">Звонки по Wi-Fi</string>
+    <string name="wifi_calling_mode_cellular_preferred_summary">Использовать Wi-Fi, если мобильная сеть недоступна</string>
+    <string name="wifi_calling_mode_dialog_title">Приоритет сети</string>
     <string name="wifi_calling_mode_title">Приоритет сети</string>
-    <string name="wifi_calling_off_explanation">Когда функция \"Звонки по Wi-Fi\" включена, для исходящих вызовов может использоваться как Wi-Fi, так и мобильная сеть (в зависимости от ваших предпочтений и уровня сигнала). Прежде чем включить эту функцию, свяжитесь со своим оператором и уточните детали.</string>
+    <string name="wifi_calling_mode_wifi_only_summary">Вызовы по Wi-Fi. Если подключение прервется, вызов будет завершен</string>
+    <string name="wifi_calling_mode_wifi_preferred_summary">Использовать мобильную сеть, если Wi-Fi недоступен</string>
+    <string name="wifi_calling_not_supported">Вызовы по Wi-Fi не поддерживаются для %1$s</string>
+    <string name="wifi_calling_off_explanation">Когда функция \"Вызовы по Wi-Fi\" включена, для исходящих вызовов может использоваться как Wi-Fi, так и мобильная сеть (в зависимости от ваших предпочтений и уровня сигнала). Прежде чем включить эту функцию, свяжитесь со своим оператором и уточните детали. %1$s</string>
     <string name="wifi_calling_roaming_mode_dialog_title">Настройки роуминга</string>
     <string name="wifi_calling_roaming_mode_title">Настройки роуминга</string>
-    <string name="wifi_calling_settings_title">Звонки по Wi-Fi</string>
+    <string name="wifi_calling_settings_title">Вызовы по Wi-Fi</string>
     <string name="wifi_calling_suggestion_summary">Используйте Wi-Fi вместо мобильной сети</string>
-    <string name="wifi_calling_suggestion_title">Включите звонки по Wi-Fi</string>
+    <string name="wifi_calling_suggestion_title">Включите вызовы по Wi-Fi</string>
+    <string name="wifi_calling_summary">Использовать Wi-Fi при вызовах для улучшения качества связи</string>
     <string name="wifi_cancel">Отмена</string>
     <string name="wifi_cellular_data_fallback_summary">Использовать мобильный интернет, когда нет подключения к Интернету по Wi-Fi. Может взиматься дополнительная плата.</string>
     <string name="wifi_cellular_data_fallback_title">Автоматически подключаться к мобильному Интернету</string>
@@ -6761,8 +6783,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_connect_cmcc_dialog_title">Уведомление о трафике</string>
     <string name="wifi_connect_failed_message">Не удалось подключиться к сети Wi-Fi</string>
     <string name="wifi_connected_mac_randomization">Рандомизация MAC-адреса</string>
-    <string name="wifi_connected_mac_randomization_summary">Генерация случайного MAC-адреса при подключении к сетям Wi-Fi</string>
     <string name="wifi_connected_no_internet">Подключено, без доступа в интернет</string>
+    <string name="wifi_connecting">Подключение…</string>
     <string name="wifi_connection_management">Управление подключениями</string>
     <string name="wifi_context_menu_change_password">Изменить пароль</string>
     <string name="wifi_context_menu_change_wapi_certificate">Изменить сертификат WAPI</string>
@@ -6783,6 +6805,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_disabled_network_failure">Ошибка конфигурации IP</string>
     <string name="wifi_disabled_password_failure">Ошибка аутентификации</string>
     <string name="wifi_disabled_wifi_failure">Ошибка подключения Wi-Fi</string>
+    <string name="wifi_disconnect_button_text">Отключить</string>
+    <string name="wifi_disconnected">Не подключено</string>	
     <string name="wifi_disconnected_notification_summary">Вы не подключены к Wi-Fi.</string>
     <string name="wifi_disconnected_notification_title">Сеть Wi-Fi отключена</string>
     <string name="wifi_display_certification">Сертификация беспроводного дисплея</string>
@@ -6808,6 +6832,37 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_do_not_provide_eap_user_cert">Не указывать</string>
     <string name="wifi_do_not_validate_eap_server">Не проверять</string>
     <string name="wifi_do_not_validate_eap_server_warning">Сертификат не указан. Будет установлено незащищенное соединение.</string>
+    <string name="wifi_dpp_add_another_device">Подключить другое устройство</string>
+    <string name="wifi_dpp_add_device">Подключить</string>
+    <string name="wifi_dpp_add_device_to_network">Подключение устройства</string>
+    <string name="wifi_dpp_add_device_to_wifi">Подключить устройство к “%1$s”?</string>
+    <string name="wifi_dpp_center_qr_code">Для подключения к “%1$s” наведите камеру на QR-код ниже</string>
+    <string name="wifi_dpp_check_connection_try_again">Проверьте подключение и повторите попытку</string>
+    <string name="wifi_dpp_choose_different_network">Выбрать другую сеть</string>
+    <string name="wifi_dpp_choose_network">Выбор сети</string>
+    <string name="wifi_dpp_choose_network_to_connect_device">Выберите сеть для подключения устройства</string>
+    <string name="wifi_dpp_connect_network_using_qr_code">Использовать QR-код для добавления устройства к сети</string>
+    <string name="wifi_dpp_connecting">Подключение…</string>
+    <string name="wifi_dpp_could_not_add_device">Не удалось подключить</string>
+    <string name="wifi_dpp_could_not_detect_valid_qr_code">Не удалось прочитать QR-код. Повторите попытку.</string>
+    <string name="wifi_dpp_device_found">Устройство найдено</string>
+    <string name="wifi_dpp_failure_authentication_or_configuration">Повторите попытку. Если проблема не исчезнет, свяжитесь с производителем устройства.</string>
+    <string name="wifi_dpp_failure_generic">Убедитесь, что устройство включено и заряжено или подключено к адаптеру питания. Если проблема не исчезнет, свяжитесь с производителем устройства</string>
+    <string name="wifi_dpp_failure_not_compatible">Произошла ошибка</string>
+    <string name="wifi_dpp_failure_not_supported">Устройство не поддерживает подключение к “%1$s”</string>
+    <string name="wifi_dpp_failure_timeout">Убедитесь, что устройство включено и заряжено или подключено к адаптеру питания</string>
+    <string name="wifi_dpp_hotspot_password">Пароль точки доступа: %1$s</string>
+    <string name="wifi_dpp_lockscreen_title">Подтвердите, что это вы</string>
+    <string name="wifi_dpp_scan_open_network_qr_code_with_another_device">Отсканируйте QR-код для подключения к “%1$s”</string>
+    <string name="wifi_dpp_scan_qr_code">Сканировать QR-код</string>
+    <string name="wifi_dpp_scan_qr_code_join_network">Для подключения к “%1$s” наведите камеру на QR-код ниже</string>
+    <string name="wifi_dpp_scan_qr_code_join_unknown_network">Отсканируйте QR-код для подключения к Wi-Fi</string>
+    <string name="wifi_dpp_scan_qr_code_with_another_device">Отсканируйте QR-код, чтобы подключиться к “%1$s” и поделиться паролем</string>
+    <string name="wifi_dpp_share_hotspot">Поделиться точкой доступа</string>
+    <string name="wifi_dpp_share_wifi">Предоставить доступ к Wi-Fi</string>
+    <string name="wifi_dpp_sharing_wifi_with_this_device">Предоставление доступа…</string>
+    <string name="wifi_dpp_wifi_password">Пароль Wi-Fi: %1$s</string>
+    <string name="wifi_dpp_wifi_shared_with_device">Устройство подключено к Wi-Fi</string>
     <string name="wifi_eap_anonymous">Неизвестный</string>
     <string name="wifi_eap_ca_cert">Сертификат центра сертификации</string>
     <string name="wifi_eap_domain">Домен</string>
@@ -6834,7 +6889,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_generation">Значок поколения</string>
     <string name="wifi_generation_icon_display">Значки</string>
     <string name="wifi_generation_status">Wi-Fi %1$d</string>
-    <string name="wifi_generation_summary">Отображать значок поколения беспроводной технологии рядом со значком Wi-Fi</string>
+    <string name="wifi_generation_summary">Отображать значок поколения беспроводной технологии</string>
     <string name="wifi_generation_title">Технология</string>
     <string name="wifi_hand_sel_wapi_cert">Сертификат WAPI</string>
     <string name="wifi_hidden_network">Скрытая сеть</string>
@@ -6863,7 +6918,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_ip_settings_menu_cancel">Отмена</string>
     <string name="wifi_ip_settings_menu_save">Сохранить</string>
     <string name="wifi_limit_optimizations_summary">Лимит расхода батареи (Wi-Fi)</string>
-    <string name="wifi_limited_connection">Ограниченное подключение</string>
+    <string name="wifi_limited_connection">Подключение к сети ограничено</string>
     <string name="wifi_link_turbo">Увеличение скорости подключения</string>
     <string name="wifi_link_turbo_app_settings_summary">Выберите приложения для которых будет доступна эта функция</string>
     <string name="wifi_link_turbo_app_settings_title">Выбор приложений</string>
@@ -6882,7 +6937,9 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_menu_scan">Поиск</string>
     <string name="wifi_menu_wfd">Беспроводной дисплей</string>
     <string name="wifi_menu_wps_pin">Ввод PIN-кода WPS</string>
-    <string name="wifi_menu_write_to_nfc">Записать на NFC-метку</string>
+    <string name="wifi_metered_label">Трафик</string>
+    <string name="wifi_metered_title">Использование трафика</string>
+    <string name="wifi_modify">Изменить</string>
     <string name="wifi_more">Ещё</string>
     <string name="wifi_multi_network_acceleration">Интеллектуальное ускорение сети</string>
     <string name="wifi_multiple_cert_added">(Добавлено несколько сертификатов)</string>
@@ -6891,7 +6948,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_no_domain_warning">Укажите домен.</string>
     <string name="wifi_no_internet">Нет подключения к интернету</string>
     <string name="wifi_no_internet_no_reconnect">Нет подключения к интернету</string>
-    <string name="wifi_not_in_range">Недоступно</string>
+    <string name="wifi_not_in_range">Сеть недоступна</string>
+    <string name="wifi_not_in_range_message">Сеть недоступна</string>
     <string name="wifi_notify_cmcc_connected_summary">Показывать уведомление при подключении к сети CMCC</string>
     <string name="wifi_notify_cmcc_connected_title">Уведомлять о сети CMCC</string>
     <string name="wifi_notify_open_networks">Оповещения об открытых сетях</string>
@@ -6931,6 +6989,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_priority_type_summary">Позволяет вручную задать приоритет для каждой точки доступа</string>
     <string name="wifi_priority_type_title">Задать приоритет AP вручную</string>
     <string name="wifi_privacy_settings">Конфиденциальность</string>
+    <string name="wifi_privacy_settings_ephemeral_summary">Случайный MAC-адрес</string>
     <string name="wifi_property">Свойства Wi-Fi</string>
     <string name="wifi_protection_on">Вкл.</string>
     <string name="wifi_protection_settings_title">Защита соединения Wi-Fi</string>
@@ -6943,29 +7002,44 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_sap_no_channel_error">Частота 5 ГГц недоступна в этой стране</string>
     <string name="wifi_save">Сохранить</string>
     <string name="wifi_saved_access_points_label">Сохраненные сети</string>
-    <string name="wifi_saved_access_points_titlebar">Сохраненные сети</string>
     <string name="wifi_scan_always_available">Постоянный поиск сетей</string>
     <string name="wifi_scan_always_available_summary">Разрешить сервису местоположения Google и прочим приложениям поиск сетей даже при отключенном Wi-Fi</string>
     <string name="wifi_scan_always_confirm_allow">Разрешить</string>
-    <string name="wifi_scan_always_confirm_deny">Отклонить</string>
+    <string name="wifi_scan_always_confirm_deny">Отмена</string>
+    <string name="wifi_scan_always_turn_on_message_unknown">"Для повышения точности определения местоположения и других функций, неизвестное приложение запрашивает возможность поиска сетей при отключенном Wi-Fi.
+
+Разрешить эту возможность всем приложениям с таким же запросом?"</string>	
     <string name="wifi_scan_always_turnoff_message">Этот параметр можно отключить в расширенных настройках в дополнительном меню.</string>
-    <string name="wifi_scan_always_turnon_message">"Чтобы определение местоположения и некоторые другие функции работали лучше, приложению \"%1$s\" необходимо выполнять поиск сетей, даже если модуль Wi-Fi отключен.
+    <string name="wifi_scan_always_turnon_message">"Для повышения точности определения местоположения и других функций, приложению \"%1$s\" необходимо выполнять поиск сетей, даже если модуль Wi-Fi отключен.
 
 Разрешить?"</string>
     <string name="wifi_scan_notify_remember_choice">Больше не показывать</string>
-    <string name="wifi_scan_notify_text">Чтобы точнее определять местоположение, системные приложения и сервисы продолжат искать сети Wi-Fi. Вы можете отключить эту функцию в LINK_BEGINнастройках сканированияLINK_END.</string>
-    <string name="wifi_scan_notify_text_scanning_off">Чтобы повысить точность определения местоположения, включите поиск сетей Wi-Fi в LINK_BEGINнастройкахLINK_END.</string>
+    <string name="wifi_scan_notify_text">Для повышения точности определения местоположения, системные приложения и сервисы продолжат искать сети Wi-Fi. Вы можете отключить эту функцию в LINK_BEGINнастройках сканированияLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Для повышения точности определения местоположения, включите поиск сетей Wi-Fi в LINK_BEGINнастройкахLINK_END.</string>
     <string name="wifi_scan_throttling">Ограничивать поиск сетей Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Уменьшает энергопотребление и улучшает работу сети</string>	
     <string name="wifi_security">Защита</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
+    <string name="wifi_security_eap">WPA/WPA2-Enterprise</string>
+    <string name="wifi_security_eap_suiteb">WPA3-Enterprise</string>
+    <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
+    <string name="wifi_security_eap_wpa2_wpa3">WPA2/WPA3-Enterprise</string>	
     <string name="wifi_security_none">Без защиты</string>
+    <string name="wifi_security_owe">OWE</string>	
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
+    <string name="wifi_security_sae">WPA3-Personal</string>	
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifi_security_short_eap_wpa">WPA-EAP</string>
+    <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>	
+    <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_sae">SAE</string>
+    <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
+    <string name="wifi_security_short_sae">WPA3</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -6973,9 +7047,9 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_security_wapi_cert">WAPI CERT</string>
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
     <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_wpa">WPA-Personal</string>
+    <string name="wifi_security_wpa2">WPA2-Personal</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2-Personal</string>
     <string name="wifi_select_network">Выбор сети Wi-Fi</string>
     <string name="wifi_setting_category">Доступные сети</string>
     <string name="wifi_setting_frequency_band_error">При настройке диапазона частот возникла проблема.</string>
@@ -6988,33 +7062,13 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_settings_category">Настройки Wi-Fi</string>
     <string name="wifi_settings_summary">Настройка и управление точками доступа беспроводной сети</string>
     <string name="wifi_settings_title">Wi-Fi</string>
-    <string name="wifi_setup_add_network">Добавить сеть</string>
-    <string name="wifi_setup_back">Назад</string>
     <string name="wifi_setup_cancel">Отмена</string>
-    <string name="wifi_setup_connect">Подключить</string>
     <string name="wifi_setup_description_connected">Нажмите<b> Далее</b>" для продолжения настройки.
 
 Нажмите"<b> Назад</b> для подключения к другой сети Wi-Fi.</string>
-    <string name="wifi_setup_description_connecting">Подключение может занять несколько минут…</string>
     <string name="wifi_setup_detail">Сведения о сети</string>
     <string name="wifi_setup_eap_not_supported">Во время установки нельзя настроить подключение к сети Wi-Fi с защитой EAP. Вы можете сделать это позже в разделе Настройки > Беспроводные сети.</string>
-    <string name="wifi_setup_forget">Удалить</string>
-    <string name="wifi_setup_next">Далее</string>
-    <string name="wifi_setup_not_connected">Не подключено</string>
-    <string name="wifi_setup_refresh_list">Обновить список</string>
-    <string name="wifi_setup_save">Сохранить</string>
-    <string name="wifi_setup_skip">Пропустить</string>
-    <string name="wifi_setup_status_connecting">Подключение…</string>
-    <string name="wifi_setup_status_eap_not_supported">EAP не поддерживается.</string>
-    <string name="wifi_setup_status_edit_network">Укажите конфигурацию сети</string>
-    <string name="wifi_setup_status_existing_network">Подключиться к существующей сети</string>
-    <string name="wifi_setup_status_new_network">Подключиться к новой сети</string>
-    <string name="wifi_setup_status_proceed_to_next">Далее</string>
-    <string name="wifi_setup_status_scanning">Поиск доступных сетей…</string>
-    <string name="wifi_setup_status_select_network">Чтобы подключиться к сети, нажмите на нее</string>
-    <string name="wifi_setup_status_unsecured_network">Подключение к незащищенной сети</string>
     <string name="wifi_setup_title">Настройки Wi-Fi</string>
-    <string name="wifi_setup_title_add_network">Добавьте сеть</string>
     <string name="wifi_setup_title_connected_network">Подключено к \"%s\"</string>
     <string name="wifi_setup_title_connecting_network">Подключение к \"%s\"…</string>
     <string name="wifi_setup_title_editing_network">Подключиться к \"%s\"</string>
@@ -7073,7 +7127,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_status_test">Статус Wi-Fi</string>
     <string name="wifi_stopping">Отключение Wi-Fi…</string>
     <string name="wifi_subnet_mask">Маска подсети</string>
-    <string name="wifi_suspend_efficiency_title">Сбережение энергии</string>
+    <string name="wifi_subscribed_access_points_tab">Подписки</string>
+    <string name="wifi_suspend_efficiency_title">Энергосбережение</string>
     <string name="wifi_suspend_optimizations">Оптимизация Wi-Fi</string>
     <string name="wifi_suspend_optimizations_summary">Режим энергосбережения при подключении к сети Wi-Fi</string>
     <string name="wifi_switch_away_when_unvalidated">Подключаться к мобильной сети при потере подключения к Интернету по Wi-Fi</string>
@@ -7098,6 +7153,7 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_traffic_priority_regular">Обычный режим</string>
     <string name="wifi_traffic_priority_regular_summary">Делить полосу пропускания между фоновыми процессами и активным приложением</string>
     <string name="wifi_traffic_priority_summary">Автоматическая настройка приоритетов скорости</string>
+    <string name="wifi_turned_on_message">Wi-Fi включен</string>
     <string name="wifi_type_approval_dialog_title">Номер NTC</string>
     <string name="wifi_type_approval_title">Утверждение типа</string>
     <string name="wifi_unchanged">(без изменений)</string>
@@ -7132,7 +7188,6 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_wps_available_first_item">Поддерживает WPS</string>
     <string name="wifi_wps_available_second_item">" (доступно WPS)"</string>
     <string name="wifi_wps_connected">Подключено к \"%s\"</string>
-    <string name="wifi_wps_nfc_enter_password">Введите пароль для подключения к сети.</string>
     <string name="wifi_wps_onstart_pbc">Нажмите кнопку безопасной настройки Wi-Fi на вашем роутере. Она может называться \"WPS\" или быть отмечена этим символом:</string>
     <string name="wifi_wps_onstart_pin">Введите код %1$s на вашем роутере. Настройка может занять до двух минут.</string>
     <string name="wifi_wps_overlap_error">Обнаружен другой сеанс WPS. Подождите немного и повторите попытку.</string>
@@ -7151,6 +7206,8 @@ UT-интерфейс: %5$s"</string>
     <string name="work_mode_label">Рабочий режим</string>
     <string name="work_mode_summary">Включить рабочий профиль: приложения, фоновую синхронизацию и связанные функции</string>
     <string name="work_notification_ringtone_title">Звук уведомления по умолчанию</string>
+    <string name="work_policy_privacy_settings">Политика конфиденциальности профиля</string>
+    <string name="work_policy_privacy_settings_summary">Настройки под управлением системного администратора</string>	
     <string name="work_profile_confirm_remove_message">Все приложения и данные, находящиеся в этом профиле, будут удалены. Продолжить?</string>
     <string name="work_profile_confirm_remove_title">Удалить рабочий профиль?</string>
     <string name="work_profile_notification_access_blocked_summary">Доступ к уведомлениям в рабочем профиле заблокирован</string>
@@ -7176,7 +7233,6 @@ UT-интерфейс: %5$s"</string>
     <string name="write_settings_summary">Приложения, которые могут изменять системные настройки: %1$d из %2$d</string>
     <string name="write_settings_title">Могут изменять системные настройки</string>
     <string name="write_system_settings">Изменить системные настройки</string>
-    <string name="write_tag">Записать</string>
     <string name="wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи, чтобы разблокировать SIM-карту.</string>
     <string name="xiaomi_account">Mi Аккаунт</string>
     <string name="xiaomi_cloud_find_device">Поиск устройства</string>
@@ -7193,31 +7249,92 @@ UT-интерфейс: %5$s"</string>
     <string name="xiaomi_transfer">Mi Share</string>
     <string name="xspace">Клонирование приложений</string>
     <string name="yes">Да</string>
+    <string name="zen_access_detail_switch">Разрешить доступ к режиму \"Не беспокоить\"</string>
     <string name="zen_access_disabled_package_warning">Должно быть включено, поскольку разрешен доступ к уведомлениям</string>
     <string name="zen_access_empty_text">Установленные приложения не запрашивали доступ к функции \"Не беспокоить\"</string>
     <string name="zen_access_revoke_warning_dialog_summary">Все правила режима \"Не беспокоить\", созданные этим приложением, будут удалены.</string>
     <string name="zen_access_revoke_warning_dialog_title">Отменить доступ к режиму \"Не беспокоить\" для приложения %1$s?</string>
     <string name="zen_access_warning_dialog_summary">Приложение сможет включать и отключать режим \"Не беспокоить\", а также изменять соответствующие настройки.</string>
     <string name="zen_access_warning_dialog_title">Разрешить приложению \"%1$s\" доступ к настройкам режима \"Не беспокоить\"?</string>
+    <string name="zen_calls_summary_contacts_repeat">Контакты и повторные вызовы</string>
+    <string name="zen_calls_summary_repeat_only">Только повторные вызовы</string>
+    <string name="zen_calls_summary_starred_repeat">Избранные контакты и повторные вызовы</string>
+    <string name="zen_category_behavior">Включить режим \"Без звука\", но разрешить исключения</string>
+    <string name="zen_category_exceptions">Исключения</string>
+    <string name="zen_category_schedule">Расписание</string>
+    <string name="zen_custom_settings_dialog_ok">Понятно</string>
+    <string name="zen_custom_settings_dialog_review_schedule">Просмотр расписания</string>
+    <string name="zen_custom_settings_dialog_title">Пользовательские настройки</string>
+    <string name="zen_custom_settings_duration_header">Длительность</string>
+    <string name="zen_custom_settings_notifications_header">Уведомления</string>	
     <string name="zen_event_rule_enabled_toast">Настроено правило включения режима \"Не беспокоить\" во время указанных мероприятий</string>
     <string name="zen_event_rule_type_name">Мероприятие</string>
     <string name="zen_mode_add">Добавить</string>
-    <string name="zen_mode_add_event_rule">Добавить</string>
-    <string name="zen_mode_add_rule">Добавить</string>
+    <string name="zen_mode_add_event_rule">Добавить правило на основе события</string>
+    <string name="zen_mode_add_rule">Добавить правило</string>
+    <string name="zen_mode_add_time_rule">Добавить правило на основе времени</string>
     <string name="zen_mode_alarm_use">Звуки</string>
     <string name="zen_mode_alarms">Будильник</string>
+    <string name="zen_mode_alarms_list">будильники</string>	
     <string name="zen_mode_all_callers">Все абоненты</string>
-    <string name="zen_mode_all_messages">Все сообщения</string>
-    <string name="zen_mode_all_visual_interruptions">Отключено</string>
-    <string name="zen_mode_automation_settings_title">Правила</string>
-    <string name="zen_mode_automation_suggestion_summary">Ограничить уведомления</string>
+    <string name="zen_mode_and_condition">%1$s. %2$s</string>
+    <string name="zen_mode_app_set_behavior">"Эти настройки сейчас изменить нельзя. Приложение %1$s включило режим \"Не беспокоить\" со своими правилами."</string>
+    <string name="zen_mode_automatic_rule_settings_page_title">Расписание</string>
+    <string name="zen_mode_automation_settings_page_title">Расписания</string>
+    <string name="zen_mode_automation_settings_title">Расписания</string>
+    <string name="zen_mode_automation_suggestion_summary">Установить правила для режима \"Не беспокоить\"</string>
     <string name="zen_mode_automation_suggestion_title">Правила режима \"Не беспокоить\"</string>
+    <string name="zen_mode_behavior_alarms_only">Без звука, кроме будильников и медиа</string>
+    <string name="zen_mode_behavior_allow_title">Разрешить звуки и вибрацию от</string>
+    <string name="zen_mode_behavior_no_sound">Без звука</string>
+    <string name="zen_mode_behavior_no_sound_except">Без звука, кроме %1$s</string>
+    <string name="zen_mode_behavior_settings_title">Исключения</string>
+    <string name="zen_mode_behavior_summary_custom">Пользовательские</string>
+    <string name="zen_mode_behavior_total_silence">Полная тишина</string>
+    <string name="zen_mode_block_effect_ambient">Не включать экран для уведомлений</string>
+    <string name="zen_mode_block_effect_badge">Скрыть метки уведомлений на иконках приложений</string>
+    <string name="zen_mode_block_effect_intent">Не включать экран</string>
+    <string name="zen_mode_block_effect_light">Не включать световую индикацию</string>
+    <string name="zen_mode_block_effect_list">Скрыть из штроки уведомлений</string>
+    <string name="zen_mode_block_effect_peek">Не показывать всплывающие уведомления</string>
+    <string name="zen_mode_block_effect_sound">Отключить звук и вибрацию</string>
+    <string name="zen_mode_block_effect_status">Скрыть значки в строке состояния</string>
+    <string name="zen_mode_block_effect_summary_all">Звук, вибрация и световая индикация</string>
+    <string name="zen_mode_block_effect_summary_none">Никогда</string>
+    <string name="zen_mode_block_effect_summary_screen_off">Когда экран отключен</string>
+    <string name="zen_mode_block_effect_summary_screen_on">Когда экран включен</string>
+    <string name="zen_mode_block_effect_summary_some">Звук, вибрация и часть световой индикации</string>
+    <string name="zen_mode_block_effect_summary_sound">Звук и вибрация</string>
+    <string name="zen_mode_block_effects_screen_off">Когда экран отключен</string>
+    <string name="zen_mode_block_effects_screen_on">Когда экран включен</string>
+    <string name="zen_mode_blocked_effects_footer">Уведомления и статусы, необходимые для информирования об основной деятельности телефона, не будут скрываться</string>
+    <string name="zen_mode_button_turn_off">Отключить</string>
+    <string name="zen_mode_button_turn_on">Включить</string>
+    <string name="zen_mode_bypassing_apps">Разрешить приложениям переопределять режим</string>
+    <string name="zen_mode_bypassing_apps_title">Исключения приложений</string>	
     <string name="zen_mode_calls">Вызовы</string>
+    <string name="zen_mode_calls_footer">Чтобы не пропустить нужные вызовы, убедитесь что включен звук или вибрация</string>
+    <string name="zen_mode_calls_summary_one">Разрешить от %1$s</string>
+    <string name="zen_mode_calls_summary_two">Разрешить от %1$s и %2$s</string>
+    <string name="zen_mode_calls_title">Вызовы</string>
     <string name="zen_mode_choose_rule_type">Выберите тип правила</string>
-    <string name="zen_mode_configure_rule">Настроить правило</string>
+    <string name="zen_mode_contacts_callers">контакты</string>
+    <string name="zen_mode_custom_behavior_category_title">Для ‘%1$s’</string>
+    <string name="zen_mode_custom_behavior_summary">Установить особые настройки для этого расписания</string>
+    <string name="zen_mode_custom_behavior_summary_default">Использовать настройки по умолчанию</string>
+    <string name="zen_mode_custom_behavior_title">Настройки режима \"Не беспокоить\"</string>
+    <string name="zen_mode_custom_calls_footer">Входящие вызовы блокируются правилом \"%1$s\". Вы можете изменить настройки, чтобы ваши друзья, семья или другие контакты могли с вами связаться.</string>
+    <string name="zen_mode_custom_messages_footer">Сообщения блокируются правилом \"%1$s\". Вы можете изменить настройки, чтобы ваши друзья, семья или другие контакты могли с вами связаться.</string>
+    <string name="zen_mode_delete_automatic_rules">Удалить расписания</string>
     <string name="zen_mode_delete_rule">Удалить правило</string>
     <string name="zen_mode_delete_rule_button">Удалить</string>
     <string name="zen_mode_delete_rule_confirmation">Удалить правило \"%1$s\"?</string>
+    <string name="zen_mode_duration_always_prompt_title">Всегда спрашивать</string>
+    <string name="zen_mode_duration_settings_title">Длительность</string>
+    <string name="zen_mode_duration_summary_always_prompt">Всегда спрашивать</string>
+    <string name="zen_mode_duration_summary_forever">До отключения</string>
+    <string name="zen_mode_duration_summary_time_minutes">%d мин.</string>
+    <string name="zen_mode_enable_dialog_turn_on">Включить</string>
     <string name="zen_mode_end_time">Время окончания</string>
     <string name="zen_mode_end_time_next_day_summary_format">На следующий день в %s</string>
     <string name="zen_mode_event_rule_calendar">Во время мероприятий</string>
@@ -7229,28 +7346,55 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_event_rule_summary_any_calendar">любого календаря</string>
     <string name="zen_mode_event_rule_summary_calendar_template">Во время мероприятий %1$s</string>
     <string name="zen_mode_event_rule_summary_reply_template">С ответом %1$s</string>
-    <string name="zen_mode_events">Уведомления</string>
+    <string name="zen_mode_events">Мероприятия</string>
+    <string name="zen_mode_events_list">мероприятия</string>
+    <string name="zen_mode_forever">До отключения</string>
     <string name="zen_mode_from_anyone">От кого угодно</string>
     <string name="zen_mode_from_call">"Вызовы от "</string>
     <string name="zen_mode_from_contacts">Только от контактов</string>
     <string name="zen_mode_from_none">Ни от кого</string>
+    <string name="zen_mode_from_none_calls">Запретить все звонки</string>
+    <string name="zen_mode_from_none_messages">Запретить все сообщения</string>	
     <string name="zen_mode_from_sms">"Сообщения от "</string>
     <string name="zen_mode_from_starred">Только от помеченных контактов</string>
     <string name="zen_mode_important_category">Настройки</string>
+    <string name="zen_mode_media">Воспроизведение медиа</string>
+    <string name="zen_mode_media_list">медиа</string>	
     <string name="zen_mode_messages">Сообщения</string>
+    <string name="zen_mode_messages_footer">Чтобы не пропустить нужные сообщения, убедитесь что включен звук или вибрация</string>
+    <string name="zen_mode_messages_title">SMS, MMS и мессенджеры</string>
     <string name="zen_mode_miui_silent_category">Разрешить</string>
-    <string name="zen_mode_no_visual_interruptions">При включенном и отключенном экране</string>
+    <string name="zen_mode_no_exceptions">Нет</string>
     <string name="zen_mode_option_alarms">Только будильник</string>
     <string name="zen_mode_option_important_interruptions">Только важные</string>
     <string name="zen_mode_option_miui_silent">Режим \"Без звука\"</string>
-    <string name="zen_mode_option_miui_vibrate">Не беспокоить</string>
+    <string name="zen_mode_option_miui_vibrate">Режим \"Не беспокоить\"</string>
     <string name="zen_mode_option_no_interruptions">Полная тишина</string>
+   <string name="zen_mode_other_options">другие параметры</string>
     <string name="zen_mode_phone_calls">Вызовы</string>
+    <string name="zen_mode_qs_set_behavior">Эти настройки сейчас изменить нельзя. Режим \"Не беспокоить\" со своими правилами включен вручную .</string>
     <string name="zen_mode_priority_settings_title">Только важные</string>
     <string name="zen_mode_reminders">Напоминания</string>
     <string name="zen_mode_repeat_callers">Повторные вызовы</string>
+    <string name="zen_mode_repeat_callers_list">повторные вызовы</string>
     <string name="zen_mode_repeat_callers_summary">Уведомить о вызове, если абонент звонит повторно в течение %d мин.</string>
     <string name="zen_mode_rule_delete_button">Удалить</string>
+    <string name="zen_mode_restrict_notifications_custom">Пользовательские настройки</string>
+    <string name="zen_mode_restrict_notifications_disable_custom">Удалить пользовательские настройки</string>
+    <string name="zen_mode_restrict_notifications_enable_custom">Включить пользовательские настройки</string>
+    <string name="zen_mode_restrict_notifications_hide">Отключить полностью</string>
+    <string name="zen_mode_restrict_notifications_hide_footer">"Все уведомления, а также звук, вибрация и световая индикация, будут отключены, за исключением критических уведомлений об активности телефона и статусов.
+
+После отключения режима \"Не беспокоить\", пропущенные уведомления можно будет найти в верхней части экрана, проведя пальцем вниз."</string>
+    <string name="zen_mode_restrict_notifications_hide_summary">Уведомления будут полностью отключены</string>
+    <string name="zen_mode_restrict_notifications_mute">Отключить звук</string>
+    <string name="zen_mode_restrict_notifications_mute_footer">Уведомления будут приходить без звука и вибрации.</string>
+    <string name="zen_mode_restrict_notifications_mute_summary">Уведомления будут приходить бесшумно</string>
+    <string name="zen_mode_restrict_notifications_summary_custom">Пользовательские настройки для уведомлений</string>
+    <string name="zen_mode_restrict_notifications_summary_hidden">Отключить индикацию и звук уведомлений</string>
+    <string name="zen_mode_restrict_notifications_summary_muted">Отключить звук уведомлений</string>
+    <string name="zen_mode_restrict_notifications_title">Ограничения уведомлений</string>
+  
     <string name="zen_mode_rule_name">Название правила</string>
     <string name="zen_mode_rule_name_hint">Введите название правила</string>
     <string name="zen_mode_rule_name_warning">Правило с таким названием уже есть</string>
