@@ -44,10 +44,10 @@
   <string name="ad_pop_des">Загрузка приложения:</string>
   <string name="add">Добавить</string>
   <string name="add_cw_fail_tip">"Не удалось добавить обои"</string>
-  <string name="add_cw_success_tip">Обои успешно добавлены</string>
+  <string name="add_cw_success_tip">Обои добавлены</string>
   <string name="add_first_cw_toast1">Успешно добавлено. Включение Карусели обоев и запуск слайд-шоу.</string>
-  <string name="add_first_cw_toast2">Несколько изображений успешно добавлено. Включение Карусели обоев и запуск слайд-шоу.</string>
-  <string name="add_first_cw_toast3">Обои успешно добавлены. Включение Карусели обоев и запуск слайд-шоу.</string>
+  <string name="add_first_cw_toast2">Изображения добавлены. Включение Карусели обоев и запуск слайд-шоу.</string>
+  <string name="add_first_cw_toast3">Обои добавлены. Включение Карусели обоев и запуск слайд-шоу.</string>
   <string name="add_first_cw_toast4">Включение Карусели обоев и запуск слайд-шоу</string>
   <string name="add_launch_hint_text">Добавить ярлык на рабочий стол</string>
   <string name="add_local_picture">Галерея</string>
@@ -83,6 +83,7 @@
   <string name="carousel_declaration_des2">Добавляйте свои изображения в Карусель обоев</string>
   <string name="carousel_declaration_des_new">Обновляемые обои и истории для экрана блокировки и рабочего стола</string>
   <string name="carousel_declaration_title">Подписка</string>
+  <string name="delete_pic">Удалить</string>
   <string name="carousel_declaration_title_new">Новые обои ежедневно</string>
   <string name="carousel_suggest">Внимание</string>
   <string name="carousel_suggest1">Получайте каждый день бесплатно новые обои прямо на экран блокировки.</string>
@@ -127,7 +128,7 @@
   <string name="cw_all_folder">Недавние</string>
   <string name="cw_batch_all_added_tip">"Нельзя добавить изображения, которые уже есть."</string>
   <string name="cw_batch_part_tip_fail">Добавлены не все изображения</string>
-  <string name="cw_batch_part_tip_success">Успешно добавлено. Некоторые изображения уже добавлены раньше.</string>
+  <string name="cw_batch_part_tip_success">Изображения добавлены. Некоторые изображения уже добавлены раньше.</string>
   <string name="cw_batch_tip_success">Успешно добавлено</string>
   <string name="cw_del_tip_fail">"Ошибка удаления"</string>
   <string name="cw_del_tip_success">Успешно удалено</string>
@@ -138,14 +139,14 @@
   <string name="cw_my_fav">Избранные</string>
   <string name="cw_permission_tip">Разрешите Карусели обоев доступ к памяти в Разрешениях приложений.</string>
   <string name="cw_wallpaper_empty_dlg_btn">ОК</string>
-  <string name="cw_wallpaper_empty_dlg_content">Обои отсутствуют в слайд-шоу. Будут включены Истории.</string>
+  <string name="cw_wallpaper_empty_dlg_content">Изображения отсутствуют в слайд-шоу. Будут включены Истории.</string>
   <string name="cw_wallpaper_empty_dlg_title">Переключение режима</string>
   <string name="cw_wallpaper_manager">Выбор категорий</string>
   <string name="day">Каждый день</string>
   <string name="declaration">Получайте каждый день бесплатно новые обои прямо на экран блокировки.</string>
   <string name="declaration_lockscreen_title">Получайте ежедневно новые обои на экран блокировки</string>
   <string name="declaration_title">Условия и положения</string>
-  <string name="deny_des">Карусели обоев необходим доступ к Галерее для нормальной работы.</string>
+  <string name="deny_des">Приложению необходим доступ к Галерее для нормальной работы.</string>
   <string name="detail_ad_type_ad">Объявления</string>
   <string name="detail_ad_type_video">Популярные видео</string>
   <string name="detail_add_cw">Добавить обои</string>
@@ -172,7 +173,7 @@
   <string name="detail_toast_deny_dislike">"Ошибка удаления"</string>
   <string name="detail_toast_deny_favor">"Ошибка добавления в избранные"</string>
   <string name="detail_toast_dislike_fail">"Не удалось удалить"</string>
-  <string name="detail_toast_favor_permission">Разрешите Карусели обоев доступ к памяти в Безопасность.</string>
+  <string name="detail_toast_favor_permission">Разрешите приложению доступ к памяти</string>
   <string name="disable_dlg_cancel">Отмена</string>
   <string name="disable_dlg_content">Вы больше не сможете получать свежие обои на рабочий стол и экран блокировки, если отключите Карусель обоев. Отключить?</string>
   <string name="disable_dlg_ok">Отключить</string>
@@ -194,7 +195,7 @@
   <string name="feed_article_entrance_about">О \"%s\"</string>
   <string name="find_psw">Забыли пароль</string>
   <string name="from_migallerylockscreen">Из Mi Карусель обоев</string>
-  <string name="get_account_no_permission">Разрешить Карусели обоев доступ к учетным записям на устройстве перед входом в систему.</string>
+  <string name="get_account_no_permission">Разрешите приложению доступ к учетным записям на устройстве перед входом в систему.</string>
   <string name="get_ph_ticket">Получить код</string>
   <string name="goto_sign_up">Создать аккаунт</string>
   <string name="history_list_no_data">Ничего нет</string>
@@ -209,7 +210,7 @@
   <string name="idbct_title">Качество обоев</string>
   <string name="isornot_your_mi_account">Это ваш Mi Аккаунт?</string>
   <string name="later">Не выключать</string>
-  <string name="launch_bg_permission_exception">Разрешите Карусели обоев отображение всплывающих окон в фоновом режиме в Безопасности</string>
+  <string name="launch_bg_permission_exception">Разрешите приложению всплывающие окна в фоновом режиме</string>
   <string name="like">Добавить в избранные</string>
   <string name="liked">Добавлено в избранные</string>
   <string name="lks_left_net_deny">Сетевое подключение ограничено</string>
@@ -221,7 +222,7 @@
   <string name="llks_add_cate">Подписаться на %s</string>
   <string name="llks_auto_switch_wp">Подпишитесь на понравившиеся категории</string>
   <string name="llks_display_error">Требуются разрешения</string>
-  <string name="llks_display_error_des">Разрешите Карусели обоев отображение на экране блокировки в Настройках.</string>
+  <string name="llks_display_error_des">Разрешите приложению отображение на экране блокировки</string>
   <string name="llks_learn_more_cate">Дополнительные категории</string>
   <string name="llks_pop_btm_des">Начните день с улыбки</string>
   <string name="llks_pop_btm_des_backup">Хорошего начала дня</string>
@@ -242,9 +243,9 @@
   <string name="llks_tools_gallery_name">Карусель обоев</string>
   <string name="llks_try_it">Попробовать</string>
   <string name="llks_whole_cate">Все категории</string>
-  <string name="load_hdpicture_complete">Исходное изображение успешно загружено</string>
+  <string name="load_hdpicture_complete">Исходное изображение загружено</string>
   <string name="local_default_category">По умолчанию</string>
-  <string name="lock_show_permission_exception">Произошла ошибка. Разрешите Карусели обоев отображение на экране блокировки в Безопасности.</string>
+  <string name="lock_show_permission_exception">Произошла ошибка. Разрешите приложению отображение на экране блокировки.</string>
   <string name="loading">Подождите…</string>
   <string name="lock_screen_date">EEEE, MMMM d</string>
   <string name="lock_screen_date_12">EEEE, MMMM d</string>
@@ -262,6 +263,7 @@
   <string name="main_fragment_title_user">Настройки</string>
   <string name="manage">Управление</string>
   <string name="minutes_15">Каждые 15 минут</string>
+  <string name="minutes_5">Каждые 5 минут</string>
   <string name="mode_auto_desc">Включите Карусель обоев для автоматического получения новых изображений</string>
   <string name="mode_auto_desc_open">Автоматически получать новые изображения</string>
   <string name="mode_auto_desc_selected">Автоматическое получение новых изображений</string>
@@ -298,7 +300,7 @@
   <string name="open_freq_title">Частота обновления</string>
   <string name="open_gallery">Карусель обоев</string>
   <string name="open_gallery_tips">Нажмите, чтобы включить Карусель обоев</string>
-  <string name="open_guid_des">Перейдите в Настройки &gt; Разрешения &gt; Другие разрешения &gt; Карусель обоев и дайте приложению все необходимые разрешения.</string>
+  <string name="open_guid_des">Перейдите в Настройки &gt; Приложения &gt; Разрешения &gt; Другие разрешения &gt; Карусель обоев и дайте приложению все необходимые разрешения.</string>
   <string name="open_sub_title">Выберите категории</string>
   <string name="open_title">Карусель обоев</string>
   <string name="open_unable">"Карусель обоев работает только со стандартным экраном блокировки MIUI."</string>
@@ -373,7 +375,7 @@
   <string name="save_hdpicture_in_favor">Просмотр HD изображений в \"Избранном\"</string>
   <string name="save_picture_success">Успешно сохранено</string>
   <string name="save_to_album">Сохранено в Галерее</string>
-  <string name="save_to_album_fail">"Не удалось сохранить"</string>
+  <string name="save_to_album_fail">Не удалось сохранить</string>
   <string name="scribe_btn_ok">Включить</string>
   <string name="scribe_title1">Включить Карусель обоев</string>
   <string name="search">Поиск</string>
@@ -383,6 +385,7 @@
   <string name="see_more">Посмотреть еще</string>
   <string name="see_more_content">Посмотреть еще</string>
   <string name="select_package">Выберите версию</string>
+  <string name="select_photo_album">Выберите альбом</string>
   <string name="select_picture">Выбор изображений</string>
   <string name="select_picture_des">Добавьте свои фотографии и онлайн-изображения для отображения в слайд-шоу.</string>
   <string name="setting_about_item_des">Версия</string>
@@ -405,10 +408,10 @@
   <string name="shield_tag_list_title">Заблокированные</string>
   <string name="shield_tag_select_title">Заблокированные</string>
   <string name="shortcut_ask">Разрешить создание ярлыков в Безопасность</string>
-  <string name="shortcut_created">Ярлык успешно создан</string>
+  <string name="shortcut_created">Ярлык  создан</string>
   <string name="shortcut_exist">Ярлык уже существует</string>
   <string name="shortcut_failed">Не удалось создать ярлык</string>
-  <string name="show_wallpaper_loop_entry_title">Слайд-шоу рабочего стола</string>
+  <string name="show_wallpaper_loop_entry_title">Настройки слайд-шоу</string>
   <string name="sign_in_title">Войти с помощью Mi Аккаунт</string>
   <string name="sliding_on_unlock">Свайп вверх для разблокировки</string>
   <string name="sns_sign_in">Другой способ входа</string>
@@ -485,6 +488,7 @@
   <string name="subscribe_free">Подписаться</string>
   <string name="subscribe_item_checked">В подписках</string>
   <string name="subscribe_item_unchecked">Без подписки</string>
+  <string name="subscribe_success_content_per_5_minutes">Обновлять каждые 5 минут</string>
   <string name="subscribe_success_content_per_day">Обновлять каждый день</string>
   <string name="subscribe_success_content_per_hour">Обновлять каждый час</string>
   <string name="subscribe_success_content_per_quarter">Обновлять каждые 15 минут</string>
@@ -519,6 +523,8 @@
   <string name="toast_ad_down_tip">Загрузка приложения…</string>
   <string name="toast_ad_down_tip2">Загрузка %s…</string>
   <string name="toast_connect_failed_tip">Не удалось подключиться. Повторите попытку позже.</string>
+  <string name="toast_has_close_gallery">Карусель обоев отключена</string>
+  <string name="toast_has_open_gallery">Карусель обоев включена</string>  
   <string name="toast_load_failed_tip">Не удалось загрузить</string>
   <string name="toast_load_hd_fail">"Не удалось загрузить исходное изображение"</string>
   <string name="toast_neterror_tip">Ошибка сети</string>
