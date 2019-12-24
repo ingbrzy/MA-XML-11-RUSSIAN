@@ -42,6 +42,12 @@
     <item quantity="few">%d года назад</item>
     <item quantity="many">%d лет назад</item>
   </plurals>
+  <plurals name="applock_guide_app_count_tips">
+     <item quantity="other">Можно защитить %s приложений</item>
+     <item quantity="one">Можно защитить %s приложение</item>
+     <item quantity="few">Можно защитить %s приложения</item>
+     <item quantity="many">Можно защитить %s приложений</item>
+ </plurals> 
   <plurals name="bg_network_allow_count">
     <item quantity="other">%d приложений с подключением к сети в фоне</item>
     <item quantity="one">%d приложение с подключением к сети в фоне</item>
@@ -164,6 +170,10 @@
     <item quantity="few">Играют %1$d человека</item>
     <item quantity="many">Играют %1$d человек</item>
   </plurals>
+  <plurals name="gb_record_time_title">
+     <item quantity="other">%d сек.</item>
+     <item quantity="one">%d сек.</item>
+ </plurals> 
   <plurals name="gb_signed_days_sum">
     <item quantity="other">Отметились %d дней подряд</item>
     <item quantity="one">Отметились %d раз</item>
@@ -710,6 +720,12 @@
     <item quantity="few">Не добавлено %d игры</item>
     <item quantity="many">Не добавлено %d игр</item>
   </plurals>
+  <plurals name="videobox_settings_manager_apps_count">
+     <item quantity="other">%d приложений</item>
+     <item quantity="one">%d приложение</item>
+     <item quantity="few">%d приложения</item>
+     <item quantity="many">%d приложений</item>
+  </plurals> 
   <plurals name="view_num">
     <item quantity="other">%1$d просмотров</item>
     <item quantity="one">%1$d просмотр</item>
