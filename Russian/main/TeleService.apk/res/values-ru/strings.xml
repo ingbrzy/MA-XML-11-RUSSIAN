@@ -1150,7 +1150,11 @@
   <string name="privacy_policy_title">Политика конфиденциальности</string>
   <string name="private_num">Скрытый номер</string>
   <string name="progress_dialog_exiting_ecm">Выход из режима экстренных обратных вызовов</string>
+  <string name="prompt_to_suggest_no_call_service_notification_content">Вызовы не поддерживаются. Услуга VoLTE отключена для вашей SIM (China Telecom).</string>
+  <string name="prompt_to_suggest_no_call_service_notification_content2">Вызовы не поддерживаются. Услуга VoLTE отключена для вашей SIM %d (China Telecom).</string>
+  <string name="prompt_to_suggest_no_call_service_notification_title">Вызовы не поддерживаются</string>
   <string name="prompt_to_suggest_to_open_volte_from_operator">Не удается осуществить вызов. Свяжитесь с China Telecom, чтобы включить услугу VoLTE.</string>
+  <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM %d не поддерживает вызовы. Свяжитесь с China Telecom, чтобы включить услугу VoLTE."</string>
   <string name="prompt_to_turnoff_volte_when_failed">Услуги VoLTE недоступны. Для совершения вызова отключите VoLTE.</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">Услуга недоступна. Отключите VoLTE в Настройках.</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Перед включением VoLTE выберите LTE в качестве предпочтительного типа сети.</string>
