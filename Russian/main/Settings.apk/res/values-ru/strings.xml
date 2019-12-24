@@ -7037,7 +7037,6 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_security_short_eap_wpa">WPA-EAP</string>
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>	
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
     <string name="wifi_security_short_sae">WPA3</string>
     <string name="wifi_security_short_wep">WEP</string>
