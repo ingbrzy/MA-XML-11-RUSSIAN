@@ -404,6 +404,7 @@
     <string name="shortcut_settings">Настройки</string>
     <string name="show_day_view">Показать день</string>
     <string name="solar_lunar_convert_description">Григорианский в традиционный китайский</string>
+    <string name="solar_lunar_convert_description_2">Переключение между традиционным китайским и григорианским календарями</string>	
     <string name="solar_to_lunar_chinese_calendar">Григорианский в китайский</string>
     <string name="solar_lunar_convert_tab">Конвертировать</string>
     <string name="start_date_calculate">Рассчитать</string>
