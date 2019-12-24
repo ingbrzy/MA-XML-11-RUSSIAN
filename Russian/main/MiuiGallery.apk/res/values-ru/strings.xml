@@ -250,6 +250,7 @@
   <string name="byteShort">Б</string>
   <string name="camera_needs_auto_backup_tip">Синхронизируйте альбом Камера</string>
   <string name="can_authorize_owner_albums_share_to_tv">Авторизуйтесь для просмотра альбомов на телевизоре</string>
+  <string name="can_not_transfer_when_screening">Трансляция во время передачи не поддерживается</string>
   <string name="cancel">Отмена</string>
   <string name="cancel_authorize_to_device_failed">Не удалось отменить авторизацию</string>
   <string name="cancel_authorize_watch_on_tv_failed">Не удалось отменить авторизацию</string>
@@ -489,6 +490,7 @@
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">Вы можете выбрать качество загруженных изображений или отключить автоматическую загрузку в Настройках.</string>
   <string name="downloading_title">Загрузка фото из Xiaomi Cloud</string>
+  <string name="dump_db_info">Дамп информации базы данных</string>
   <string name="edit_baby_info">Показать информацию</string>
   <string name="editor_cancel">Отмена</string>
   <string name="editor_export">Сохранить</string>
@@ -680,6 +682,7 @@
   <string name="filter_people_sepia">Сепия</string>
   <string name="filter_people_story">История</string>
   <string name="filter_people_tea">Чай</string>
+  <string name="filter_portrait_hint">Color Pop</string>
   <string name="filter_scene_city">Город</string>
   <string name="filter_scene_df">Туман</string>
   <string name="filter_scene_koizora">Любовь</string>
@@ -1079,6 +1082,11 @@
   <string name="photo_movie_select_image_range">Клипы могут содержать от 3 до 20 фото</string>
   <string name="photo_page_save_uri_image_fail">Не удалось сохранить в Галерее</string>
   <string name="photo_page_save_uri_image_ok">Фото сохранено в Галерее</string>
+   <string name="photo_portrait_color_download_fail">Не удалось загрузить плагин. Подключитесь к сети и повторите попытку.</string>
+  <string name="photo_portrait_color_download_success">Фильтры загружены</string>
+  <string name="photo_portrait_color_no_face">Фильтр \"Color Pop\" работает только на фотографиях с людьми</string>
+  <string name="photo_portrait_download_sdk_without_wifi_msg">Подключение к Wi-Fi отсутствует. Для загрузки фильтров (%1$d Мб) будет использоваться мобильный интернет.</string>
+  <string name="photo_portrait_download_sdk_without_wifi_title">Загрузка фильтров</string> 
   <string name="photo_print_menu_loading">Загрузка плагина…</string>
   <string name="photo_print_package_finish">Плагин Печать успешно загружен</string>
   <string name="photo_print_package_installing">Загрузка плагина Печать…</string>
@@ -1326,6 +1334,8 @@
   <string name="select_origin_tip">Оригинал (%s)</string>
   <string name="send_file_beautify_failed">Не удалось отправить</string>
   <string name="send_files_to">Отправить</string>
+  <string name="send_heif_summary">Преобразование изображений перед отправкой для совместимости</string>
+  <string name="send_heif_title">Преобразование HEIF в JPG</string>  
   <string name="send_multiple_files_hint_format">Отправить (%s)</string>
   <string name="send_public_url">Отправить ссылку на альбом</string>
   <string name="send_secret_file_failed">Не удалось отправить</string>
@@ -1512,6 +1522,10 @@
   <string name="unsupport_raw">%s не работает с RAW изображениями</string>
   <string name="unsupport_raw_and_video">%s не работает с видео и RAW изображениями</string>
   <string name="unsupport_video">%s не работает с видео</string>
+  <string name="unsupported_media_downloading_tip_common">Просмотр оригинальных изображений в этом формате не поддерживается в этой версии Android. Все равно загрузить?</string>
+  <string name="unsupported_media_downloading_tip_format">Просмотр оригинальных %s изображений не поддерживается в этой версии Android. Все равно загрузить?</string>
+  <string name="unsupported_media_scanned_tip">Найдены изображения: %1$s. Просмотр %2$s изображений не поддерживается в этой версии Android</string>
+  <string name="unsupported_media_view_tip">Просмотр оригинальных %s изображений не поддерживается в этой версии Android</string>
   <string name="user_agree">Согласен</string>
   <string name="user_agreement2">Условия использования</string>
   <string name="user_agreement4">Политика конфиденциальности</string>

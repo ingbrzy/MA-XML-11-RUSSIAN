@@ -373,6 +373,10 @@
     <item quantity="few">%d дня</item>
     <item quantity="many">%d дней</item>
   </plurals>
+  <plurals name="photo_remain_hours">
+     <item quantity="other">%d ч.</item>
+     <item quantity="one">%d ч.</item>
+  </plurals> 
   <plurals name="picker_all_image_need_download">
     <item quantity="other">Выбранных фото нет на устройстве. Загрузить через мобильный интернет?</item>
     <item quantity="one">Выбранных фото нет на устройстве. Загрузить через мобильный интернет?</item>
