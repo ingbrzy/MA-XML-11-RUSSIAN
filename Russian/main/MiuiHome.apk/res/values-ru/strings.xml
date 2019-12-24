@@ -101,6 +101,8 @@
     <string name="aqi_quality_index_moderate">Приемлемый</string>
     <string name="aqi_quality_index_unhealthy">Нездоровый</string>
     <string name="backup_fail">Сбой резервного копирования</string>
+    <string name="auto_delete_category_dialog_content">Категория и связанные с ней приложения будут удалены. Удалить?</string>
+    <string name="auto_delete_category_dialog_title">Удаление категорий</string>	
     <string name="bad_wallpaper_source_prompt">Не удалось загрузить обои</string>
     <string name="buffering">Буферизация…</string>
     <string name="cancel_action">Отмена</string>
@@ -137,7 +139,8 @@
     <string name="default_folder_title_game">Игры</string>
     <string name="default_folder_title_meitu">Meitu приложения</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
-    <string name="default_folder_title_recommend">Другие</string>
+    <string name="default_folder_title_other_apps">Другие</string>
+    <string name="default_folder_title_recommend">Еще</string>
     <string name="default_folder_title_security">Система</string>
     <string name="default_folder_title_services">Сервисы</string>
     <string name="default_folder_title_telcel">Telcel</string>
@@ -403,7 +406,6 @@
     <string name="status_paused">Пауза</string>
     <string name="status_pending">Ожидание</string>
     <string name="system_shortcuts_more_operation">О приложении</string>
-	<string name="system_shortcuts_remove">Удалить</string>
     <string name="system_text">По умолчанию</string>
     <string name="title_jeejen">Рабочий стол для пожилых</string>
     <string name="title_select_live_folder">Выберите папку</string>
