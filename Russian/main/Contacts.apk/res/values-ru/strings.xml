@@ -796,7 +796,7 @@
     <string name="option_send_to_others">Отправить…</string>
     <string name="option_view_contact">Просмотреть</string>
     <string name="option_view_group">Просмотреть</string>
-    <string name="organizationLabelsGroup">Организация</string>
+    <string name="organizationLabelsGroup">Должность</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="other_contacts">Другие</string>
     <string name="other_phone">Другие устройства</string>

@@ -132,23 +132,11 @@
         <item quantity="few">(%1$d)</item>
         <item quantity="many">(%1$d)</item>
     </plurals>
-    <plurals name="listFoundAllContacts">
-        <item quantity="other">Найдено: %d</item>
-        <item quantity="one">Найдено: %d</item>
-        <item quantity="few">Найдено: %d</item>
-        <item quantity="many">Найдено: %d</item>
-    </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d контактов</item>
         <item quantity="one">%d контакт</item>
         <item quantity="few">%d контакта</item>
         <item quantity="many">%d контактов</item>
-    </plurals>
-    <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d контактов с номером телефона</item>
-        <item quantity="one">%d контакт с номером телефона</item>
-        <item quantity="few">%d контакта с номером телефона</item>
-        <item quantity="many">%d контактов с номером телефона</item>
     </plurals>
     <plurals name="merge_contact_message_plurals">
         <item quantity="other">%1$d контактов с частично идентичными данными</item>
@@ -161,12 +149,6 @@
         <item quantity="one">не объединен</item>
         <item quantity="few">объединен из %0$d источников</item>
         <item quantity="many">объединен из %0$d источников</item>
-    </plurals>
-    <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d голосовых сообщений</item>
-        <item quantity="one">%1$d голосовое сообщение</item>
-        <item quantity="few">%1$d голосовых сообщения</item>
-        <item quantity="many">%1$d голосовых сообщений</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">Выбрано: %1$d</item>

@@ -75,7 +75,8 @@
   <string name="app_category_video">Видео</string>
   <string name="app_info">О приложении</string>
   <string name="app_not_found">Невозможно обработать это действие</string>
-  <string name="app_running_notification_text">Нажмите, чтобы получить дополнительные данные или выключить приложение.</string>
+  <string name="app_running_notification_text">Нажмите, чтобы получить дополнительные сведения или выключить приложение.</string>
+  <string name="app_running_notification_tip_text">Это может замедлить работу устройства и разрядить аккумулятор. Нажмите для выхода из приложения.</string>
   <string name="app_running_notification_title">Приложение \"%1$s\" выполняется</string>
   <string name="app_upgrading_toast">Обновление приложения \"%1$s\"…</string>
   <string name="autofill">Автозаполнение</string>
