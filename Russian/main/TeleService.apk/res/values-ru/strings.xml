@@ -644,7 +644,10 @@
   <string name="fiveg_plmn_info_list1">Информация PLMN :</string>
   <string name="fiveg_power_secret_code_tip">управление через приложение Безопасность > Батарея > Энергосбережение для 5G</string>
   <string name="fiveg_restrict_dcnr1">Ограничение DCNR :</string>
-  <string name="fiveg_sa_switch_title">SA сеть</string>
+  <string name="fiveg_sa_switch_open_dialog_content">Соединение 5G может быть нестабильным в автономном режиме, что может повлиять на работу служб телефонии. Включить SA режим?</string>
+  <string name="fiveg_sa_switch_open_dialog_title">Внимание</string>
+  <string name="fiveg_sa_switch_summary">Разрешить подключение к сетям 5G в автономном режиме</string>
+  <string name="fiveg_sa_switch_title">SA режим</string>
   <string name="fiveg_signal_strength1">Сила сигнала 5G :</string>
   <string name="fiveg_switch_status1">Состояние переключателя 5G :</string>
   <string name="fiveg_switch_title">5G сеть</string>
