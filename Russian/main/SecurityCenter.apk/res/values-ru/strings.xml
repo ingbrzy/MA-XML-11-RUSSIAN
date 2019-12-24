@@ -1718,7 +1718,7 @@
   <string name="operator_number_unicom">10010</string>
   <string name="optimize_manage_title">Ускорение</string>
   <string name="optimize_result_available_memory_info">Доступная память</string>
-  <string name="optimize_result_button_cloudspace">Добавить место в Mi Cloud</string>
+  <string name="optimize_result_button_cloudspace">Получить больше места в облачном хранилище</string>
   <string name="optimize_result_button_consume_power_analysis">Посмотреть</string>
   <string name="optimize_result_button_cooldown_now">Перейти</string>
   <string name="optimize_result_button_correct_now">Корректировать</string>
