@@ -1132,7 +1132,7 @@
     <string name="bootloader_device_bind_server_token_expired_1">Ошибка проверки. Свяжите аккаунт с устройством повторно.</string>
     <string name="bootloader_device_bind_server_token_expired_2">Ошибка проверки. Войдите в аккаунт повторно и начните заново.</string>
     <string name="bootloader_device_bind_sim_invalid">SIM-карта недействительна. Замените её и повторите попытку.</string>
-    <string name="bootloader_locked_answer_1">Мы блокируем загрузчик для защиты устройства и вашей личной информации. Если вам необходимо войти в режим FastBoot и прошить устройство, вы можете разблокировать его.</string>
+    <string name="bootloader_locked_answer_1">Мы блокируем загрузчик для защиты устройства и вашей личной информации. Если вам необходимо войти в режим FastBoot и прошить устройство, сначала разблокируйте его.</string>
     <string name="bootloader_locked_answer_1_warning">Помните: Вы не сможете использовать \"Поиск устройства\" после разблокировки.</string>
     <string name="bootloader_locked_answer_2">"1. Убедитесь, что в устройство уже вставлена SIM-карта.
 2.Отключите Wi-Fi и включите мобильный интернет. Убедитесь, что ваше устройство может подключаться к интернету.
@@ -1359,10 +1359,12 @@
     <string name="close_demo_mode">Отмена</string>
     <string name="close_fod">Вы не сможете разблокировать устройство с помощью отпечатка пальца, когда экран выключен. Разблокировка отпечатком будет работать только при включенном экране.</string>
     <string name="close_fod_aod">Вы не сможете разблокировать устройство с помощью отпечатка пальца, когда экран выключен. Режим \"Экран всегда активен\" также будет недоступен. Разблокировка отпечатком будет работать только при включенном экране.</string>
+    <string name="close_hotspot_hint">Отключите точку доступа перед трансляцией</string>
     <string name="close_miui_optimization_title">Отключение оптимизации MIUI</string>
     <string name="close_optimization_message">Отключение этой функции может повлиять на разметку текста, аккаунты и другие компоненты MIUI.</string>
     <string name="close_optimization_option">Отключить</string>
     <string name="close_privacy_thumbnail_blur_title">"Приложения без размытия"</string>
+    <string name="close_slave_wifi_hint">Отключитесь от вспомогательных сетей Wi-Fi перед трансляцией</string>
     <string name="cloud_backup_section_title">Резервное копирование в Xiaomi Cloud</string>
     <string name="cloud_backup_settings_section_title">Настройки резервного копирования</string>
     <string name="cloud_restore_section_summary">Восстановление настроек системы, раскладки рабочего стола и приложений</string>
@@ -6466,6 +6468,7 @@ UT-интерфейс: %5$s"</string>
     <string name="vibrate_title">Вибрация</string>
     <string name="vibrate_when_ringing_title">Вибрация при вызове</string>
     <string name="video_calling_settings_title">Настройки видеовызова</string>
+    <string name="video_tool_box_title">Панель инструментов видео</string>
     <string name="vip_list">Разрешить входящие вызовы</string>
     <string name="virtual_keyboard_category">Виртуальная клавиатура</string>
     <string name="virtual_keyboards_for_work_title">Виртуальная клавиатура</string>
