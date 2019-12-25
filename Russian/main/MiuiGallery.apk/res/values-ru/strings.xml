@@ -1407,7 +1407,7 @@
   <string name="special_type_8k">AI 8K</string>
   <string name="special_type_eye_repair">Исправление закрытых глаз при помощи AI</string>
   <string name="special_type_hdr">HDR</string>
-  <string name="special_type_log">ЖУРНАЛ</string>
+  <string name="special_type_log">LOG</string>
   <string name="special_type_night_beauty">AI портрет при изкой освещенности</string>
   <string name="special_type_night_mode">AI ночной режим</string>
   <string name="special_type_portrait">AI портретная светопись</string>
