@@ -303,6 +303,17 @@
 для размытия фона на ваших фото"</string>
   <string name="portrait_bokeh_text">Режим \"Портрет\"</string>
   <string name="portrait_bokeh_tips">Разместите объект в пределах 1.5 метров</string>
+  <string name="portrait_india_effect_entry_memory">Память</string>
+  <string name="portrait_india_effect_entry_mono">Моно</string>
+  <string name="portrait_india_effect_entry_pink">Румянец</string>
+  <string name="portrait_india_effect_entry_portrait">Портрет</string>
+  <string name="portrait_india_effect_entry_retro">Ретро</string>
+  <string name="portrait_india_effect_entry_romantic">Романтика</string>
+  <string name="portrait_india_effect_entry_strong">Сильный</string>
+  <string name="portrait_india_effect_entry_sunny">Солнечный</string>
+  <string name="portrait_india_effect_entry_sweet">Сладкий</string>
+  <string name="portrait_india_effect_entry_warm">Теплый</string>
+  <string name="portrait_india_effect_entry_young">Молодой</string>
   <string name="portrait_mode_depth_effect_success_hint">Эффект глубины</string>
   <string name="portrait_mode_lowlight_hint">Сейчас слишком темно</string>
   <string name="portrait_mode_too_close_hint">Отойдите дальше от объекта</string>
@@ -312,6 +323,7 @@
   <string name="portrait_mode_use_hint_for_bokeh">"Попробуйте режим \"Портрет\".
 Держите объект в фокусе, размывая фон."</string>
   <string name="pref_960_watermark_title">Водяной знак 960FPS</string>
+  <string name="pref_advance_settings">Дополнительные настройки</string>
   <string name="pref_ai_detect">Обнаружение AI</string>
   <string name="pref_audio_focus_entry_front">Передний</string>
   <string name="pref_audio_focus_entry_general">Нормальный</string>
@@ -342,11 +354,12 @@
   <string name="pref_camera_beautify_entry_normal">Средний</string>
   <string name="pref_camera_beauty">Улучшение</string>
   <string name="pref_camera_beauty_deep">Улучшение Pro</string>
+  <string name="pref_camera_coloreffect_default">Нет</string>
   <string name="pref_camera_coloreffect_entry_aqua" />
   <string name="pref_camera_coloreffect_entry_big_face">Расширить</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">Ч/Б</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Рыбий глаз</string>
-  <string name="pref_camera_coloreffect_entry_instagram_clarendon">Сочный</string>
+  <string name="pref_camera_coloreffect_entry_instagram_clarendon">Color Pop</string>
   <string name="pref_camera_coloreffect_entry_instagram_crema">Пастораль</string>
   <string name="pref_camera_coloreffect_entry_instagram_hudson">Лед</string>
   <string name="pref_camera_coloreffect_entry_instagram_rise">Ломо</string>
@@ -378,6 +391,7 @@
   <string name="pref_camera_exposuretime_entry_0_5">0.5 с</string>
   <string name="pref_camera_exposuretime_entry_0_6">0.6 с</string>
   <string name="pref_camera_exposuretime_entry_0_8">0.8 с</string>
+  <string name="pref_camera_exposuretime_entry_1">1 с</string>
   <string name="pref_camera_exposuretime_entry_10">1/10 с</string>
   <string name="pref_camera_exposuretime_entry_100">1/100 с</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000 с</string>
@@ -391,9 +405,11 @@
   <string name="pref_camera_exposuretime_entry_160">1/160 с</string>
   <string name="pref_camera_exposuretime_entry_1600">1/1600 с</string>
   <string name="pref_camera_exposuretime_entry_16s">16 с</string>
+  <string name="pref_camera_exposuretime_entry_1_2">1/2 с</string>
   <string name="pref_camera_exposuretime_entry_1_3">1.3 с</string>
   <string name="pref_camera_exposuretime_entry_1_6">1.6 с</string>
   <string name="pref_camera_exposuretime_entry_1s">1 с</string>
+  <string name="pref_camera_exposuretime_entry_2">1/2 с</string>
   <string name="pref_camera_exposuretime_entry_20">1/20 с</string>
   <string name="pref_camera_exposuretime_entry_200">1/200 с</string>
   <string name="pref_camera_exposuretime_entry_2000">1/2000 с</string>
@@ -816,10 +832,19 @@
   <string name="video_camera_label">Видеокамера</string>
   <string name="video_effect_entry_blackwhite">Ч/Б</string>
   <string name="video_effect_entry_bygone">Ретро</string>
+  <string name="video_effect_entry_central">Центр</string>
+  <string name="video_effect_entry_color_retention">Color Pop</string>
+  <string name="video_effect_entry_fantasy">Фантазия</string>
   <string name="video_effect_entry_film">Пленка</string>
   <string name="video_effect_entry_forest">Лес</string>
   <string name="video_effect_entry_holiday">Отражения</string>
+  <string name="video_effect_entry_lost">Потеря</string>
+  <string name="video_effect_entry_meet">Встреча</string>
+  <string name="video_effect_entry_northern_europe">Север</string>
   <string name="video_effect_entry_polaroid">Полароид</string>
+  <string name="video_effect_entry_rome">Рим</string>
+  <string name="video_effect_entry_summer_day">Лето</string>
+  <string name="video_effect_entry_wind_sing">Бриз</string> 
   <string name="video_reach_size_limit">Достигнут максимальный размер видео</string>
   <string name="video_tag_flag_title">Метка</string>
   <string name="view_privacy_policy">Политика конфиденциальности</string>
