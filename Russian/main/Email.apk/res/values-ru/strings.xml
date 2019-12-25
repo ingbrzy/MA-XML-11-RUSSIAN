@@ -54,6 +54,7 @@
     <string name="account_settings_retry_summary">Нажмите для синхронизации аккаунта</string>
     <string name="account_settings_ringtone">Звук уведомлений</string>
     <string name="account_settings_servers">Настройки сервера</string>
+    <string name="account_settings_smime_title">S/MIME(Расширения Secure/Multipurpose Internet Mail)</string>
     <string name="account_settings_summary">Частота синхронизации, уведомления и прочее.</string>
     <string name="account_settings_sync_calendar_enable">Синхронизировать календарь</string>
     <string name="account_settings_sync_calendar_summary">Синхронизировать события календаря этого аккаунта</string>
@@ -157,6 +158,11 @@
     <string name="account_setup_security_required_title">Удаленное управление безопасностью</string>
     <string name="account_setup_server_acc_manager_title">Аккаунты</string>
     <string name="account_setup_username_password_toast">Введите действительное имя пользователя и пароль.</string>
+    <string name="account_smime">S/MIME</string>
+    <string name="account_smime_cert_title">сертификат</string>
+    <string name="account_smime_encrypt">S/MIME шифрование</string>
+    <string name="account_smime_install_cert">Установка сертификата</string>
+    <string name="account_smime_sign">S/MIME подпись</string>	
     <string name="account_sync_off">Синхронизация аккаунта выключена.</string>
     <string name="account_sync_settings_settings">Синхронизировать контакты и календарь</string>
     <string name="account_sync_settingstip_description">Синхронизация</string>
@@ -258,6 +264,15 @@
     <string name="cc">Копия</string>
     <string name="cc_bcc">Копия</string>
     <string name="cc_heading">"Копия: "</string>
+    <string name="certificate_add_failed">Сертификат \"%s\" не может быть установлен.</string> 
+    <string name="certificate_added">Сертификат \"%s\" добавлен.</string>
+    <string name="certificate_alias_prompt_certificate_name">Имя сертификата</string>
+    <string name="certificate_alias_prompt_title">Имя сертификата</string>
+    <string name="certificate_alias_prompt_w">Имя сертификата совпадает. Введите другое имя сертификата.</string>
+    <string name="certificate_password_hit">введите пароль</string>
+    <string name="certificate_password_prompt_title">Извлечение сертификата</string>
+    <string name="certificate_password_tips">Введите пароль для извлечения сертификата</string>
+    <string name="certificate_password_tips_w">Введите корректный пароль</string>	
     <string name="change_folders_selection_dialog_title">Изменить папки</string>
     <string name="change_sync_settings">Настройки синхронизации</string>
     <string name="changepw_dialog_tips">Введите пароль %s повторно</string>
@@ -332,11 +347,16 @@
     <string name="contextmenu_send_mail">Отправить почту</string>
     <string name="contextmenu_sharelink">Отправить ссылку</string>
     <string name="contextmenu_sms_dot">SMS…</string>
+    <string name="conversation_cert_distrust">Отозвать доверие</string>
+    <string name="conversation_cert_info_tips">Отправитель подписал это сообщение доверенным сертификатом</string>
+    <string name="conversation_cert_info_title">Подписано</string>
+    <string name="conversation_cert_trust">Доверять подписи</string>	
     <string name="conversation_detail_hide">Скрыть</string>
     <string name="conversation_detail_show">Подробности</string>
     <string name="conversation_folder_moved">Перемещено в %1$s</string>
     <string name="conversation_item_mark_read">Прочитано</string>
     <string name="conversation_item_mark_unread">Не прочитано</string>
+    <string name="conversation_message_encrypt_tips">Сообщение зашифровано. Установите файл сертификата вашей идентификации для расшифровки сообщения.</string>
     <string name="conversation_msg_header_collapsed_sent_to">"Отправлено "</string>
     <string name="conversation_photo_welcome_text">Нажмите на иконку контакта для выбора диалога.</string>
     <string name="conversation_pull_ad_content">Управляйте своими письмами без усилий</string>
@@ -721,6 +741,7 @@
     <string name="no_mails">Нет сообщений</string>
     <string name="no_matched_attachment">Нет результатов.</string>
     <string name="no_more_mail">Больше сообщений нет</string>
+    <string name="no_open_smime_toast">Сначала установите S/MIME сертификат</string>
     <string name="no_recognize_describe">"Не удалось найти письма, содержащие билеты или бронь.
 Выберите другой почтовый ящик."</string>
     <string name="no_search_results">"Продолжить поиск на сервере"</string>
@@ -745,6 +766,7 @@
     <string name="oauth_login_continue">Продолжить</string>
     <string name="oauth_login_continue_qq">Получить пароль и войти в ></string>
     <string name="oauth_login_usr_proxy">Войти с помощью прокси</string>
+    <string name="obtain_new_auth_code">Получить новый код подтверждения</string>
     <string name="ok">ОК</string>
     <string name="okay_action">ОК</string>
     <string name="one_day">1 день</string>
@@ -998,6 +1020,8 @@
     <string name="select_no_file">Вложения для отправки не выбраны</string>
     <string name="select_path">Выберите путь</string>
     <string name="send">Отправить</string>
+    <string name="send_encrypt_dialog_fail_content">Это электронное письмо не может быть зашифровано, потому что у получателя нет доверенного сертификата подписи. Отправить в незашифрованном виде?</string>
+    <string name="send_encrypt_dialog_fail_title">Ошибка отправки</string>	
     <string name="send_failed">Сообщение не отправлено</string>
     <string name="send_feed_back">Отправить отчет</string>
     <string name="send_feed_back_keywords">отправить отчет</string>
@@ -1128,6 +1152,7 @@
     <string name="upload_logs">Загрузить журналы</string>
     <string name="upload_logs_keywords">загрузить журналы</string>
     <string name="uploading_logs">Подождите…</string>
+    <string name="user_new_auth_code">Войдите с новым кодом подтверждения</string>
     <string name="user_privacy_settings_path">Совет: Вы можете отозвать свое согласие в Настройки > Настройки конфиденциальности пользователя.</string>
     <string name="user_privacy_settings_summary">Мы будем использовать ваш Android ID (зашифрованный как ваш уникальный идентификатор пользователя с помощью MI Mail) и журнал операций. Вы можете в любое время отозвать свое согласие в настройках конфиденциальности пользователя.</string>
     <string name="user_privacy_settings_title">Напоминание о конфиденциальности MI Mail</string>
@@ -1156,6 +1181,9 @@
     <string name="wipe_account_fail_description_remind">Из-за ограничения прав доступа к данным, могут оставаться остаточные данные в календаре и контактах после удаления учетной записи, удалите их вручную.</string>
     <string name="wipe_account_fail_title">Ошибка удаления личных данных</string>
     <string name="wrong_password">Неверный пароль</string>
+    <string name="xiaomi_auth_toastbar">Устройство не авторизовано, нажмите для авторизации</string>
+    <string name="xiaomi_email">Почта Xiaomi</string>
+    <string name="xiaomi_under_certification">Авторизация</string>	
     <string name="yes">Да</string>
     <string name="you_are_in_mobile_network">Использовать мобильный интернет для отправки отчетов?</string>
     <string name="youfuli">Акция</string>
