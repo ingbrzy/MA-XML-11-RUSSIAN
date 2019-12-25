@@ -6739,11 +6739,11 @@ UT-интерфейс: %5$s"</string>
 2. Если все доступные сети Wi-Fi плохие и мобильный интернет включен, Помощник Wi-Fi переключится на мобильный интернет."</string>
     <string name="wifi_assistant_disconnect">Отключиться</string>
     <string name="wifi_assistant_explicitly_confirm_data_message">Эта сеть Wi-Fi не имеет доступа в интернет. Переключиться на мобильный интернет?</string>
-    <string name="wifi_assistant_explicitly_confirm_disconnect">Эта сеть Wi-Fi не имеет доступа в интернет. Отключиться от нее?</string>
-    <string name="wifi_assistant_explicitly_confirm_wifi_message">Эта сеть Wi-Fi не имеет доступа в интернет. Доступны другие сети Wi-Fi. Сменить сеть?</string>
-    <string name="wifi_assistant_keep_connection">Отмена</string>
+    <string name="wifi_assistant_explicitly_confirm_disconnect">Эта сеть Wi-Fi не имеет доступа в интернет. Отключиться?</string>
+    <string name="wifi_assistant_explicitly_confirm_wifi_message">Эта сеть Wi-Fi не имеет доступа в интернет. Переключиться на другую доступную сеть Wi-Fi?</string>
+    <string name="wifi_assistant_keep_connection">Оставить</string>
     <string name="wifi_assistant_off">Откл.</string>
-    <string name="wifi_assistant_ok">OK</string>
+    <string name="wifi_assistant_ok">Да</string>
     <string name="wifi_assistant_on">Вкл.</string>
     <string name="wifi_assistant_setup_wifi_assistant">Настроить</string>
     <string name="wifi_assistant_summary">Переключаться между Wi-Fi сетями и мобильным интернетом при плохом Wi-Fi</string>
