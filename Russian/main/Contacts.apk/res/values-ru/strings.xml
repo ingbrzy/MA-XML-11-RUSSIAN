@@ -204,6 +204,7 @@
     <string name="confirm_export_title">Экспорт контактов</string>
     <string name="confirm_call_log_dial_summary">Запрос подтверждения набора номера из журнала вызовов для предотвращения случайного вызова.</string>
     <string name="confirm_call_log_dial_title">Подтверждение набора из журнала</string>
+    <string name="confirm_delete_cloud_all_call_logs">Удалить всю историю вызовов, связанную с %s, как из облака, так и с этого устройства?</string>
     <string name="connections">Связи</string>
     <string name="contactDetailAbout">Информация</string>
     <string name="contactDetailCalllog">Журнал вызовов</string>
@@ -301,6 +302,7 @@
     <string name="date_time_set">Настроить</string>
     <string name="date_year_toggle">Указать год</string>
     <string name="default_ringtone">Мелодия по умолчанию</string>
+    <string name="deleteCloudConfirmationDetail">Удалить контактную информацию %s как из облака, так и с этого устройства?</string>
     <string name="deleteConfirmation">Этот контакт будет удален.</string>
     <string name="deleteConfirmationDetail">Удалить контакт \"%s\"?</string>
     <string name="deleteConfirmation_title">Удаление контактов</string>
@@ -772,6 +774,7 @@
     <string name="no_contacts_dialog_message">Не найдено соответствий в ваших контактах. Возможно, контакты находятся на SIM карте. Для поиска импортируйте их во внутреннюю память.</string>
     <string name="no_contacts_dialog_title">Контакты не найдены</string>
     <string name="no_contacts_selected">Контакты не выбраны</string>
+    <string name="no_phone_no_shortcut">Невозможно создать ярлыки для контактов без телефонных номеров.</string>
     <string name="no_sdcard_message">SD карта не обнаружена.</string>
     <string name="no_setting_menu">Главное меню недоступно</string>
     <string name="non_phone_add_to_contacts">Добавить к контакту</string>
