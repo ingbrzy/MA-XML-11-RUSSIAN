@@ -237,6 +237,11 @@
     <string name="accessibility_status_bar_headphones">Наушники подключены</string>
     <string name="accessibility_status_bar_headset">Гарнитура подключена</string>
     <string name="accessibility_status_bar_hotspot">Точка доступа</string>
+    <string name="accessibility_status_bar_no_slave_wifi">Вспомогательный Wi-Fi отключен.</string>
+    <string name="accessibility_status_bar_slave_wifi_four_bars">Вспомогательный Wi-Fi четыре деления.</string>
+    <string name="accessibility_status_bar_slave_wifi_one_bar">Вспомогательный Wi-Fi одно деление.</string>
+    <string name="accessibility_status_bar_slave_wifi_three_bars">Вспомогательный Wi-Fi три деления.</string>
+    <string name="accessibility_status_bar_slave_wifi_two_bars">Вспомогательный Wi-Fi два деления.</string>	
     <string name="accessibility_three_bars">Три деления.</string>
     <string name="accessibility_tty_enabled">Телетайп включен.</string>
     <string name="accessibility_two_bars">Два деления.</string>
@@ -1416,6 +1421,12 @@
     <string name="quick_settings_user_new_user">Новый пользователь</string>
     <string name="quick_settings_user_title">Пользователь</string>
     <string name="quick_settings_vibrate_label">Вибрация</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Ускорение</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Отмена</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">ОК</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_not_remind">Больше не показывать</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_prompt">Переключение между сетями</string>
+    <string name="quick_settings_wifi_detail_dual_wifi_switching_summary">Для ускорения с помощью двухдиапазонного Wi-Fi необходимы два разных диапазона Wi-Fi. При изменении основной сети, вспомогательная сеть будет отключена.</string>
     <string name="quick_settings_wifi_detail_empty_text">Нет доступных сетей Wi-Fi</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_nearby">Выберите ближайшую сеть</string>

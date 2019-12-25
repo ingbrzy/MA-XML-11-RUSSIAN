@@ -2043,7 +2043,7 @@
     <string name="dual_wifi_summary">Ускорение Wi-Fi с помощью подключения к вспомогательным сетям</string>
     <string name="dual_wifi_switching_not_remind">Больше не показывать</string>
     <string name="dual_wifi_switching_prompt">Переключение между сетями</string>
-    <string name="dual_wifi_switching_summary">Для ускорения с помощью двухдиапазонного Wi-Fi необходимы два разных диапазона Wi-Fi. При изменении основной сети, вспомогательная сеть будет отключена</string>
+    <string name="dual_wifi_switching_summary">Для ускорения с помощью двухдиапазонного Wi-Fi необходимы два разных диапазона Wi-Fi. При изменении основной сети, вспомогательная сеть будет отключена.</string>
     <string name="dump_log">Сбор журналов проблем</string>
     <string name="dump_log_summary">"Эта функция предназначена для создания журнала 284 в Альфа и Бета версиях MIUI. Используйте ее с осторожностью.
 Вы можете просмотреть созданные журналы в Проводнике."</string>
