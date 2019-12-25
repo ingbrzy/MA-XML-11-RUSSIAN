@@ -25,6 +25,7 @@
     <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">Предупреждение о трафике</string>
     <string name="delete">Удалить</string>
+    <string name="delete_cloud_data_at_same_time">Удалить также из облака</string>	
     <string name="delete_dialog_message">Удалить выбранную запись?</string>
     <string name="deleting_message">Удаление…</string>
     <string name="details">Подробнее</string>
@@ -72,12 +73,12 @@
     <string name="notification_recording_ticker">Запись…</string>
     <string name="notification_stopped">Запись остановлена</string>
     <string name="notification_title_all_paused">Загрузка приостановлена</string>
-    <string name="offline_recognize_progress">Транскрибирование офлайн %s…</string>
-    <string name="offline_recognize_transfer_format">Транскрибирование…</string>
+    <string name="offline_recognize_progress">Распознавание офлайн %s…</string>
+    <string name="offline_recognize_transfer_format">Распознавание…</string>
     <string name="online_recognize_btn">Начать</string>
-    <string name="online_recognize_desp">Your recording will be uploaded to the server for cost estimation and transcribing.</string>
-    <string name="online_recognize_duration_limite">(Starting from 10 minutes)</string>
-    <string name="online_recognize_fail">Не удалось транскрибировать</string>
+    <string name="online_recognize_desp">Запись будет загружена на сервер для оценки стоимости и распознавания.</string>
+    <string name="online_recognize_duration_limite">(Начиная с 10 минут)</string>
+    <string name="online_recognize_fail">Не удалось распознать</string>
     <string name="online_recognize_login_fail">Не удалось войти</string>
     <string name="online_recognize_order_create">Вход</string>
     <string name="online_recognize_order_duration_key">Длительность</string>
@@ -86,7 +87,7 @@
     <string name="online_recognize_order_progress_pay">Оплатить</string>
     <string name="online_recognize_order_progress_upload">Загрузить</string>
     <string name="online_recognize_order_service_type_key">Вид услуги</string>
-    <string name="online_recognize_order_service_type_value">Онлайн транскрибирование аудио</string>
+    <string name="online_recognize_order_service_type_value">Онлайн распознавание аудио</string>
     <string name="online_recognize_order_title">Подтверждение заказа</string>
     <string name="online_recognize_order_total_price_key">Итого</string>
     <string name="online_recognize_order_unit_price_key">Цена</string>
@@ -94,8 +95,8 @@
     <string name="online_recognize_order_upload">Подтвердить и загрузить</string>
     <string name="online_recognize_order_uploading">Загрузка %s…</string>
     <string name="online_recognize_other_order_upload">Дождитесь завершения текущих загрузок и попробуйте снова.</string>
-    <string name="online_recognize_progress">Транскрибирование %s…</string>
-    <string name="online_recognize_running">Транскрибирование…</string>
+    <string name="online_recognize_progress">Распознавание %s…</string>
+    <string name="online_recognize_running">Распознавание…</string>
     <string name="online_recognize_service_unavailable">Сервис недоступен. Повторите попытку позже.</string>
     <string name="order_item_duration">Длительность: %s</string>
     <string name="order_item_number">Номер заказа: %s</string>
@@ -107,6 +108,11 @@
     <string name="preference_enable_earpiece_title">Разговорный динамик</string>
     <string name="preference_led_indicator">Индикация записи</string>
     <string name="preference_led_indicator_prompt">Во время записи показывать значок в строке состояния или мигать индикатором</string>
+    <string name="preference_online_orders">Онлайн заказы</string>
+    <string name="preference_recog_faqs">FAQ по онлайн распознаванию</string>
+    <string name="preference_recog_terms">Условия обслуживания</string>
+    <string name="preference_record_desktop_indicator_summary">Показывать синий индикатор на рабочем столе, когда идет запись в фоновом режиме</string>
+    <string name="preference_record_desktop_indicator_title">Индикатор на рабочем столе</string>
     <string name="preference_record_scenes_dialog_title">Выбор режима записи</string>
     <string name="preference_scenes">Режим записи</string>
     <string name="preference_silent_mode">Режим \"Без звука\" при записи</string>
@@ -114,7 +120,9 @@
     <string name="preference_tip_rename">Именовать записи вручную</string>
     <string name="privacy_policy_title">Политика конфиденциальности</string>
     <string name="recognition_error_cancel">Отменено</string>
+    <string name="recognition_error_code">Код ошибки: %d</string>	
     <string name="recognition_error_download_cancel">Позже</string>
+    <string name="recognition_error_download_data_msg">Загрузите модуль распознавания для обеспечения доступности сервиса. Потребуется около 20 МБ мобильных данных.</string>
     <string name="recognition_error_download_fail">Ошибка загрузки. Проверьте настройки сети и повторите попытку.</string>
     <string name="recognition_error_download_msg">Загрузите модуль распознавания для обеспечения доступности сервиса.</string>
     <string name="recognition_error_download_ok">Загрузить</string>
@@ -125,6 +133,7 @@
     <string name="recognition_error_format">Неверный формат аудио</string>
     <string name="recognition_error_internal">Внутренняя ошибка</string>
     <string name="recognition_error_stopped">Распознавание остановлено</string>
+    <string name="recognition_error_unknown">Неизвестная ошибка. Отправьте отчет и повторите попытку.</string>
     <string name="recognition_status_downloading">Загружается</string>
     <string name="record">Запись</string>
     <string name="record_back_pressed_hint">Нажмите еще раз для остановки записи</string>
@@ -200,7 +209,7 @@
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="toast_max_record_time">Приложение \"%1$s\" поддерживает максимальное время записи: %2$s</string>
     <string name="toast_uninstall_fileexplorer">Проводник не установлен</string>
-    <string name="usage_description">Транскрибирование и синхронизация элементов с облаком</string>
+    <string name="usage_description">Распознавание и синхронизация элементов с облаком</string>
     <string name="webview_check_network">Настройки сети</string>
     <string name="webview_data_error">Произошла ошибка</string>
     <string name="webview_locating_fail">Не удалось определить местоположение</string>

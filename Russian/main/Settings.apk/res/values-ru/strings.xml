@@ -5543,6 +5543,8 @@ UT-интерфейс: %5$s"</string>
     <string name="sound_title">Звук</string>
     <string name="sound_vibrate_settings">Звук и вибрация</string>
     <string name="sound_work_settings">Сигналы в рабочем профиле</string>
+    <string name="speaker">Динамик</string>
+    <string name="speaker_clean">Почистите динамик</string>	
     <string name="special_access">Специальный доступ</string>
     <string name="special_access_more">Еще</string>
     <string name="speed_label_fast">Быстрая</string>

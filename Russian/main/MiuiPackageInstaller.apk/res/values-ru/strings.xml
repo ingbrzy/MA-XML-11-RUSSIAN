@@ -30,7 +30,7 @@
   <string name="app_store_installing_message">Установка…</string>
   <string name="app_store_missing_message">App Store не установлено. Установить?</string>
   <string name="app_store_missing_title">App Store не установлено</string>
-  <string name="application_detail_tips">Информация о приложении и настройка разрешений</string>
+  <string name="application_detail_tips">Сведения о приложении и необходимые разрешения</string>
   <string name="auto_startup_dialog_msg">Это приложение может запускаться без вашего разрешения.</string>
   <string name="btn_text_full_scan">Полное сканирование</string>
   <string name="btn_text_install_new_version">Последняя версия</string>
@@ -104,8 +104,8 @@
   <string name="install_failed_invalid_apk">Пакет поврежден</string>
   <string name="install_failed_msg">%1$s не может быть установлен на устройстве</string>
   <string name="install_failed_system_incompatible">Приложение не совместимо с MIUI</string>
-  <string name="install_finished_notification_summary">Нажмите для очистки</string>
-  <string name="install_finished_notification_title">%1$s успешно установлено, очищено %2$s</string>
+  <string name="install_finished_notification_summary">Нажмите для освобождения места</string>
+  <string name="install_finished_notification_title">%1$s успешно установлено. Можно освободить %2$s</string>
   <string name="install_from_appstore_hint">Рекомендуется установить приложение из &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Установка…</string>
   <string name="intercept_install">Установка</string>
@@ -174,7 +174,7 @@
   <string name="miui_install_source_unkown">Неизвестно</string>
   <string name="miui_install_success">Успешно установлено</string>
   <string name="miui_install_version">Версия: %s</string>
-  <string name="miui_install_version_3">Версия: %1$s -&gt; %2$s | Size: %3$s</string>
+  <string name="miui_install_version_3">Версия %1$s -&gt; %2$s | Размер %3$s</string>
   <string name="miui_installing">Установка…</string>
   <string name="miui_installing2">Установка…</string>
   <string name="miui_message_staging_0">Подготовка   </string>
@@ -258,7 +258,7 @@
   <string name="privacyPerms">Конфиденциальность</string>
   <string name="privacy_relative">Конфиденциальность</string>
   <string name="reboot_time">Подготовка к перезагрузке… (%1$s)</string>
-  <string name="replace_app_des_text">Обновить приложение?</string>
+  <string name="replace_app_des_text">Заменить приложение этой версией?</string>
   <string name="review_button_cancel">Отмена</string>
   <string name="review_button_continue">Продолжить</string>
   <string name="risk_warning_bottom_button">Установить из GetApps</string>
@@ -307,7 +307,7 @@
   <string name="untrusted_external_source_always_click">Всегда разрешать</string>
   <string name="untrusted_external_source_title">Разрешить \"%1$s\" удаление приложений?</string>
   <string name="untrusted_external_source_warning">В целях безопасности установка неизвестных приложений из этого источника заблокирована.</string>
-  <string name="untrusted_external_source_warning_summary">Телефон и личные данные могут быть уязвимы для атак из неизвестных источников. Разрешая установку приложений из этого источника, вы принимаете на себя ответственность за любой ущерб или потерю данных, которые могут возникнуть в результате использования этих приложений.</string>
+  <string name="untrusted_external_source_warning_summary">Ваше устройство и личные данные уязвимы для атак приложений, установленных из неизвестных источников. Разрешая устанавливать приложения из этого источника, вы соглашаетесь принять на себя ответственность за любой ущерб или потерю данных, которые могут возникнуть при использовании этих приложений.</string>
   <string name="user_is_not_allowed_dlg_text">У текущего пользователя отсутствуют разрешение на удаление.</string>
   <string name="user_is_not_allowed_dlg_title">Разрешение отсутствует</string>
   <string name="virus_scan_caller_unknown">Неизвестно</string>

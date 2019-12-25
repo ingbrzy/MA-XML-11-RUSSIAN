@@ -66,6 +66,12 @@
     <item quantity="few">(%d объекта)</item>
     <item quantity="many">(%d объектов)</item>
   </plurals>
+  <plurals name="album_item_msg_format_new">
+     <item quantity="other">%d альбомов</item>
+     <item quantity="one">%d альбом</item>
+     <item quantity="few">%d альбома</item>
+     <item quantity="many">%d альбомов</item>
+  </plurals> 
   <plurals name="album_photo_count_text">
     <item quantity="other">%1$d объектов</item>
     <item quantity="one">%1$d объект</item>
