@@ -585,7 +585,6 @@
   <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF блокировка</string>
   <string name="pref_camera_magic_mirror_title">Волшебное зеркало</string>
   <string name="pref_camera_manual_description_title">О функциях Pro</string>
-  <string name="pref_camera_manual_description_title">Ввод значения</string>
   <string name="pref_camera_manual_mode_title">Ручной</string>
   <string name="pref_camera_manually_exposure_value_abbr">EV</string>
   <string name="pref_camera_movie_solid_title">Стабилизация изображения</string>
