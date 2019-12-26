@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Сервис UniPlay</string>
+  <string name="actionbar_button_up_description">Назад</string>
   <string name="casting_tips">Отображение...</string>
   <string name="console_guide_btn_got_it">Понятно</string>
   <string name="console_guide_subtitle_hang_up">"Не прерывайте трансляцию при выключении экрана телефона. Это может привести к повышенному расходу заряда батареи."</string>
@@ -17,14 +17,13 @@
   <string name="dialog_ok">ОК</string>
   <string name="dialog_only_suport_content">Передача фотографий, видео или музыки</string>
   <string name="dialog_open_wifi_bt">Включить</string>
-  <string name="dialog_please_make_sure_tv_ok">На целевом устройстве должен быть включен беспроводной дисплей</string>
-  <string name="dialog_please_make_sure_tv_ok_or_help">"Убедитесь, что на целевом устройстве включен беспроводной дисплей.
-Для дополнительной информации, пожалуйста, обратитесь к справке."</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">"Убедитесь, что на целевом устройстве включена функция трансляции.
+Обратитесь к \"Справке\", если есть проблемы с подключением."</string>
   <string name="dialog_recent_connected">Недавние</string>
   <string name="dialog_retry">Попробуйте еще раз</string>
   <string name="dialog_scanning_device">Поиск устройств поблизости…</string>
   <string name="dialog_scanning_precondition">Включите Wi-Fi и Bluetooth на телефоне для использования беспроводного дисплея.</string>
-  <string name="dialog_select_tv">Выберите устройство для подключения</string>
+  <string name="dialog_select_tv">Выберите устройство (%d)</string>
   <string name="dialog_show_help">Справка</string>
   <string name="disconnect">Остановить трансляцию</string>
   <string name="hang_up">Трансляция при выключенном экране</string>
@@ -79,7 +78,7 @@
   <string name="help_page_text_34">Убедитесь, что функция Miracast поддерживается на устройстве. На некоторых моделях можно выбрать в Приложения &gt; Трансляция &gt; Устройства Android &gt; Miracast.</string>
   <string name="help_page_text_35">Служба поддержки Skyworth: 95105555</string>
   <string name="help_page_text_36">Sony</string>
-  <string name="help_page_text_37">Убедитесь, что функция Miracast поддерживается на устройстве. Для дополнительной информации обратитесь к Руководству пользователя устройства.</string>
+  <string name="help_page_text_37">Убедитесь, что функция Miracast поддерживается на устройстве. Для дополнительной информации обратитесь к Руководству пользователя устройства. На некоторых моделях вы можете нажать кнопку [SOURCE] на пульте дистанционного управления, а затем выбрать \"Screen Mirroring\". На некоторых других моделях вы можете включить эту функцию в Cети &gt; Wi-Fi Direct. Эта функция включена по умолчанию на различных моделях.</string>
   <string name="help_page_text_38">Служба поддержки Sony: 400-810-9000</string>
   <string name="help_page_text_39">Panasonic</string>
   <string name="help_page_text_40">Убедитесь, что функция Miracast поддерживается на устройстве. На некоторых моделях можно выбрать в Приложения &gt; Screen Mirroring.</string>
@@ -92,7 +91,7 @@
   <string name="help_page_text_47">Служба поддержки TCL: 400-812-3456</string>
   <string name="help_page_text_48">AODIN</string>
   <string name="help_page_text_49">Убедитесь, что функция Miracast поддерживается на устройстве. Чтобы включить эту функцию, перейдите в Мои приложения &gt; Wi-Fi дисплей.</string>
-  <string name="help_page_text_50">Служба поддержки AODIN:400-810-5858</string>
+  <string name="help_page_text_50">Служба поддержки AODIN: 400-810-5858</string>
   <string name="help_page_text_51">LeTV</string>
   <string name="help_page_text_52">Убедитесь, что устройство поддерживает протокол Miracast. Для дополнительной информации обратитесь к Руководству пользователя устройства.</string>
   <string name="help_page_text_53">Телефон службы поддержки LeTV: 10109000</string>
@@ -101,11 +100,15 @@
   <string name="help_page_text_55_global">"Если вы не можете подключиться к сети, убедитесь, что ваш внешний монитор поддерживает функцию Miracast и он включен. В некоторых моделях эта функция называется беспроводным дисплеем, зеркальным отображением экрана или несколькими экранами.
 4. Если у вас возникнут какие-либо проблемы, вы можете сообщить о них, используя приложение \"Сервисы и обратная связь\"."</string>
   <string name="help_page_text_end">"Если марка устройства не указана здесь, обратитесь к производителю, чтобы узнать о поддержке функции Miracast."</string>
-  <string name="notification_rc_desc">Попробуйте приложение TV Assistant для трансляции видео, фото и приложений на XiaoMi Box или XiaoMi TV.</string>
   <string name="notification_rc_title">Помощник XiaoMi TV</string>
   <string name="notification_show_more">Дополнительные функции</string>
-  <string name="privacy_text_1">　　Добро пожаловать в функцию трансляции экрана. Сервис трансляции предоставлен Milian, некоторые функции трансляции поддерживаются широковещательными экранами сторонних компаний. Чтобы обеспечить конфиденциальность, пожалуйста, прочитайте &lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
-  <string name="privacy_text_2">　　Нажимая Согласен, вы соглашаетесь с нижеприведенным &lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;содержанием и предоставленными правами.</string>
+  <string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
+  <string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string> 
+  <string name="privacy_text_1">&lt;Data&gt;"Добро пожаловать в приложение Трансляция! Трансляция позволяет проецировать содержимое с телефона на внешний монитор.
+Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. Некоторые функции предоставляются сторонним поставщиком услуг HappyCast. Перед использованием этой функции прочтите и примите &amp;lt;a href=%2$s&amp;gt;Юридическое заявление HappyCast&amp;lt;/a&amp;gt; и &amp;lt;a href=%1$s&amp;gt;Политику конфиденциальности HappyCast&amp;lt;/a&amp;gt;.
+Для нормальной работы приложению необходимы подключение к интернету и разрешения на сбор личной информации:"&lt;/Data&gt;</string>
+  <string name="privacy_text_2">&lt;Data&gt;"В случае отказа предоставить разрешения, вы не сможете использовать приложение. В таком случае, вы можете удалить это приложение, выйти или ограничить разрешения в настройках.
+Прочитайте и примите наши &amp;lt;a href=%1$s&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=%2$s&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; перед использованием"&lt;/Data&gt;</string>
   <string name="privacy_text_pemission">"　　• Использование Wi-Fi для обнаружения и подключения устройств.
 　　• Использование Bluetooth для обнаружения и подключения устройств.
 　　• Чтение памяти телефона, трансляция содержимого.
@@ -113,11 +116,10 @@
 　　• Трансляция звука на устройство.
 　　• Получение разрешений для обнаружения и подключения устройств"</string>
   <string name="private_protect">Защита конфиденциальности</string>
-  <string name="san_wait_msg_1">На целевом устройстве должен быть включен беспроводной дисплей</string>
+  <string name="san_wait_msg_1">Включите беспроводную трансляцию на целевом устройстве</string>
   <string name="san_wait_msg_2">Поиск устройств может занять некоторое время…</string>
   <string name="san_wait_msg_3">Внешние устройства легче найти, если они подключены к той же сети, что и телефон</string>
   <string name="san_wait_msg_4">"Обратитесь к \"Справке\", если не удалось найти устройства"</string>
-  <string name="service_name">Сервис UniPlay</string>
   <string name="small_window">Минимизировать окно</string>
   <string name="status_bar_in_casting">Трансляция</string>
   <string name="status_bar_in_casting_long">Нажмите для дополнительных функций</string>
