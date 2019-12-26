@@ -33,11 +33,20 @@
     <string name="activity_title_settings">Настройки</string>
     <string name="activity_title_sleep">Сон</string>
     <string name="activity_title_sleep_details">Информация о сне</string>
+    <string name="add">Добавить</string>
     <string name="add_body_weight_button">Ввести вес</string>
     <string name="add_body_weight_record_button">Ввести вес</string>
+    <string name="add_data_source">Добавление источников данных</string>
+    <string name="add_data_source_description">"Добавьте данные о состоянии здоровья из других устройств в Mi Health, чтобы повысить точность статистики и получить более актуальные рекомендации.
+Mi Health поддерживает устройства, ранее добавленные в приложение Mi Home. Если не удается найти устройство, которое хотите добавить, сначала проверьте, добавлено ли оно в Mi Home."</string>
+    <string name="add_data_source_login_and_open_sync">Войдите в Mi Аккаунт и включите синхронизацию с облаком для возможности добавлять источники данных.</string>
+    <string name="add_data_source_open_sync">Включите синхронизацию с облаком для возможности добавлять источники данных.</string>
+    <string name="add_data_source_support_step">Это устройство не генерирует данные о количестве шагов. Попробуйте другое.</string>
     <string name="add_model_card">"Нажмите на кнопку в левом верхнем углу
 чтобы добавить карточки"</string>
+    <string name="added_data_source">Добавленные источники</string>
     <string name="all_records">Все записи</string>
+    <string name="auth_description">Разрешить %1$s синхронизировать данные со следующих устройств</string>
     <string name="auto_start_fail">Не удалось предоставить разрешение</string>
     <string name="auto_start_success">Разрешение успешно предоставлено</string>
     <string name="auto_start_tips">Нажмите \"Настройки\" ниже, чтобы открыть настройки приложения Mi Здоровье и предоставить ему необходимые разрешения.</string>
@@ -45,6 +54,7 @@
     <string name="average_menstruation_days">Средняя продолжительность менструации</string>
     <string name="avg_steps">Шагов в день</string>
     <string name="background_run_tips">Нажмите \"Настройки\" ниже, чтобы открыть настройки приложения Mi Здоровье и разрешить ему запуск в фоновом режиме.</string>
+    <string name="backtrack">Назад</string>
     <string name="basic_info_label_age">Возраст</string>
     <string name="basic_info_label_birthday">Дата рождения</string>
     <string name="basic_info_label_gender">Пол</string>
@@ -82,7 +92,19 @@
     <string name="daily_distance_label">Расстояние</string>
     <string name="daily_steps">Шаги</string>
     <string name="daily_time_label">Время</string>
+    <string name="data">Данные</string>
+    <string name="data_account_info_loading">Получение информации об аккаунте…</string>
+    <string name="data_delete_tip">Удаление данных о состоянии здоровья с устройства…</string>	
     <string name="data_empty">Нет данных</string>
+    <string name="data_safety_tip_details">Данные о состоянии здоровья будут храниться на устройстве после выхода из аккаунта. Можно удалить данные в Здоровье &gt; Источники данных.</string>
+    <string name="data_safety_tip_details2">"Некоторые данные о состоянии здоровье были загружены в облако. Можно сохранить данные на этом устройстве или удалить их. При выборе \"Удалить\", будут удалены данные только с этого устройства, синхронизированные данные сохранятся в облаке.
+Вы всегда можете позже удалить сохраненные данные в Здоровье &gt; Источники данных."</string>
+    <string name="data_safety_tip_title">Удаление данных</string>
+    <string name="data_source">Источники данных</string>
+    <string name="data_source_data_updating">Обновление данных…</string>
+    <string name="data_source_list_description">Приложение Здоровье получает данные о состоянии здоровья (%1$s) из этих источников. Если данные дублируются из нескольких источников, будут отображаться данные, которые появляются первыми.</string>
+    <string name="data_source_manage">Управление источниками данных</string>
+    <string name="data_source_not_support_hm_description">"%1$s не предоставляет данные о количестве шагов. Попробуйте другой источник данных в Еще &gt; Источники данных."</string>
     <string name="date_format_h_m">H:mm</string>
     <string name="date_format_h_m_s">HH:mm:ss</string>
     <string name="date_format_m_d">d.M</string>
@@ -95,14 +117,22 @@
     <string name="date_format_y_m_d_2">dd MMMM yyyy</string>
     <string name="date_format_y_m_d_h_m">dd/MM/yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_2">dd MMMM yyyy, HH:mm</string>
+    <string name="date_format_y_m_d_h_m_3">dd/MM/yyyy HH:mm</string>
     <string name="date_format_y_m_d_h_m_s">dd/MM/yyyy HH:mm:ss</string>
     <string name="date_format_y_m_d_notranslate">dd/MM/yyyy</string>
     <string name="date_week_index">ww неделя yyyy г.</string>
     <string name="day">День</string>
     <string name="deep_sleep">Медленный сон</string>
+    <string name="delete_all_data">Удалить все данные</string>
     <string name="delete_menstruation_record_confirm">Удалить запись?</string>
+    <string name="delete_origin_data_description">Удалить все данные %1$s?</string>	
+    <string name="device_data_manage">Управление устройствами</string>
+    <string name="device_data_sync">Синхронизация данных</string>
+    <string name="device_list_origin_description">Эти устройства связаны с Mi Аккаунтом %1$s. Если не удается найти нужное устройство, убедитесь, что оно уже добавлено в соответствующее приложение.</string>
+    <string name="device_off_sync_description">Данные с этого устройства, не будут синхронизированы</string>
     <string name="dialog_abandon">Выход</string>
     <string name="dialog_abandon_sleep_edit">Отменить изменения?</string>
+    <string name="dialog_account_perm_desc">Для доступа к вашему Mi Аккаунту</string>
     <string name="dialog_agree_and_continue">Согласен</string>
     <string name="dialog_auto_start_detail">"Разрешите приложению Mi Здоровье автозапуск, чтобы получать уведомления.
 Приложение будет отправлять только важные уведомления."</string>
@@ -125,6 +155,7 @@
 услуги только взрослым.</string>
     <string name="dialog_juveniles_details">В соответствии с нашей Политикой конфиденциальности, использовать это приложение могут лица старше 18 лет.</string>
     <string name="dialog_juveniles_link">В соответствии с нашей &lt;font color=\"#FE6D67\"&gt;&lt;a href=\"%1$s\"&gt;Политикой конфиденциальности&lt;/a&gt;&lt;/font&gt;, использовать это приложение могут лица старше 18 лет.</string>
+    <string name="dialog_keep">Оставить</string>
     <string name="dialog_known">Понятно</string>
     <string name="dialog_menstruation_purpose">Добро пожаловать в Mi Здоровье! Функция \"Менструация\" позволяет вести записи о ваших менструациях, определять приблизительные даты начала циклов, а также получать полезные уведомления. Все данные хранятся локально на вашем устройстве, что позволяет легко управлять ими.</string>
     <string name="dialog_no_more_prompt">Больше не показывать</string>
@@ -133,13 +164,13 @@
     <string name="dialog_permission_loading_msg">Проверка…</string>
     <string name="dialog_privacy_policy_statement">Положение Политики конфиденциальности</string>
     <string name="dialog_privacy_title">Условия использования</string>
-    <string name="dialog_read_phone_perm_desc">Для доступа к ID устройства для идентификации вашего устройства.</string>
+    <string name="dialog_read_phone_perm_desc">Для идентификации вашего устройства.</string>
     <string name="dialog_sleep_goal_setting">Задать продолжительность сна</string>
     <string name="dialog_sleep_goal_subtitle">Старайтесь спать 7-9 часов каждый день</string>
     <string name="dialog_sleep_goal_title">Продолжительность сна</string>
     <string name="dialog_sleep_record_auto_start">Для получения более точной статистики разрешите приложению Mi Здоровье автозапуск.</string>
     <string name="dialog_sure">ОК</string>
-    <string name="dialog_user_agreement_purpose">Добро пожаловать в Mi Здоровье! Используйте это приложение для подсчета пройденных шагов, сбора статистики о вашем сне, менструальном цикле и весе. В приложении вы также сможете найти полезные советы.</string>
+    <string name="dialog_user_agreement_purpose">Добро пожаловать в Mi Здоровье! Используйте это приложение для подсчета пройденных шагов, сбора статистики о вашем сне, менструальном цикле и весе, а также для синхронизации статистики с облаком.</string>
     <string name="drink_water">Выпейте воды и пройдитесь.</string>
     <string name="edit_basic_info_desc">Основные данные</string>
     <string name="edit_sleep_record_button">Редактирование</string>
@@ -165,6 +196,7 @@
     <string name="go_back_to_today">Назад к сегодняшнему дню</string>
     <string name="go_open_sleep_detector">Начать</string>
     <string name="go_setting">Настройки</string>
+    <string name="go_to_open">Включить</string>
     <string name="goal_daily_exercise">Активность</string>
     <string name="goal_sleep_time">Продолжительность</string>
     <string name="goal_title">Будьте здоровыми</string>
@@ -241,12 +273,24 @@
     <string name="mesens_card_title_today_begin">Период предположительно начнется сегодня</string>
     <string name="mesens_card_title_tomorrow_begin">Период предположительно начнется завтра</string>
     <string name="mi_health">Mi Здоровье</string>
+    <string name="mi_sports">Mi Fit</string>
     <string name="minute"> МИН</string>
     <string name="model_card_setting">Настройки карточек</string>
     <string name="modify">Редактировать</string>
     <string name="modify_end_date">Изменить дату окончания</string>
     <string name="month">Месяц</string>
     <string name="more_card">Доступные</string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_date_format">MMM dd, yyyy</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Начало - Окончание</string>
+    <string name="my_data_source">Источники данных</string>
     <string name="name_title_menstruation_today_end">Менструация предположительно закончится сегодня</string>
     <string name="need_auto_start_permission">Для получения более точной статистики разрешите приложению Mi Здоровье автозапуск.</string>
     <string name="need_unrestricted_permission">Для получения более точной статистики разрешите Mi Здоровью работать в фоновом режиме.</string>
@@ -403,6 +447,7 @@
     <string name="title_start_use_menstruation_assistant">Записывайте информацию о менструальном цикле</string>
     <string name="title_today_exercise_detail">Активность сегодня</string>
     <string name="today">Сегодня</string>
+    <string name="today_hh_mm">Сегодня HH:mm</string>
     <string name="today_label">Сегодня</string>
     <string name="today_single">Сегодня</string>
     <string name="tomorrow">Завтра</string>
@@ -433,6 +478,7 @@
     <string name="user_invalid_value">--</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
+    <string name="weight_keep_up">Отлично! Продолжайте поддерживать здоровый вес.</string>
     <string name="weight_trend_offset_date">С %1$s по %2$s: </string>
     <string name="weight_unit_kg"> КГ</string>
     <string name="year">Год</string>
