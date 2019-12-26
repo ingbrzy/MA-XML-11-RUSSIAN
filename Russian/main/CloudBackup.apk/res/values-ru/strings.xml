@@ -191,6 +191,7 @@
     <string name="restore_failed_reason_network_error">Ошибка сети. Повторите попытку позже.</string>
     <string name="restore_finished_notification_content">Восстановление завершено</string>
     <string name="restore_from_cloud">Восстановление из облачной резервной копии</string>
+    <string name="restore_from_mimover">Передача со старого устройства с помощью Mi Mover</string>
     <string name="restore_from_this_device">Восстановить из этой копии</string>
     <string name="restore_home_failed">Не удалось восстановить рабочий стол</string>
     <string name="restore_home_screen_apps">Восстановление из облачной резервной копии</string>
