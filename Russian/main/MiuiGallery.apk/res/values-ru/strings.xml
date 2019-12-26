@@ -1547,7 +1547,6 @@
   <string name="user_agreement2">Условия использования</string>
   <string name="user_agreement4">Политика конфиденциальности</string>
   <string name="user_alias_self">Я</string>
-  <string name="user_notice_identify_summary_format">Используя эту услугу, вы принимаете %1$s и %2$s Xiaomi.</string>
   <string name="user_notice_identify_summary_format">&lt;Data&gt;Используя эту услугу, вы соглашаетесь с &amp;lt;a href=\"%1$s\"&amp;gt;\"Условиями использования\"&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;\"Политикой конфиденциальности\"&amp;lt;/a&amp;gt; Xiaomi.&lt;/Data&gt;</string>
   <string name="user_notice_title">Условия использования</string>
   <string name="video_edit_file_not_exits_tip">Сначала загрузите видео</string>
