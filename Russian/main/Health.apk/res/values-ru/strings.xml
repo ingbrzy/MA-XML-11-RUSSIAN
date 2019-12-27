@@ -201,14 +201,26 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="goal_sleep_time">Продолжительность</string>
     <string name="goal_title">Будьте здоровыми</string>
     <string name="goto_setting_auto_start">Настройки</string>
+    <string name="guide_data_cloud_sync_tip">Можно отключить синхронизацию в Настройки &gt; Облачные сервисы.</string>
+    <string name="guide_local_data_sync_subtitle">Шаги, сон, вес и периоды</string>
+    <string name="guide_local_data_sync_title">Синхронизация данных с устройства</string>
+    <string name="guide_other_data_sync_subtitle">Телефоны, браслеты, весы и другие устройства</string>
+    <string name="guide_other_data_sync_title">Синхронизация данных с других устройств</string>	
     <string name="guide_setting">Предоставьте следующие данные для получения более точной статистики</string>
     <string name="harm_learn_more">Подробнее</string>
     <string name="health_app_name">Здоровье</string>
     <string name="health_app_name_dev">Здоровье dev</string>
+    <string name="health_cloud_service">Облачные сервисы</string>
+    <string name="health_data_cloud_sync_subtitle">Синхронизируйте данные о состоянии здоровья с облаком для доступа к ним с любого устройства</string>
+    <string name="health_data_cloud_sync_title">Синхронизация с облаком</string>	
     <string name="health_score">Оценка состояния здоровья</string>
     <string name="health_score_tips">Оценка состояния здоровья рассчитывается на основе вашего индекса массы тела (ИМТ), а также статистики сна и активности. Чем ближе вы к достижению целей активности, тем выше ваша оценка состояния здоровья.</string>
     <string name="history_statistics">Статистика</string>
     <string name="home_page_card_setting">Карточки</string>
+    <string name="home_tip_open_data_sync">Включить синхронизацию с облаком</string>
+    <string name="home_tip_sync_done">Успешно синхронизировано</string>
+    <string name="home_tip_sync_immediately">Некоторые данные не синхронизированы. Нажмите для синхронизации.</string>
+    <string name="home_tip_syncing">Синхронизация…</string>	
     <string name="hour"> Ч</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
@@ -216,6 +228,7 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="improve_your_health_default_tips">Тренируйтесь и высыпайтесь, чтобы оставаться здоровым.</string>
     <string name="input_body_weight">Введите данные о весе, чтобы получить советы</string>
     <string name="jump_over">Пропустить</string>
+    <string name="just_recently">Только что</string>
     <string name="label_average_daily_sleep_duration">Средняя продолжительность</string>
     <string name="label_average_daily_sleep_time">Среднее время засыпания</string>
     <string name="label_average_daily_sleep_time2">Среднее время 
@@ -247,7 +260,10 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="label_wake_up_time">Пробуждение</string>
     <string name="last_measure_date">"Предыдущее взвешивание: "</string>
     <string name="last_measure_hours_minutes">%1$s с момента взвешивания</string>
+    <string name="last_sync_time">Синхронизировано: %1$s</string>
     <string name="light_sleep">Быстрый сон</string>
+    <string name="login_and_open_sync">Войти и включить синхронизацию</string>
+    <string name="login_and_open_sync2">Войти и включить синхронизацию</string>	
     <string name="manual_adjust">Изменить</string>
     <string name="manual_input">Ручной ввод</string>
     <string name="manual_page_label_body_weight_select">Укажите вес</string>
@@ -255,6 +271,10 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="manual_page_measure_date_title">Дата и время</string>
     <string name="mark_end">Менструация закончилась</string>
     <string name="mark_start">Начало менструации</string>
+    <string name="member">Пользователь</string>
+    <string name="member_name_select">Выберите имя пользователя</string>
+    <string name="member_name_select_purpose">Синхронизация данных из %1$s</string>
+    <string name="member_name_select_purpose2">Выберите имя пользователя для синхронизации</string>
     <string name="menses_auto_start_description">Включив уведомления, вы разрешите приложению Mi Здоровье автозапуск.</string>
     <string name="menses_features_description">Записывайте свои периоды и получайте напоминания</string>
     <string name="menstrual_assistant">Менструация</string>
@@ -294,11 +314,17 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="name_title_menstruation_today_end">Менструация предположительно закончится сегодня</string>
     <string name="need_auto_start_permission">Для получения более точной статистики разрешите приложению Mi Здоровье автозапуск.</string>
     <string name="need_unrestricted_permission">Для получения более точной статистики разрешите Mi Здоровью работать в фоновом режиме.</string>
+    <string name="network_connect_failure">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="next_step">Далее</string>
+    <string name="no_available_device">Нет устройств</string>
     <string name="no_body_weight_record">Нет записей</string>
-    <string name="no_records">Нет объектов</string>
-    <string name="not_support_step">Ваше устройство не может считать шаги</string>
+    <string name="no_records">Нет записей</string>
+    <string name="not_open_auto_sync">Синхронизация отключена</string>
+    <string name="not_support_step">Устройство не поддерживает подсчет шагов</string>
+    <string name="open_data_sync_description">Включите синхронизацию с облаком для синхронизации данных о состоянии здоровья из других источников.</string>
+    <string name="open_sync">Включить синхронизацию</string>
     <string name="open_unrestricted_permissions">Для более точного контроля сна разрешите Mi Здоровью работать в фоновом режиме.</string>
+    <string name="other_can_add_data_source">Доступные источники</string>
     <string name="page">%1$d/%2$d</string>
     <string name="permission_check_result">Готово</string>
     <string name="permission_check_result_failed">Произошла ошибка</string>
@@ -307,6 +333,7 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="predict_menstruation">Предположительные дни</string>
     <string name="preference_about">О приложении</string>
     <string name="preference_basic_info">Основная информация</string>
+    <string name="preference_click_login">Вход</string>
     <string name="preference_feedback">Обратная связь</string>
     <string name="preference_health_info_proposal_title">Получайте точную статистику и полезные советы</string>
     <string name="preference_health_score_tip">Оценка состояния здоровья</string>
@@ -350,6 +377,7 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="select_menstruation_end_date">Выберите дату окончания менструации</string>
     <string name="select_null">Не выбрано</string>
     <string name="setting">Настройки</string>
+    <string name="setting_data_cloud_sync_tip">Используйте эту функцию для резервного копирования и синхронизации данных с других устройств</string>
     <string name="setting_sedentary_off">ОТКЛ</string>
     <string name="setting_sedentary_on">ВКЛ</string>
     <string name="setting_sedentary_title">Напоминания о разминке</string>
@@ -427,6 +455,14 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="suggestion_title">Советы</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sustain_title">"Вы не двигались уже "</string>
+    <string name="sync_immediately">Синхронизировать</string>
+    <string name="sync_is_off">Синхронизация отключена</string>
+    <string name="sync_set_network">Настройки сети</string>
+    <string name="sync_status">Состояние синхронизации</string>
+    <string name="sync_status_failure_retry">Не удалось синхронизировать. Повторите попытку позже.</string>
+    <string name="sync_status_in_progress">Синхронизация…</string>
+    <string name="sync_status_network_failure">Не удалось синхронизировать. Подключитесь к сети и повторите попытку.</string>
+    <string name="sync_status_never_done">Не синхронизировано</string>
     <string name="text_edit_exercise_goal">Изменить цель</string>
     <string name="text_save_exercise_goal">Готово</string>
     <string name="tips_default">Нет данных</string>
@@ -466,7 +502,7 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="unit_second"> С</string>
     <string name="unknown">Неизвестно</string>
     <string name="update_notify_dialog_ignore">Позже</string>
-    <string name="update_notify_dialog_msg">"Доступно обновление: %1$s.
+    <string name="update_notify_dialog_msg">"Доступно обновление: %1$s. 
 Список изменений:
 %2$s
 Обновить?"</string>
