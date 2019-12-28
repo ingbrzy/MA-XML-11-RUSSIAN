@@ -6734,9 +6734,9 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_assistant">Помощник Wi-Fi</string>
     <string name="wifi_assistant_auto_confirm_data_message">Эта сеть Wi-Fi не имеет доступа в интернет. Будет использоваться мобильный интернет. Вы можете отключить Помощник Wi-Fi в настройках.</string>
     <string name="wifi_assistant_confirm_always">Больше не спрашивать</string>
-    <string name="wifi_assistant_confirm_connection_title">Подтвердите подключение</string>
+    <string name="wifi_assistant_confirm_connection_title">Внимание</string>
     <string name="wifi_assistant_data_prompt">Предупреждать о трафике</string>
-    <string name="wifi_assistant_data_prompt_summary">Показывать предупреждение о трафике при переключении на мобильный интернет</string>
+    <string name="wifi_assistant_data_prompt_summary">Предупреждать о переключении на мобильный интернет</string>
     <string name="wifi_assistant_description">"Как работает Помощник Wi-Fi:
 1. При плохом качестве подключения Помощник Wi-Fi попытается подключить устройство к другим доступным сетям Wi-Fi
 2. Если все доступные сети Wi-Fi плохие и мобильный интернет включен, Помощник Wi-Fi переключится на мобильный интернет."</string>
@@ -6746,12 +6746,12 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_assistant_explicitly_confirm_wifi_message">Эта сеть Wi-Fi не имеет доступа в интернет. Переключиться на другую доступную сеть Wi-Fi?</string>
     <string name="wifi_assistant_keep_connection">Оставить</string>
     <string name="wifi_assistant_off">Откл.</string>
-    <string name="wifi_assistant_ok">Да</string>
+    <string name="wifi_assistant_ok">ОК</string>
     <string name="wifi_assistant_on">Вкл.</string>
     <string name="wifi_assistant_setup_wifi_assistant">Настроить</string>
     <string name="wifi_assistant_summary">Переключаться между Wi-Fi сетями и мобильным интернетом при плохом Wi-Fi</string>
-    <string name="wifi_assistant_switch_data">Использовать</string>
-    <string name="wifi_assistant_switch_wifi">Сменить сеть</string>
+    <string name="wifi_assistant_switch_data">Переключиться</string>
+    <string name="wifi_assistant_switch_wifi">Переключиться</string>
     <string name="wifi_auto_connect">Автоподключение</string>
     <string name="wifi_available_title">Подключение к Wi-Fi</string>
     <string name="wifi_avoid_poor_network_detection_summary">Использовать только сети с сильным сигналом</string>
@@ -7150,14 +7150,14 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_tether_settings_title">Точка доступа Wi-Fi</string>
     <string name="wifi_tether_starting">Включение точки доступа…</string>
     <string name="wifi_tether_stopping">Выключение точки доступа…</string>
-    <string name="wifi_traffic_priority">Режим трафика Wi-Fi</string>
+    <string name="wifi_traffic_priority">Приоритет трафика Wi-Fi</string>
     <string name="wifi_traffic_priority_extreme">Экстремальный режим</string>
-    <string name="wifi_traffic_priority_extreme_summary">Отдавать большую часть полосы пропускания активному приложению. Подключение может быть недоступно для фоновых процессов.</string>
+    <string name="wifi_traffic_priority_extreme_summary">Отдавать большую часть полосы пропускания активному приложению. Для фоновых процессов подключение может стать недоступным.</string>
     <string name="wifi_traffic_priority_off">Откл.</string>
     <string name="wifi_traffic_priority_on">Вкл.</string>
     <string name="wifi_traffic_priority_regular">Обычный режим</string>
     <string name="wifi_traffic_priority_regular_summary">Делить полосу пропускания между фоновыми процессами и активным приложением</string>
-    <string name="wifi_traffic_priority_summary">Автоматическая настройка приоритетов скорости</string>
+    <string name="wifi_traffic_priority_summary">Интеллектуальная настройка приоритета трафика Wi-Fi</string>
     <string name="wifi_turned_on_message">Wi-Fi включен</string>
     <string name="wifi_type_approval_dialog_title">Номер NTC</string>
     <string name="wifi_type_approval_title">Утверждение типа</string>
