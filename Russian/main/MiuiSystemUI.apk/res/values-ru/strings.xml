@@ -420,9 +420,20 @@
     <string name="branded_vpn_footer">Действия в сети могут отслеживаться</string>
     <string name="broadcast_tile">Кнопка трансляции</string>
     <string name="bt_hci_snoop_log">Включить журнал HCI Bluetooth</string>
-    <string name="bt_hci_snoop_log_summary">Записывать все пакеты Bluetooth HCI в журнал</string>
+    <string name="bt_hci_snoop_log_summary">Запись пакетов Bluetooth (переключите Bluetooth после изменения этой настройки)</string>
     <string name="bt_is_off">Bluetooth отключен</string>
-    <string name="btn_camera">Добавить лицо</string>
+    <string name="btn_camera">Добавить данные лица</string>
+    <string name="bubble_accessibility_action_move">Перемещение</string>
+    <string name="bubble_accessibility_action_move_bottom_left">Переместить в нижний левый</string>
+    <string name="bubble_accessibility_action_move_bottom_right">Переместить в нижний правый</string>
+    <string name="bubble_accessibility_action_move_top_left">Переместить в верхний левый</string>
+    <string name="bubble_accessibility_action_move_top_right">Переместить в верхний правый</string>
+    <string name="bubble_content_description_single">%1$s от %2$s</string>
+    <string name="bubble_content_description_stack">%1$s от %2$s и %3$d</string>
+    <string name="bubble_dismiss_text">Отклонить</string>
+    <string name="bubbles_deep_link_button_description">Открыть %1$s</string>
+    <string name="bubbles_prompt">Разрешить всплывающие уведомления от %1$s?</string>
+    <string name="bubbles_settings_button_description">Настройки для всплывающих уведомлений %1$s</string>
     <string name="bugreport_in_power">Отчет об ошибке</string>
     <string name="bugreport_in_power_summary">Показывать в меню кнопки \"Питание\" кнопку для отправки отчета об ошибке</string>
     <string name="button_convert_fbe">Очистить и перейти…</string>
@@ -469,6 +480,7 @@
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включен этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить OEM разблокировку?</string>
     <string name="confirm_pin_msg">Введите PIN повторно</string>
+    <string name="connected_via_app">Подключено через %1$s</string>
     <string name="connected_via_network_scorer">Автоматически подключено к %1$s</string>
     <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
     <string name="connected_via_passpoint">Подключено через %1$s</string>
@@ -480,6 +492,7 @@
     <string name="convert_to_file_encryption">Переход к шифрованию файлов</string>
     <string name="convert_to_file_encryption_done">Шифрование файлов уже включено</string>
     <string name="convert_to_file_encryption_enabled">Перейти…</string>
+    <string name="copy">Копировать</string>
     <string name="custom_lock_wallpaper_enter">Вход</string>
     <string name="daltonizer_mode_deuteranomaly">Дейтераномалия (красный-зеленый)</string>
     <string name="daltonizer_mode_disabled">Отключено</string>
@@ -500,6 +513,7 @@
     <string name="data_usage_disabled_dialog_enable">Возобновить</string>
     <string name="data_usage_disabled_dialog_mobile_title">Передача данных остановлена</string>
     <string name="data_usage_disabled_dialog_title">Передача данных остановлена</string>
+    <string name="data_usage_ota">Обновления системы</string>
     <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
     <string name="debug_app">Приложение для отладки</string>
@@ -641,6 +655,7 @@
     <string name="face_data_siggesstion_next_time">Далее (%d с)</string>
     <string name="face_data_suggesstion_first">Внимание: разблокировка по лицу менее безопасна, чем использование кода, пароля или графического ключа. Устройство может быть разблокировано вашей фотографией, а также людьми с похожей внешностью.</string>
     <string name="face_data_suggesstion_second">Убедитесь, что все части лица ничем не закрыты и хорошо видны. Ваше лицо должно быть хорошо освещено.</string>
+    <string name="face_dialog_looking_for_face">Поиск лица…</string>
     <string name="face_unlock_adjust_distance">Убедитесь, что расстояние между лицом и устройством оптимально</string>
     <string name="face_unlock_be_on_the_screen">Держите устройство напротив лица</string>
     <string name="face_unlock_by_notification_screen_on_msg">Разблокировать устройство по лицу, когда экран включается при поступлении уведомлений. Возможен более быстрый разряд батареи.</string>
@@ -699,8 +714,6 @@
     <string name="float_incall_message">Сообщение</string>
     <string name="force_allow_on_external">Сохранение на внешних накопителях</string>
     <string name="force_allow_on_external_summary">Разрешить приложениям сохранение на внешних накопителях независимо от значений в манифесте</string>
-    <string name="force_hw_ui">Включить GPU-ускорение</string>
-    <string name="force_hw_ui_summary">Всегда использовать GPU для двухмерной отрисовки</string>
     <string name="force_msaa">Включить 4x MSAA</string>
     <string name="force_msaa_summary">Включить 4x MSAA в приложениях OpenGL ES 2.0</string>
     <string name="force_resizable_activities">Разрешать изменение размера</string>
@@ -805,7 +818,9 @@
     <string name="install_other_apps">Ненадежные источники</string>
     <string name="installer_cd_button_title">Установить Android File Transfer для Mac</string>
     <string name="instant_apps">Приложения с мгновенным запуском</string>
-    <string name="instant_apps_message">Приложения с мгновенным запуском не требуют установки.</string>
+    <string name="instant_apps_message">Открытие приложений без их установки.</string>
+    <string name="instant_apps_message_with_help">Открытие приложений без их установки. Нажмите, чтобы узнать больше.</string>
+    <string name="instant_apps_title">%1$s запущено</string>	
     <string name="interruption_level_alarms">Только будильники</string>
     <string name="interruption_level_alarms_twoline">"Только
 будильники"</string>
