@@ -55,8 +55,8 @@
   <string name="accessibility_video_pause_button">Запись видео приостановлена</string>
   <string name="accessibility_video_resume_button">Запись видео возобновлена</string>
   <string name="accessibility_zoom_button">Приближение</string>
-  <string name="ai_scene_mode_use_hint_text">"AI камера автоматически распознаёт сюжеты
-и оптимизирует фото на основе этих данных"</string>
+  <string name="ai_scene_mode_use_hint_text">"Распознавать сцены с помощью AI
+и настраивать параметры автоматически"</string>
   <string name="audio_focus_exit_button_text">Отключить Аудио фокус</string>
   <string name="autozoom_click_hint">Нажмите на объект, чтобы держать его в фокусе, пока он движется. Для лучшего эффекта расстояние должно быть не менее 3 метров.</string>
   <string name="autozoom_disabled_hint">Остановка отслеживания движущегося объекта</string>
