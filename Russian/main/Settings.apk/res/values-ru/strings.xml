@@ -1370,6 +1370,8 @@
     <string name="cloud_restore_section_summary">Восстановление настроек системы, раскладки рабочего стола и приложений</string>
     <string name="cloud_restore_section_title">Восстановление из Xiaomi Cloud</string>
     <string name="cmcc_hardware_version">Версия оборудования</string>
+    <string name="codec_low_latency_summary">Минимальная задержка при синхронизации аудио/видео</string>
+    <string name="codec_low_latency_title">Минимальная задержка</string>	
     <string name="color_black">Черный</string>
     <string name="color_blue">Синий</string>
     <string name="color_calibration_none">Натуральный</string>
