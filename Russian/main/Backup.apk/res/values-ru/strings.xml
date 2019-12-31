@@ -68,6 +68,7 @@
   <string name="button_send">Отправить</string>
   <string name="call_title">Журнал вызовов</string>
   <string name="camera_summary">Настройки камеры (без фотографий)</string>
+  <string name="camera_summary_for_cta">Настройки камеры</string>
   <string name="cancel">Отмена</string>
   <string name="cancel_backup">Отменить</string>
   <string name="cancel_moving_dialog_message">Остановить импорт?</string>
