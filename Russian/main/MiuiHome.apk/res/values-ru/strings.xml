@@ -116,6 +116,9 @@
     <string name="category_cannot_empty">Введите название категории</string>
     <string name="category_choose_no_app_select_tip">Добавьте приложение</string>
     <string name="category_drawer_name_hint">Введите название категории</string>
+    <string name="category_edit_back_confirm_dialog_content">Сохранить изменения?</string>
+    <string name="category_edit_back_confirm_dialog_negative_button">Отмена</string>
+    <string name="category_edit_back_confirm_dialog_positive_button">Сохранить</string>	
     <string name="category_group">Включить категории</string>
     <string name="category_group_summary">Группировка приложений в меню по категориям</string>
     <string name="category_not_selected">Доступные приложения</string>
