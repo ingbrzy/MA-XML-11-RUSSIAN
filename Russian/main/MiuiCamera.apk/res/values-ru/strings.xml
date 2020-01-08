@@ -57,6 +57,11 @@
   <string name="accessibility_zoom_button">Приближение</string>
   <string name="ai_scene_mode_use_hint_text">"Распознавать сцены с помощью AI
 и настраивать параметры автоматически"</string>
+  <string name="ai_scene_top_moon_off">Режим слабого освещения</string>
+  <string name="ai_scene_top_tip">Начной режим</string>
+  <string name="ai_watermark_title">Водяной знак AI</string>
+  <string name="ai_watermark_toast_off">Водяной знак AI выключен</string>
+  <string name="ai_watermark_toast_on">Водяной знак AI включен</string>
   <string name="audio_focus_exit_button_text">Отключить Аудио фокус</string>
   <string name="autozoom_click_hint">Нажмите на объект, чтобы держать его в фокусе, пока он движется. Для лучшего эффекта расстояние должно быть не менее 3 метров.</string>
   <string name="autozoom_disabled_hint">Остановка отслеживания движущегося объекта</string>
@@ -103,6 +108,7 @@
   <string name="cannot_move_warning_message">Не двигайте устройство при съемке</string>
   <string name="color_effect_entry_berry">Ягоды</string>
   <string name="color_effect_entry_blackwhite">Ч/Б</string>
+  <string name="color_effect_entry_classic">Классика</string>
   <string name="color_effect_entry_cookie">Печенье</string>
   <string name="color_effect_entry_delicacy">Лакомство</string>
   <string name="color_effect_entry_fade">Блеклый</string>
@@ -114,6 +120,16 @@
   <string name="color_effect_entry_soda">Лимонад</string>
   <string name="color_effect_entry_vivid">Яркий</string>
   <string name="color_effect_entry_warm">Солнце</string>
+  <string name="color_effect_live_blue">Орхидея</string>
+  <string name="color_effect_live_deepblack">Глубокий черный</string>
+  <string name="color_effect_live_fair">Бледный</string>
+  <string name="color_effect_live_hongkong">Баухиния</string>
+  <string name="color_effect_live_mousse">Мусс</string>
+  <string name="color_effect_live_none">Обычный</string>
+  <string name="color_effect_live_solar">Голубое небо</string>
+  <string name="color_effect_live_years">Сепия</string>
+  <string name="color_enhance">Яркий режим</string>
+  <string name="color_enhance_mode">Яркий режим</string>
   <string name="config_name_group">Групповое селфи</string>
   <string name="config_name_hht">Ночной</string>
   <string name="config_name_magic">Магия</string>
@@ -124,6 +140,7 @@
   <string name="config_name_super_resolution">Суперразрешение</string>
   <string name="config_name_tilt">Tilt-shift</string>
   <string name="config_name_timer">Таймер</string>
+  <string name="config_name_mimovie">Режим кино</string>
   <string name="confirm_install_scanner_message">Приложение позволяет сканировать QR-коды, штрихкоды и т.д. Для его установки не требуется подключение к интернету.</string>
   <string name="confirm_install_scanner_title">Установите Сканер</string>
   <string name="confirm_location_alert">Запоминать место съемки</string>
@@ -911,6 +928,11 @@
 записывать и редактировать видео на ходу"</string>
   <string name="vv_use_hint_text_title">Видеоблог</string>
   <string name="wait">Подождите…</string>
+  <string name="watermark_tab_city">город</string>
+  <string name="watermark_tab_festival">фестиваль</string>
+  <string name="watermark_tab_general">общая</string>
+  <string name="watermark_tab_scene">сцена</string>
+  <string name="watermark_tab_spots">спорт</string>
   <string name="wideselfie_press_shoot_key_to_start">Нажмите кнопку съемки</string>
   <string name="wideselfie_result_image_lossless">"Не удалось сохранить панораму"</string>
   <string name="wideselfie_rotate_slowly">Медленно поверните телефон в сторону</string>

@@ -1236,6 +1236,7 @@
     <string name="calendar_sound_dialog_title">Выберите звук календаря</string>
     <string name="calendar_sound_title">Календарь</string>
     <string name="call_category">Вызовы</string>
+    <string name="call_example_name">Имя</string>
     <string name="call_manager_enable_summary">Управление вызовами.</string>
     <string name="call_manager_enable_title">Включить менеджер вызовов</string>
     <string name="call_manager_title">Менеджер вызовов</string>
@@ -6362,6 +6363,10 @@ UT-интерфейс: %5$s"</string>
     <string name="use_location_title">Учитывать при поиске</string>
     <string name="use_open_wifi_automatically_summary">Автоматически подключаться к общедоступным сетям с хорошим сигналом</string>
     <string name="use_open_wifi_automatically_title">Подключаться к открытым сетям</string>
+    <string name="use_otg_charge_only">Обратная зарядка</string>
+    <string name="use_otg_charge_only_summary">Быстрая 1А зарядка</string>
+    <string name="use_otg_file_transfers">Обратная зарядка &amp; передачи файлов</string>
+    <string name="use_otg_file_transfers_summary">Медленная зарядка 500 мА и передача файлов</string>
     <string name="use_personalized_ad_service">Персональные объявления</string>
     <string name="use_personalized_ad_service_summary">Если эта функция отключена, вы по-прежнему будете видеть такое же количество объявлений, но уже не на основе данных о ваших действиях или личной информации</string>
     <string name="use_privacy_password_immediate">Попробовать</string>

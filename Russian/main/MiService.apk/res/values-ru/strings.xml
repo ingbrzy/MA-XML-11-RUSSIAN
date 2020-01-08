@@ -32,6 +32,8 @@
     <string name="miservice_channel_guide_name">Руководство</string>
     <string name="miservice_channel_update_notification_info">Приложение \"Сервисы и обратная связь\" запрашивает данные из интернета…</string>
     <string name="miservice_notification_boot_content">Узнайте больше о возможностях MIUI</string>
+    <string name="miservice_notification_huanji_content">Передайте их с помощью Mi Mover</string>
+    <string name="miservice_notification_huanji_title">Есть важные предметы на вашем старом телефоне?</string>
     <string name="miservice_notification_open_feedback_content">Все функции приложения \"Отзыв\" были перенесены в новое приложение</string>
     <string name="miservice_notification_open_feedback_title">Представляем \"Сервисы и обратная связь\"</string>
     <string name="miui_feedback_answer_detail_community">Вы можете найти ответы на свои вопросы в Сообществе Mi</string>
