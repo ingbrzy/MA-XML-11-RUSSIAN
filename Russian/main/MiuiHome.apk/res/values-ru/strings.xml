@@ -101,6 +101,7 @@
     <string name="aqi_quality_index_moderate">Приемлемый</string>
     <string name="aqi_quality_index_unhealthy">Нездоровый</string>
     <string name="backup_fail">Сбой резервного копирования</string>
+    <string name="auto_add_app_shortcut">Добавить недавно установленные приложения на главный экран</string>
     <string name="auto_delete_category_dialog_content">Категория и связанные с ней приложения будут удалены. Удалить?</string>
     <string name="auto_delete_category_dialog_title">Удаление категорий</string>	
     <string name="bad_wallpaper_source_prompt">Не удалось загрузить обои</string>
@@ -316,6 +317,7 @@
     <string name="notification_installed">Установка завершена</string>
     <string name="notification_open_button">Открыть</string>
     <string name="notification_reset_title">Значки упорядочены</string>
+    <string name="one_key_call_title">Нажмите, чтобы набрать номер</string>
     <string name="online_wallpaper">Онлайн</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Отмена</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Отключить</string>

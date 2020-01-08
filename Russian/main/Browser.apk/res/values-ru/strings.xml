@@ -862,4 +862,5 @@
     <string name="voice_title_speech_again">Не удалось распознать</string>  
     <string name="webpage_title">Закладки</string>
     <string name="wechat_not_installed">Wechat не установлен</string>
+    <string name="vo_mi_ad_detail">Открыть в %s</string>
 </resources>
