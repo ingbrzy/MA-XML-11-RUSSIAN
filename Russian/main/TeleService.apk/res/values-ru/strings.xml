@@ -945,6 +945,8 @@
   <string name="not_a_valid_port">Номер порта должен быть от %1$d до %2$d.</string>
   <string name="not_allowed">Ваша SIM-карта не поддерживает подключение к этой сети</string>
   <string name="not_voice_capable">Голосовые вызовы не поддерживаются</string>
+  <string name="notification_demo_version_text">"Невозможно совершать звонки или использовать мобильные данные"</string>
+  <string name="notification_demo_version_title">Это демонстрационное устройство</string>
   <string name="notification_network_selection_text">Выбранная сеть (%s) недоступна</string>
   <string name="notification_network_selection_title">Нет сети</string>
   <string name="notification_voicemail_no_vm_number">Номер голосовой почты неизвестен</string>

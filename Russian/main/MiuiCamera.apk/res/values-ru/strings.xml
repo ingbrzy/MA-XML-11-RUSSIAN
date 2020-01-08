@@ -878,6 +878,10 @@
   <string name="user_agreement4">Политика конфиденциальности</string>
   <string name="user_notice_identify_summary_format">Используя эту услугу, вы принимаете %1$s и %2$s Xiaomi. Согласны подключиться к интернету?</string>
   <string name="user_notice_title">Условия использования</string>
+  <string name="video_beauty_tip">Украсить видео</string>
+  <string name="video_beauty_tip_beautification">Украсить</string>
+  <string name="video_beauty_tip_filter">Фильтры</string>
+  <string name="video_beauty_tip_portrait_bokeh">Боке</string>
   <string name="video_camera_label">Видеокамера</string>
   <string name="video_effect_entry_blackwhite">Ч/Б</string>
   <string name="video_effect_entry_bygone">Ретро</string>

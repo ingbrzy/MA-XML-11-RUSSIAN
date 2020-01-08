@@ -27,9 +27,13 @@
     <string name="alarmclock_empty_text">Нет будильников</string>
     <string name="alarmclock_silent_hint">Звук будильника отключен</string>
     <string name="alert">Мелодия</string>
+    <string name="alert_ringtone">Мелодия будильника</string>
+    <string name="alert_volume">Громкость звонка</string>
+    <string name="alert_volume_summary">Установить громкость звонка для будильников и таймеров</string>
     <string name="analog_gadget">Часы со стрелками</string>
     <string name="app_label">Часы</string>
     <string name="auto_silence_never">Никогда</string>
+    <string name="auto_silence_summary">Установите время, после которого будильники и таймеры будут отключены</string>
     <string name="auto_silence_title">Автоотключение сигнала</string>
     <string name="back">Выход</string>
     <string name="battery_charging_level">%d%%</string>
@@ -110,6 +114,7 @@
     <string name="done">Готово</string>
     <string name="dynamic_alarm_speech">Умный будильник</string>
     <string name="edit_alarm">Изменение будильника</string>
+    <string name="edit_label">Изменить метку будильника/string>
     <string name="edit_systemtime">Настройки даты и времени</string>
     <string name="edit_systemtime_setting_summary">Дата, время и двойные часы</string>
     <string name="every_day">Ежедневно</string>
@@ -122,6 +127,7 @@
     <string name="holiday_update_fail">Ошибка обновления</string>
     <string name="holiday_update_loading">Обновление…</string>
     <string name="holiday_update_success">Обновление не требуется</string>
+    <string name="holiday_update_title">Обновление информации о государственных праздниках</string>
     <string name="hour_unit">Час +</string>
     <string name="install_weather_app_error">Не удалось загрузить приложение</string>
     <string name="install_weather_app_loading">Подождите…</string>
@@ -129,6 +135,8 @@
     <string name="invalid_timer_length">Недопустимая длительность таймера</string>
     <string name="keep_screen_on">Не выключать экран</string>
     <string name="label">Добавить описание</string>
+    <string name="label_input_desc">Эта описание будет отображаться на экране, когда сработает будильник</string>
+    <string name="label_input_hint">Введите описание</string>
     <string name="label_pref_summary">Описание</string>
     <string name="lap">Круг</string>
     <string name="lap_num">Круг</string>
@@ -209,18 +217,24 @@
     <string name="module_white_noise_download_wifi">Приложению требуется загрузить аудиофайлы звуков природы для таймеров. Загрузить?</string>
     <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Для загрузки аудиофайлов звуков природы для таймеров и предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; Согласны?&lt;/Data&gt;</string>
     <string name="monday_to_friday">По будням</string>
+    <string name="more_alert_setting">Дополнительные настройки будильника</string>
     <string name="more_setting">Прочие настройки</string>
     <string name="more_settings">Настройки</string>
+    <string name="net_permission_cancel">"Не согласен"</string>
+    <string name="net_permission_ok">Согласен</string>
     <string name="network_privacy">&lt;Data&gt;Для получения актуальной информации о праздниках и настройки будильников приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
     <string name="network_privacy_global">&lt;Data&gt;Для предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;. Согласны?&lt;/Data&gt;</string>
     <string name="never">Однократно</string>
+    <string name="new_label">Добавить описание будильника</string>
     <string name="no_alarm_setting">Нет будильников</string>
-    <string name="no_worldclock">Нет часов</string> 
+    <string name="no_worldclock">Нет часов</string>
+    <string name="normal_settings">Общие настройки</string> 
     <string name="not_update">Не сейчас</string>
     <string name="oneshot_alarm">Удалить после срабатывания</string>
     <string name="open_keep_screen">Экран будет включен постоянно</string>
     <string name="open_sleep_record">Включить</string>
     <string name="other_category_title">Прочее</string>
+    <string name="other_settings">Дополнительные настройки</string>
     <string name="pause">Пауза</string>
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">Получать рекомендации</string>
@@ -237,6 +251,7 @@
     <string name="revert">Назад</string>
     <string name="ringtone_all">Все мелодии</string>
     <string name="ringtone_dew">Утренняя роса</string>
+    <string name="ringtone_digital_timer">Таймер</string>
     <string name="ringtone_dream">Грезы</string>
     <string name="ringtone_firefly">Светлячки</string>
     <string name="ringtone_other">Другое</string>
@@ -313,6 +328,7 @@
     <string name="time_picker_label_hour">Ч</string>
     <string name="time_picker_label_minute">М</string>
     <string name="time_picker_label_second">С</string>
+    <string name="time_settings">Настройки часов</string>
     <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">Нажмите для отключения сигнала</string>
     <string name="timer_alarm_dot_matrix_label">ТАЙМЕР</string>
@@ -348,6 +364,7 @@
     <string name="timer_new_item">Добавить</string>
     <string name="timer_notify_text">Отложите или отключите таймер.</string>
     <string name="timer_pause_timer">Остановить таймер</string>
+    <string name="timer_ringtone">Мелодия таймера</string>
     <string name="timer_running">Таймер запущен</string>
     <string name="timer_start_alarm">Время истекло!</string>
     <string name="timer_start_timer">Запустить таймер</string>

@@ -90,6 +90,12 @@
         <item quantity="few">Удалить %1$d объекта из истории?</item>
         <item quantity="many">Удалить %1$d объектов из истории?</item>
     </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"Не удалось загрузить видео. 
+Будет воспроизведено следующее через %d секунд…"</item>
+        <item quantity="one">"Не удалось загрузить видео. 
+Будет воспроизведено следующее через %d секунд…"</item>
+    </plurals>
     <plurals name="video_push_multi_message">
         <item quantity="other">Доступно %1$d обновлений.</item>
         <item quantity="one">Доступно %1$d обновление.</item>
