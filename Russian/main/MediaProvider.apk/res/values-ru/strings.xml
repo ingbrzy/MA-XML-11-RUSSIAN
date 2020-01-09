@@ -8,7 +8,7 @@
   <string name="artist_label">Исполнитель</string>
   <string name="delete_ringtone_text">Удалить</string>
   <string name="grant_dialog_button_allow">Разрешить</string>
-  <string name="grant_dialog_button_deny">Запретить</string>  
+  <string name="grant_dialog_button_deny">Отклонить</string>  
   <string name="notification_sound_default">Звук уведомления по умолчанию</string>
   <string name="ringtone_default">Рингтон по умолчанию</string>
   <string name="permission_audio">Разрешить &lt;b&gt;^1&lt;/b&gt; изменение или удаление этой музыки?</string>
