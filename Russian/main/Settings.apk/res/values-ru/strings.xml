@@ -4164,6 +4164,8 @@ OTG отключается автоматически через 10 минут �
     <string name="ping_test_label">Выполнить тест ping</string>
     <string name="please_select_phase2">2-й этап аутентификации</string>
     <string name="please_type_passphrase">Пароль сети</string>
+    <string name="poco_launcher_privacy_policy">Политика конфиденциальности POCO Launcher</string>
+    <string name="poco_launcher_user_agreement">Пользовательское соглашение POCO Launcher</string>	
     <string name="pointer_location">Местоположение указателя</string>
     <string name="pointer_location_summary">Отображать касания</string>
     <string name="pointer_settings_category">Мышь и сенсорная панель</string>
@@ -6364,7 +6366,7 @@ UT-интерфейс: %5$s"</string>
     <string name="use_open_wifi_automatically_summary">Автоматически подключаться к общедоступным сетям с хорошим сигналом</string>
     <string name="use_open_wifi_automatically_title">Подключаться к открытым сетям</string>
     <string name="use_otg_charge_only">Обратная зарядка</string>
-    <string name="use_otg_charge_only_summary">Быстрая 1А зарядка</string>
+    <string name="use_otg_charge_only_summary">Быстрая 1.8А зарядка</string>
     <string name="use_otg_file_transfers">Обратная зарядка и передача файлов</string>
     <string name="use_otg_file_transfers_summary">Медленная зарядка 500 мА и передача файлов</string>
     <string name="use_otg_title">Подключение USB на лету</string>
