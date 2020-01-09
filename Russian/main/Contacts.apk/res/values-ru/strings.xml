@@ -385,17 +385,17 @@
     <string name="device_paired_dialog_title">Получение контактов…</string>
     <string name="device_pairing_dialog_message">Подключение…</string>
     <string name="device_pairing_dialog_title">Подключение устройств</string>
-    <string name="device_transfer_by_bluetooth_message">"1. Пожалуйста, включите \"Bluetooth\" на другом устройстве. 
+    <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Включите \"Bluetooth\" на другом устройстве. 
 
 - на Android-устройствах \"Bluetooth\" обычно располагается в настройках сети 
 - на iOS-устройствах \"Bluetooth\" находится в меню Настройки 
 
-2. На Android-устройствах также необходимо включить \"Видимость\". 
+%d. На Android-устройствах также необходимо включить \"Видимость\". 
 
-3. Нажмите \"Далее\" и разрешите доступ к Контактам на следующем шаге."</string>
-    <string name="device_transfer_by_sim_message">"\"1. Сохраните контакты с другого устройства на SIM-карту; 
+%d. Нажмите \"Далее\" и разрешите доступ к Контактам на следующем шаге."</string>
+    <string name="device_transfer_by_sim_message" formatted="false">"%d. Сохраните контакты с другого устройства на SIM-карту; 
 
-2. Откройте настройки Контактов, перейдите в \"Импорт и экспорт\" -- \"Импорт с SIM карты\", выберите нужный аккаунт, выберите все нужные контакты и нажмите \"Импорт\".\""</string>
+%d. Откройте настройки Контактов, перейдите в \"Импорт и экспорт\" -- \"Импорт с SIM карты\", выберите нужный аккаунт, выберите все нужные контакты и нажмите \"Импорт\"."</string>
     <string name="device_version_header_bluetooth">Импорт с помощью Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Импорт с помощью SIM-карты</string>
     <string name="dial">Вызов</string>
@@ -555,8 +555,8 @@
     <string name="import_from_sim2">Импорт с SIM карты 2</string>
     <string name="import_multiple_vcard_string">Импорт нескольких vCard</string>
     <string name="import_name">Имя</string>
-    <string name="import_one_vcard_string">Импорт 1 файла vCard</string>
-    <string name="import_percent">0%</string>
+    <string name="import_one_vcard_string">Импорт файлов vCard: %d</string>
+    <string name="import_percent">%1$d%2$s</string>
     <string name="import_selected_sim_entries_miui">Импорт выбранных контактов</string>
     <string name="import_sim_contacts_hint_title">Импорт контактов с SIM карты</string>
     <string name="import_sim_entries_finish">Импорт контактов с SIM карты завершен</string>
@@ -829,6 +829,8 @@
     <string name="path_wipe_data">Системные приложения/Контакты/Дополнительные функции/Очистка данных</string>
     <string name="payphone">Таксофон</string>
     <string name="people">Контакты</string>
+    <string name="percent_sign">%1$s</string>
+    <string name="percentage">%1$s%2$s</string>	
     <string name="phoneLabelsGroup">Телефон</string>
     <string name="phone_number_too_long_toast">Номер слишком длинный</string>
     <string name="phone_primary">Основной</string>
@@ -1042,7 +1044,7 @@
     <string name="set_photo_failed_msg">Не удалось назначить изображение</string>
     <string name="share_contact_as">Отправить контакт как</string>
     <string name="share_error">Не удалось передать данные</string>
-    <string name="share_over_limit">Нельзя передать более 1000 контактов</string>
+    <string name="share_over_limit">Нельзя передать более %d контактов</string>
     <string name="share_qrcode">Отправить QR-код</string>
     <string name="share_via">Отправить с помощью</string>
     <string name="share_visible_contacts">Отправить контакты</string>
@@ -1085,9 +1087,9 @@
     <string name="smart_group_company_label">Компании</string>
     <string name="smart_group_company_unavailable">Нет компании</string>
     <string name="smart_group_frequency_1">В течение месяца</string>
-    <string name="smart_group_frequency_2">От 1 до 3 месяцев</string>
-    <string name="smart_group_frequency_3">От 3 до 6 месяцев</string>
-    <string name="smart_group_frequency_4">Более 6 месяцев назад</string>
+    <string name="smart_group_frequency_2" formatted="false">От %d до %d месяцев</string>
+    <string name="smart_group_frequency_3" formatted="false">От %d до %d месяцев</string>
+    <string name="smart_group_frequency_4">Более %d месяцев назад</string>
     <string name="smart_group_frequency_label">Давность</string>
     <string name="smart_group_label">Умные группы</string>
     <string name="smart_group_loading">Подождите…</string>
@@ -1135,9 +1137,9 @@
     <string name="t9_search_empty_send_sms">Отправить сообщение</string>
     <string name="t9_search_empty_video_call">Видеовызов</string>
     <string name="t9_search_guide_pinyin_title1">Введите цифры для поиска контактов</string>
-    <string name="t9_search_guide_pinyin_title2">Введите \"9\" и \"4\", чтобы найти \"<font fgcolor="">Э</font>ммануил <font fgcolor="">К</font>ант\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Введите \"9\" и \"4\", чтобы найти \"<font fgcolor="">Э</font>ммануил <font fgcolor="">К</font>ант\"</string>
     <string name="t9_search_guide_zhuyin_title1">Введите цифры для поиска контактов</string>
-    <string name="t9_search_guide_zhuyin_title2">Введите \"5\" и \"6\", чтобы найти \"<font fgcolor="">Н</font>аташа <font fgcolor="">Р</font>остова\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Введите \"5\" и \"6\", чтобы найти \"<font fgcolor="">Н</font>аташа <font fgcolor="">Р</font>остова\"</string>
     <string name="take_new_photo">Снять новое фото</string>
     <string name="take_photo">Снять фото</string>
     <string name="titleJoinContactDataWith">Объединить контакты</string>

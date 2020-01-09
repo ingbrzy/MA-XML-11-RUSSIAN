@@ -132,7 +132,7 @@
     <string name="usage_exit">Выход</string>
     <string name="usage_focus_focus_premission_main_summary">Приложению необходим доступ к вашей учетной записи для записи статистики использования Режима медитации.</string>
     <string name="usage_focus_focus_premission_second_summary">Если вы не предоставите необходимые разрешения, некоторые функции этого приложения будут недоступны, за исключением основных функций. Вы всегда можете ограничить права доступа или отменить авторизацию в настройках.</string>
-    <string name="usage_focus_new_summary">Стать более внимательным и целенаправленным</string>
+    <string name="usage_focus_new_summary">Станьте более внимательными и целенаправленными</string>
     <string name="usage_focus_save_success">Сохранено в Галерее</string>
     <string name="usage_focus_summary_level1">Уделите несколько минут медитации, это легко.</string>
     <string name="usage_focus_summary_level2">Медитация может стать полноценной практикой.</string>
@@ -206,7 +206,7 @@
     <string name="usage_state_friday">Пт</string>
     <string name="usage_state_go_more">Другие приложения</string>
     <string name="usage_state_hour_minute">%1$d ч. %2$d мин.</string>
-    <string name="usage_state_less_one_minute">Меньше 1 мин.</string>
+    <string name="usage_state_less_one_minute">&lt; 1 мин.</string>
     <string name="usage_state_monday">Пн</string>
     <string name="usage_state_mourth_day">Время экрана %s</string>
     <string name="usage_state_noti_mourth_day">Уведомлений %s</string>
@@ -255,7 +255,7 @@
     <string name="usage_stats_week_day">Выходные дни</string>
     <string name="usage_total_days">Всего дней</string>
     <string name="usage_total_times">Всего сессий</string>
-    <string name="usage_weekly_report_summary">Узнайте, как вы проводите время с вашим устройством</string>
+    <string name="usage_weekly_report_summary">Узнайте, сколько времени вы проводите с устройством</string>
     <string name="usage_weekly_report_title">Еженедельный отчет</string>
     <string name="usagestats_app_category_miui_education">Образование</string>
     <string name="usagestats_app_category_miui_entainment">Развлечения</string>
