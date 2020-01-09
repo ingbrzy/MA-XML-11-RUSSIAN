@@ -32,6 +32,10 @@
   <string name="ac_post_notification_contentTitle">Включите Защиту приложений</string>
   <string name="ac_pre_notification_contentText">Защитите ваши личные данные</string>
   <string name="ac_pre_notification_contentTitle">Защита приложений</string>
+  <string name="ac_recommend_guide_dialog_app_content">Включите защиту для этого приложения, чтобы обеспечить безопасность личной информации.</string>
+  <string name="ac_recommend_guide_dialog_content">Включите Защиту приложений, чтобы обеспечить безопасность личной информации.</string>
+  <string name="ac_recommend_guide_dialog_ignore">Больше не показывать</string>
+  <string name="ac_recommend_guide_dialog_open">Включить</string>
   <string name="ac_summaryOff">Защита отключена, ввод пароля для открытия приложений не требуется</string>
   <string name="ac_summaryOn">Для открытия защищенных приложений требуется ввод пароля</string>
   <string name="ac_unmask_all_apps">Не скрывать для всех</string>
@@ -304,7 +308,7 @@
   <string name="applock_add_account">Привязать</string>
   <string name="applock_add_account_info">Привяжите Mi Аккаунт, чтобы иметь возможность сбросить пароль, если вы его забыли</string>
   <string name="applock_add_account_setting">Привязка к аккаунту Mi</string>
-  <string name="applock_app_recommend_lock_title">Можно заблокировать следующие приложения</string>
+  <string name="applock_app_recommend_lock_title">Можно защитить следующие приложения</string>
   <string name="applock_bind_account_title">Забыли пароль?</string>
   <string name="applock_close_dialog_summary">Защита приложений будет отключена. Ярлыки скрытых приложений будут восстановлены на рабочем столе, а пароль защиты удален. Отключить защиту?</string>
   <string name="applock_close_dialog_title">Отключение защиты</string>
@@ -328,14 +332,14 @@
   <string name="applock_guide_tip3_global">Скрыть содержание уведомления.</string>
   <string name="applock_guide_title">Защитите свои личные данные с помощью блокировки приложений</string>
   <string name="applock_header_text_less_than_half">Слишком мало. Перетащите дальше.</string>
-  <string name="applock_lock_all">Заблокировать все</string> 
+  <string name="applock_lock_all">Выбрать все</string> 
   <string name="applock_login_and_add_account">Войти и привязать</string>
   <string name="applock_not_add_account"><u>Не сейчас</u></string>
   <string name="applock_not_login_account">Вход не выполнен</string>
   <string name="applock_set_password_title">Изменение типа пароля</string>
   <string name="applock_settings_unlock_all_toast">Все приложения разблокированы</string>
   <string name="applock_toast_tip">Проверено успешно</string>
-  <string name="applock_unlock_all">Разблокировать все</string>
+  <string name="applock_unlock_all">Отменить выбор</string>
   <string name="apps_item_sign_dialog_content">Подпись %s отличается от версии в Mi Apps. Удалить это приложение и установить официальную версию? Внимание: установка приложения с конфликтующей подписью может привести к потере данных приложения.</string>
   <string name="apps_item_sign_dialog_title">Установите официальное приложение</string>
   <string name="apps_item_sign_install_button_text">Заменить</string>
