@@ -115,7 +115,7 @@
     <string name="dynamic_alarm_speech">Умный будильник</string>
     <string name="edit_alarm">Изменение будильника</string>
     <string name="edit_label">Изменить метку будильника</string>
-    <string name="edit_systemtime">Настройки даты и времени</string>
+    <string name="edit_systemtime">Дата и время</string>
     <string name="edit_systemtime_setting_summary">Дата, время и двойные часы</string>
     <string name="every_day">Ежедневно</string>
     <string name="expired_timers_dismissed">Таймер отключен</string>
@@ -217,8 +217,8 @@
     <string name="module_white_noise_download_wifi">Приложению требуется загрузить аудиофайлы звуков природы для таймеров. Загрузить?</string>
     <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;Для загрузки аудиофайлов звуков природы для таймеров и предоставления персонализированных услуг, приложению требуется подключение к интернету. Перед использованием вы должны принять наши &amp;lt;a href=\"%1$s\"&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href=\"%2$s\"&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt; Согласны?&lt;/Data&gt;</string>
     <string name="monday_to_friday">По будням</string>
-    <string name="more_alert_setting">Дополнительные настройки будильника</string>
-    <string name="more_setting">Прочие настройки</string>
+    <string name="more_alert_setting">Настройки будильника</string>
+    <string name="more_setting">Дополнительные настройки</string>
     <string name="more_settings">Настройки</string>
     <string name="net_permission_cancel">Отмена</string>
     <string name="net_permission_ok">Согласен</string>
@@ -233,8 +233,8 @@
     <string name="oneshot_alarm">Удалить после срабатывания</string>
     <string name="open_keep_screen">Экран будет включен постоянно</string>
     <string name="open_sleep_record">Включить</string>
-    <string name="other_category_title">Прочее</string>
-    <string name="other_settings">Дополнительные настройки</string>
+    <string name="other_category_title">Другое</string>
+    <string name="other_settings">Другое</string>
     <string name="pause">Пауза</string>
     <string name="percentage_sign">%</string>
     <string name="personal_recommend">Получать рекомендации</string>

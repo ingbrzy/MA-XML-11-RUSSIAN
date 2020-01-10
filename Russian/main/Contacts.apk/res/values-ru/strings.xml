@@ -897,8 +897,8 @@
     <string name="preference_import_export">Импорт и экспорт</string>
     <string name="preference_import_export_title">Импорт и экспорт</string>
     <string name="preference_key_trash_bin_title">Восстановление контактов</string>
-    <string name="preference_other">Прочее</string>
-    <string name="preference_others">Прочее</string>
+    <string name="preference_other">Другое</string>
+    <string name="preference_others">Другое</string>
     <string name="preference_phone">Устройство</string>
     <string name="preference_phone_more_title">Вызовы</string>
     <string name="preference_privacy_policy_title">Политика конфиденциальности</string>

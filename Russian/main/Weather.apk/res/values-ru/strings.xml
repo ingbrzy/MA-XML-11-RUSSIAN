@@ -181,6 +181,7 @@
     <string name="open">Открыть</string>
     <string name="open_browser">Открыть в браузере</string>
     <string name="open_now">Открыть</string>
+    <string name="other_settings">Другое</string>
     <string name="other_warning_settings">Прочие предупреждения</string>
     <string name="particulate_matter_exceeded">Превышение</string>
     <string name="particulate_matter_not_exceeded">Норма</string>
