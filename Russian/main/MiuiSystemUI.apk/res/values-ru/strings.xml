@@ -1963,9 +1963,6 @@ d MMMM"</string>
     <string name="wifi_security_wpa2">WPA2-Personal</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2-Personal</string>
     <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi‑Fi</string>
     <string name="wifi_verbose_logging_summary">При выборе Wi‑Fi указывать в журнале RSSI для каждого SSID</string>
     <string name="window_animation_scale_title">Анимация окон</string>
