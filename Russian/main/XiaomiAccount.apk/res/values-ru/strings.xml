@@ -228,10 +228,7 @@ ID:%s
   <string name="passport_change_phone_number">Выбрать другой номер</string>
   <string name="passport_checking_account">Проверка пароля…</string>
   <string name="passport_checking_input">Проверка данных…</string>
-  <string name="passport_click_email_to_valid">"
-
-Для активации аккаунта перейдите по ссылке,
-отправленной по электронной почте."</string>
+  <string name="passport_click_email_to_valid">"Для активации аккаунта перейдите по ссылке, отправленной по электронной почте."</string>
   <string name="passport_completed">Готово</string>
   <string name="passport_confirm_login">Продолжить</string>
   <string name="passport_confirm_recycle_account">Да</string>

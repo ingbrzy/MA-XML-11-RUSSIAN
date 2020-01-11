@@ -150,10 +150,10 @@
     <string name="location_provider_btn_text">Включите определение местоположения</string>
     <string name="location_tag">Определить</string>
     <string name="manager_city_option_add_city_back_search">Вернуться к поиску</string>
-    <string name="manager_city_option_add_city_content">Добавить город, чтобы успешно запустить стартовую страницу</string>
-    <string name="manager_city_option_add_city_title">Успешно добавлено</string>
+    <string name="manager_city_option_add_city_content">Выбранный город успешно добавлен на стартовую страницу</string>
+    <string name="manager_city_option_add_city_title">Добавление</string>
     <string name="manager_city_option_add_home">Добавить на стартовую страницу</string>
-    <string name="manager_city_option_view_on_home">Просмотр на стартовой странице</string>
+    <string name="manager_city_option_view_on_home">Посмотреть на стартовой странице</string>
     <string name="menu_location">Местоположение</string>
     <string name="menu_speaker">Голосовая трансляция</string>
     <string name="minute_rain">Прогноз осадков</string>
@@ -170,7 +170,7 @@
     <string name="minute_rain_refreshing_now">Обновление…</string>
     <string name="missing_required_permission">Вы не имеете необходимых разрешений.</string>
     <string name="more_details">Подробнее</string>
-    <string name="more_expanded">Больше</string>
+    <string name="more_expanded">Еще</string>
     <string name="network_not_available">Не удалось подключиться к сети</string>
     <string name="network_unavailable">Не удалось подключиться к сети</string>
     <string name="night_not_disturb_settings_summary">Блокировать оповещения с 23:00 до 7:00</string>
@@ -181,6 +181,7 @@
     <string name="open">Открыть</string>
     <string name="open_browser">Открыть в браузере</string>
     <string name="open_now">Открыть</string>
+    <string name="other_settings">Другое</string>
     <string name="other_warning_settings">Прочие предупреждения</string>
     <string name="particulate_matter_exceeded">Превышение</string>
     <string name="particulate_matter_not_exceeded">Норма</string>

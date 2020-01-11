@@ -58,9 +58,9 @@
   <string name="ai_scene_mode_use_hint_text">"Распознавать сцены с помощью AI
 и настраивать параметры автоматически"</string>
   <string name="ai_scene_top_moon_off">Режим слабого освещения</string>
-  <string name="ai_scene_top_tip">Начной режим</string>
+  <string name="ai_scene_top_tip">Ночной режим</string>
   <string name="ai_watermark_title">Водяной знак AI</string>
-  <string name="ai_watermark_toast_off">Водяной знак AI выключен</string>
+  <string name="ai_watermark_toast_off">Водяной знак AI отключен</string>
   <string name="ai_watermark_toast_on">Водяной знак AI включен</string>
   <string name="audio_focus_exit_button_text">Отключить Аудио фокус</string>
   <string name="autozoom_click_hint">Нажмите на объект, чтобы держать его в фокусе, пока он движется. Для лучшего эффекта расстояние должно быть не менее 3 метров.</string>
@@ -165,6 +165,9 @@
   <string name="do_not_remind_me">Больше не показывать</string>
   <string name="document_blackwhite">Ч/Б</string>
   <string name="document_blur_warn">Текст размыт</string>
+  <string name="document_mode_use_hint_text_body">"Автоматически выравнивать и улучшать
+отсканированные документы"</string>
+  <string name="document_mode_use_hint_text_title">Сканирование документов</string>  
   <string name="document_origin">Исходный</string>
   <string name="document_strengthen">Улучшенный</string>
   <string name="dual_camera_lens_covered_toast">Объектив закрыт</string>
@@ -895,8 +898,8 @@
   <string name="user_agreement4">Политика конфиденциальности</string>
   <string name="user_notice_identify_summary_format">Используя эту услугу, вы принимаете %1$s и %2$s Xiaomi. Согласны подключиться к интернету?</string>
   <string name="user_notice_title">Условия использования</string>
-  <string name="video_beauty_tip">Украсить видео</string>
-  <string name="video_beauty_tip_beautification">Украсить</string>
+  <string name="video_beauty_tip">Улучшение видео</string>
+  <string name="video_beauty_tip_beautification">Улучшение</string>
   <string name="video_beauty_tip_filter">Фильтры</string>
   <string name="video_beauty_tip_portrait_bokeh">Боке</string>
   <string name="video_camera_label">Видеокамера</string>

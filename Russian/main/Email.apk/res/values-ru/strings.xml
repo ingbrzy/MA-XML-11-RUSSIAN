@@ -297,7 +297,7 @@
     <string name="config_cancel">Отмена</string>
     <string name="config_retry">Повтор</string>
     <string name="confirm">ОК</string>
-    <string name="confirm_age">Подтвердить возраст</string>
+    <string name="confirm_age">Подтвердите возраст</string>
     <string name="confirm_before_delete">Подтверждение перед удалением</string>
     <string name="confirm_before_delete_keywords">подтверждение перед удалением;удалить подтверждение</string>
     <string name="confirm_before_send">Подтверждение перед отправкой</string>
@@ -580,6 +580,7 @@
     <string name="login_err_message">%1$sВам также может понадобиться код подтверждения для входа. Чтобы сбросить пароль, перейдите на https://email.163.com/ чтобы посмотреть доступные способы.</string>
     <string name="login_err_sina_message">%1$sВам также может понадобиться код подтверждения для входа. Чтобы сбросить пароль, перейдите на https://mail.sina.com.cn/ чтобы посмотреть доступные способы.</string>
     <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
+    <string name="login_failed_tip">Войдите и добавьте публичный номер WeChat:</string>	
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
     <string name="login_mail">Вход</string>
     <string name="login_qq_psw">Вход с помощью QQ пароля/аутентификатора/кода подтверждения</string>

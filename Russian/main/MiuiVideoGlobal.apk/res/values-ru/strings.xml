@@ -299,6 +299,7 @@ ID:%s
   <string name="fw_loading">Подождите…</string>
   <string name="fw_reload_sub_title">Нажмите для повтора</string>
   <string name="fw_reload_title">Ошибка подключения к сети.</string>
+  <string name="gallery_fold_tags">Скрыть теги</string>
   <string name="gallery_folder_alias_TAOBAO">Taobao</string>
   <string name="gallery_folder_alias_camera">Камера</string>
   <string name="gallery_folder_alias_download">Загрузки</string>
@@ -331,6 +332,7 @@ ID:%s
   <string name="gallery_video_operate_text">Регулировка замедленной съемки</string>
   <string name="gallery_video_save_video">Создание видео…</string>
   <string name="gallery_video_slow_edit">Замедленная съемка</string>
+  <string name="gallery_view_tags">Показать теги</string>
   <string name="get_back_pwd">Выполняется сброс пароля</string>
   <string name="get_ph_ticket">Получить код</string>
   <string name="get_phone_bind_exceed_limit">С номером телефона можно связать до 3 Mi аккаунтов. Вы не можете добавить новый аккаунт.</string>
@@ -365,6 +367,7 @@ ID:%s
   <string name="lbl_setting_playback_streaming_auto">Авто</string>
   <string name="lbl_url_alert">Сведения</string>
   <string name="loading">Подождите…</string>
+  <string name="local_push_title">Популярное сегодня</string>
   <string name="logging_normal">По умолчанию</string>
   <string name="logging_verbose">Подробный</string>
   <string name="login">Вход</string>
@@ -372,6 +375,10 @@ ID:%s
   <string name="logout">Выход</string>
   <string name="logout_account">Выход</string>
   <string name="lp_base_folder">SD-карта</string>
+  <string name="lp_play_mode_list_loop">Повторять все</string>
+  <string name="lp_play_mode_pause">Однократно</string>
+  <string name="lp_play_mode_single_loop">Повтор</string>
+  <string name="lp_play_mode_title">Режим воспроизведения</string> 
   <string name="lp_speed_title">Скорость воспроизведения</string>
   <string name="lp_speed_toast">Воспроизведение на скорости %sX…</string>
   <string name="lp_videoView_error_button">Понятно</string>
@@ -392,6 +399,7 @@ ID:%s
   <string name="lv_audio_track">Звуковая дорожка</string>
   <string name="lv_auto_update">Обновить позже</string>
   <string name="lv_brightness">Яркость</string>
+  <string name="lv_cast">Трансляция</string>
   <string name="lv_check_delete_file">Выберите объекты для удаления</string>
   <string name="lv_check_send_file">Можно отправить только 1 файл одновременно</string>
   <string name="lv_confirm_delete_history">Удалить выбранные объекты?</string>
@@ -530,6 +538,7 @@ ID:%s
   <string name="next">Далее</string>
   <string name="nick_name">Псевдоним</string>
   <string name="no_account">Вход не выполнен</string>
+  <string name="no_more_content">Больше ничего нет</string>
   <string name="no_network_tips">Невозможно использовать функцию. Доступ к сети ограничен.</string>
   <string name="no_phone">Нет номера телефона</string>
   <string name="no_recommend_data">Нет рекомендаций</string>

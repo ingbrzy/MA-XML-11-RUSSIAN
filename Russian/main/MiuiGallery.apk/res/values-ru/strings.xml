@@ -1606,7 +1606,7 @@
   <string name="video_editor_loading_warning_msg">Из-за ошибки кодирования некоторые функции и предварительный просмотр могут быть недоступны во время процесса редактирования. Это не повлияет на окончательный видеофайл.</string>
   <string name="video_editor_loading_warning_title">Ошибка кодирования</string>
   <string name="video_editor_more">Еще</string>
-  <string name="video_editor_not_support_8k_tips">"Не удается редактировать видео 8K"</string>
+  <string name="video_editor_not_support_8k_tips">Редактирование 8K видео не поддерживается</string>
   <string name="video_editor_not_support_tips">Этот тип видео не поддерживается</string>
   <string name="video_editor_ok">OK</string>
   <string name="video_editor_regulator">Уровни</string>

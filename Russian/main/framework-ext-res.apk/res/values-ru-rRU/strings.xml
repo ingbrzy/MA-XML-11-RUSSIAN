@@ -195,7 +195,7 @@
   <string name="sim_added_reboot_title">SIM карта будет активирована после перезагрузки устройства.</string>
   <string name="sim_lock_non_ais_msg">"Ваша SIM-карта не полностью работоспособна с этим телефоном, потому что не соответствует условиям подписки. Если у вас есть какие-либо вопросы или нужна дополнительная информация по этому вопросу, обратитесь в сервисный центр Xiaomi или в магазин, где приобрели телефон."</string>
   <string name="sim_lock_now_ais_title">SIM%1$d</string>
-  <string name="slatoast">Использование мобильных данных для повышения скорости может привести к увеличению затрат</string>
+  <string name="slatoast">Использование мобильных данных для повышения скорости может привести к увеличению расходов</string>
   <string name="slavewifi">Двухдиапазонный Wi-Fi</string>
   <string name="slavewifi_disconnect">Отключить</string>
   <string name="slavewifi_notification_title">Использование духдиапазонного Wi-Fi</string>

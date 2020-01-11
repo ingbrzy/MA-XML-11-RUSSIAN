@@ -21,6 +21,7 @@
     <string name="lock_screen_tip_toast">Разрешите уведомления в \"Уведомления приложений\"</string>
     <string name="lockscreen_notifications">Экран блокировки</string>
     <string name="not_sent_recently">Уведомления отсутствуют</string>
+    <string name="notch_and_status_bar_setting">Вырез и строка состояния</string>
     <string name="notification_display_setting">Шторка уведомлений</string>
     <string name="notification_display_style">Стиль уведомлений</string>
     <string name="notification_fold_summary">Все неважные уведомления будут появляться в отдельной папке</string>

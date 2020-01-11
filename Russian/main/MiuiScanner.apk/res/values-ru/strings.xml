@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Approval">Применить</string>
+    <string name="Xiaomi_account_pending_approval">Рассмотрение заявки</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
@@ -31,13 +33,16 @@
     <string name="access_sd_fail">Нет доступа к SD карте</string>
     <string name="accessibility_shutter_button">Снимок</string>
     <string name="address">"Адрес: "</string>
+    <string name="agree_app_use">Сканирование QR-кодов и изображений (для некоторых функций может потребоваться доступ к местоположению)</string>
     <string name="agree_btn">Согласен</string>
+    <string name="agree_camera_permission">Для съемки фото и записи видео</string>
+    <string name="agree_storage_permission">Для доступа к фото и файлам на устройстве</string>
+    <string name="always">Всегда</string>
     <string name="amazon_assistant_shopping_title">Поиск на Amazon</string>
     <string name="app_description_content">Приложение позволяет сканировать коды, визитные карточки и документы. Перед удалением приложения убедитесь, что вы сможете обойтись без этих функций.</string>
     <string name="app_description_title">О приложении</string>
     <string name="app_details">Информация о приложении:</string>
     <string name="app_name">Сканер</string>
-    <string name="Approval">Применить</string>
     <string name="back">Назад</string>
     <string name="barcode_into_rectangle">Разместите код внутри рамки</string>
     <string name="birthday">"День рождения: "</string>
@@ -105,8 +110,9 @@
     <string name="drag_barcode_into_frame">Подгоните рамку по размерам кода</string>
     <string name="drag_crop_to_business_card">Двигайте для обрезки</string>
     <string name="email">"Email: "</string>
-    <string name="error_camera_disabled">В доступе к Камере было отказано по соображениям безопасности</string>
-    <string name="error_cannot_connect_camera">Не удалось подключиться к Камере</string>
+    <string name="error_camera_disabled">В доступе к камере отказано по соображениям безопасности</string>
+    <string name="error_cannot_connect_camera">Не удалось подключиться к камере</string>
+   <string name="error_empty_result">Ничего не найдено</string>
     <string name="error_get_image">Не удалось получить изображение</string>
     <string name="error_media_storage_failure">Не удалось сохранить фото</string>
     <string name="error_permissions">Сканер не имеет необходимых разрешений для нормальной работы. Перейдите в Настройки и проверьте разрешения.</string>
@@ -157,7 +163,7 @@
     <string name="language_entry_korean">Корейский</string>
     <string name="language_entry_spanish">Испанский</string>
     <string name="logistics">Экспресс доставка</string>	
-    <string name="low_version_tip">Для использования Сканера обновите MIUI до последней версии.</string>
+    <string name="low_version_tip">Чтобы использовать Сканер обновите MIUI до последней версии.</string>
     <string name="miracast_connect">Подключить</string>
     <string name="miracast_connect_fail">Ошибка подключения</string>
     <string name="miracast_connecting">Подключение…</string>
@@ -181,11 +187,13 @@
     <string name="no_inner_version">Бета-версия недоступна</string>
     <string name="no_network">Не удалось подключиться к сети</string>
     <string name="no_storage">Внутренняя память не найдена</string>
+    <string name="no_support_to_translate_type">Этот язык не поддерживается</string>
     <string name="not_insert_contact">Не удалось добавить контакт</string>
     <string name="not_recommend_access_web_url">Всё равно перейти</string>
     <string name="note">"Примечание: "</string>
     <string name="now_state">"Текущее состояние: "</string>
     <string name="open_url">Открыть URL</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
     <string name="pay_no_tip">"Не показывать снова"</string>
     <string name="pay_save_this_choose">Запомнить выбор</string>
     <string name="payment_text">Открыть с помощью %s</string>
@@ -197,6 +205,10 @@
     <string name="plant_support"> (Техническая поддержка)</string>
     <string name="plant_title">Просканируйте растение, которое вы хотите распознать</string>
     <string name="please_try_again_later">Повторите попытку позже</string>
+    <string name="pref_camera_focusmode_default">непрерывное изображение</string>
+    <string name="pref_camera_jpeg_quality_fine">четкое</string>
+    <string name="pref_camera_jpeg_quality_normal">нормальное</string>
+    <string name="pref_camera_jpeg_quality_superfine">сверхчеткое</string>	
     <string name="preparing_sd">Подготовка внутренней памяти…</string>
     <string name="previous">Назад</string>
     <string name="prompt">Внимание</string>
@@ -227,6 +239,13 @@
     <string name="shopping_title">Сфотографируйте товар</string>
     <string name="shopping_vendor_info">Поддержка: Taobao</string>
     <string name="spaceIsLow_content">Недостаточно места во внутренней памяти. Освободите место.</string>
+    <string name="store_feedback_prompt">Напишите отзыв</string>
+    <string name="store_location_dialog">Сервис предоставляется Dianping. Все фотографии, сделанные вами во время использования этого сервиса, включая информацию о местоположении, будут переданы в Dianping для получения информации о магазинах.</string>
+    <string name="store_location_fail">Не удалось получить информацию о местоположении</string>
+    <string name="store_location_prompt">Разрешите приложению доступ к местоположению для идентификации магазинов</string>
+    <string name="store_module_title">Магазин</string>
+    <string name="store_no_date">Не удалось идентифицировать магазин</string>
+    <string name="store_title">Сканирование знака магазина</string>
     <string name="study_rotate_picture">Обработка изображения…</string>
     <string name="study_scan_result">Результат</string>
     <string name="study_searching">Поиск результатов…</string>
@@ -276,7 +295,7 @@
     <string name="website_details">Информация о сайте:</string>
     <string name="weixin_code_tip">Отсканируйте QR-код с помощью WeChat</string>
     <string name="welcome_to_thesweepversion">Добро пожаловать в бета-версию Сканера!</string>
-    <string name="wifi_details">Информация Wi-Fi:</string>
+    <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Точка доступа Wi-Fi \"%1$s\" уже существует. Удалите ее и повторите попытку.</string>
     <string name="wifi_open_fail">Не удалось включить Wi-Fi</string>
     <string name="wifi_psd_toolong">Пароль слишком длинный, введите его вручную</string>
@@ -290,5 +309,4 @@
     <string name="you_have_permission_to_download">Нажмите, чтобы скачать бета-версию</string>
     <string name="you_id">"Ваш ID: "</string>
     <string name="your_application_is_under_review">" (Ваша заявка рассматривается)"</string>
-    <string name="Xiaomi_account_pending_approval">Рассмотрение заявки</string>
 </resources>
