@@ -1222,8 +1222,8 @@
     <string name="notification_header_title">Уведомления</string>
     <string name="notification_hidden_by_policy_text">Содержимое скрыто</string>
     <string name="notification_hidden_text">Получено новое сообщение</string>
-    <string name="notification_info_channel_disabled_text">Вы не будете получать уведомления %2$s от %1$s.</string>
-    <string name="notification_info_channel_enabled_text">Вы будете получать уведомления %2$s от %1$s.</string>
+    <string name="notification_info_channel_disabled_text">Уведомления для %2$s от %1$s отключены.</string>
+    <string name="notification_info_channel_enabled_text">Уведомления для %2$s от %1$s включены.</string>
     <string name="notification_manager">Управление уведомлениями</string>
     <string name="notification_manager_des">Фильтрация и управление уведомлениями</string>
     <string name="notification_menu_accessibility">%1$s %2$s</string>
