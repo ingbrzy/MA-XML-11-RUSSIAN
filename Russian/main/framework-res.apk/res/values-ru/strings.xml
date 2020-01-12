@@ -319,7 +319,7 @@
   <string name="ext_media_unsupported_notification_message">Устройство не поддерживает этот носитель (%s). Нажмите, чтобы настроить.</string>
   <string name="ext_media_unsupported_notification_title">%s не поддерживается</string>
   <string name="extract_edit_menu_button">Изменить</string>
-  <string name="faceunlock_multiple_failures">Все попытки войти с помощью Фейсконтроля использованы</string>
+  <string name="faceunlock_multiple_failures">Попытки исчерпаны</string>
   <string name="factory_reset_message">"Невозможно использовать приложение для администрирования. С устройства будут удалены все данные.
 
 Если у вас возникли вопросы, обратитесь к администратору."</string>
@@ -958,7 +958,7 @@
   <string name="permdesc_writeSettings">"Приложение сможет изменять настройки системы. Вредоносные программы смогут  повредить конфигурацию системы."</string>
   <string name="permdesc_writeSyncSettings">Приложение сможет изменять настройки синхронизации аккаунта. Например, с помощью этого разрешения можно включить в аккаунте синхронизацию контактов.</string>
   <string name="permgroupbackgroundrequest_location">Разрешить &lt;b&gt;%1$s&lt;/b&gt; доступ к местоположению устройства &lt;b&gt;на постоянной основе&lt;/b&gt;?</string>
-  <string name="permgroupbackgroundrequestdetail_location">Сейчас у приложения есть доступ к местоположению только во время его использования..</string>
+  <string name="permgroupbackgroundrequestdetail_location">Сейчас у приложения есть доступ к местоположению только во время его использования.</string>
   <string name="permgroupdesc_activityRecognition">доступ к данным о физической активности</string>
   <string name="permgroupdesc_calendar">доступ к календарю</string>
   <string name="permgroupdesc_calllog">доступ к журналу вызовов</string>

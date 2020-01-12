@@ -68,7 +68,7 @@
 Все пользовательские данные будут сохранены.</string>
   <string name="done">Готово</string>
   <string name="external_sources_settings">Настройки</string>
-  <string name="external_sources_settings_negative">Отклонить</string>
+  <string name="external_sources_settings_negative">Запретить</string>
   <string name="external_sources_settings_positive">Разрешить однократно</string>
   <string name="game_center_install">Установить из Mi Games</string>
   <string name="game_center_install_tips">Загрузите и установите Mi Games чтобы получить больше возможностей</string>
@@ -77,8 +77,8 @@
   <string name="game_center_lunch_error">Установите Mi Games</string>
   <string name="grant_confirm_question">Предоставить нижеперечисленные разрешения? Приложение получит доступ к</string>
   <string name="grant_dialog_button_allow">Разрешить</string>
-  <string name="grant_dialog_button_deny">Отклонить</string>
-  <string name="grant_dialog_button_deny_anyway">Все равно отклонить</string>
+  <string name="grant_dialog_button_deny">Запретить</string>
+  <string name="grant_dialog_button_deny_anyway">Все равно запретить</string>
   <string name="help_app_permissions"/>
   <string name="high_risk_perms">Потенциально опасные разрешения</string>
   <string name="increment_install_downloading">Загрузка %1$s</string>
@@ -222,7 +222,7 @@
   <string name="out_of_space_dlg_title">Недостаточно места</string>
   <string name="perm_action_accept">Разрешить</string>
   <string name="perm_action_prompt">Спросить</string>
-  <string name="perm_action_reject">Отклонить</string>
+  <string name="perm_action_reject">Запретить</string>
   <string name="perm_notice">Предупреждение</string>
   <string name="perm_privacy_app_finish">ГОТОВО</string>
   <string name="perm_privacy_app_installed">Установка завершена</string>
@@ -234,7 +234,7 @@
   <string name="permdesc_togglePermissions">Разрешить запускать диалог для изменения разрешений приложения. Для обычных приложений в этом нет необходимости.</string>
   <string name="permission_action_accept">Разрешить</string>
   <string name="permission_action_prompt">Спросить</string>
-  <string name="permission_action_reject">Отклонить</string>
+  <string name="permission_action_reject">Запретить</string>
   <string name="permission_group_title_charges_related">Телефон</string>
   <string name="permission_group_title_media_related">Медиа</string>
   <string name="permission_group_title_others">Другое</string>
@@ -304,7 +304,7 @@
   <string name="unknown_apps_dlg_text">В целях безопасности установка приложений из неизвестных источников заблокирована.</string>
   <string name="unknown_installer">Версия PC tools не идентифицирована</string>
   <string name="unlike">Нет, спасибо</string>
-  <string name="untrusted_external_source_always_click">Всегда разрешать</string>
+  <string name="untrusted_external_source_always_click">Разрешить</string>
   <string name="untrusted_external_source_title">Разрешить \"%1$s\" удаление приложений?</string>
   <string name="untrusted_external_source_warning">В целях безопасности установка неизвестных приложений из этого источника заблокирована.</string>
   <string name="untrusted_external_source_warning_summary">Ваше устройство и личные данные уязвимы для атак приложений, установленных из неизвестных источников. Разрешая устанавливать приложения из этого источника, вы соглашаетесь принять на себя ответственность за любой ущерб или потерю данных, которые могут возникнуть при использовании этих приложений.</string>
