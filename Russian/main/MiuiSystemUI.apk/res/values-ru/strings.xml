@@ -238,6 +238,7 @@
     <string name="accessibility_status_bar_headphones">Наушники подключены</string>
     <string name="accessibility_status_bar_headset">Гарнитура подключена</string>
     <string name="accessibility_status_bar_hotspot">Точка доступа</string>
+    <string name="accessibility_status_bar_micphone">микрофон подключен</string>
     <string name="accessibility_status_bar_no_slave_wifi">Вспомогательный Wi-Fi отключен.</string>
     <string name="accessibility_status_bar_slave_wifi_four_bars">Вспомогательный Wi-Fi четыре деления.</string>
     <string name="accessibility_status_bar_slave_wifi_one_bar">Вспомогательный Wi-Fi одно деление.</string>
@@ -293,7 +294,7 @@
     <string name="as_unimportant">Неважное</string>
     <string name="ask_me_later_bubbles">Спросить позже</string>
     <string name="aspect_cancel">Отмена</string>
-    <string name="aspect_message">Это приложение будет снова запущено в полноэкранном режиме. Если возникнут какие-либо проблемы, вы можете отключить полноэкранный режим для этого приложения в Настройки &gt; Безграничный экран &gt; Полноэкранный режим.</string>
+    <string name="aspect_message">Это приложение будет снова запущено в полноэкранном режиме. Если возникнут какие-либо проблемы, вы можете отключить полноэкранный режим для этого приложения в Настройки &gt; Экран &gt; Полноэкранный режим.</string>
     <string name="aspect_ok">ОК</string>
     <string name="aspect_title">Полноэкранный режим</string>
     <string name="audio_effect_custom">Настроить</string>
@@ -726,7 +727,7 @@
     <string name="fs_gesture_back_ready_title">Возврат</string>
     <string name="fs_gesture_final_over">Закончить</string>
     <string name="fs_gesture_final_restart">Повторить</string>
-    <string name="fs_gesture_final_summary">Вы можете вернуться к использованию кнопок в разделе Настройки > Безграничный экран</string>
+    <string name="fs_gesture_final_summary">Вы можете вернуться к использованию кнопок в разделе Настройки &gt;  Расширенные настройки &gt;  Полноэкранный режим</string>
     <string name="fs_gesture_final_title">Всё готово!</string>
     <string name="fs_gesture_finish">Отлично!</string>
     <string name="fs_gesture_left_back_ready_summary">Проведите вправо от кромки</string>
@@ -791,7 +792,10 @@
     <string name="high_temp_title">Телефон перегрелся</string>
     <string name="home">Настройки рабочего стола</string>
     <string name="how_to_back_home">Возврат на рабочий стол</string>
-    <string name="how_to_switch_recents">Открытие Недавних</string>
+    <string name="how_to_switch_recents">Недавние приложения</string>
+    <string name="how_to_use_app_quick">Переключение между приложениями</string>
+    <string name="how_to_use_app_quick_hide_line_summary">Проведите вверх от нижней части экрана, затем влево или вправо</string>
+    <string name="how_to_use_app_quick_summary">Проведите влево или вправо от полосы навигации полноэкранного режима или нижней части экрана</string>
     <string name="how_to_use_drawer">Как открыть боковое меню</string>
     <string name="how_to_use_drawer_summary">Проведите вправо в верхней части экрана</string>
     <string name="how_to_use_fsg">Выполняйте эти действия с помощью жестов:</string>
