@@ -105,6 +105,7 @@
     <string name="button_wait_for_wifi">Отложить</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_running_download">Отмена</string>
+    <string name="cannot_download_to_sdcard_hint">Нельзя загрузить файлы на SD-карту из-за ограничений авторских прав. Файлы будут загружены во внутреннее хранилище.</string>
     <string name="change_download_quality">Изменить качество загрузки</string>
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="checking_new_version">Проверка обновлений…</string>
@@ -139,6 +140,7 @@
     <string name="connecting_apk">Подключение…</string>
     <string name="create_playlist">Создать плейлист</string>
     <string name="create_playlist_failure">Не удалось создать плейлист</string>
+    <string name="create_playlist_input_hint">Введите название плейлиста</string>
     <string name="current_album">Текущая обложка</string>
     <string name="current_lyric">Текущий текст</string>
     <string name="current_version">Текущая версия</string>
@@ -563,14 +565,30 @@
     <string name="nowplaying_dialog_title_delete_tracks">Удалить трек из очереди?</string>
     <string name="nowplaying_menu_item_delete">Удалить из очереди</string>
     <string name="ok">OK</string>
+    <string name="online_apk_acquired">Получено %d%%</string>
+    <string name="online_apk_acquiring">Получение… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">Не удалось загрузить из-за нехватки свободного места.</string>
     <string name="online_apk_downloading">Загрузка…%d%%</string>
     <string name="online_apk_install_alert_confirm">Загрузить</string>
+    <string name="online_apk_install_alert_continue">Возобновить</string>
+    <string name="online_apk_install_alert_failed_text">Не удалось загрузить. Повторите попытку.</string>	
     <string name="online_apk_install_alert_message">Необходимо загрузить плагин Яндекс.Музыка. Загрузить его?</string>
+    <string name="online_apk_install_alert_mobile_net_text">Используется мобильный интернет. Это может привести к дополнительным расходам.</string>
     <string name="online_apk_install_alert_note">Услуга предоставлена сервисом Яндекс.Музыка</string>
+    <string name="online_apk_install_alert_note_new">Онлайн-контент предоставлен %s</string>
+    <string name="online_apk_install_alert_pause">Приостановить</string>
+    <string name="online_apk_install_alert_retry">Повторить попытку</string>
+    <string name="online_apk_install_alert_start">Начать</string>
+    <string name="online_apk_install_completed">Онлайн-контент успешно загружен. Нажмите %s для просмотра.</string>	
     <string name="online_apk_install_error_no_enough_space">Не удалось установить из-за нехватки свободного места.</string>
     <string name="online_apk_install_error_with_reason">Не удалось установить (Ошибка %d)</string>
+    <string name="online_apk_install_failed_with_reason" formatted="false">Не удалось загрузить онлайн-контент. Нажмите %s для повтора. Код ошибки: %d.</string>
+    <string name="online_apk_install_in_background">Загрузка онлайн-контента в фоновом режиме…</string>
+    <string name="online_apk_install_network_change_paused">Используется мобильный интернет. Загрузка приостановлена. Нажмите %s для просмотра.</string>
+    <string name="online_apk_install_network_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="online_apk_install_tips">Необходимо скачать плагин этого поставщика контента, чтобы получить доступ к песням</string>
     <string name="online_list_delete_message">Все загруженные треки в этом списке будут удалены из внутренней памяти.</string>
+    <string name="online_playlist_category">Плейлисты</string>
     <string name="online_recommend">Плейлист</string>
     <string name="online_service_open_tip">Онлайн-сервисы музыки включены</string>
     <string name="online_service_title">Онлайн-сервисы</string>
@@ -581,6 +599,7 @@
     <string name="only_pro_can_choose_hd_sound_quality">HD качесто доступно только для PRO подписчиков</string>
     <string name="open_online_service">Для использования этой функции необходимо включить онлайн-сервисы. Включить их сейчас?</string>
     <string name="open_service">Включить</string>
+    <string name="operation_done_close">Закрыть</string>
     <string name="other_song_in_album">Другие треки из этого альбома</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="paused_by_app">Пауза</string>

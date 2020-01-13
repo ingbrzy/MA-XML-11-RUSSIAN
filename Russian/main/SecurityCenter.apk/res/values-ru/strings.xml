@@ -203,7 +203,7 @@
   <string name="app_manager_factory_reset">Удалить обновления</string>
   <string name="app_manager_factory_reset_dlg_msg">Все обновления этого системного приложения будут удалены.</string>
   <string name="app_manager_factory_reset_dlg_title">Удалить обновления?</string>
-  <string name="app_manager_find_apps">Найти приложения</string>
+  <string name="app_manager_find_apps">Поиск приложений</string>
   <string name="app_manager_force_stop_dlg_text">При принудительном закрытии приложения его работа может нарушиться.</string>
   <string name="app_manager_force_stop_dlg_title">Закрыть принудительно?</string>
   <string name="app_manager_full_screen_summary">Разрешить выбранным приложениям работать в полноэкранном режиме</string>

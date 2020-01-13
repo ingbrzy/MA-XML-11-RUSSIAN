@@ -126,4 +126,8 @@
         <item quantity="few">%s сервиса будет синхронизировано с Xiaomi Cloud</item>
         <item quantity="many">%s сервисов будет синхронизировано с Xiaomi Cloud</item>
     </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">Нельзя выбрать больше %d элементов</item>
+        <item quantity="one">Нельзя выбрать больше %d элемента</item>
+    </plurals>	
 </resources>

@@ -13,6 +13,8 @@
     <string name="btn_return">Назад</string>
     <string name="button_cancel">Отмена</string>
     <string name="calendar_sync">Календарь</string>
+    <string name="check_contact">Добавить</string>
+    <string name="choose_contact_title">Контакты</string>	
     <string name="click_to_enabled">Нажмите для синхронизации.</string>
     <string name="close_shortcut">Закрыть</string>
     <string name="cloud_find_device">Поиск устройства</string>
@@ -362,6 +364,9 @@
     <string name="pay_info_dialog_mibi_balance_prefix">Использовать оставшиеся Mi Credits: %s</string>
     <string name="pay_info_dialog_title">Выберите метод оплаты</string>
     <string name="phone_number_required_dspt_provision">"Этому сервису требуется ваш номер телефона. "</string>
+    <string name="picker_list_empty">Список пуст</string>
+    <string name="picker_search_empty">Контакты не найдены</string>
+    <string name="picker_search_hint">Поиск</string>	
     <string name="pre_privacy_policy">Политика конфиденциальности</string>
     <string name="pre_user_agreement">Пользовательское соглашение</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">Синхронизировать фото контактов только по Wi-Fi</string>
@@ -469,6 +474,7 @@
     <string name="soundrecorder_sync_only_in_wifi">Синхронизация только по Wi-Fi</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Диктофон не будет использовать мобильный интернет для загрузки и отправки записей</string>
     <string name="soundrecorder_sync_records">Синхронизация записей</string>
+    <string name="starred_contact">Избранные</string>
     <string name="storage_manage_expansion">Больше</string>
     <string name="storage_manage_list_title">Облачные данные</string>
     <string name="storage_manage_list_title_action">Подробнее</string>

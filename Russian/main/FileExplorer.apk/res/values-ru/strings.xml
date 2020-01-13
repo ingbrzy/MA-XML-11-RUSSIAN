@@ -159,7 +159,8 @@
     <string name="error_delete_failed">Ошибка удаления файла</string>
     <string name="error_file_already_exists">Файл уже существует</string>
     <string name="error_filename_too_long">Имя файла слишком длинное</string>
-    <string name="error_folder_already_exists">Такой файл уже существует</string>
+    <string name="error_folder_already_exists">Файл уже существует</string>
+    <string name="error_hint_copy_folder_to_self_or_sub">Нельзя переместить или скопировать папки в себя или подпапки</string>
     <string name="error_info_cant_send_folder">Не удается отправить папки</string>
     <string name="error_invalid_path">Неверный путь</string>
     <string name="error_not_support">Не поддерживается</string>
