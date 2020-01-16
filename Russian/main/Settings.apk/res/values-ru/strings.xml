@@ -1494,6 +1494,8 @@
     <string name="convert_to_file_encryption_enabled">Перейти…</string>
     <string name="cool_color">Холодный</string>
     <string name="copyright_title">Авторские права</string>
+    <string name="corner_assistant_gesture_summary">Проведите пальцем вверх от нижнего левого или правого угла, чтобы разбудить Google Ассистент.</string>
+    <string name="corner_assistant_gesture_title">Google Ассистент</string>	
     <string name="country_name">%s (система)</string>
     <string name="create">Создать</string>
     <string name="credential_contains">Содержимое записи:</string>
@@ -4151,6 +4153,8 @@ OTG отключается автоматически через 10 минут �
     <string name="power_mgr">Батарея</string>
     <string name="power_mode">Режим питания</string>
     <string name="power_mode_balanced_title">Включить балансировку мощности</string>
+    <string name="power_monitor_summary">Инструменты контроля батареи</string>
+    <string name="power_monitor_title">Контроль батареи</string>	
     <string name="power_optimize">Экономия батареи</string>
     <string name="power_overcounted">Переучтенное</string>
     <string name="power_phone">Голосовые вызовы</string>
