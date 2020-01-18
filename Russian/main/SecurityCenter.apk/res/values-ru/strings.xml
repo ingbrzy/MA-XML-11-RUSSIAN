@@ -107,6 +107,8 @@
   <string name="already_close_gamebooster">Ускорение игр отключено</string>
   <string name="anti_disturb_msg_detail">Отключить все уведомления, кроме входящих вызовов</string>
   <string name="anti_disturb_msg_title">Режим \"Не беспокоить\"</string>
+  <string name="antispam_mms_text">Для просмотра заблокированных сообщений, установите приложение Сообщения в качестве приложения по умолчанию</string>
+  <string name="antispam_mms_text_setting">Для использования черных списков, установите приложение Сообщения в качестве приложения по умолчанию</string>
   <string name="antispam_mode_details">Подробности</string>
   <string name="antispam_notificaiton_type_show_all">Все номера</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Кроме заблокированных</string>
@@ -203,7 +205,7 @@
   <string name="app_manager_factory_reset">Удалить обновления</string>
   <string name="app_manager_factory_reset_dlg_msg">Все обновления этого системного приложения будут удалены.</string>
   <string name="app_manager_factory_reset_dlg_title">Удалить обновления?</string>
-  <string name="app_manager_find_apps">Найти приложения</string>
+  <string name="app_manager_find_apps">Поиск приложений</string>
   <string name="app_manager_force_stop_dlg_text">При принудительном закрытии приложения его работа может нарушиться.</string>
   <string name="app_manager_force_stop_dlg_title">Закрыть принудительно?</string>
   <string name="app_manager_full_screen_summary">Разрешить выбранным приложениям работать в полноэкранном режиме</string>
@@ -2107,6 +2109,18 @@
   <string name="power_save_ps_close_setting_5g">Отключить для энергосбережения службы и функции с высоким энергопотреблением (синхронизация, 5G подключение, GPS, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
   <string name="power_save_ps_close_setting_5g_q">Отключить службы и функции с высоким энергопотреблением (синхронизация, 5G подключение, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
   <string name="power_save_ps_close_setting_q">Отключить службы и функции с высоким энергопотреблением (синхронизация, виброотклик, \"Пробуждать при взятии в руки\", \"Значок отпечатка на выключенном экране\")</string>
+  <string name="power_save_ps_close_setting_3">Отключить службы и функции с высоким энергопотреблением (%1$s, %2$s, %3$s)</string>
+  <string name="power_save_ps_close_setting_4">Отключить службы и функции с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s)</string>
+  <string name="power_save_ps_close_setting_5">Отключить службы и функции с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+  <string name="power_save_ps_close_setting_5gnet">5G подключение</string>
+  <string name="power_save_ps_close_setting_6">Отключить службы и функции с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+  <string name="power_save_ps_close_setting_7">Отключить службы и функции с высоким энергопотреблением (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+  <string name="power_save_ps_close_setting_dclickwakeup">\"Двойное касание\" для пробуждения или выключения экрана</string>
+  <string name="power_save_ps_close_setting_fingeraod">\"Значок отпечатка на выключенном экране\"</string>
+  <string name="power_save_ps_close_setting_gps">GPS</string>
+  <string name="power_save_ps_close_setting_haptic">виброотклик</string>
+  <string name="power_save_ps_close_setting_pickupwakeup">\"Пробуждать при взятии в руки\"</string>
+  <string name="power_save_ps_close_setting_sync">синхронизация</string> 
   <string name="power_save_ps_freeze">Заморозка приложений, работающих в фоновом режиме</string>
   <string name="power_save_ps_limit">Ограничение активности системных приложений</string>
   <string name="power_save_settings">Настройки оптимизации питания</string>

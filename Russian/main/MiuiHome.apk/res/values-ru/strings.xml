@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="accessibility_menu_item_split_disable">Приложение не поддерживает разделение экрана.</string>
+    <string name="accessibility_menu_item_split_enable">Приложение поддерживает разделение экрана.</string>
+    <string name="accessibility_recents_item_open_app_info">О приложении %s</string>
+    <string name="accessibility_splite_screen_primary">Добавлено как основное приложение</string>
+    <string name="accessibility_splite_screen_secondary">Добавлено как вторичное приложение</string>
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="activity_not_unlocked">Перед открытием приложений дождитесь полной перезагрузки устройства</string>
@@ -87,6 +92,7 @@
     <string name="app_category_tools">Инструменты</string>
     <string name="app_category_travel">Путешествия</string>
     <string name="app_category_vr">VR</string>
+    <string name="app_name">folme</string>
     <string name="application_name">Рабочий стол MIUI</string>
     <string name="apply">Установить</string>
     <string name="apply_action">Установить</string>
@@ -266,8 +272,11 @@
     <string name="launcher_global_search_provider_title">Поставщик поиска</string>
     <string name="launcher_minus_screen_title">Дополнительный экран слева</string>
     <string name="launcher_not_exist">Произошла ошибка. Вернитесь на рабочий стол и повторите попытку.</string>
-    <string name="launcher_pull_down_title">Свайп вниз на рабочем столе</string>
-    <string name="launcher_slide_up_title">Свайп вверх на рабочем столе</string>
+    <string name="launcher_pull_down_title">Свайп вниз</string>
+    <string name="launcher_search_bar_title">Панель поиска</string>
+    <string name="launcher_search_bar_value_disable">Откл.</string>
+    <string name="launcher_search_bar_value_enable">Вкл.</string>	
+    <string name="launcher_slide_up_title">Свайп вверх</string>
     <string name="launcher_sliding_up_gesture">Поиск свайпом вверх</string>
     <string name="launcher_title">Рабочий стол</string>
     <string name="like">Добавить в избранные</string>
@@ -283,7 +292,9 @@
     <string name="lock_screen_wallpaper">Обои экрана блокировки</string>
     <string name="manager_group_settings">Категории приложений</string>
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
-    <string name="memory_clear_result">Очищено %1$sB памяти</string>
+    <string name="memory_clear_result">Очищено %1$s Б памяти</string>
+    <string name="memory_clear_result_giga">Очищено %1$s ГБ памяти</string>
+    <string name="memory_clear_result_mega">Очищено %1$s МБ памяти</string>	
     <string name="menu_add">Добавить</string>
     <string name="menu_auto_fill_of_uninstall">Заполнять пустые ячейки</string>
     <string name="menu_back_desktop">Домой</string>
@@ -339,6 +350,7 @@
     <string name="photo_adjust">Просмотр</string>
     <string name="photo_confirm">OK</string>
     <string name="photo_load_failed">Не удалось загрузить фото</string>
+    <string name="please_slide_agian">Повторите слайд снова</string>
     <string name="pref_cell_layout_size">Сетка рабочего стола</string>
     <string name="pref_enable_drawing_cache_summary">Выключите, чтобы освободить память. Возможно притормаживание системы.</string>
     <string name="pref_enable_drawing_cache_title">Кэш графики</string>
@@ -359,7 +371,22 @@
     <string name="privacy_thumbnail_blur_title">Размытие миниатюр</string>
     <string name="quick_app">Быстрые приложения</string>
     <string name="recent_apps">Недавние</string>
+    <string name="recent_menu_item_info">Сведения</string>
+    <string name="recent_menu_item_lock">Заблокировать</string>
+    <string name="recent_menu_item_multi_window">Разделить</string>
+    <string name="recent_menu_item_unlock">Разблокировать</string>
+    <string name="recents_app_info_button_label">О приложении</string>
     <string name="recents_config_title">Недавние</string>
+    <string name="recents_dimiss_task">Очистить</string>
+    <string name="recents_empty_message">Ничего нет</string>
+    <string name="recents_empty_message_dismissed_all">Очистка не требуется</string>
+    <string name="recents_empty_message_multi_window">Выбрать приложения на рабочем столе</string>
+    <string name="recents_title_app_manager">Приложения</string>
+    <string name="recents_title_game">Игры</string>
+    <string name="recents_title_garbage_cleanup">Очистка</string>
+    <string name="recents_title_garbage_deepclean">Глубокая очистка</string>
+    <string name="recents_title_market">Поиск приложений</string>
+    <string name="recents_title_security_scan">Антивирус</string>
     <string name="recommend_apk_size_and_desc">%1$d МБ | %2$s</string>
     <string name="recommend_app">Недавние приложения</string>
     <string name="recommend_apps_default_title">Пусто</string>
@@ -393,7 +420,7 @@
     <string name="shake_to_align_icons_summary">Встряхните устройство для автоматического заполнения пустых ячеек в режиме редактирования рабочего стола.</string>
     <string name="shake_to_align_icons_title">Заполнять пустые ячейки встряхиванием</string>
     <string name="share">Отправить</string>
-    <string name="shortcut_share_dialog_content">Файлы, которые вы отправляете со своего телефона, а также их получатели, выбираются и определяются вами. Будьте внимательны при выборе файлов для обмена и при выборе получателей. Вы не можете использовать свой телефон для передачи вирусов, вредоносных программ, троянов, бомб замедленного действия и других вредносных объектов другим людям. Не используйте свой телефон для передачи программного обеспечения, которое может повлиять на регулярное использование устройства получателя или любых предметов, которые могут повредить, помешать, перехватить или уничтожить любые системные данные или личную информацию на мобильных терминальных устройствах. Вы будете нести ответственность за любой ущерб, причиненный другим пользователям или устройствам мобильных терминалов. Xiaomi сделает все возможное, чтобы функциональность обмена, а также используемые технологии и информация были безопасными, эффективными, точными и надежными. Тем не менее, из-за текущих технологических ограничений, Xiaomi не гарантирует, что функциональность совместного использования безупречна и удовлетворит все ваши потребности.</string>
+    <string name="shortcut_share_dialog_content">Файлы, которые вы отправляете со своего телефона, а также их получатели, выбираются и определяются вами. Будьте внимательны при выборе файлов для обмена и при выборе получателей. Вы не должны использовать свой телефон для передачи вирусов и вредоносного программного обеспечения другим людям. Не используйте свой телефон для передачи программного обеспечения, которое может повлиять на пользование устройством получателем, а также повредить, помешать, перехватить или уничтожить любые данные или личную информацию на мобильных устройствах. Вы будете нести ответственность за любой ущерб, причиненный другим пользователям или мобильным устройствам. Xiaomi сделает все возможное, чтобы функциональность обмена, а также используемые технологии и информация были безопасными, эффективными, точными и надежными. Тем не менее, из-за текущих технологических ограничений, Xiaomi не гарантирует, что функциональность совместного использования будет безупречной и удовлетворит все ваши потребности.</string>
     <string name="shortcut_share_dialog_positive_button">Понятно</string>
     <string name="shortcut_share_dialog_title">Отказ от ответственности</string>
     <string name="show_all">Показать все</string>
@@ -405,6 +432,7 @@
     <string name="sort_by_not_defined">По порядку</string>
     <string name="start_activity_failed">Не удалось запустить рабочий стол</string>
     <string name="starting_preset_app">Запуск…</string>
+    <string name="status_bar_recent_memory_info1">Доступно: %1$s Б из %2$s Б</string>
     <string name="status_downloaded">Загруженные</string>
     <string name="status_downloading">Загрузка</string>
     <string name="status_installing">Установка</string>

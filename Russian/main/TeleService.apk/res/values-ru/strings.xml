@@ -834,6 +834,7 @@
   <string name="mmiStarted">Выполняется запрос</string>
   <string name="mobile_advanced_dns_server_title">Адрес DNS-сервера</string>
   <string name="mobile_advanced_ip_address_title">IP-адрес</string>
+  <string name="mobile_advanced_nr_network_title">5G сеть</string>
   <string name="mobile_connection_management">Мобильная сеть</string>
   <string name="mobile_data_activate_button">АКТИВИРОВАТЬ</string>
   <string name="mobile_data_activate_cancel_button">ОТМЕНА</string>
@@ -953,6 +954,13 @@
   <string name="notification_voicemail_text_format">Вызов %s</string>
   <string name="notification_voicemail_title">Новое голосовое сообщение</string>
   <string name="notification_voicemail_title_count">Новое голосовое сообщение (%d)</string>
+  <string name="nr_network_info">Использование 5G сети</string>
+  <string name="nr_usaged_first_used_time">Зарегистрирован в 5G сети</string>
+  <string name="nr_usaged_module">Модель устройства</string>
+  <string name="nr_usaged_network_rate">Наибольшая скорость</string>
+  <string name="nr_usaged_network_usaged">Данные за сегодня</string>
+  <string name="nr_usaged_operator">Оператор</string>
+  <string name="nr_usaged_used_time">Длительность использования</string>  
   <string name="number">Номер</string>
   <string name="oem_unlock_enable">Заводская разблокировка</string>
   <string name="oem_unlock_enable_summary">Разрешить разблокировку загрузчика ОС</string>

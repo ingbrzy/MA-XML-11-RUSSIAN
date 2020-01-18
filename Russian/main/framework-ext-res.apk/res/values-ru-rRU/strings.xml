@@ -82,6 +82,8 @@
   <string name="handy_mode_enter_dlg_title">Управление одной рукой</string>
   <string name="handy_mode_summary">Для выхода нажмите на темную область</string>
   <string name="handy_mode_title">Управление одной рукой</string>
+  <string name="help">Помощь</string>
+  <string name="help_content">Если не удается найти нужное устройство, попросите включить Mi Share на другом устройстве.</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Поместите палец на кнопку \"Домой\"</string>
   <string name="input_method_clipboard_tips">Скопированные элементы будут удалены из буфера обмена через 48 часов</string>
   <string name="input_method_edit_phrase_text">Редактирование частых фраз</string>
@@ -108,7 +110,7 @@
   <string name="miui_screen_ratio_hint">Проблемы с отображением</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Больше не показывать</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Настройки</string>
-  <string name="miui_screen_ratio_hint_message">Этому приложению разрешено работать в полноэкранном режиме, что может привести к его неправильному отображению. Для изменения перейдите в Настройки &gt; Безграничный экран.</string>
+  <string name="miui_screen_ratio_hint_message">Этому приложению разрешено работать в полноэкранном режиме, что может привести к его неправильной работе. Для изменения перейдите в Настройки &gt; Экран &gt; Полноэкранный режим</string>
   <string name="miui_screen_ratio_hint_ok">OK</string>
   <string name="miui_upgrading_notification_title">Идет загрузка, некоторые функции могут быть недоступны.</string>
   <string name="miui_warning_button_cancel">Отмена</string>
