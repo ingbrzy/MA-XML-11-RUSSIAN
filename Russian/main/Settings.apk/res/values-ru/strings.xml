@@ -872,6 +872,7 @@
     <string name="bluetooth_confirm_passkey_msg">Для подключения к устройству&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>на нем должен отображаться этот код доступа:&lt;br>&lt;b>%2$s</string>
     <string name="bluetooth_connect_specific_profiles_title">Подключить к…</string>
     <string name="bluetooth_connected">Подключено</string>
+    <string name="bluetooth_connected_battery_level">Подключено | Батарея %1$s%2$s</string>
     <string name="bluetooth_connected_multiple_devices_summary">Подключено к нескольким устройствам</string>
     <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио)</string>
     <string name="bluetooth_connected_no_a2dp_battery_level">Подключено (кроме аудио) | Уровень заряда: %1$s%2$s</string>
@@ -2540,6 +2541,13 @@
     <string name="gxzw_dialog_ok">Понятно</string>
     <string name="gxzw_dialog_title">Об экранном сканере отпечатков</string>
     <string name="gxzw_enroll_again">Поднимите палец и приложите снова к сканеру отпечатков</string>
+    <string name="gxzw_quick_open_enable_summary">Используйте ярлыки, чтобы открывать приложения или использовать функции приложений, когда ваше устройство разблокировано</string>
+    <string name="gxzw_quick_open_enable_title">Ярлыки отпечатков пальцев</string>
+    <string name="gxzw_quick_open_fast_summary">Проведите пальцем, чтобы использовать ярлык после разблокировки устройства</string>
+    <string name="gxzw_quick_open_fast_title">Быстрая прокрутка (дополнительно)</string>
+    <string name="gxzw_quick_open_slow_summary">Нажмите и удерживайте значок отпечатка пальца, чтобы открыть контекстное меню. Проведите пальцем, чтобы использовать ярлык</string>
+    <string name="gxzw_quick_open_slow_title">Нажмите и удерживайте</string>
+    <string name="gxzw_quick_open_title">Ярлыки</string>
     <string name="handy_mode">Управление одной рукой</string>
     <string name="handy_mode_enable">Управление одной рукой</string>
     <string name="handy_mode_size">Размер экрана</string>
