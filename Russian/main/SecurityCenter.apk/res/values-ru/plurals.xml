@@ -439,22 +439,22 @@
     <item quantity="many">Загрузок: %1$d</item>
   </plurals>
   <plurals name="power_center_battery_day">
-    <item quantity="other">"%d д "</item>
-    <item quantity="one">"%d д "</item>
-    <item quantity="few">"%d д "</item>
-    <item quantity="many">"%d д "</item>
+    <item quantity="other">"%d д. "</item>
+    <item quantity="one">"%d д. "</item>
+    <item quantity="few">"%d д. "</item>
+    <item quantity="many">"%d д. "</item>
   </plurals>
   <plurals name="power_center_battery_hour">
-    <item quantity="other">"%d ч "</item>
-    <item quantity="one">"%d ч "</item>
-    <item quantity="few">"%d ч "</item>
-    <item quantity="many">"%d ч "</item>
+    <item quantity="other">"%d ч. "</item>
+    <item quantity="one">"%d ч. "</item>
+    <item quantity="few">"%d ч. "</item>
+    <item quantity="many">"%d ч. "</item>
   </plurals>
   <plurals name="power_center_battery_minute">
-    <item quantity="other">"%d мин "</item>
-    <item quantity="one">"%d мин "</item>
-    <item quantity="few">"%d мин "</item>
-    <item quantity="many">"%d мин "</item>
+    <item quantity="other">"%d мин. "</item>
+    <item quantity="one">"%d мин. "</item>
+    <item quantity="few">"%d мин. "</item>
+    <item quantity="many">"%d мин. "</item>
   </plurals>
   <plurals name="power_center_battery_temperature">
     <item quantity="other">%d ℃</item>

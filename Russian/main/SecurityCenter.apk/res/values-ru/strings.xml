@@ -468,7 +468,7 @@
   <string name="battery_health_title_text">Исправность батареи</string>
   <string name="battery_health_voltage_text">Напряжение батареи</string>
   <string name="battery_history_activity_title">График расхода заряда</string>
-  <string name="battery_history_days">%1$d д. %2$d ч %3$d мин. %4$d сек.</string>
+  <string name="battery_history_days">%1$d д. %2$d ч. %3$d мин. %4$d сек.</string>
   <string name="battery_history_hours">%1$d ч. %2$d мин. %3$d сек.</string>
   <string name="battery_history_minutes">%1$d мин. %2$d сек.</string>
   <string name="battery_history_seconds">%1$d сек.</string>
@@ -514,7 +514,7 @@
   <string name="boosting">Ускорение…</string>
   <string name="boot_reminder">Включение устройства в заданное время</string>
   <string name="boot_time">Включение в %1$s</string>
-  <string name="boot_time_day">Включение через %1$d д в %2$s</string>
+  <string name="boot_time_day">Включение через %1$d д. в %2$s</string>
   <string name="boot_time_day_tomorrow">Включение завтра в %1$s</string>
   <string name="brand_diagnostic">Диагностика бренда оператора</string>
   <string name="btn_back">Назад</string>
