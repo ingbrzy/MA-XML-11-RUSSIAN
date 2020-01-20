@@ -283,9 +283,9 @@
     <string name="admin_support_more_info">Подробнее…</string>
     <string name="advanced_apps">Дополнительные настройки</string>
     <string name="advanced_battery_title">Сведения о расходе заряда</string>
-    <string name="advanced_section_header">Расширенные настройки</string>
+    <string name="advanced_section_header">Дополнительные настройки</string>
     <string name="advanced_security_title">Дополнительные настройки</string>
-    <string name="advanced_settings">Расширенные настройки</string>
+    <string name="advanced_settings">Дополнительные настройки</string>
     <string name="advanced_settings_summary">Включить дополнительные настройки</string>
     <string name="agps_roaming">A-GPS в роуминге</string>
     <string name="agps_roaming_dia">Использование A-GPS в роуминге может увеличить расход мобильного трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
@@ -2920,7 +2920,7 @@
     <string name="local_backup_password_toast_success">Новый пароль для резервных копий задан</string>
     <string name="local_backup_password_toast_validation_failure">Не удалось задать пароль для резервных копий</string>
     <string name="local_backup_section_summary">Резервное копирование настроек системы, аккаунтов и приложений</string>
-    <string name="local_backup_section_title">Локальное резервное копирование</string>
+    <string name="local_backup_section_title">Резервное копирование</string>
     <string name="locale_default">По умолчанию</string>
     <string name="locale_not_translated">Может быть недоступен в некоторых приложениях</string>
     <string name="locale_remove_menu">Удалить</string>
@@ -3962,7 +3962,7 @@
 
 OTG отключается автоматически через 10 минут бездействия."</string>
     <string name="other">Другое</string>
-    <string name="other_advanced_settings">Расширенные настройки</string>
+    <string name="other_advanced_settings">Дополнительные настройки</string>
     <string name="other_device_info">Прочее</string>
     <string name="other_input_settings">Дополнительные настройки клавиатуры</string>
     <string name="other_personal_settings">Личные настройки</string>
@@ -4961,7 +4961,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_led_settings">Светодиод;Световой индикатор;Светодиодный индикатор</string>
     <string name="search_legal_information">Юридическая информация</string>
     <string name="search_local_auto_backup_section_title">Резервное копирование;Автоматическое резервное копирование;Резервное копирование по расписанию</string>
-    <string name="search_local_backup_section_title">Локальное резервное копирование</string>
+    <string name="search_local_backup_section_title">Резервное копирование</string>
     <string name="search_location_settings_title">Местоположение;Сервисы местоположения;GPS</string>
     <string name="search_lock_settings">Блокировка и защита;разблокировка по Bluetooth;секретный код;Разблокировка устройством Bluetooth</string>
     <string name="search_lock_sounds_enable_title">Звук блокировки экрана;Включить звук блокировки экрана</string>
@@ -4985,7 +4985,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_ntts_settings_title">TTS;TTS настройки</string>
     <string name="search_oldman_mode_entry_name">Облегченный режим;Режим для пожилых;Простой режим</string>
     <string name="search_onekey_migrate">Перенос;Mi Mover</string>
-    <string name="search_other_advanced_settings">Расширенные настройки;Прочие настройки</string>
+    <string name="search_other_advanced_settings">Дополнительные настройки;Расширенные настройки;Спец. возможности;Кнопки и жесты;Сенсорный помощник;Управление одной рукой;Язык и ввод;Дата и время;Световой индикатор;Для разработчиков;Конфиденциальность;Наушники и звуковые эффекты;</string>
     <string name="search_other_settings_sync_settings">Синхронизация;Автоматически;Только WiFi</string>
     <string name="search_owner_info_settings_title">Информация о владельце</string>
     <string name="search_page_layout_settings">Размер текста;Размер шрифта;Маленький шрифт;Большой шрифт;Средний шрифт; Очень большой шрифт;Огромный шрифт;Размер шрифтов</string>
@@ -6680,8 +6680,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_advanced_settings_label">Настройки IP</string>
     <string name="wifi_advanced_ssid_title">SSID</string>
     <string name="wifi_advanced_titlebar">Дополнительно</string>
-    <string name="wifi_advanced_toggle_description_collapsed">Раскрывающее меню дополнительных настроек. Нажмите дважды, чтобы развернуть.</string>
-    <string name="wifi_advanced_toggle_description_expanded">Раскрывающее меню дополнительных настроек. Нажмите дважды, чтобы свернуть.</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Раскрывающееся меню дополнительных настроек. Нажмите дважды, чтобы развернуть.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Раскрывающееся меню дополнительных настроек. Нажмите дважды, чтобы свернуть.</string>
     <string name="wifi_aggressive_handover">Агрессивное переключение сетей</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть при слабом сигнале Wi-Fi</string>
     <string name="wifi_ap_band_config">Диапазон частот Wi-Fi</string>

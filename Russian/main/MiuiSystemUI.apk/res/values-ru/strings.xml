@@ -727,7 +727,7 @@
     <string name="fs_gesture_back_ready_title">Возврат</string>
     <string name="fs_gesture_final_over">Закончить</string>
     <string name="fs_gesture_final_restart">Повторить</string>
-    <string name="fs_gesture_final_summary">Вы можете вернуться к использованию кнопок в разделе Настройки &gt;  Расширенные настройки &gt;  Полноэкранный режим</string>
+    <string name="fs_gesture_final_summary">Вы можете вернуться к использованию кнопок в разделе Настройки &gt;  Дополнительные настройки &gt;  Полноэкранный режим</string>
     <string name="fs_gesture_final_title">Всё готово!</string>
     <string name="fs_gesture_finish">Отлично!</string>
     <string name="fs_gesture_left_back_ready_summary">Проведите вправо от кромки</string>
