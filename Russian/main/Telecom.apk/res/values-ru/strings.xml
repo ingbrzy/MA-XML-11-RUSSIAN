@@ -330,8 +330,8 @@
   <string name="screen_zoom_summary_very_large">Очень крупный</string>
   <string name="search_menu_title">Поиск</string>
   <string name="select_application">Выбор приложения</string>
-  <string name="select_logd_size_dialog_title">Выберите размер буфера журнала</string>
-  <string name="select_logd_size_title">Размер буфера журнала</string>
+  <string name="select_logd_size_dialog_title">Буфер журнала</string>
+  <string name="select_logd_size_title">Буфер журнала</string>
   <string name="select_logpersist_dialog_title">Выберите буферы журнала, которые будут постоянно храниться на устройстве</string>
   <string name="select_logpersist_title">Постоянно хранить данные журнала на устройстве</string>
   <string name="select_usb_configuration_dialog_title">Конфигурация USB</string>

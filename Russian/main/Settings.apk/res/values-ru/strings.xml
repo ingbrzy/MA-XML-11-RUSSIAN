@@ -5213,7 +5213,7 @@ UT-интерфейс: %5$s"</string>
     <string name="select_automatically">Автовыбор сети</string>
     <string name="select_device_admin_msg">Приложения администратора</string>
     <string name="select_logd_level">Уровень журнала</string>
-    <string name="select_logd_size_dialog_title">Размер буфера журнала</string>
+    <string name="select_logd_size_dialog_title">Буфер журнала</string>
     <string name="select_logd_size_title">Буфер журнала</string>
     <string name="select_logpersist_dialog_title">Выберите буферы журнала, которые будут постоянно храниться на устройстве</string>
     <string name="select_logpersist_title">Постоянно хранить данные журнала на устройстве</string>
