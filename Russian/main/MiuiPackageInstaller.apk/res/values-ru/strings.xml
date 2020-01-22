@@ -53,7 +53,7 @@
 Все пользовательские данные будут сохранены.</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) заменит установленную версию (%3$s). Все данные приложения будут сохранены.</string>
   <string name="dlg_app_replacement_title">Заменить приложение?</string>
-   <string name="dlg_appstore_notice">Мы не можем проверить подлинность или безопасность приложений, установленных не из &lt;u&gt;&lt;font color=#91c727&gt;App Store&lt;/font&gt;&lt;/u&gt;.</string>
+   <string name="dlg_appstore_notice">Мы не можем проверить подлинность или безопасность приложений, установленных не из App Store.</string>
   <string name="dlg_game_center_intercept_game_center_install">Установить из Mi Games</string>
   <string name="dlg_game_center_intercept_install">Установить</string>
   <string name="dlg_game_center_intercept_msg">Установка сторонних игр может представлять угрозу безопасности. Загрузите и установите Mi Games для доступа к безопасным версиям приложений.</string>
@@ -106,7 +106,7 @@
   <string name="install_failed_system_incompatible">Приложение не совместимо с MIUI</string>
   <string name="install_finished_notification_summary">Нажмите для освобождения места</string>
   <string name="install_finished_notification_title">%1$s успешно установлено. Можно освободить %2$s</string>
-  <string name="install_from_appstore_hint">Рекомендуется установить приложение из &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="install_from_appstore_hint">Рекомендуется установить приложение из App Store</string>
   <string name="installing">Установка…</string>
   <string name="intercept_install">Установка</string>
   <string name="launch">Открыть</string>
@@ -174,7 +174,7 @@
   <string name="miui_install_source_unkown">Неизвестно</string>
   <string name="miui_install_success">Успешно установлено</string>
   <string name="miui_install_version">Версия: %s</string>
-  <string name="miui_install_version_3">Версия %1$s -&gt; %2$s | Размер %3$s</string>
+  <string name="miui_install_version_3">Версия: %1$s -&gt; %2$s | Размер: %3$s</string>
   <string name="miui_installing">Установка…</string>
   <string name="miui_installing2">Установка…</string>
   <string name="miui_message_staging_0">Подготовка   </string>
@@ -196,7 +196,7 @@
   <string name="miui_uninstall_success">Успешно удалено</string>
   <string name="miui_uninstalling">Удаление…</string>
   <string name="miui_virus_deleted">Вирусы успешно удалены</string>
-  <string name="miui_virus_install">&lt;u&gt;Все равно установить&lt;/u&gt;</string>
+  <string name="miui_virus_install">Все равно установить</string>
   <string name="miui_virus_scanning">Сканирование…</string>
   <string name="miui_virus_scanning_0">Сканирование</string>
   <string name="miui_virus_scanning_1">Сканирование.</string>
@@ -247,7 +247,7 @@
   <string name="permission_send_sms_descx">Приложение может отправлять SMS и MMS</string>
   <string name="permission_summary_enforced_by_policy">Требуется политикой</string>
   <string name="permission_title">%1$s разрешения</string>
-  <string name="permission_warning_template">Разрешить &lt;b&gt;%1$s&lt;/b&gt; %2$s?</string>
+  <string name="permission_warning_template">Разрешить %1$s %2$s?</string>
   <string name="permlab_togglePermissions">изменение разрешений</string>
   <string name="pref_ads">Рекомендации</string>
   <string name="pref_key_about_privacy_title">Политика конфиденциальности</string>
@@ -273,8 +273,8 @@
   <string name="security_settings_desc">Разрешить приложению</string>
   <string name="settings">Настройки</string>
   <string name="settings_warning_dialog_detail">"Уведомлять когда:
- "&lt;li&gt;Приложение содержит вирусы.&lt;/li&gt;"
- "&lt;li&gt;Установочный пакет неизвестного источника.&lt;/li&gt;</string>
+  • Приложение содержит вирусы.
+  • Установочный пакет из неизвестного источника."</string>
   <string name="settings_warning_dialog_msg">Если вы отключите эту функцию, установка безопасных версий приложений предлагаться не будет, устройство может быть подвержено угрозам безопасности. Отключить?</string>
   <string name="settings_warning_dialog_title">Внимание</string>
   <string name="system_warning">Если вы не предоставите это разрешение, некоторые функции устройства могут работать неправильно.</string>
@@ -283,7 +283,7 @@
   <string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
   <string name="uninstall_all_blocked_profile_owner">Это приложение используется некоторыми пользователями или профилями и было удалено для других</string>
   <string name="uninstall_application_text">Удалить приложение?</string>
-  <string name="uninstall_application_text_all_users">Приложение и его данные будут удалены для &lt;b&gt;всех&lt;/b&gt; пользователей на устройстве. Удалить приложение?</string>
+  <string name="uninstall_application_text_all_users">Приложение и его данные будут удалены для всех пользователей на устройстве. Удалить приложение?</string>
   <string name="uninstall_application_text_user">Удалить приложение для пользователя %1$s?</string>
   <string name="uninstall_application_title">Удаление приложения</string>
   <string name="uninstall_blocked_device_owner">Это приложение используется администратором устройства и не может быть удалено.</string>
@@ -312,7 +312,7 @@
   <string name="user_is_not_allowed_dlg_title">Разрешение отсутствует</string>
   <string name="virus_scan_caller_unknown">Неизвестно</string>
   <string name="virus_scan_clear">Удалить</string>
-  <string name="virus_scan_install">&lt;u&gt;Все равно установить&lt;/u&gt;</string>
+  <string name="virus_scan_install">Все равно установить</string>
   <string name="virus_scan_is_risk">Приложение представляет угрозу для безопасности устройства.</string>
   <string name="virus_scan_is_virus">Приложение содержит вирус.</string>
   <string name="virus_title_subtext">Приложение может содержать вирусы: </string>
