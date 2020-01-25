@@ -3641,7 +3641,7 @@
     <string name="network_could_not_connect">Ошибка подключения</string>
     <string name="network_dashboard_summary">Wi-Fi, мобильный интернет, передача данных, точка доступа</string>
     <string name="network_dashboard_title">Сеть и Интернет</string>
-    <string name="network_detail">Свойства сети \"%s\"</string>
+    <string name="network_detail">Свойства сети %s</string>
     <string name="network_disconnected">Отключено</string>
     <string name="network_error">Ошибка сети</string>
     <string name="network_global">Глобальная</string>
@@ -3652,9 +3652,9 @@
    <string name="network_query_error">Сети не найдены. Повторите попытку.</string>
     <string name="network_reset_not_available">Этот пользователь не может сбрасывать настройки сети</string>
     <string name="network_restrictions">Ограничения трафика</string>
-    <string name="network_scorer_change_active_dialog_text">Использовать приложение \"%1$s\" вместо приложения \"%2$s\" для управления сетевыми подключениями?</string>
+    <string name="network_scorer_change_active_dialog_text">Использовать приложение %1$s вместо %2$s для управления сетевыми подключениями?</string>
     <string name="network_scorer_change_active_dialog_title">Сменить ассистента Wi-Fi?</string>
-    <string name="network_scorer_change_active_no_previous_dialog_text">Использовать приложение \"%s\" для управления сетевыми подключениями?</string>
+    <string name="network_scorer_change_active_no_previous_dialog_text">Использовать приложение %s для управления сетевыми подключениями?</string>
     <string name="network_scorer_picker_none_preference">Нет</string>
     <string name="network_scorer_picker_title">Источник рейтинга сетей</string>
     <string name="network_select_title">Сеть</string>
@@ -3786,7 +3786,7 @@
     <string name="notification_alert_title">Оповещения</string>
     <string name="notification_animation_style">Настройка анимации</string>
     <string name="notification_app_settings_button">Настройки уведомлений</string>
-    <string name="notification_assistant_security_warning_summary">Приложение \"%1$s\" сможет читать все уведомления, в т.ч. включающие личную информацию, такую как имена контактов и текст сообщений. Также, приложение сможет изменять и закрывать уведомления, нажимать кнопки в них. 
+    <string name="notification_assistant_security_warning_summary">Приложение %1$s сможет читать все уведомления, в том числе содержащие личную информацию (например, имена контактов и сообщения), и управлять ими. 
 
 Приложение сможет включать и отключать режим \"Не беспокоить\", менять его настройки.</string>
     <string name="notification_assistant_security_warning_title">Разрешить приложению %1$s доступ к уведомлениям?</string>
@@ -3830,11 +3830,11 @@
     <string name="notification_importance_unspecified">На усмотрение приложения</string>
     <string name="notification_listener_disable_warning_cancel">Отмена</string>
     <string name="notification_listener_disable_warning_confirm">Отключить</string>
-    <string name="notification_listener_disable_warning_summary">Если вы отключите доступ к уведомлениям для приложения \"%1$s\", также может быть отключен доступ к настройкам режима \"Не беспокоить\".</string>
-    <string name="notification_listener_security_warning_summary">"Приложение \"%1$s\" сможет читать все уведомления, в том числе содержащие личную информацию (например, имена контактов и сообщения). Оно также получит право закрывать уведомления и нажимать кнопки в них.
+    <string name="notification_listener_disable_warning_summary">Если вы отключите доступ к уведомлениям для приложения %1$s, также может быть отключен доступ к настройкам режима \"Не беспокоить\".</string>
+    <string name="notification_listener_security_warning_summary">"Приложение %1$s сможет читать все уведомления, в том числе содержащие личную информацию (например, имена контактов и сообщения), и управлять ими.
 
-Приложение сможет включать и отключать режим \"Не беспокоить\", а также менять его настройки."</string>
-    <string name="notification_listener_security_warning_title">Открыть приложению \"%1$s\" доступ к уведомлениям?</string>
+Приложение сможет включать и отключать режим \"Не беспокоить\", менять его настройки."</string>
+    <string name="notification_listener_security_warning_title">Открыть приложению %1$s доступ к уведомлениям?</string>
     <string name="notification_log_details_actions">действия</string>
     <string name="notification_log_details_alerted">уведомление отправлено</string>
     <string name="notification_log_details_ashmem">ashmem</string>
