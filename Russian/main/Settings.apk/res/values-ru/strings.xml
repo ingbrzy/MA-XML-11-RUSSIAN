@@ -4751,7 +4751,8 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_paper_mode_apps_title">Использовать режим чтения</string>
     <string name="screen_paper_mode_global_summary">Использовать режим чтения для всех приложений</string>
     <string name="screen_paper_mode_global_title">Все приложения</string>
-    <string name="screen_paper_mode_hdr_toast">Режим чтения будет отключен во время воспроизведения HDR видео. Он будет автоматически включен после завершения воспроизведения.</string>
+    <string name="screen_paper_mode_hdr_toast">Режим чтения будет автоматически отключаться во время воспроизведения HDR-видео и включаться по окончанию.</string>
+    <string name="screen_paper_mode_hdr_toast_new">Режим чтения будет автоматически отключаться во время воспроизведения HDR-видео или проверки отпечатков пальцев и включаться по окончанию.</string>
     <string name="screen_paper_mode_local_summary">Использовать режим чтения для избранных приложений</string>
     <string name="screen_paper_mode_local_title">Избранные приложения</string>
     <string name="screen_paper_mode_off_apps_title">Не использовать режим чтения</string>
