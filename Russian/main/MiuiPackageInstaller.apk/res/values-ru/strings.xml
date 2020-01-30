@@ -30,7 +30,7 @@
   <string name="app_store_installing_message">Установка…</string>
   <string name="app_store_missing_message">App Store не установлено. Установить?</string>
   <string name="app_store_missing_title">App Store не установлено</string>
-  <string name="application_detail_tips">Сведения о приложении и необходимые разрешения</string>
+  <string name="application_detail_tips">Сведения о приложении и разрешения</string>
   <string name="auto_startup_dialog_msg">Это приложение может запускаться без вашего разрешения.</string>
   <string name="btn_text_full_scan">Полное сканирование</string>
   <string name="btn_text_install_new_version">Последняя версия</string>
@@ -60,7 +60,7 @@
   <string name="dlg_game_center_intercept_title">Внимание</string>
   <string name="dlg_mimarket_intercept_mimarket_install">Установить из Mi App Store</string>
   <string name="dlg_mimarket_intercept_msg">Установка сторонних приложений может представлять угрозу безопасности. Загрузите и установите Mi App Store для доступа к безопасным версиям приложений.</string>
-  <string name="dlg_msg_unoffical">Установка системных приложений не из официальных каналов не поддерживается</string>
+  <string name="dlg_msg_unoffical">Установка системных приложений из неофициальных источников не поддерживается</string>
   <string name="dlg_msg_unoffical_ok">ОК</string>
   <string name="dlg_ok">ОК</string>
   <string name="dlg_sys_app_replacement_statement">Это системное приложение.
@@ -170,9 +170,9 @@
   <string name="miui_install_fail">Не удалось установить (%d)</string>
   <string name="miui_install_fail_notify">Не удалось установить</string>
   <string name="miui_install_fail_reason">Причина</string>
-  <string name="miui_install_source">Из \"%s\"</string>
+  <string name="miui_install_source">Установка из приложения %s</string>
   <string name="miui_install_source_unkown">Неизвестно</string>
-  <string name="miui_install_success">Успешно установлено</string>
+  <string name="miui_install_success">Приложение установлено</string>
   <string name="miui_install_version">Версия: %s</string>
   <string name="miui_install_version_3">Версия: %1$s -&gt; %2$s | Размер: %3$s</string>
   <string name="miui_installing">Установка…</string>
@@ -184,7 +184,7 @@
   <string name="miui_no_perms">Разрешения не требуются</string>
   <string name="miui_not_uninstall_system_app">Нельзя удалить системное приложение</string>
   <string name="miui_other_relative">Другое</string>
-  <string name="miui_permission_manage_title">%s сведения</string>
+  <string name="miui_permission_manage_title">Разрешения для %s</string>
   <string name="miui_please_clear">Удалить вирусы</string>
   <string name="miui_privacy_relative">Конфиденциальность</string>
   <string name="miui_recommend_clean">Очистить данные приложения</string>
@@ -251,8 +251,8 @@
   <string name="permlab_togglePermissions">изменение разрешений</string>
   <string name="pref_ads">Рекомендации</string>
   <string name="pref_key_about_privacy_title">Политика конфиденциальности</string>
-  <string name="pref_key_antivirus">Проверка приложений</string>
-  <string name="pref_key_antivirus_summary">Проверять приложения на вирусы перед установкой</string>
+  <string name="pref_key_antivirus">Проверка безопасности</string>
+  <string name="pref_key_antivirus_summary">Проверять на вирусы перед установкой</string>
   <string name="pref_key_app_store_summary">Предлагать загрузку приложения из безопасных источников перед установкой</string>
   <string name="pref_key_app_store_title">Безопасные версии</string>
   <string name="privacyPerms">Конфиденциальность</string>
@@ -272,9 +272,9 @@
   <string name="screen_overlay_title">Обнаружено наложение</string>
   <string name="security_settings_desc">Разрешить приложению</string>
   <string name="settings">Настройки</string>
-  <string name="settings_warning_dialog_detail">"Уведомлять когда:
-  • Приложение содержит вирусы.
-  • Установочный пакет из неизвестного источника."</string>
+  <string name="settings_warning_dialog_detail">"Уведомлять, когда
+  • приложение содержит вирусы
+  • установочный пакет из неизвестного источника"</string>
   <string name="settings_warning_dialog_msg">Если вы отключите эту функцию, установка безопасных версий приложений предлагаться не будет, устройство может быть подвержено угрозам безопасности. Отключить?</string>
   <string name="settings_warning_dialog_title">Внимание</string>
   <string name="system_warning">Если вы не предоставите это разрешение, некоторые функции устройства могут работать неправильно.</string>

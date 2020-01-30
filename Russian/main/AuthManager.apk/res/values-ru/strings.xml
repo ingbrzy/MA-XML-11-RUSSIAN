@@ -140,7 +140,7 @@
   <string name="permission_group_title_settings_related">Настройки</string>
   <string name="permission_reminders">Уведомления о разрешениях</string>
   <string name="permission_warning_template">Разрешить приложению %1$s %2$s?</string>
-  <string name="permission_warning_template_ask">Приложение %1$s запрашивает следующие разрешения</string>
+  <string name="permission_warning_template_ask">Приложение %1$s запрашивает следующее разрешение:</string>
   <string name="permisson_reject_notice_toast_text2">нет разрешения на %1$s.</string>
   <string name="screen_overlay_button">Перейти</string>
   <string name="screen_overlay_message">Необходимо отключить разрешение \"Поверх других приложений\" для приложения в Настройки &gt; Пароли и безопасность &gt;  Конфиденциальность &gt;  Специальный доступ &gt;  Поверх других приложений</string>
