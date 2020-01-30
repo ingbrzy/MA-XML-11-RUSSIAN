@@ -985,7 +985,7 @@
   <string name="face_unlock_face_start_title">Подтверждение данных лица…</string>
   <string name="face_unlock_finger_or_password_switch">Используйте ваш отпечаток или пароль для разблокировки.</string>
   <string name="face_unlock_guide_confirm">Включить</string>
-  <string name="face_unlock_guide_dialog_summary">Вы можете использовать данные лица для разблокировки. Включить разблокировку лицом?</string>
+  <string name="face_unlock_guide_dialog_summary">Вы можете использовать данные лица для разблокировки. Включить разблокировку?</string>
   <string name="face_unlock_not_found">Ошибка распознавания</string>
   <string name="face_unlock_open_eye">Откройте ваши глаза чуть шире</string>
   <string name="face_unlock_reveal_eye">Сделайте ваши глаза видимыми</string>
