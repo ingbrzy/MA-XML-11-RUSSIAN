@@ -254,6 +254,7 @@
     <string name="guide_install_app_msg">Это приложение не установлено на вашем устройстве. Найти и установить его?</string>
     <string name="guide_install_app_title">Установка приложения</string>
     <string name="guide_tips_editing_mode">Удерживайте виджет для его перемещения</string>
+    <string name="hide_apps_title">Скрыть приложение</string>
     <string name="home_gesture_content_center">Контент-центр</string>
     <string name="home_gesture_global_search">Поиск</string>
     <string name="home_gesture_no_action">Не задано</string>
