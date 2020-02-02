@@ -84,7 +84,11 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="cancel_mark_start">Удалить запись</string>
     <string name="card_on_using">Используемые</string>
     <string name="channel_id_background_service">Фоновые сервисы</string>
+    <string name="character_counter_content_description">Введенные символы %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышен лимит символов %1$d из %2$d</string>
     <string name="chart_no_data">Нет данных</string>
+    <string name="clear_text_end_icon_content_description">Очистить текст</string>
+    <string name="collect_diagnosis_log">Собрать журнал диагностики</string>
     <string name="complete_preference_basic_info">Заполните свой профиль</string>
     <string name="copy_done">Скопировано</string>
     <string name="copyright_statement">Авторское право © Xiaomi Inc. Все права защищены.</string>
@@ -124,15 +128,21 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="day">День</string>
     <string name="deep_sleep">Медленный сон</string>
     <string name="delete_all_data">Удалить все данные</string>
+    <string name="delete_all_data_sources">Удалить все источники данных</string>
+    <string name="delete_all_data_sources_description">Удалить все добавленные источники данных?</string>
     <string name="delete_menstruation_record_confirm">Удалить запись?</string>
     <string name="delete_origin_data_description">Удалить все данные %1$s?</string>	
     <string name="device_data_manage">Управление устройствами</string>
     <string name="device_data_sync">Синхронизация данных</string>
     <string name="device_list_origin_description">Эти устройства связаны с Mi Аккаунтом %1$s. Если не удается найти нужное устройство, убедитесь, что оно уже добавлено в соответствующее приложение.</string>
     <string name="device_off_sync_description">Данные с этого устройства, не будут синхронизированы</string>
+    <string name="diagnosis_log_send_failed">Ошибка отправки журнала диагностики.</string>
+    <string name="diagnosis_log_sent_format">"Журнал диагностики отправлен.
+ID:%s
+Пожалуйста, отправьте код специалисту."</string>
     <string name="dialog_abandon">Выход</string>
     <string name="dialog_abandon_sleep_edit">Отменить изменения?</string>
-    <string name="dialog_account_perm_desc">Для доступа к вашему Mi Аккаунту</string>
+    <string name="dialog_account_perm_desc">Для доступа и вход в системный аккаунт</string>
     <string name="dialog_agree_and_continue">Согласен</string>
     <string name="dialog_auto_start_detail">"Разрешите приложению Mi Здоровье автозапуск, чтобы получать уведомления.
 Приложение будет отправлять только важные уведомления."</string>
@@ -164,7 +174,7 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="dialog_permission_loading_msg">Проверка…</string>
     <string name="dialog_privacy_policy_statement">Положение Политики конфиденциальности</string>
     <string name="dialog_privacy_title">Условия использования</string>
-    <string name="dialog_read_phone_perm_desc">Для идентификации вашего устройства.</string>
+    <string name="dialog_read_phone_perm_desc">Для определения функций устройства с помощью OAID или Android ID</string>
     <string name="dialog_sleep_goal_setting">Задать продолжительность сна</string>
     <string name="dialog_sleep_goal_subtitle">Старайтесь спать 7-9 часов каждый день</string>
     <string name="dialog_sleep_goal_title">Продолжительность сна</string>
@@ -189,6 +199,7 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="feedback_need_permission_msg">Разрешите приложению Mi Здоровье доступ к памяти устройства для создания журналов, используемых в отчетах.</string>
     <string name="feedback_permission_denied_msg">Не удалось сохранить журналы в память устройства. Предоставьте приложению Mi Здоровье необходимые разрешения в разделе Настройки.</string>
     <string name="finish">Завершить</string>
+    <string name="for_diagnosis_usage_only">Использовать эту информацию для диагностики</string>
     <string name="gender_female">Женский</string>
     <string name="gender_male">Мужской</string>
     <string name="gender_other">Другой</string>
@@ -321,11 +332,15 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="no_records">Нет записей</string>
     <string name="not_open_auto_sync">Синхронизация отключена</string>
     <string name="not_support_step">Устройство не поддерживает подсчет шагов</string>
+    <string name="ok">OK</string>
     <string name="open_data_sync_description">Включите синхронизацию с облаком для синхронизации данных о состоянии здоровья из других источников.</string>
     <string name="open_sync">Включить синхронизацию</string>
     <string name="open_unrestricted_permissions">Для более точного контроля сна разрешите Mi Здоровью работать в фоновом режиме.</string>
     <string name="other_can_add_data_source">Доступные источники</string>
     <string name="page">%1$d/%2$d</string>
+    <string name="passport_oauth_actionbar_title">Mi Аккаунт</string>
+    <string name="passport_oauth_sucess_tip">Авторизован успешно</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
     <string name="permission_check_result">Готово</string>
     <string name="permission_check_result_failed">Произошла ошибка</string>
     <string name="permission_manage">Управление разрешениями</string>
@@ -376,6 +391,8 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="sedentary_toggle_content">Mi Здоровье будет предлагать вам размяться, если вы долгое время находитесь без движения.</string>
     <string name="select_menstruation_end_date">Выберите дату окончания менструации</string>
     <string name="select_null">Не выбрано</string>
+    <string name="send_diagnosis_log">Отправить журнал диагностики</string>
+    <string name="sending">Отправка…</string>
     <string name="setting">Настройки</string>
     <string name="setting_data_cloud_sync_tip">Используйте эту функцию для резервного копирования и синхронизации данных с других устройств</string>
     <string name="setting_sedentary_off">ОТКЛ</string>
@@ -463,6 +480,7 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="sync_status_in_progress">Синхронизация…</string>
     <string name="sync_status_network_failure">Не удалось синхронизировать. Подключитесь к сети и повторите попытку.</string>
     <string name="sync_status_never_done">Не синхронизировано</string>
+    <string name="temporary_not_available">временно не доступен</string>
     <string name="text_edit_exercise_goal">Изменить цель</string>
     <string name="text_save_exercise_goal">Готово</string>
     <string name="tips_default">Нет данных</string>
