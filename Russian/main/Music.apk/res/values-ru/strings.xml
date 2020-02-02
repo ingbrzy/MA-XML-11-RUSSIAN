@@ -95,6 +95,7 @@
     <string name="avoid_to_use_traffic_summary">Загружать онлайн музыку только по сети Wi-Fi</string>
     <string name="avoid_to_use_traffic_title">Предупреждать при использовании мобильного интернета</string>
     <string name="back_confirm">Нажмите еще раз для выхода</string>
+    <string name="banner_op">Mi Музыка</string>
     <string name="bluetooth_device">Bluetooth устройство</string>
     <string name="buffering">Буферизация…</string>
     <string name="button_cancel_download">Отменить</string>
@@ -148,6 +149,7 @@
     <string name="dark_mode">Темный режим</string>
     <string name="data_usage_warning">Предупреждение о трафике</string>
     <string name="data_usage_warning_summary">При прослушивании музыки высокого качества через мобильный интернет возможно чрезмерное потребление трафика.</string>
+    <string name="data_use_desc">Правовая документация</string>	
     <string name="date_format_str">dd.MM.yyyy</string>
     <string name="delete">Удалить</string>
     <string name="delete_download">Удалить</string>

@@ -1003,7 +1003,7 @@
   <string name="permlab_accessBackgroundLocation">Доступ к местоположению в фоновом режиме</string>
   <string name="permlab_accessCoarseLocation">Доступ к примерному местоположению (по координатам сети)</string>
   <string name="permlab_accessDrmCertificates">Доступ к сертификатам DRM</string>
-  <string name="permlab_accessFineLocation">Доступ к точному местоположению (по координатам сети и спутникам GPS)</string>
+  <string name="permlab_accessFineLocation">Доступ к точному местоположению (по GPS и координатам сети)</string>
   <string name="permlab_accessImsCallService">совершение звонков с помощью службы IMS</string>
   <string name="permlab_accessLocationExtraCommands">Доступ к дополнительным командам управления источниками геоданных</string>
   <string name="permlab_accessNetworkConditions">Использование данных о состоянии сети</string>

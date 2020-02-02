@@ -82,6 +82,8 @@
   <string name="power_hide_mode_app_list_summary">Список управляемых приложений</string>
   <string name="power_hide_mode_title">Батарея</string>
   <string name="power_mode">Настройки энергосбережения</string>
+  <string name="power_tools_current">Ток</string>
+  <string name="power_tools_fps">Частота</string>  
   <string name="power_usage">Использование батареи</string>
   <string name="pref_config_title">Оптимизация производительности</string>
   <string name="privacy">Политика конфиденциальности</string>

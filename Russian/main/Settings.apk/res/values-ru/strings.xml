@@ -283,9 +283,9 @@
     <string name="admin_support_more_info">Подробнее…</string>
     <string name="advanced_apps">Дополнительные настройки</string>
     <string name="advanced_battery_title">Сведения о расходе заряда</string>
-    <string name="advanced_section_header">Расширенные настройки</string>
+    <string name="advanced_section_header">Дополнительные настройки</string>
     <string name="advanced_security_title">Дополнительные настройки</string>
-    <string name="advanced_settings">Расширенные настройки</string>
+    <string name="advanced_settings">Дополнительные настройки</string>
     <string name="advanced_settings_summary">Включить дополнительные настройки</string>
     <string name="agps_roaming">A-GPS в роуминге</string>
     <string name="agps_roaming_dia">Использование A-GPS в роуминге может увеличить расход мобильного трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
@@ -875,11 +875,11 @@
     <string name="bluetooth_connected_battery_level">Подключено | Батарея %1$s%2$s</string>
     <string name="bluetooth_connected_multiple_devices_summary">Подключено к нескольким устройствам</string>
     <string name="bluetooth_connected_no_a2dp">Подключено (кроме аудио)</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">Подключено (кроме аудио) | Уровень заряда: %1$s%2$s</string>
+    <string name="bluetooth_connected_no_a2dp_battery_level">Подключено (кроме аудио) | Батарея %1$s%2$s</string>
     <string name="bluetooth_connected_no_headset">Подключено (кроме вызовов)</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Подключено (кроме вызовов) | Уровень заряда: %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset_battery_level">Подключено (кроме вызовов) | Батарея %1$s%2$s</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Подключено (кроме вызовов и аудио)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Подключено (кроме вызовов и аудио) | Уровень заряда: %1$s%2$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Подключено (кроме вызовов и аудио) | Батарея %1$s%2$s</string>
     <string name="bluetooth_connected_no_map">Подключено (кроме сообщений)</string>
     <string name="bluetooth_connected_summary">Подключено к %1$s</string>
     <string name="bluetooth_connecting">Подключение…</string>
@@ -2541,12 +2541,12 @@
     <string name="gxzw_dialog_ok">Понятно</string>
     <string name="gxzw_dialog_title">Об экранном сканере отпечатков</string>
     <string name="gxzw_enroll_again">Поднимите палец и приложите снова к сканеру отпечатков</string>
-    <string name="gxzw_quick_open_enable_summary">Используйте ярлыки, чтобы открывать приложения или использовать функции приложений, когда ваше устройство разблокировано</string>
-    <string name="gxzw_quick_open_enable_title">Ярлыки отпечатков пальцев</string>
-    <string name="gxzw_quick_open_fast_summary">Проведите пальцем, чтобы использовать ярлык после разблокировки устройства</string>
-    <string name="gxzw_quick_open_fast_title">Быстрая прокрутка (дополнительно)</string>
-    <string name="gxzw_quick_open_slow_summary">Нажмите и удерживайте значок отпечатка пальца, чтобы открыть контекстное меню. Проведите пальцем, чтобы использовать ярлык</string>
-    <string name="gxzw_quick_open_slow_title">Нажмите и удерживайте</string>
+    <string name="gxzw_quick_open_enable_summary">Использовать ярлыки для запуска приложений или их функций при разблокировке</string>
+    <string name="gxzw_quick_open_enable_title">Ярлыки отпечатка пальца</string>
+    <string name="gxzw_quick_open_fast_summary">Проведите по значку отпечатка пальца для запуска ярлыка при разблокировке.</string>
+    <string name="gxzw_quick_open_fast_title">Быстрый свайп</string>
+    <string name="gxzw_quick_open_slow_summary">Нажмите и удерживайте значок отпечатка пальца для контекстного меню. Проведите для запуска ярлыка.</string>
+    <string name="gxzw_quick_open_slow_title">Нажатие и удерживание</string>
     <string name="gxzw_quick_open_title">Ярлыки</string>
     <string name="handy_mode">Управление одной рукой</string>
     <string name="handy_mode_enable">Управление одной рукой</string>
@@ -2920,7 +2920,7 @@
     <string name="local_backup_password_toast_success">Новый пароль для резервных копий задан</string>
     <string name="local_backup_password_toast_validation_failure">Не удалось задать пароль для резервных копий</string>
     <string name="local_backup_section_summary">Резервное копирование настроек системы, аккаунтов и приложений</string>
-    <string name="local_backup_section_title">Локальное резервное копирование</string>
+    <string name="local_backup_section_title">Резервное копирование</string>
     <string name="locale_default">По умолчанию</string>
     <string name="locale_not_translated">Может быть недоступен в некоторых приложениях</string>
     <string name="locale_remove_menu">Удалить</string>
@@ -3641,7 +3641,7 @@
     <string name="network_could_not_connect">Ошибка подключения</string>
     <string name="network_dashboard_summary">Wi-Fi, мобильный интернет, передача данных, точка доступа</string>
     <string name="network_dashboard_title">Сеть и Интернет</string>
-    <string name="network_detail">Свойства сети \"%s\"</string>
+    <string name="network_detail">Свойства сети %s</string>
     <string name="network_disconnected">Отключено</string>
     <string name="network_error">Ошибка сети</string>
     <string name="network_global">Глобальная</string>
@@ -3652,9 +3652,9 @@
    <string name="network_query_error">Сети не найдены. Повторите попытку.</string>
     <string name="network_reset_not_available">Этот пользователь не может сбрасывать настройки сети</string>
     <string name="network_restrictions">Ограничения трафика</string>
-    <string name="network_scorer_change_active_dialog_text">Использовать приложение \"%1$s\" вместо приложения \"%2$s\" для управления сетевыми подключениями?</string>
+    <string name="network_scorer_change_active_dialog_text">Использовать приложение %1$s вместо %2$s для управления сетевыми подключениями?</string>
     <string name="network_scorer_change_active_dialog_title">Сменить ассистента Wi-Fi?</string>
-    <string name="network_scorer_change_active_no_previous_dialog_text">Использовать приложение \"%s\" для управления сетевыми подключениями?</string>
+    <string name="network_scorer_change_active_no_previous_dialog_text">Использовать приложение %s для управления сетевыми подключениями?</string>
     <string name="network_scorer_picker_none_preference">Нет</string>
     <string name="network_scorer_picker_title">Источник рейтинга сетей</string>
     <string name="network_select_title">Сеть</string>
@@ -3786,7 +3786,7 @@
     <string name="notification_alert_title">Оповещения</string>
     <string name="notification_animation_style">Настройка анимации</string>
     <string name="notification_app_settings_button">Настройки уведомлений</string>
-    <string name="notification_assistant_security_warning_summary">Приложение \"%1$s\" сможет читать все уведомления, в т.ч. включающие личную информацию, такую как имена контактов и текст сообщений. Также, приложение сможет изменять и закрывать уведомления, нажимать кнопки в них. 
+    <string name="notification_assistant_security_warning_summary">Приложение %1$s сможет читать все уведомления, в том числе содержащие личную информацию (например, имена контактов и сообщения), и управлять ими. 
 
 Приложение сможет включать и отключать режим \"Не беспокоить\", менять его настройки.</string>
     <string name="notification_assistant_security_warning_title">Разрешить приложению %1$s доступ к уведомлениям?</string>
@@ -3830,11 +3830,11 @@
     <string name="notification_importance_unspecified">На усмотрение приложения</string>
     <string name="notification_listener_disable_warning_cancel">Отмена</string>
     <string name="notification_listener_disable_warning_confirm">Отключить</string>
-    <string name="notification_listener_disable_warning_summary">Если вы отключите доступ к уведомлениям для приложения \"%1$s\", также может быть отключен доступ к настройкам режима \"Не беспокоить\".</string>
-    <string name="notification_listener_security_warning_summary">"Приложение \"%1$s\" сможет читать все уведомления, в том числе содержащие личную информацию (например, имена контактов и сообщения). Оно также получит право закрывать уведомления и нажимать кнопки в них.
+    <string name="notification_listener_disable_warning_summary">Если вы отключите доступ к уведомлениям для приложения %1$s, также может быть отключен доступ к настройкам режима \"Не беспокоить\".</string>
+    <string name="notification_listener_security_warning_summary">"Приложение %1$s сможет читать все уведомления, в том числе содержащие личную информацию (например, имена контактов и сообщения), и управлять ими.
 
-Приложение сможет включать и отключать режим \"Не беспокоить\", а также менять его настройки."</string>
-    <string name="notification_listener_security_warning_title">Открыть приложению \"%1$s\" доступ к уведомлениям?</string>
+Приложение сможет включать и отключать режим \"Не беспокоить\", менять его настройки."</string>
+    <string name="notification_listener_security_warning_title">Открыть приложению %1$s доступ к уведомлениям?</string>
     <string name="notification_log_details_actions">действия</string>
     <string name="notification_log_details_alerted">уведомление отправлено</string>
     <string name="notification_log_details_ashmem">ashmem</string>
@@ -3962,7 +3962,7 @@
 
 OTG отключается автоматически через 10 минут бездействия."</string>
     <string name="other">Другое</string>
-    <string name="other_advanced_settings">Расширенные настройки</string>
+    <string name="other_advanced_settings">Дополнительные настройки</string>
     <string name="other_device_info">Прочее</string>
     <string name="other_input_settings">Дополнительные настройки клавиатуры</string>
     <string name="other_personal_settings">Личные настройки</string>
@@ -4751,7 +4751,8 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_paper_mode_apps_title">Использовать режим чтения</string>
     <string name="screen_paper_mode_global_summary">Использовать режим чтения для всех приложений</string>
     <string name="screen_paper_mode_global_title">Все приложения</string>
-    <string name="screen_paper_mode_hdr_toast">Режим чтения будет отключен во время воспроизведения HDR видео. Он будет автоматически включен после завершения воспроизведения.</string>
+    <string name="screen_paper_mode_hdr_toast">Режим чтения будет автоматически отключаться во время воспроизведения HDR-видео и включаться по окончанию.</string>
+    <string name="screen_paper_mode_hdr_toast_new">Режим чтения будет автоматически отключаться во время воспроизведения HDR-видео или проверки отпечатков пальцев и включаться по окончанию.</string>
     <string name="screen_paper_mode_local_summary">Использовать режим чтения для избранных приложений</string>
     <string name="screen_paper_mode_local_title">Избранные приложения</string>
     <string name="screen_paper_mode_off_apps_title">Не использовать режим чтения</string>
@@ -4961,7 +4962,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_led_settings">Светодиод;Световой индикатор;Светодиодный индикатор</string>
     <string name="search_legal_information">Юридическая информация</string>
     <string name="search_local_auto_backup_section_title">Резервное копирование;Автоматическое резервное копирование;Резервное копирование по расписанию</string>
-    <string name="search_local_backup_section_title">Локальное резервное копирование</string>
+    <string name="search_local_backup_section_title">Резервное копирование</string>
     <string name="search_location_settings_title">Местоположение;Сервисы местоположения;GPS</string>
     <string name="search_lock_settings">Блокировка и защита;разблокировка по Bluetooth;секретный код;Разблокировка устройством Bluetooth</string>
     <string name="search_lock_sounds_enable_title">Звук блокировки экрана;Включить звук блокировки экрана</string>
@@ -4985,7 +4986,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_ntts_settings_title">TTS;TTS настройки</string>
     <string name="search_oldman_mode_entry_name">Облегченный режим;Режим для пожилых;Простой режим</string>
     <string name="search_onekey_migrate">Перенос;Mi Mover</string>
-    <string name="search_other_advanced_settings">Расширенные настройки;Прочие настройки</string>
+    <string name="search_other_advanced_settings">Дополнительные настройки;Расширенные настройки;Спец. возможности;Кнопки и жесты;Сенсорный помощник;Управление одной рукой;Язык и ввод;Дата и время;Световой индикатор;Для разработчиков;Конфиденциальность;Наушники и звуковые эффекты;</string>
     <string name="search_other_settings_sync_settings">Синхронизация;Автоматически;Только WiFi</string>
     <string name="search_owner_info_settings_title">Информация о владельце</string>
     <string name="search_page_layout_settings">Размер текста;Размер шрифта;Маленький шрифт;Большой шрифт;Средний шрифт; Очень большой шрифт;Огромный шрифт;Размер шрифтов</string>
@@ -5213,7 +5214,7 @@ UT-интерфейс: %5$s"</string>
     <string name="select_automatically">Автовыбор сети</string>
     <string name="select_device_admin_msg">Приложения администратора</string>
     <string name="select_logd_level">Уровень журнала</string>
-    <string name="select_logd_size_dialog_title">Размер буфера журнала</string>
+    <string name="select_logd_size_dialog_title">Буфер журнала</string>
     <string name="select_logd_size_title">Буфер журнала</string>
     <string name="select_logpersist_dialog_title">Выберите буферы журнала, которые будут постоянно храниться на устройстве</string>
     <string name="select_logpersist_title">Постоянно хранить данные журнала на устройстве</string>
@@ -5499,7 +5500,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sound_vibrate_settings">Звук и вибрация</string>
     <string name="sound_work_settings">Сигналы в рабочем профиле</string>
     <string name="speaker">Динамик</string>
-    <string name="speaker_clean">Почистите динамик</string>	
+    <string name="speaker_clean">Очистка динамика</string>	
     <string name="special_access">Специальный доступ</string>
     <string name="special_access_more">Еще</string>
     <string name="speed_label_fast">Быстрая</string>
@@ -6680,8 +6681,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_advanced_settings_label">Настройки IP</string>
     <string name="wifi_advanced_ssid_title">SSID</string>
     <string name="wifi_advanced_titlebar">Дополнительно</string>
-    <string name="wifi_advanced_toggle_description_collapsed">Раскрывающее меню дополнительных настроек. Нажмите дважды, чтобы развернуть.</string>
-    <string name="wifi_advanced_toggle_description_expanded">Раскрывающее меню дополнительных настроек. Нажмите дважды, чтобы свернуть.</string>
+    <string name="wifi_advanced_toggle_description_collapsed">Раскрывающееся меню дополнительных настроек. Нажмите дважды, чтобы развернуть.</string>
+    <string name="wifi_advanced_toggle_description_expanded">Раскрывающееся меню дополнительных настроек. Нажмите дважды, чтобы свернуть.</string>
     <string name="wifi_aggressive_handover">Агрессивное переключение сетей</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть при слабом сигнале Wi-Fi</string>
     <string name="wifi_ap_band_config">Диапазон частот Wi-Fi</string>
