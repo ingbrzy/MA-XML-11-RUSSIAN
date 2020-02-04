@@ -92,6 +92,7 @@
   <string name="button_fisheye_camera_title">Рыбий глаз</string>
   <string name="button_front_camera_title">Сделать селфи</string>
   <string name="button_normal_video_title">Записать видео</string>
+  <string name="camcorder_tip_8k_max_video_duration">Вы можете записать до 6 минут в разрешении 8K</string>
   <string name="camera_disabled">Камера была отключена из-за политики безопасности</string>
   <string name="camera_error_title">Ошибка камеры</string>
   <string name="camera_facedetection_sub_option_hint">Экспериментальная функция</string>

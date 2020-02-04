@@ -65,9 +65,9 @@
     <string name="app_setting_search">Панель поиска</string>
     <string name="app_suggest_detail_setting_summary">Рекомендации приложений основаны на ваших предпочтениях в использовании</string>
     <string name="app_suggest_detail_setting_title">Разрешить доступ к статусу приложения</string>
-    <string name="app_suggest_setting_brief">Показать часто используемые приложения</string>
-    <string name="app_suggest_setting_brief_detail">Рекомендации приложений основаны на ваших предпочтениях в использовании</string>
-    <string name="app_suggest_setting_title">Рекомендации приложений</string>
+    <string name="app_suggest_setting_brief">Получать рекомендации для приложений и функций, которыми вы можете воспользоваться</string>
+    <string name="app_suggest_setting_brief_detail">Получать рекомендации для приложений и функций, которыми вы можете воспользоваться</string>
+    <string name="app_suggest_setting_title">Умные рекомендации</string>
     <string name="apps_label">Приложения</string>
     <string name="baidu_map">Baidu карты</string>
     <string name="battery_history">Батарея</string>
@@ -99,6 +99,7 @@
     <string name="card_expand_note_toast_clear_null">Успешно очищено</string>
     <string name="card_expand_note_toast_save_done">Сохранено в Заметки </string>
     <string name="card_expand_note_toast_save_dup">Успешно сохранено</string>
+    <string name="card_expand_note_toast_share_null">Пустая заметка</string>
     <string name="card_hint_noteboard">Нажмите для создания заметки</string>
     <string name="card_title_favorite">Избранное</string>
     <string name="card_title_funclaunch">Ярлыки</string>
