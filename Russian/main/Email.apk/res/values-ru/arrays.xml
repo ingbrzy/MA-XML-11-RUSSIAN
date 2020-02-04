@@ -53,7 +53,7 @@
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>Все</item>
-        <item>Только получатели</item>
+        <item>Только отправители</item>
     </string-array>
     <string-array name="prefValues_autoAdvance">
         <item>более новые</item>
