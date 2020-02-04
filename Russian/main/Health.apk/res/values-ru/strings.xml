@@ -84,8 +84,8 @@ Mi Health поддерживает устройства, ранее добавл
     <string name="cancel_mark_start">Удалить запись</string>
     <string name="card_on_using">Используемые</string>
     <string name="channel_id_background_service">Фоновые сервисы</string>
-    <string name="character_counter_content_description">Введенные символы %1$d из %2$d</string>
-    <string name="character_counter_overflowed_content_description">Превышен лимит символов %1$d из %2$d</string>
+    <string name="character_counter_content_description">Введенные символы: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="chart_no_data">Нет данных</string>
     <string name="clear_text_end_icon_content_description">Очистить текст</string>
     <string name="collect_diagnosis_log">Собрать журнал диагностики</string>
