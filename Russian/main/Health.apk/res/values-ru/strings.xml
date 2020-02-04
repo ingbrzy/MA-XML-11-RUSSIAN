@@ -142,7 +142,7 @@ ID:%s
 Пожалуйста, отправьте код специалисту."</string>
     <string name="dialog_abandon">Выход</string>
     <string name="dialog_abandon_sleep_edit">Отменить изменения?</string>
-    <string name="dialog_account_perm_desc">Для доступа и вход в системный аккаунт</string>
+    <string name="dialog_account_perm_desc">Для доступа и входа в системный аккаунт</string>
     <string name="dialog_agree_and_continue">Согласен</string>
     <string name="dialog_auto_start_detail">"Разрешите приложению Mi Здоровье автозапуск, чтобы получать уведомления.
 Приложение будет отправлять только важные уведомления."</string>
@@ -199,7 +199,7 @@ ID:%s
     <string name="feedback_need_permission_msg">Разрешите приложению Mi Здоровье доступ к памяти устройства для создания журналов, используемых в отчетах.</string>
     <string name="feedback_permission_denied_msg">Не удалось сохранить журналы в память устройства. Предоставьте приложению Mi Здоровье необходимые разрешения в разделе Настройки.</string>
     <string name="finish">Завершить</string>
-    <string name="for_diagnosis_usage_only">Использовать эту информацию для диагностики</string>
+    <string name="for_diagnosis_usage_only">Использовать эту информацию только для диагностики</string>
     <string name="gender_female">Женский</string>
     <string name="gender_male">Мужской</string>
     <string name="gender_other">Другой</string>
@@ -339,7 +339,7 @@ ID:%s
     <string name="other_can_add_data_source">Доступные источники</string>
     <string name="page">%1$d/%2$d</string>
     <string name="passport_oauth_actionbar_title">Mi Аккаунт</string>
-    <string name="passport_oauth_sucess_tip">Авторизован успешно</string>
+    <string name="passport_oauth_sucess_tip">Вход выполнен</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="permission_check_result">Готово</string>
     <string name="permission_check_result_failed">Произошла ошибка</string>

@@ -8,7 +8,7 @@
     <string name="hide_apps_close">Видимые значки приложений</string>
     <string name="hide_apps_open">Скрытые значки приложений</string>
     <string name="home_hide_apps">Скрыть значки приложений</string>
-    <string name="loading">Секундочку…</string>
+    <string name="loading">Подождите…</string>
     <string name="lockscreen_side_apps">Ярлыки боковой панели</string>
     <string name="no_apps">Ничего нет</string>
     <string name="reset">Сброс</string>
