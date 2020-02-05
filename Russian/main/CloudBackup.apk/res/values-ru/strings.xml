@@ -214,6 +214,8 @@
     <string name="size_unknown">Размер неизвестен</string>
     <string name="start_backup_to_micloud">Резервное копирование приложений в Xiaomi Cloud</string>
     <string name="start_recover">Восстановить %s</string>
+    <string name="storage_unit_gb">%s ГБ</string>
+    <string name="storage_unit_mb">%s МБ</string>	
     <string name="success_open_cloudbackup">Резервное копирование приложений рабочего стола включено</string>
     <string name="title_alert_cancel_restore">Предупреждение</string>
     <string name="title_alert_restore_error">Восстановление не удалось</string>

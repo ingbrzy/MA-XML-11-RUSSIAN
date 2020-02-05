@@ -38,7 +38,7 @@
     <string name="action_item_download">Загрузить</string>
     <string name="action_item_favorite">Добавить в избранные</string>
     <string name="action_item_hide">Скрыть</string>
-    <string name="action_item_hifi">Наушники и звуковые эффекты</string>
+    <string name="action_item_hifi">Звуковые эффекты</string>
     <string name="action_item_play_all">Перемешать все</string>
     <string name="action_item_play_next">Воспроизвести далее</string>
     <string name="action_item_remove">Убрать</string>
@@ -383,9 +383,9 @@
     <string name="goto_online_search">Поиск онлайн</string>
     <string name="handle_later">Не сейчас</string>
     <string name="hd_quality_audio">Звук HD качества</string>
-    <string name="headset_and_audio_effect_category">Наушники и звуковые эффекты</string>
-    <string name="headset_and_audio_effect_summary">Наушники и эквалайзер</string>
-    <string name="headset_and_audio_effect_title">Наушники и звуковые эффекты</string>
+    <string name="headset_and_audio_effect_category">Звуковые эффекты</string>
+    <string name="headset_and_audio_effect_summary">Наушники и настройки звука</string>
+    <string name="headset_and_audio_effect_title">Звуковые эффекты</string>
     <string name="hide_album">Скрыть обложку</string>
     <string name="hide_lyric">Скрыть текст</string>
     <string name="high_sound_quality">Высокое</string>

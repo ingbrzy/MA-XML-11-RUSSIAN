@@ -309,6 +309,8 @@
     <string name="delete_call_log_message">Удалить запись журнала вызовов?</string>
     <string name="delete_call_log_selected_title">Удалить выбранные записи?</string>
     <string name="delete_call_log_title">Очистка журнала вызовов</string>
+    <string name="delete_conference_call_log_message">Удалить все записи конференц-связи, связанные с этим контактом?</string>
+    <string name="delete_conference_call_log_title">Удаление записей</string>	
     <string name="delete_contact_calllog_title">Удалить записи журнала вызовов?</string>
     <string name="delete_dial_input">Удалить</string>
     <string name="delete_duplicate">Объединить</string>

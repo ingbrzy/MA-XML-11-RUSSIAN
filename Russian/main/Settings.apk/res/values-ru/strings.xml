@@ -2582,7 +2582,7 @@
     <string name="header_category_system">Система</string>
     <string name="header_category_wireless_networks">Беспроводные сети</string>
     <string name="header_data_and_synchronization">Синхронизация данных</string>
-    <string name="headset_settings_title">Наушники и звуковые эффекты</string>
+    <string name="headset_settings_title">Звуковые эффекты</string>
     <string name="heavy_weight_stop_description">Если закрыть это приложение, можно потерять несохраненные данные.</string>
     <string name="help_feedback_label">Помощь и обратная связь</string>
     <string name="help_label">Справка/отзыв</string>
@@ -4986,7 +4986,7 @@ UT-интерфейс: %5$s"</string>
     <string name="search_ntts_settings_title">TTS;TTS настройки</string>
     <string name="search_oldman_mode_entry_name">Облегченный режим;Режим для пожилых;Простой режим</string>
     <string name="search_onekey_migrate">Перенос;Mi Mover</string>
-    <string name="search_other_advanced_settings">Дополнительные настройки;Расширенные настройки;Спец. возможности;Кнопки и жесты;Сенсорный помощник;Управление одной рукой;Язык и ввод;Дата и время;Световой индикатор;Для разработчиков;Конфиденциальность;Наушники и звуковые эффекты;</string>
+    <string name="search_other_advanced_settings">Дополнительные настройки;Расширенные настройки;</string>
     <string name="search_other_settings_sync_settings">Синхронизация;Автоматически;Только WiFi</string>
     <string name="search_owner_info_settings_title">Информация о владельце</string>
     <string name="search_page_layout_settings">Размер текста;Размер шрифта;Маленький шрифт;Большой шрифт;Средний шрифт; Очень большой шрифт;Огромный шрифт;Размер шрифтов</string>

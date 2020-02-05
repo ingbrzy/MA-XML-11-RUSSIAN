@@ -31,7 +31,7 @@
   <string name="action_item_download_all_cloud">Загрузить все песни</string>
   <string name="action_item_favorite">Избранные</string>
   <string name="action_item_hide">Скрыть</string>
-  <string name="action_item_hifi">Наушники и звуковые эффекты</string>
+  <string name="action_item_hifi">Звуковые эффекты</string>
   <string name="action_item_modify_info">Изменить информацию</string>
   <string name="action_item_play_all">Воспроизвести все</string>
   <string name="action_item_play_next">Воспроизвести позже</string>

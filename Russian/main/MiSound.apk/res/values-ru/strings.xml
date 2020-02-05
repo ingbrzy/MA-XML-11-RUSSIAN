@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_sound">Добавить пользовательский пресет</string>
-  <string name="app_name">Наушники и звуковые эффекты</string>
+  <string name="app_name">Наушники</string>
   <string name="apply_sound">Применить</string>
   <string name="can_you_here">Вы слышите звук?</string>
   <string name="complete_dialog_button">Понятно</string>
@@ -104,7 +104,7 @@
   <string name="music_headset_mode_settings">Функции кнопок</string>
   <string name="music_headset_mode_volume">Управление громкостью</string>
   <string name="music_headset_no_contected">Наушники не найдены</string>
-  <string name="music_headset_settings">Наушники и звуковые эффекты</string>
+  <string name="music_headset_settings">Звуковые эффекты</string>
   <string name="music_hifi_summary">Уменьшение шума и искажений и повышение качества звука</string>
   <string name="music_hifi_title">Hi-Fi аудио</string>
   <string name="music_mi_effect_summary">Использовать усилитель Mi Sound при прослушивании через наушники</string>
