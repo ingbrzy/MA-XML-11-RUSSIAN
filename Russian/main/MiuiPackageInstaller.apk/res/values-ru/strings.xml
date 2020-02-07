@@ -305,9 +305,9 @@
   <string name="unknown_installer">Версия PC tools не идентифицирована</string>
   <string name="unlike">Нет, спасибо</string>
   <string name="untrusted_external_source_always_click">Разрешить</string>
-  <string name="untrusted_external_source_title">Разрешить \"%1$s\" удаление приложений?</string>
+  <string name="untrusted_external_source_title">Разрешить \"%1$s\" установку?</string>
   <string name="untrusted_external_source_warning">В целях безопасности установка неизвестных приложений из этого источника заблокирована.</string>
-  <string name="untrusted_external_source_warning_summary">Ваше устройство и личные данные уязвимы для атак приложений, установленных из неизвестных источников. Разрешая устанавливать приложения из этого источника, вы соглашаетесь принять на себя ответственность за любой ущерб или потерю данных, которые могут возникнуть при использовании этих приложений.</string>
+  <string name="untrusted_external_source_warning_summary">Устройство и личные данные могут быть уязвимы для атак приложений, установленных из неизвестных источников. Разрешая установку приложения из этого источника, вы принимаете на себя ответственность за любой ущерб или потерю данных, которые могут возникнуть при его использовании.</string>
   <string name="user_is_not_allowed_dlg_text">У текущего пользователя отсутствуют разрешение на удаление.</string>
   <string name="user_is_not_allowed_dlg_title">Разрешение отсутствует</string>
   <string name="virus_scan_caller_unknown">Неизвестно</string>
