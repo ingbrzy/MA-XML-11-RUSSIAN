@@ -4,6 +4,7 @@
     <string name="app_name">Расширение Xiaomi.eu</string>
     <string name="confirm_reset">Сброс ярлыков</string>
     <string name="confirm_reset_message">Восстановить ярлыки по умолчанию?</string>
+    <string name="contributors">Авторы</string>
     <string name="delete">Удалить</string>
     <string name="hide_apps_close">Видимые значки приложений</string>
     <string name="hide_apps_open">Скрытые значки приложений</string>

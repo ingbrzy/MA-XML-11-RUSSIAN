@@ -40,7 +40,8 @@
     <string name="action_item_hide">Скрыть</string>
     <string name="action_item_hifi">Звуковые эффекты</string>
     <string name="action_item_play_all">Перемешать все</string>
-    <string name="action_item_play_next">Воспроизвести далее</string>
+    <string name="action_item_play_next">Воспроизвести позже</string>
+    <string name="action_item_play_video">Воспроизвести</string>
     <string name="action_item_remove">Убрать</string>
     <string name="action_item_remove_from_favorite">Удалить из избранных</string>
     <string name="action_item_share">Отправить</string>
@@ -343,7 +344,7 @@
     <string name="fail_to_fetch_payment_page_url">Не удалось получить данные платежа</string>
     <string name="fail_to_play">Не удалось воспроизвести трек</string>
     <string name="failed_not_access_sd_card">необходимо сначала разрешить доступ к SD-карте</string>
-    <string name="failed_obtain_permissions">"Не удалось получить разрешения"</string>
+    <string name="failed_obtain_permissions">Не удалось получить разрешения</string>
     <string name="fav_login_msg">Войдите в Mi Аккаунт для загрузки треков</string>
     <string name="favorite_canceled">Удалено из избранных</string>
     <string name="favorite_playlist">Избранные</string>
@@ -354,6 +355,7 @@
     <string name="fcm_fallback_notification_channel_label">Разное</string>
     <string name="feed_back">Обратная связь</string>
     <string name="file_not_found">Файл не найден</string>
+    <string name="filter_by_MP4">Показать папки с файлами MP4</string>
     <string name="filter_by_duration">По длительности</string>
     <string name="filter_by_duration_max">%d мин</string>
     <string name="filter_by_duration_min">%d с</string>
@@ -395,6 +397,7 @@
     <string name="home_tab_local">Моя музыка</string>
     <string name="home_tab_more_music">Еще</string>
     <string name="home_tab_online">Онлайн музыка</string>
+    <string name="home_tab_recommend">Онлайн</string>
     <string name="home_tab_search">Поиск</string>
     <string name="home_tab_yandex">Яндекс Музыка</string>    
     <string name="hot_icon_in_fast_indexer">H</string>
@@ -538,7 +541,7 @@
     <string name="no_local_songs">Нет треков</string>
     <string name="no_local_songs_selected">Невозможно отправить трек, который не загружен.</string>
     <string name="no_local_source_find">Файл не найден</string>
-    <string name="no_longer_prompt">Не показывать больше</string>
+    <string name="no_longer_prompt">Больше не показывать</string>
     <string name="no_results_return">Ничего не найдено</string>
     <string name="no_scanned_songs">Нет треков</string>
     <string name="no_song_downloaded">Треки для загрузки не найдены</string>
@@ -728,6 +731,8 @@
     <string name="service_and_settings">Аккаунт и настройки</string>
     <string name="set_as_alarm_clock_ringtone">Будильник</string>
     <string name="set_as_ring">Установить на звонок</string>
+    <string name="set_online_home_subtitle">Открывать онлайн рекомендации при запуске приложения</string>
+    <string name="set_online_home_title">Онлайн рекомендации</string>
     <string name="set_ringtones_failed">Не удалось установить на звонок</string>
     <string name="set_ringtones_successful">Трек \"%s\" установлен на звонок</string>
     <string name="setting_feature_setting">Настройки функций</string>
@@ -876,4 +881,5 @@
     <string name="xiaomi_update_sdk_megabytes_unit">%1$s Мб</string>
     <string name="you_can_switch_mode_in_settings">Вы можете переключить режим в настройках</string>
     <string name="you_may_like">Вам также может понравиться</string>
+    <string name="youtube_play_history">История воспроизведения</string>
 </resources>

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="height_array">
+        <item>Сантиметры</item>
+        <item>Метры</item>
+        <item>Футы</item>
+        <item>Дюймы</item>
+    </string-array>
     <string-array name="mortgage_repayment">
         <item>Равные взносы</item>
         <item>По убывающей</item>
@@ -30,4 +36,8 @@
         <item>JPY</item>
         <item>CNY</item>
     </string-array>
+    <string-array name="weight_array">
+        <item>Килограммы</item>
+        <item>Фунты</item>
+    </string-array>	
 </resources>
