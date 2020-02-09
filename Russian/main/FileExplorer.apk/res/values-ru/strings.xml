@@ -105,10 +105,10 @@
     <string name="copy_to">Копировать в…</string>
     <string name="create_folder">Создать</string>
     <string name="create_shortcut_success">Ярлык успешно добавлен</string>
-    <string name="data_consumption_cancel">"Отмена"</string>
-    <string name="data_consumption_checkbox_hint">"Не показывать снова"</string>
+    <string name="data_consumption_cancel">Отмена</string>
+    <string name="data_consumption_checkbox_hint">Не показывать снова</string>
     <string name="data_consumption_confirm">ОК</string>
-    <string name="data_consumption_message">"Файловый менеджер может использовать подключение к сети. Разрешить?"</string>
+    <string name="data_consumption_message">Файловый менеджер может использовать подключение к сети. Разрешить?</string>
     <string name="data_consumption_title">Интернет соединение</string>
     <string name="decompress_cancel">Отмена</string>
     <string name="decompress_confirm">Извлечь</string>
@@ -145,7 +145,7 @@
     <string name="dialog_type_video">Видео</string>
     <string name="disk_available">Свободно: </string>
     <string name="disk_total">Всего: </string>
-    <string name="enable_documentsui">Сначала включите %s, перейдя в Настройки &gt; Все приложения</string>
+    <string name="enable_documentsui">Для включения %s перейдите в Настройки &gt; Все приложения</string>
     <string name="enable_sd_card">SD карта повреждена или отключена</string>
     <string name="enable_usb">USB устройство повреждено или отключено</string>
     <string name="encrypt_error">Не удалось скрыть файлы, повторите попытку</string>
@@ -212,7 +212,7 @@
     <string name="function_set_private">"Для просмотра и шифрования файлов; "</string>
     <string name="function_use_imei">"Для доступа к IMEI и шифрования файлов; "</string>    
     <string name="gbk_summary">Упрощенная китайская кодировка Windows по умолчанию</string>
-    <string name="gigabyteShort">ГБ</string>
+    <string name="gigabyteShort">" ГБ"</string>
     <string name="grid_mode">Таблица</string>
     <string name="group_title">%2$s из %1$s</string>
     <string name="group_title_extra_backup">Резервные копии</string>
@@ -238,10 +238,10 @@
     <string name="info_system">Система:</string>
     <string name="info_system_version">Версия системы:</string>
     <string name="instruction">Введите нижеприведенный адрес в FTP-клиент: </string>
-    <string name="instruction_pre_pad">Нажмите для запуска FTP-сервера</string>
-    <string name="instruction_pre_phone">Нажмите для запуска FTP-сервера</string>
+    <string name="instruction_pre_pad">Запуск FTP-сервера</string>
+    <string name="instruction_pre_phone">Запуск FTP-сервера</string>
     <string name="just_now">только что</string>
-    <string name="kilobyteShort">КБ</string>
+    <string name="kilobyteShort">" КБ"</string>
     <string name="list_mode">Список</string>
     <string name="load_more">Показать еще</string>
     <string name="loading">Подождите…</string>
@@ -252,10 +252,10 @@
     <string name="make_private_msg_1">Скрыть этот файл?</string>
     <string name="make_private_msg_2">Скрыть эти файлы?</string>
     <string name="make_private_msg_3">Все файлы в этой папке будут скрыты.</string>
-    <string name="megabyteShort">МБ</string>
+    <string name="megabyteShort">" МБ"</string>
     <string name="menu_item_cleanup">Очистка</string>
     <string name="menu_item_deep_clean">Глубокая очистка</string>
-    <string name="menu_item_ftp">Подключение к компьютеру</string>
+    <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_midrop">Передача файлов</string>
     <string name="menu_item_router">Роутер</string>
     <string name="menu_item_sort">Сортировка</string>
@@ -292,8 +292,8 @@
     <string name="no_recent_files">Нет недавних файлов</string>
     <string name="no_wifi">Сеть не обнаружена</string>
     <string name="no_wifi_hint">Нет соединения</string>
-    <string name="not_installed_documentsui">DocumentsUI не установлено</string>
-    <string name="not_support_documentui">DocumentUI не поддерживается на этом устройстве</string>
+    <string name="not_installed_documentsui">Приложение DocumentsUI не установлено</string>
+    <string name="not_support_documentui">Приложение DocumentUI не поддерживается на этом устройстве</string>
     <string name="notif_server_starting">Запуск FTP-сервера…</string>
     <string name="notif_title">FTP-сервер запущен</string>
     <string name="notification_dialog_confirm">OK</string>
@@ -321,7 +321,7 @@
     <string name="operation_delete_done">Удаление завершено</string>
     <string name="operation_deleting">Удаление…</string>
     <string name="operation_favorite">Добавить в избранные</string>
-    <string name="operation_hide_sys">"Не показывать скрытые файлы"</string>
+    <string name="operation_hide_sys">Не показывать скрытые файлы</string>
     <string name="operation_info">Подробности</string>
     <string name="operation_language">Язык</string>
     <string name="operation_move">Переместить</string>
@@ -420,7 +420,7 @@
     <string name="start_phone">Устройство</string>
     <string name="start_server">Запустить сервер</string>
     <string name="status_bar_notification_info_overflow">&gt;999</string>
-    <string name="stay_awake_summary">"Не переходить в спящий режим при использовании FTP"</string>
+    <string name="stay_awake_summary">Не переходить в спящий режим при использовании FTP</string>
     <string name="stay_awake_title">Не выключать дисплей</string>
     <string name="stop_server">Остановить сервер</string>
     <string name="storage_cloned_app">Память для клонов</string>
@@ -438,7 +438,7 @@
     <string name="tab_local">ЛОКАЛЬНЫЕ</string>
     <string name="tab_more">Еще</string>
     <string name="tab_source">Приложения</string>
-    <string name="terabyteShort">ТБ</string>
+    <string name="terabyteShort">" ТБ"</string>
     <string name="text_select_all">Выбрать все</string>
     <string name="text_select_nothing">Снять выбор</string>
     <string name="tip">Внимание</string>
