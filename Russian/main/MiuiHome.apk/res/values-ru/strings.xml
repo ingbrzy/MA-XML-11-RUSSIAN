@@ -262,6 +262,7 @@
     <string name="home_pull_down_action">Свайп вниз на рабочем столе</string>
     <string name="home_screen">Рабочий стол</string>
     <string name="home_slide_up_action">Свайп вверх на рабочем столе</string>
+    <string name="home_switch_personal_assistant">Дополнительный экран слева</string>
     <string name="icon_reorganize_channel">Упорядочить значки</string>
     <string name="icon_size">Размер иконок</string>
     <string name="image_too_small_message">Размер изображения слишком мал</string>
@@ -271,7 +272,6 @@
     <string name="is_system_wallpaper_message">Нельзя удалить системные обои</string>
     <string name="launcher_global_search_mode_title">Поиск на рабочем столе</string>
     <string name="launcher_global_search_provider_title">Поставщик поиска</string>
-    <string name="launcher_minus_screen_title">Дополнительный экран слева</string>
     <string name="launcher_not_exist">Произошла ошибка. Вернитесь на рабочий стол и повторите попытку.</string>
     <string name="launcher_pull_down_title">Свайп вниз</string>
     <string name="launcher_search_bar_title">Панель поиска</string>
@@ -439,8 +439,13 @@
     <string name="status_installing">Установка</string>
     <string name="status_paused">Пауза</string>
     <string name="status_pending">Ожидание</string>
+    <string name="switch_personal_assistant_app_vault">Ассистент</string>
+    <string name="switch_personal_assistant_google">Google Discover</string>
+    <string name="switch_personal_assistant_none">Нет</string>	
     <string name="system_shortcuts_more_operation">О приложении</string>
+    <string name="system_shortcuts_remove">Удалить</string>
     <string name="system_text">По умолчанию</string>
+    <string name="task_access_locked_app_msg">Включена блокировка приложения</string>
     <string name="title_jeejen">Рабочий стол для пожилых</string>
     <string name="title_select_live_folder">Выберите папку</string>
     <string name="title_select_shortcut">Выберите ярлык</string>
