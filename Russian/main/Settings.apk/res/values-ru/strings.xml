@@ -1911,7 +1911,7 @@
     <string name="display_auto_rotate_stay_in_landscape">Альбомная ориентация</string>
     <string name="display_auto_rotate_stay_in_portrait">Книжная ориентация</string>
     <string name="display_auto_rotate_title">Автоповорот экрана</string>
-    <string name="display_category_title">Экран</string>
+    <string name="display_category_title">Дисплей</string>
     <string name="display_cutout_emulation">Дисплей с вырезом</string>
     <string name="display_cutout_emulation_keywords">дисплей с вырезом, вырез</string>
     <string name="display_dashboard_nowallpaper_summary">Спящий режим, размер шрифта</string>
@@ -1919,8 +1919,8 @@
     <string name="display_dashboard_summary_with_style">Стили, обои, таймаут экрана, размер шрифта</string>	
     <string name="display_label">Экран</string>
     <string name="display_order_text">Упорядочить по:</string>
-    <string name="display_settings">Экран</string>
-    <string name="display_settings_title">Экран</string>
+    <string name="display_settings">Дисплей</string>
+    <string name="display_settings_title">Дисплей</string>
     <string name="display_summary">Устройство переходит в спящий режим после %1$s бездействия</string>
     <string name="display_summary_example">Устройство переходит в спящий режим через 10 минут бездействия</string>
     <string name="display_vr_pref_low_persistence">Уменьшить размытие (рекомендуется)</string>
