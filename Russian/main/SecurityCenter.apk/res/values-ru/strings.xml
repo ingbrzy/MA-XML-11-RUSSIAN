@@ -2532,7 +2532,7 @@
   <string name="st_filter_keywords_setting_summary1">Сообщения с неизвестных номеров, содержащие ключевые слова, будут заблокированы.</string>
   <string name="st_filter_keywords_setting_summary2">Вы можете добавить несколько ключевых слов через запятую.</string>
   <string name="st_filter_keywords_setting_summary3">Сообщения с неизвестных номеров, содержащие ключевые слова, будут разрешены.</string>
-  <string name="st_group_list_management">Списки блокировки</string>
+  <string name="st_group_list_management">Список блокировки</string>
   <string name="st_hint_add_head_number">Введите префикс</string>
   <string name="st_hint_add_phonenumber">Введите номер телефона</string>
   <string name="st_message_phone_AntiSpam">Блокировать вызовы</string>
