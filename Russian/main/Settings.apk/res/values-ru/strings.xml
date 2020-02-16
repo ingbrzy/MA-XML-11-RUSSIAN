@@ -4375,10 +4375,10 @@ OTG отключается автоматически через 10 минут �
     <string name="privacy_settings_title">Резервное копирование</string>
     <string name="privacy_thumbnail_blur_progress_message">Подождите…</string>
     <string name="privacy_thumbnail_blur_title">Размытие миниатюр</string>
-    <string name="private_dns_help_message">&lt;annotation id="url"&gt;Узнайте больше&lt;/annotation&gt; о функциях частного DNS</string>
+    <string name="private_dns_help_message">&lt;annotation id="url"&gt;Узнайте больше&lt;/annotation&gt; о функциях приватного DNS</string>
     <string name="private_dns_mode_off">Отключен</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
-    <string name="private_dns_mode_provider">Имя хоста частного DNS-провайдера</string>
+    <string name="private_dns_mode_provider">Имя хоста приватного DNS-провайдера</string>
     <string name="private_dns_mode_provider_failure">Не удалось подключиться</string>
     <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста DNS-провайдера</string>
     <string name="private_gallery_need_to_unlock">Введите пароль</string>
@@ -5218,8 +5218,8 @@ UT-интерфейс: %5$s"</string>
     <string name="select_logd_size_title">Буфер журнала</string>
     <string name="select_logpersist_dialog_title">Выберите буферы журнала, которые будут постоянно храниться на устройстве</string>
     <string name="select_logpersist_title">Постоянно хранить данные журнала на устройстве</string>
-    <string name="select_private_dns_configuration_dialog_title">Выберите режим частного DNS</string>
-    <string name="select_private_dns_configuration_title">Частный DNS</string>
+    <string name="select_private_dns_configuration_dialog_title">Выберите режим приватного DNS</string>
+    <string name="select_private_dns_configuration_title">Приватный DNS</string>
     <string name="select_sim_for_calls">Выберите SIM-карту</string>
     <string name="select_sim_for_data">SIM-карта для мобильных данных</string>
     <string name="select_sim_for_sms">SIM-карта для SMS</string>
