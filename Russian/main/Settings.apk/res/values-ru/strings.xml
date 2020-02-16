@@ -4378,7 +4378,7 @@ OTG отключается автоматически через 10 минут �
     <string name="private_dns_help_message">&lt;annotation id="url"&gt;Узнайте больше&lt;/annotation&gt; о функциях приватного DNS</string>
     <string name="private_dns_mode_off">Отключен</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
-    <string name="private_dns_mode_provider">Имя хоста приватного DNS-провайдера</string>
+    <string name="private_dns_mode_provider">Имя хоста DNS-провайдера</string>
     <string name="private_dns_mode_provider_failure">Не удалось подключиться</string>
     <string name="private_dns_mode_provider_hostname_hint">Введите имя хоста DNS-провайдера</string>
     <string name="private_gallery_need_to_unlock">Введите пароль</string>
