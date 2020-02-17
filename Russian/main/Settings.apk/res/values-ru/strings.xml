@@ -633,12 +633,22 @@
     <string name="backup_data_management_title">Управление аккаунтом резервного копирования</string>
     <string name="backup_data_summary">Сохранять данные приложений, пароли Wi-Fi и другие настройки на серверах Google</string>
     <string name="backup_data_title">Резервное копирование в Google</string>
+    <string name="backup_difference_content">"Локальные резервные копии:
+Локальные резервные копии могут включать данные приложений и обычно являются более полными. Файлы резервных копий хранятся в MIUI/backup/AllBackup и должны быть скопированы на компьютер после завершения процесса резервного копирования.
+
+Облачные резервные копии:
+Резервные копии хранятся в Xiaomi Cloud и могут быть доступны по беспроводной сети. Этот метод быстрее и проще, чем локальное резервное копирование, но данные приложений не сохраняются.
+"</string>
+    <string name="backup_difference_title">4. Отличие локальных резервных копий от облачных</string>	
     <string name="backup_disabled">Резервное копирование отключено</string>
     <string name="backup_erase_dialog_message">Прекратить сохранение паролей Wi-Fi, закладок, других настроек и данных приложений, а также удалить все копии с серверов Google?</string>
     <string name="backup_erase_dialog_title" />
     <string name="backup_inactive_title">Сервис резервного копирования неактивен</string>
     <string name="backup_pw_cancel_button_text">Отмена</string>
     <string name="backup_pw_set_button_text">Сохранить пароль</string>
+    <string name="backup_restore_data_content">"Резервные копии могут содержать контакты, сообщения (SMS и MMS), историю вызовов, события календаря, фото и видео, аудиофайлы, документы, приложения и их данные, раскладку рабочего стола.
+"</string>
+    <string name="backup_restore_data_title">5. Содержимое резервных копий</string>	
     <string name="backup_section_title">Резервное копирование и восстановление</string>
     <string name="backup_set_clear_success">Пароль резервного копирования отключен</string>
     <string name="backup_set_clear_title">Отключение пароля</string>
@@ -1185,7 +1195,7 @@
     <string name="bt_hci_snoop_log">Журнал Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Записывать все пакеты Bluetooth HCI в журнал</string>
     <string name="bt_ldac_declaration">Если устройство Bluetooth поддерживает LDAC, он будет включен по умолчанию. LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
-    <string name="bt_ldac_dialog_summary">"LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи
+    <string name="bt_ldac_dialog_summary">"LDAC обеспечивает высокое качество звука, но также приводит к увеличению энергопотребления.
 Эту функцию можно отключить в [Настройках]"</string>
     <string name="bt_ldac_dialog_title">Включена поддержка LDAC</string>
     <string name="bt_ldac_open_dialog_summary">LDAC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
@@ -1193,10 +1203,10 @@
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Свойства</string>
     <string name="bt_lhdc_declaration">Если устройство Bluetooth поддерживает LHDC, он будет подключен по умолчанию. LHDC обеспечивает высокое качество звука, но также увеличивает энергопотребление. Проблемы могут возникнуть во время воспроизведения из-за аппаратных ограничений Bluetooth.</string>
-    <string name="bt_lhdc_dialog_summary">"LHDC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи.
+    <string name="bt_lhdc_dialog_summary">"LHDC обеспечивает высокое качество звука, но также приводит к увеличению энергопотребления.
 Эту функцию можно отключить в Настройках"</string>
     <string name="bt_lhdc_dialog_title">Включена поддержка LHDC</string>
-    <string name="bt_lhdc_open_dialog_summary">LHDC обеспечивает высокое качество звука, но также приводит к увеличению потребления батареи. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
+    <string name="bt_lhdc_open_dialog_summary">LHDC обеспечивает высокое качество звука, но также приводит к увеличению энергопотребления. Проблемы во время воспроизведения могут возникать из-за аппаратных ограничений Bluetooth.</string>
     <string name="bt_lhdc_open_dialog_title">Включить LHDC?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Свойства</string>
@@ -1713,6 +1723,10 @@
     <string name="data_usage_warning_editor_title">Настройка предупреждения</string>
     <string name="data_used_template">Передано: %1$s</string>
     <string name="data_warning">Предупреждение</string>
+    <string name="data_warning_footnote">Расход трафика подсчитывается устройством и может не совпадать с данными оператора связи.</string>
+    <string name="datasize_decrease_content">"Контакты, сообщения и системные данные сжимаются во время резервного копирования, что приводит к уменьшению размера файла.
+"</string>
+    <string name="datasize_decrease_title">6. Отличие размера резервных копий от размера фактических данных</string>
     <string name="date_and_time">Дата и время</string>
     <string name="date_and_time_settings_summary">Установка даты, времени, часового пояса и формата</string>
     <string name="date_and_time_settings_title">Дата и время</string>
@@ -2623,6 +2637,40 @@
     <string name="homepage_all_settings">Все настройки</string>
     <string name="homepage_condition_footer_content_description">Свернуть</string>
     <string name="homepage_personal_settings">Рекомендации</string>
+    <string name="how_backup_content">"Доступно 3 вида резервных копий: локальные, облачные, на USB.
+
+Локальные резервные копии:
+Локальные резервные копии позволяют сохранять настройки системы, аккаунты, приложения и их данные, и другие данные на устройстве (MIUI/backup/AllBackup). После создания резервной копии, вы можете перенести ее на компьютер через USB-кабель.
+Примечание:
+Можно использовать Mi PC Suite для создания резервных копий и восстановления из них.
+
+Облачные резервные копии:
+Облачные резервные копии позволяют сохранять настройки системы, раскладку рабочего стола, приложения и другие данные на Xiaomi Cloud по беспроводной сети.
+
+Резервные копии на USB:
+Этот способ позволяет сохранять настройки системы, аккаунты, данные приложений и другие данные на внешнем запоминающем устройстве USB.
+"</string>
+    <string name="how_backup_title">1. Создание резервных копий</string>
+    <string name="how_encrypt_content">"Можно зашифровать только локальные резервные копии. 2 способа сделать это:
+a) Откройте страницу с локальными резервными копиями, нажмите кнопку, чтобы включить шифрование, и войдите в Mi Аккаунт. После этого резервные копии будут зашифрованы автоматически. Помните, что для восстановления элементов из зашифрованных резервных копий вам потребуется войти в Mi Аккаунт.
+b) При использовании Mi PC Suite для создания резервных копий, можно включить шифрование там.
+
+Примечание:
+Запомните пароль! Без него вы не сможете расшифровать свои резервные копии.
+"</string>
+    <string name="how_encrypt_title">3. Шифрование резервных копий</string>
+    <string name="how_restore_backup_content">"Доступны следующие способы восстановления, в зависимости от вида резервных копий:
+
+Локальные резервные копии:
+Скопируйте резервную копию с компьютера на устройство (MIUI/backup/AllBackup). Перейдите в Настройки &gt; Резервное копирование, восстановление или сброс &gt; На этом устройстве, выберите резервную копию.
+
+Облачные резервные копии:
+Войдите в Mi Аккаунт, перейдите в Настройки &gt; Резервное копирование, восстановление или сброс &gt; В Xiaomi Cloud, выберите резервную копию.
+
+Резервные копии на USB:
+Скопируйте резервную копию на устройство (MIUI/backup/AllBackup). Перейдите в Настройки &gt; Резервное копирование, восстановление или сброс &gt; На этом устройстве, выберите резервную копию.
+"</string>
+    <string name="how_restore_backup_title">2. Восстановление из резервных копий</string>
     <string name="http_invoke_app">Веб-приложения</string>
     <string name="http_invoke_app_summary">Быстрый запуск приложений без их установки</string>
     <string name="hwui_force_dark_summary">Принудительное включение темного режима</string>
