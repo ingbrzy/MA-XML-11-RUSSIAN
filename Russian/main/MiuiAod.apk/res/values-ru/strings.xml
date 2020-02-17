@@ -70,6 +70,7 @@
   <string name="letter_space">Межбуквенный интервал</string>
   <string name="line_space">Межстрочный интервал</string>  
   <string name="mini_time">Маленькие часы</string>
+  <string name="minimalist_clock">Простые часы</string>
   <string name="mtrl_chip_close_icon_content_description">Удаление %1$s</string>
   <string name="my_style_title">мой стиль</string>
   <string name="notification_anim_pulse">Пульс</string>
