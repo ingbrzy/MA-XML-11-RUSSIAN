@@ -90,12 +90,19 @@
   <string name="increment_install_pause_for_wifi">Ожидание сети</string>
   <string name="increment_preparing">Подготовка…</string>
   <string name="install">Установить</string>
+  <string name="install_app_progress_clear_apk">Удалить APK</string>
   <string name="install_confirm_question">Установить приложение? Приложение получит доступ к</string>
   <string name="install_confirm_question_no_perms">Установить приложение? Приложение не требует никаких специальных разрешений.</string>
   <string name="install_confirm_question_update">Установить обновление? Данные приложения будут сохранены. Обновленное приложение получит доступ к</string>
   <string name="install_confirm_question_update_no_perms">Установить обновление? Данные приложения будут сохранены. Приложение не требует никаких специальных разрешений.</string>
   <string name="install_confirm_question_update_system">Установить обновление системного приложения? Данные приложения будут сохранены. Обновленное приложение получит доступ к</string>
   <string name="install_confirm_question_update_system_no_perms">Установить обновление системного приложения? Данные приложения будут сохранены. Приложение не требует никаких специальных разрешений.</string>
+  <string name="install_control_cancel_install">Отмена</string>
+  <string name="install_control_continue_install">Установить</string>
+  <string name="install_control_lite_mode_explain_des">Приложение из неизвестного источника и может не работать в облегченном режиме.</string>
+  <string name="install_control_lite_mode_solution_des">Вы можете продолжить установку.
+В случае проблем, отключите облегченный режим и повторите попытку.</string>
+  <string name="install_control_normal_mode_explain_des">Приложение не может быть установлено из-за правовых ограничений</string> 
   <string name="install_done">Приложение установлено</string>
   <string name="install_failed">Не удалось установить приложение</string>
   <string name="install_failed_blocked">Пакет заблокирован от установки</string>

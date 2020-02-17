@@ -1215,6 +1215,7 @@
   <string name="gb_dialog_record_way_manual">Запись видео длительностью до 30 секунд вручную</string>
   <string name="gb_dialog_record_way_setting_tips">Примечание: запись игровых сессий требует более высокого энергопотребления и может приводить к подтормаживанию.</string>
   <string name="gb_dialog_record_way_title">Выберите метод записи</string>  
+  <string name="gb_dialog_wlan_wifi_weak">460 мс</string>
   <string name="gb_first_guide_function_shiled_title">Отключить системные функции, когда включено Ускорение игр</string>
   <string name="gb_first_guide_gamebox_des">Используйте ярлыки во время игр</string>
   <string name="gb_first_guide_handsfree_des">Отвечайте на звонки в фоновом режиме</string>
@@ -2535,6 +2536,7 @@
   <string name="st_group_list_management">Список блокировки</string>
   <string name="st_hint_add_head_number">Введите префикс</string>
   <string name="st_hint_add_phonenumber">Введите номер телефона</string>
+  <string name="st_hint_operatelist">Правило уже существует</string>
   <string name="st_message_phone_AntiSpam">Блокировать вызовы</string>
   <string name="st_message_phonepass">Разрешить вызовы</string>
   <string name="st_message_SMS_AntiSpam">Блокировать SMS</string>

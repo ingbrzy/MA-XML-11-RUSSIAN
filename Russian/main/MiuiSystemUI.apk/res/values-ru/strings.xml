@@ -238,7 +238,7 @@
     <string name="accessibility_status_bar_headphones">Наушники подключены</string>
     <string name="accessibility_status_bar_headset">Гарнитура подключена</string>
     <string name="accessibility_status_bar_hotspot">Точка доступа</string>
-    <string name="accessibility_status_bar_micphone">микрофон подключен</string>
+    <string name="accessibility_status_bar_micphone">Микрофон подключен</string>
     <string name="accessibility_status_bar_no_slave_wifi">Вспомогательный Wi-Fi отключен.</string>
     <string name="accessibility_status_bar_slave_wifi_four_bars">Вспомогательный Wi-Fi четыре деления.</string>
     <string name="accessibility_status_bar_slave_wifi_one_bar">Вспомогательный Wi-Fi одно деление.</string>
@@ -1562,6 +1562,7 @@
     <string name="screenshot_dlg_cancel">Отмена</string>
     <string name="screenshot_dlg_delete_button">Удалить</string>
     <string name="screenshot_edit">Изменить</string>
+    <string name="screenshot_failed_in_landscape_mode">Скриншоты с прокруткой в ландшафтном режиме не поддерживаются</string>
     <string name="screenshot_failed_title">Не удалось сделать скриншот.</string>
     <string name="screenshot_failed_to_capture_text">Скриншоты не разрешены приложением или вашей организацией</string>
     <string name="screenshot_failed_to_capture_title">Запрет скриншотов</string>
