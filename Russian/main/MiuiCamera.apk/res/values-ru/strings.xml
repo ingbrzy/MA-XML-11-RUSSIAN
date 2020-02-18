@@ -62,6 +62,7 @@
   <string name="ai_watermark_title">Водяной знак AI</string>
   <string name="ai_watermark_toast_off">Водяной знак AI отключен</string>
   <string name="ai_watermark_toast_on">Водяной знак AI включен</string>
+  <string name="app_name">EffectManager</string>
   <string name="audio_focus_exit_button_text">Отключить Аудио фокус</string>
   <string name="autozoom_click_hint">Нажмите на объект, чтобы держать его в фокусе, пока он движется. Для лучшего эффекта расстояние должно быть не менее 3 метров.</string>
   <string name="autozoom_disabled_hint">Остановка отслеживания движущегося объекта</string>
@@ -129,8 +130,7 @@
   <string name="color_effect_live_none">Обычный</string>
   <string name="color_effect_live_solar">Голубое небо</string>
   <string name="color_effect_live_years">Сепия</string>
-  <string name="color_enhance">Яркий режим</string>
-  <string name="color_enhance_mode">Яркий режим</string>
+  <string name="color_enhance_mode">Улучшенные цвета</string>
   <string name="config_name_group">Групповое селфи</string>
   <string name="config_name_hht">Ночной</string>
   <string name="config_name_magic">Магия</string>
@@ -932,13 +932,13 @@
 записывать и редактировать видео на ходу"</string>
   <string name="vv_use_hint_text_title">Видеоблог</string>
   <string name="wait">Подождите…</string>
-  <string name="watermark_tab_city">город</string>
-  <string name="watermark_tab_festival">фестиваль</string>
-  <string name="watermark_tab_general">общая</string>
-  <string name="watermark_tab_scene">сцена</string>
-  <string name="watermark_tab_spots">спорт</string>
+  <string name="watermark_tab_city">Город</string>
+  <string name="watermark_tab_festival">Праздник</string>
+  <string name="watermark_tab_general">Общие</string>
+  <string name="watermark_tab_scene">Сцена</string>
+  <string name="watermark_tab_spots">Сайт</string>
   <string name="wideselfie_press_shoot_key_to_start">Нажмите кнопку съемки</string>
-  <string name="wideselfie_result_image_lossless">"Не удалось сохранить панораму"</string>
+  <string name="wideselfie_result_image_lossless">Не удалось сохранить панораму</string>
   <string name="wideselfie_rotate_slowly">Медленно поверните телефон в сторону</string>
   <string name="wideselfie_rotate_to_back">Наклоните телефон назад</string>
   <string name="wideselfie_rotate_to_front">Наклоните телефон вперед</string>

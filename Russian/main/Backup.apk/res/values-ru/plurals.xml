@@ -18,6 +18,12 @@
         <item quantity="few">%d объекта</item>
         <item quantity="many">%d объектов</item>
     </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s резервных копий (%2$s)</item>
+        <item quantity="one">%1$s резервная копия (%2$s)</item>
+        <item quantity="few">%1$s резервные копии (%2$s)</item>
+        <item quantity="many">%1$s резервных копий (%2$s)</item>
+    </plurals>	
     <plurals name="total_num">
         <item quantity="other">%d объектов,</item>
         <item quantity="one">%d объект,</item>

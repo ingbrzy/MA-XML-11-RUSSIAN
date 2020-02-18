@@ -77,7 +77,7 @@
     <string name="account_setup_basics_manual_setup_action">Ручная настройка</string>
     <string name="account_setup_basics_mi_mail_login_help">Вам может потребоваться проверка учетной записи через SMS, чтобы получать сообщения электронной почты</string>
     <string name="account_setup_basics_password_label">Введите пароль</string>
-    <string name="account_setup_basics_password_label_authcode">Введите пароль или код подтверждения</string>
+    <string name="account_setup_basics_password_label_authcode">Введите пароль или код авторизации</string>
     <string name="account_setup_basics_title">Новый аккаунт</string>
     <string name="account_setup_check_settings_check_incoming_msg">Проверка настроек сервера…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Проверка настроек сервера SMTP…</string>
@@ -276,7 +276,7 @@
     <string name="change_folders_selection_dialog_title">Изменить папки</string>
     <string name="change_sync_settings">Настройки синхронизации</string>
     <string name="changepw_dialog_tips">Введите пароль %s повторно</string>
-    <string name="changepw_dialog_tips_please_clikc_btn">Просмотрите код подтверждения на %s и войдите повторно.</string>
+    <string name="changepw_dialog_tips_please_clikc_btn">Просмотрите код авторизации на %s и войдите повторно.</string>
     <string name="chat_item_msg_people_unit">Участники</string>
     <string name="chat_item_msg_user_etc">и т.д.</string>
     <string name="check_setup_data">"    Проверка параметров сервера…"</string>
@@ -548,7 +548,7 @@
     <string name="header_category_other">Отзывы</string>
     <string name="header_label_general_preferences">Основные настройки</string>
     <string name="help_and_info">Помощь</string>
-    <string name="help_me_get_qq_auth">Получить код авторизации QQ</string>
+    <string name="help_me_get_qq_auth">Получить код авторизации</string>
     <string name="hide_elided">▼ Скрыть цитирование</string>
     <string name="hide_password">Скрыть пароль</string>
     <string name="hint_quick_reply_all">Ответить всем</string>
@@ -583,7 +583,7 @@
     <string name="login_failed_tip">"Свяжитесь нами в WeChat для получения помощи: "</string>	
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
     <string name="login_mail">Вход</string>
-    <string name="login_qq_psw">Вход с помощью QQ пароля/аутентификатора/кода подтверждения</string>
+    <string name="login_qq_psw">Вход с помощью кода авторизации</string>
     <string name="login_support_tip_text">Поддерживаются все основные сервисы</string>
     <string name="long_press_to_select_tip">Нажмите и удерживайте для выбора диалога, затем добавляйте диалоги нажатием.</string>
     <string name="mail">Почта</string>
@@ -593,8 +593,8 @@
     <string name="mail_header_network_not_available">Интернет недоступен</string>
     <string name="mail_login_help">Как войти в аккаунт</string>
     <string name="mail_login_help_bottom_tip">"Если вы забыли свой пароль или необходимо проверить состояние учетной записи, воспользуйтесь веб-версией NetEase Mail. Вы также можете получить помощь в WeChat: "</string>
-    <string name="mail_login_help_details1">1. Пароль электронной почты можно использовать, если в почтовом клиенте не был установлен код подтверждения и включены службы POP3/IMAP/SMTP.</string>
-    <string name="mail_login_help_details2">2. Сторонние коды подтверждения могут использоваться для входа в сторонние почтовые клиенты, когда включены службы POP3/IMAP/SMTP.</string>
+    <string name="mail_login_help_details1">1. Пароль электронной почты можно использовать, если в почтовом клиенте не был установлен код авторизации и включены службы POP3/IMAP/SMTP.</string>
+    <string name="mail_login_help_details2">2. Сторонние коды авторизации могут использоваться для входа в сторонние почтовые клиенты, когда включены службы POP3/IMAP/SMTP.</string>
     <string name="mail_login_help_title">Пароль электронной почты / Сторонний клиент:</string>
     <string name="mail_outlook_login_tips">Вы будете перенаправлены на страницу Microsoft для ввода пароля</string>
     <string name="mail_outlook_oauth_login">Войти с OAuth</string>
@@ -767,7 +767,7 @@
     <string name="oauth_login_continue">Продолжить</string>
     <string name="oauth_login_continue_qq">Получить пароль и войти в ></string>
     <string name="oauth_login_usr_proxy">Войти с помощью прокси</string>
-    <string name="obtain_new_auth_code">Получить новый код подтверждения</string>
+    <string name="obtain_new_auth_code">Получить новый код авторизации</string>
     <string name="ok">ОК</string>
     <string name="okay_action">ОК</string>
     <string name="one_day">1 день</string>
@@ -913,7 +913,7 @@
     <string name="push_wps_confirm_title">Попробовать WPS Office</string>
     <string name="push_wps_no_response_app">Нет приложения для выполнения этого действия</string>
     <string name="qq_auto_login_failed_cpy_pass_success">Код скопирован. Вернитесь на страницу входа и вставьте код в форму пароля.</string>
-    <string name="qq_auto_login_failed_dialog_message">Скопируйте код подтверждения, нажмите \"Ввести имя пользователя и пароль\" на странице входа и вставьте код в форму пароля.</string>
+    <string name="qq_auto_login_failed_dialog_message">Скопируйте код авторизации, нажмите \"Ввести имя пользователя и пароль\" на странице входа и вставьте код в форму пароля.</string>
     <string name="qq_auto_login_failed_dialog_positive_label">Скопировать код</string>
     <string name="qq_bar_open_imap">Помощь</string>
     <string name="qq_bar_send_message">Отправить SMS</string>
@@ -921,18 +921,18 @@
     <string name="qq_login_basecode">Авторизация в веб-почте QQ. Введите независимый пароль.</string>
     <string name="qq_login_get_auth">Включите защиту паролем, если вы не можете получить SMS</string>
     <string name="qq_login_help_bottom_tip">"Если вы забыли свой пароль или вам необходимо проверить состояние своей учетной записи, воспользуйтесь веб-версией QQ Mail. Вы также можете получить помощь в WeChat: "</string>
-    <string name="qq_login_help_details1">1. Пароль QQ можно использовать, если в протоколах IMAP/Exchange не был установлен независимый пароль или код подтверждения.</string>
-    <string name="qq_login_help_details2">2. Независимый пароль можно использовать, если для протоколов  IMAP/Exchange не был установлен код подтверждения.</string>
-    <string name="qq_login_help_details3">"3. Коды подтверждения сторонних почтовых клиентов, также можно использовать для входа в систему. Если вы забыли свой код, перейдите по этой ссылке: "</string>
-    <string name="qq_login_help_title">QQ/Независимый пароль/Код подтверждения:</string>
+    <string name="qq_login_help_details1">1. Пароль QQ можно использовать, если в протоколах IMAP/Exchange не был установлен независимый пароль или код авторизации.</string>
+    <string name="qq_login_help_details2">2. Независимый пароль можно использовать, если для протоколов  IMAP/Exchange не был установлен код авторизации.</string>
+    <string name="qq_login_help_details3">"3. Коды авторизации сторонних почтовых клиентов, также можно использовать для входа в систему. Если вы забыли свой код, перейдите по этой ссылке: "</string>
+    <string name="qq_login_help_title">QQ/Независимый пароль/Код авторизации:</string>
   
     <string name="qq_login_notice">"Примечание: если вы уже установили пароль, необходимо подтвердить его при входе в систему."</string>
     <string name="qq_login_open_imap">Нажмите \"Помощь\", чтобы включить IMAP/SMTP</string>
     <string name="qq_login_origin_setting">Введите имя пользователя и пароль для входа в ></string>
-    <string name="qq_login_send_message">Нажмите \"Отправить SMS\", чтобы получить код подтверждения</string>
+    <string name="qq_login_send_message">Нажмите \"Отправить SMS\", чтобы получить код авторизации</string>
     <string name="qq_login_webview">Авторизация в веб-клиенте QQ, нажмите Войти с помощью пароля.</string>
     <string name="qq_next_generation_auth_toast">Включите защиту паролем в вашем браузере</string>
-    <string name="qq_pwd_or_qq_auth_code">Введите QQ код подтверждения или пароль почты</string>
+    <string name="qq_pwd_or_qq_auth_code">Введите код авторизации</string>
     <string name="qq_uthentication_failed">Не удалось проверить аккаунт, авторизуйтесь заново</string>
     <string name="qq_webview_loading">Подождите…</string>
     <string name="questionnair_body_invisibility">Сообщения не отображаются</string>
@@ -1176,7 +1176,7 @@
     <string name="upload_logs">Загрузить журналы</string>
     <string name="upload_logs_keywords">загрузить журналы</string>
     <string name="uploading_logs">Подождите…</string>
-    <string name="user_new_auth_code">Войдите с новым кодом подтверждения</string>
+    <string name="user_new_auth_code">Войдите с новым кодом авторизации</string>
     <string name="user_privacy_settings_path">Совет: Вы можете отозвать свое согласие в Настройки > Настройки конфиденциальности пользователя.</string>
     <string name="user_privacy_settings_summary">Мы будем использовать ваш Android ID (зашифрованный как ваш уникальный идентификатор пользователя с помощью MI Mail) и журнал операций. Вы можете в любое время отозвать свое согласие в настройках конфиденциальности пользователя.</string>
     <string name="user_privacy_settings_title">Напоминание о конфиденциальности MI Mail</string>

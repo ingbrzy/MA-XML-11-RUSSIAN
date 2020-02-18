@@ -6300,10 +6300,10 @@ UT-интерфейс: %5$s"</string>
     <string name="usagestats_app_category_miui_undefined">Другое</string>
     <string name="usagestats_app_category_miui_video_etc">Музыка и видео</string>
     <string name="usagestats_device_notification_des">Лимит на сегодня: %s</string>
-    <string name="usagestats_device_notification_des_over">"Вы достигли лимита времени экрана на сегодня."</string>
+    <string name="usagestats_device_notification_des_over">Достигнут лимит времени экрана на сегодня.</string>
     <string name="usagestats_device_notification_des_reset" formatted="false">Лимит на сегодня: %s | %s осталось</string>
-    <string name="usagestats_device_notification_title">"Лимит времени экрана"</string>
-    <string name="usagestats_device_timeout_des" formatted="false">"Вы сегодня использовали устройство %d ч. %d мин. Сделайте перерыв."</string>
+    <string name="usagestats_device_notification_title">Лимит времени экрана</string>
+    <string name="usagestats_device_timeout_des" formatted="false">Вы сегодня использовали устройство %d ч. %d мин. Сделайте перерыв.</string>
     <string name="usagestats_device_timeout_negative">Напомнить через 1 час</string>
     <string name="usagestats_device_timeout_positive">Понятно</string>
     <string name="usagestats_device_timeout_title">"Лимит времени экрана"</string>
