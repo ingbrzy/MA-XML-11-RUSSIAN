@@ -84,6 +84,11 @@
     <string name="copy_text">Копировать текст</string>
     <string name="copy_text_success">Текст скопирован</string>
     <string name="copy_tracknum">Скопировать код отслеживания</string>
+    <string name="crop__cancel">ОТМЕНА</string>
+    <string name="crop__done">ГОТОВО</string>
+    <string name="crop__pick_error">Нет доступных источников изображений</string>
+    <string name="crop__saving">Сохранение изображения…</string>
+    <string name="crop__wait">Подождите…</string>	
     <string name="crop_cancel_description">Отмена</string>
     <string name="crop_done_description">Готово</string>
     <string name="crop_title_translation">Выберите текст для перевода</string>
@@ -115,6 +120,7 @@
    <string name="error_empty_result">Ничего не найдено</string>
     <string name="error_get_image">Не удалось получить изображение</string>
     <string name="error_media_storage_failure">Не удалось сохранить фото</string>
+    <string name="error_null_cursor">Произошла ошибка!</string>
     <string name="error_permissions">Сканер не имеет необходимых разрешений для нормальной работы. Перейдите в Настройки и проверьте разрешения.</string>
     <string name="error_server_error">Ошибка сервера</string>
     <string name="experience_new_feature_tips">Войдите в Mi аккаунт, чтобы подать заявку на использование бета-версии. Вы сможете использовать бета-версию после рассмотрения заявки. Бета-версия может содержать ошибки.</string>
@@ -141,6 +147,7 @@
     <string name="food_module_title_food">Калории</string>
     <string name="got_it">Понятно</string>
     <string name="gps">Навигация</string>
+    <string name="grant_permission">Предоставить разрешение</string>
     <string name="import_contact">Импортировать контакт</string>
     <string name="impunity_declaration_content">Приложению требуются разрешения на доступ к камере и съемку фото, подключение к интернету. Нажав \"Согласен\", вы принимаете нашу &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Политику конфидеальности&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="impunity_declaration_negative_text">Выход</string>
@@ -197,6 +204,8 @@
     <string name="pay_no_tip">"Не показывать снова"</string>
     <string name="pay_save_this_choose">Запомнить выбор</string>
     <string name="payment_text">Открыть с помощью %s</string>
+    <string name="permission_denied_albums">Разрешить доступ к фото, мультимедиа и файлам на устройстве для просмотра альбомов</string>
+    <string name="permission_denied_images">Разрешить доступ к фото, мультимедиа и файлам на устройстве для просмотра изображений</string>
     <string name="phone">"Телефон: "</string>
     <string name="place_barcode_into_rectangle">Разместите код внутри рамки</string>
     <string name="plant_fail">Не удалось распознать растение</string>
@@ -228,6 +237,7 @@
     <string name="see_app_details">Информация о приложении</string>
     <string name="see_details">Нажмите для информации</string>
     <string name="select_dialog_confirm">OK</string>
+    <string name="select_from_album">Выбрать из альбома</string>
     <string name="send_mail">Отправить Email</string>
     <string name="setting_choose_every_time">Всегда спрашивать</string>
     <string name="setting_default_function">По умолчанию</string>
@@ -252,6 +262,7 @@
     <string name="study_title">Сканирование проблемы, которую хотите решить</string>
     <string name="suggested_submission_success">Отзыв успешно отправлен</string>
     <string name="switch_open">Включить</string>
+    <string name="take_a_picture">Сделать снимок</string>
     <string name="taobao">Taobao</string>
     <string name="tel">Телефон</string>
     <string name="title">"Должность: "</string>

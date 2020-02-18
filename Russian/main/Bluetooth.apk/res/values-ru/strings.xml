@@ -11,6 +11,10 @@
     <string name="auth_notif_title">Ключ сеанса</string>
     <string name="bluetooth_connected">Звук через Bluetooth включен</string>
     <string name="bluetooth_disconnected">Звук через Bluetooth отключен</string>
+    <string name="bluetooth_map_remote_advance_feature_support">Доступны расширенные функции доступа к сообщениям</string>
+    <string name="bluetooth_map_remote_message_access_feature_downgrade">Понизить функции удаленного доступа к сообщениям</string>
+    <string name="bluetooth_map_repair_for_adv_message_access_feature">Повторите сопряжение для использования расширенных функций доступа к сообщениям</string>
+    <string name="bluetooth_map_repair_for_message_access_version_comp">Повторите сопряжение для совместимости версий функций доступа к сообщениям</string>
     <string name="bluetooth_map_settings_app_icon">Значок приложения</string>
     <string name="bluetooth_map_settings_cancel">Отменить</string>
     <string name="bluetooth_map_settings_count">Осталось мест:</string>
