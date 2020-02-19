@@ -387,12 +387,12 @@
     <string name="device_paired_dialog_title">Получение контактов…</string>
     <string name="device_pairing_dialog_message">Подключение…</string>
     <string name="device_pairing_dialog_title">Подключение устройств</string>
-    <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Включите \"Bluetooth\" на другом устройстве. 
+    <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Включите \"Bluetooth\" на другом устройстве.
 
-- на Android-устройствах \"Bluetooth\" обычно располагается в настройках сети 
-- на iOS-устройствах \"Bluetooth\" находится в меню Настройки 
+- на Android-устройствах \"Bluetooth\" обычно располагается в настройках сети
+- на iOS-устройствах \"Bluetooth\" находится в меню Настройки
 
-%d. На Android-устройствах также необходимо включить \"Видимость\". 
+%d. На Android-устройствах также необходимо включить \"Видимость\".
 
 %d. Нажмите \"Далее\" и разрешите доступ к Контактам на следующем шаге."</string>
     <string name="device_transfer_by_sim_message" formatted="false">"%d. Сохраните контакты с другого устройства на SIM-карту; 
@@ -764,6 +764,17 @@
     <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из Mi Аккаунта</string>
     <string name="noContacts">Нет контактов</string>
     <string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов</string>
+    <string name="noFavoritesHelpText">"Cписок избранных пуст.
+
+Чтобы добавить контакт в список избранных:
+
+• Нажмите на вкладку Контакты
+
+• Нажмите на контакт, который хотите добавить в избранное
+
+• Нажмите на звездочку рядом с именем контакта
+
+    "</string>	
     <string name="noGroups">Нет групп</string>
     <string name="noMatchingContacts">Подходящие контакты не найдены</string>
     <string name="noRecentContacts">Нет контактов</string>
@@ -984,6 +995,10 @@
     <string name="ret_sign">"
 "</string>
     <string name="returnCall">Вернуть вызов</string>
+    <string name="return_call">Нажмите для возврата к вызову</string>
+    <string name="return_call_calling">Вызов в процессе</string>
+    <string name="return_call_dialing">Набор номера</string>
+    <string name="return_call_incoming">Входящий вызов</string>	
     <string name="ringLabelsGroup">Мелодия</string>
     <string name="save_photo_progress">Сохранение фото…</string>
     <string name="savingContact">Сохранение контакта…</string>
@@ -1033,6 +1048,9 @@
     <string name="select_groups">Выберите группы</string>
     <string name="select_none">Ничего не выбрано</string>
     <string name="select_show_contacts">Список контактов</string>
+    <string name="send_contact_shortcut_todesktop_duplicate">Ярлык уже существует</string>
+    <string name="send_contact_shortcut_todesktop_failed">Не удалось создать ярлык на рабочем столе</string>
+    <string name="send_contact_shortcut_todesktop_overflow">Недостаточно места на рабочем столе</string>
     <string name="select_vcard_title">Выберите файл vCard</string>
     <string name="send_contact_shortcut_todesktop_success">Ярлык добавлен на рабочий стол</string>
     <string name="send_to_voicemail_checkbox">Перенаправлять вызовы на голосовую почту</string>

@@ -163,10 +163,10 @@
         <item quantity="many">%1$d контактов из %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d групп</item>
-        <item quantity="one">%0$d группа</item>
-        <item quantity="few">%0$d группы</item>
-        <item quantity="many">%0$d групп</item>
+        <item quantity="other">%d групп</item>
+        <item quantity="one">%d группа</item>
+        <item quantity="few">%d группы</item>
+        <item quantity="many">%d групп</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">Доступно: %1$d</item>

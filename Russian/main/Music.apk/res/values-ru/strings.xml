@@ -41,6 +41,7 @@
     <string name="action_item_hifi">Звуковые эффекты</string>
     <string name="action_item_play_all">Перемешать все</string>
     <string name="action_item_play_next">Воспроизвести позже</string>
+    <string name="play_setting">Воспроизведение</string>
     <string name="action_item_play_video">Воспроизвести</string>
     <string name="action_item_remove">Убрать</string>
     <string name="action_item_remove_from_favorite">Удалить из избранных</string>
@@ -778,6 +779,7 @@
     <string name="songgroup_pick_playlist">Плейлисты</string>
     <string name="sort_by_name">Название</string>
     <string name="sort_by_time">Дата</string>
+    <string name="sound_fade_in_and_out_when_change_song_automatically">Попробуйте плавный переход при переключении треков</string>
     <string name="start_to_check_new_version">Проверка обновлений…</string>
     <string name="start_to_download">Загрузка…</string>
     <string name="start_to_play">Воспроизвести</string>
