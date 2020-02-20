@@ -439,6 +439,8 @@
   <string name="non_english_subject_limit">13 символов</string>
   <string name="nosend_message">Не отправлять</string>
   <string name="not_prepare_for_send">Нет сообщения для отправки</string>
+  <string name="notification_add_todo">Напомнить</string>
+  <string name="notification_add_todo_content">Получить код: %s</string>  
   <string name="notification_channel_msg_description">Уведомления о сообщениях</string>
   <string name="notification_channel_msg_name">Сообщения</string>
   <string name="notification_channel_other_description">Прочие уведомления</string>

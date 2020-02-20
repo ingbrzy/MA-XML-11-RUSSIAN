@@ -174,6 +174,27 @@
   <string name="com_mixpanel_android_notification_image">Не удалось отобразить</string>
   <string name="com_permission_desc">Mi Видео не может получить доступ к видео на вашем устройстве. Разрешите доступ в Настройках.</string>
   <string name="com_permission_title">Требуются разрешения</string>
+  <string name="comment_model_add_comment">Добавить комментарий</string>
+  <string name="comment_model_bg_add_comment">Поделитесь мыслями с нашим сообществом</string>
+  <string name="comment_model_bg_deleted_comment">Комментарий был удален</string>
+  <string name="comment_model_comment">Комментарии</string>
+  <string name="comment_model_confirm_delete">Удалить комментарий?</string>
+  <string name="comment_model_copy">Копировать</string>
+  <string name="comment_model_copy_fail">Ошибка копирования</string>
+  <string name="comment_model_copy_success">Комментарий скопирован</string>
+  <string name="comment_model_delete">Удалить</string>
+  <string name="comment_model_delete_fail">Ошибка удаления</string>
+  <string name="comment_model_delete_success">Комментарий удален</string>
+  <string name="comment_model_reply">Ответы</string>
+  <string name="comment_model_reply_comment">"Ответ на %s: "</string>
+  <string name="comment_model_report">Отчет</string>
+  <string name="comment_model_report_fail">Ошибка отправки</string>
+  <string name="comment_model_report_success">Отчет отправлен</string>
+  <string name="comment_model_send_fail">Ошибка отправки</string>
+  <string name="comment_model_send_fail_frequently">Повторите попытку позже.</string>
+  <string name="comment_model_send_forbid_desc">Вы опубликовали несколько комментариев, содержание которых нарушают стандарты нашего сообщества. Ваш аккаунт окончательно заблокирован. Вы можете обжаловать решение, используя обратную связь в приложении.</string>
+  <string name="comment_model_send_forbid_tips">Аккаунт заблокирован</string>
+  <string name="comment_model_send_success">Успешно отправлен</string>
   <string name="common_cancel">Отмена</string>
   <string name="common_google_play_services_enable_button">Включить</string>
   <string name="common_google_play_services_enable_text">Для работы %1$s необходимо включить сервисы Google Play.</string>
@@ -207,7 +228,7 @@
   <string name="diagnosis_log_sent_format">"Журналы отправлены.
 ID:%s
 Отправьте этот код руководителю."</string>
-  <string name="dialog_privacy_info_new2">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные. Нажав \"Согласен\", вы соглашаетесь с тем, что прочитали и принимаете нашу &lt;a href=%2$s>Политику конфиденциальности&lt;/a>.</string>
+  <string name="dialog_privacy_info_new2">Для использования сервисов вы должны согласиться с тем, что %1$s будет собирать, обрабатывать и использовать ваши личные данные. Нажав \"Согласен\", вы принимаете нашу Политику конфиденциальности.</string>
   <string name="dialog_privacy_title">Предоставление разрешения</string>
   <string name="dialog_revoke_privacy_info_new2">После отзыва разрешения приложение прекратит сбор данных и удалит все свои данные с серверов. Это может сделать приложение практически непригодным для использования. Отозвать разрешение?</string>
   <string name="dialog_revoke_privacy_title">Отзыв разрешения</string>
@@ -276,6 +297,7 @@ ID:%s
   <string name="favorite_cancel_success">Удалено из избранного</string>
   <string name="favorite_fail">Не удалось добавить в избранное. Повторите попытку.</string>
   <string name="favorite_success">Добавлено в избранное</string>
+  <string name="fcm_fallback_notification_channel_label">Прочие</string>
   <string name="feedback">Обратная связь</string>
   <string name="feedback_activity_title">Обратная связь</string>
   <string name="feedback_contact_empty">Введите контактную информацию</string>
@@ -409,7 +431,13 @@ ID:%s
   <string name="lv_deleting">Удаление…</string>
   <string name="lv_device_list">Устройства</string>
   <string name="lv_device_list_seaching">&lt;Нет устройств&gt;</string>
-  <string name="lv_do_not_show_this_again">Не показывать больше</string>
+  <string name="lv_do_not_show_this_again">Больше не показывать</string>
+  <string name="notice_comment_action">%s прокомментировал ваш пост</string>
+  <string name="notice_comment_action_deleted">Комментарий был удален</string>
+  <string name="notice_feedback_content">Есть новые ответы. Нажмите для просмотра.</string>
+  <string name="notice_like_action">%s нравится ваш комментарий</string>
+  <string name="notice_message_title">Уведомления</string>
+  <string name="notice_title">Сообщения</string> 
   <string name="lv_favor">Избранное</string>
   <string name="lv_find_new_version">Доступно обновление</string>
   <string name="lv_find_videos">Повторить поиск видео</string>
@@ -555,6 +583,7 @@ ID:%s
   <string name="ovp_category">Категории</string>
   <string name="ovp_confirm_delete_favor">Удалить выбранные объекты из избранного?</string>
   <string name="ovp_default_plugin_name">HD плагин</string>
+  <string name="ovp_detail_back_to_watch_more">Посмотрите новое на главной странице</string>
   <string name="ovp_detail_collapse_summary">Скрыть</string>
   <string name="ovp_detail_collect">В избранное</string>
   <string name="ovp_detail_comment">Комментарий</string>
@@ -597,12 +626,14 @@ ID:%s
   <string name="ovp_loading_video_netplay_label_v5">Секунду…</string>
   <string name="ovp_local_videos_title">Локальные видео</string>
   <string name="ovp_navigation_category">Категории</string>
+  <string name="ovp_navigation_content">Контент</string>
   <string name="ovp_navigation_favorites">Избранное</string>
   <string name="ovp_navigation_feedback">Отзыв</string>
   <string name="ovp_navigation_history">Истории</string>
   <string name="ovp_navigation_home">Главная</string>
   <string name="ovp_navigation_language">Язык</string>
   <string name="ovp_navigation_localvideo">Локальные</string>
+  <string name="ovp_navigation_notice">Уведомления</string>
   <string name="ovp_navigation_setting">Настройки</string>
   <string name="ovp_navigation_subscribe">Подписка</string>
   <string name="ovp_player_plugin_dlg_neg_btn">Закрыть</string>
@@ -710,8 +741,8 @@ ID:%s
   <string name="passport_unknow_error">Неизвестная ошибка</string>
   <string name="passport_unknow_host_network_error">Проверьте настройки сети и повторите попытку</string>
   <string name="passport_unknow_network_error">Ошибка сети</string>
-  <string name="passport_user_agreement_link">&lt;Data>Я прочитал и согласен с &lt;a href=%1$s>Условиями использования&lt;/a> и &lt;a href=%2$s>Политикой конфиденциальности&lt;/a> Xiaomi.&lt;/Data></string>
-  <string name="passport_user_agreement_link_more">&lt;Data>Я прочитал и согласен с условиями следующих документов: &lt;a href=%1$s>Условия использования&lt;/a> и &lt;a href=%4$s>Политика конфиденциальности&lt;/a> Xiaomi, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
+  <string name="passport_user_agreement_link"><Data>Я согласен с Пользовательским соглашением и Политикой конфиденциальности Xiaomi.</Data></string>
+  <string name="passport_user_agreement_link_more"><Data>Я согласен с условиями следующих документов: Пользовательское соглашение и Политика конфиденциальности Xiaomi.</Data></string>
   <string name="passport_user_id_intro">Введите пароль для %1$s</string>
   <string name="passport_v_code_error">Неверный код подтверждения</string>
   <string name="passport_vcode_notification_title">Проверка авторизации не завершена</string>
@@ -752,6 +783,7 @@ ID:%s
   <string name="playlist_title">Плейлист</string>
   <string name="plus_add_shortcut">Создать ярлык на рабочем столе</string>
   <string name="plus_change_poster">Изменить обложку альбома</string>
+  <string name="plus_continue_watching">Продолжить просмотр</string>
   <string name="plus_deleting_wait">Удаление</string>
   <string name="plus_fallback">Отзыв</string>
   <string name="plus_gallery_allvideos">Все видео</string>
@@ -770,6 +802,12 @@ ID:%s
   <string name="plus_gallery_video_title_mediatype">Категории видео</string>
   <string name="plus_gallery_video_title_othergallery">Другие видео</string>
   <string name="plus_loading_text">Загрузка объектов…</string>
+  <string name="plus_menu_delete">Удалить</string>
+  <string name="plus_menu_delete_popup_text">Удалить?</string>
+  <string name="plus_menu_properties">Свойства</string>
+  <string name="plus_menu_rename">Переименовать</string>
+  <string name="plus_menu_rename_fail">"Имя файла не может содержать \"/\""</string>
+  <string name="plus_menu_share">Поделиться</string>
   <string name="plus_mine_gallery">Мои альбомы</string>
   <string name="plus_mine_videos">Мои видео</string>
   <string name="plus_player_8k_video_not_support">8K видео не могут быть воспроизведены на этом устройстве</string>
@@ -808,7 +846,7 @@ ID:%s
   <string name="plus_player_subtitle_local_add_success">Субтитры успешно добавлены</string>
   <string name="plus_player_subtitle_no_file">Нет субтитров.</string>
   <string name="plus_player_subtitle_online">Онлайн субтитры</string>
-  <string name="plus_player_subtitle_online_declare_content">Вы собираетесь начать поиск &lt;br/&gt;субтитров в базе &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;. &lt;br/&gt;Все субтитры предоставляются &lt;a href=http://www.opensubtitles.org&gt;opensubtitles.org&lt;/a&gt;.</string>
+  <string name="plus_player_subtitle_online_declare_content">Вы собираетесь начать поиск субтитров в базе opensubtitles.org. Все субтитры предоставлены opensubtitles.org</string>
   <string name="plus_player_subtitle_online_declare_title">Отказ от ответственности</string>
   <string name="plus_player_subtitle_online_download_fail">Не удалось загрузить субтитры</string>
   <string name="plus_player_subtitle_online_download_start">Загрузка субтитров…</string>
@@ -820,6 +858,31 @@ ID:%s
   <string name="plus_player_unhide">Показать</string>
   <string name="plus_player_video_not_support">Формат видео не поддерживается.</string>
   <string name="plus_poster_reset_default">Восстановить обложку по умолчанию</string>
+  <string name="plus_properties_bit_rate">Битрейт</string>
+  <string name="plus_properties_codec">Кодек</string>
+  <string name="plus_properties_date">Дата</string>
+  <string name="plus_properties_file">Файл</string>
+  <string name="plus_properties_file_name">Имя файла</string>
+  <string name="plus_properties_finished">Просмотренные</string>
+  <string name="plus_properties_format">Формат</string>
+  <string name="plus_properties_frame_rate">Частота кадров</string>
+  <string name="plus_properties_last_playback_position">Последняя позиция</string>
+  <string name="plus_properties_last_playback_time">Последние</string>
+  <string name="plus_properties_length">Длительность</string>
+  <string name="plus_properties_media">Медиа</string>
+  <string name="plus_properties_path">Расположение</string>
+  <string name="plus_properties_playback_history">История</string>
+  <string name="plus_properties_resolution">Разрешение</string>
+  <string name="plus_properties_sample_rate">Дискретизация</string>
+  <string name="plus_properties_size">Размер</string>
+  <string name="plus_properties_status">Статус</string>
+  <string name="plus_properties_stream">Поток</string>
+  <string name="plus_properties_stream_title">Заголовок</string>
+  <string name="plus_properties_type">Тип</string>
+  <string name="plus_properties_type_audio">Аудио</string>
+  <string name="plus_properties_type_subtitle">Субтитры</string>
+  <string name="plus_properties_type_video">Видео</string>
+  <string name="plus_properties_unfinish">Не просмотренные</string>  
   <string name="plus_search_barhint">Поиск локальных видео</string>
   <string name="plus_search_guide">Поиск видео</string>
   <string name="plus_search_result_empty">Нет результатов</string>
@@ -859,6 +922,11 @@ ID:%s
   <string name="reload_sub_title">Нажмите, чтобы повторить.</string>
   <string name="reload_title">Ошибка подключения к сети.</string>
   <string name="report">Отчет</string>
+   <string name="report_content_fakement">Спам или мошенничество</string>
+  <string name="report_content_illegal">Незаконные заявления</string>
+  <string name="report_content_other">Другое</string>
+  <string name="report_content_sexy">Сексуально откровенное содержание</string>
+  <string name="report_content_violence">Разжигание ненависти</string> 
   <string name="report_fail">Произошла ошибка. Повторите попытку.</string>
   <string name="report_success">Отчет успешно отправлен</string>
   <string name="resend_active_email">Повторить</string>
