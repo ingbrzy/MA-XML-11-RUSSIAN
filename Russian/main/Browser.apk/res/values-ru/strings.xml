@@ -149,6 +149,15 @@
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Свайп вниз для закрытия</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Это последняя вкладка</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Свайп вверх для закрытия</string>
+    <string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь просмотреть, содержит уже отправленные данные. При повторной отправке данных предыдущие действия (например, поиск или покупка) будут повторены.</string>
+    <string name="browser_default_setting_cancel">Отмена</string>
+    <string name="browser_default_setting_confirm">ОК</string>
+    <string name="browser_default_setting_content">Быстрый и безопасный просмотр веб-страниц</string>
+    <string name="browser_default_setting_title">Установить браузером по умолчанию</string>
+    <string name="bubble_guide_bottom_message_text">Непрочитанные сообщения: %d</string>
+    <string name="bubble_guide_logined_text">Войдите для участия в розыгрыше</string>
+    <string name="bubble_guide_portrait_message_text">Нажмите для просмотра</string>
+    <string name="bubble_guide_unlogined_text">Войдите, чтобы пользоваться привилегиями</string>	
     <string name="cancel">Отмена</string>
     <string name="cancle_sync_cloud_tabs">Отменить</string>
     <string name="cast_video">Трансляция видео</string>
@@ -158,6 +167,8 @@
     <string name="channel_header_title">Мои каналы</string>
     <string name="channel_more_description">Нажмите, чтобы добавить канал</string>
     <string name="channel_more_title">Еще</string>
+    <string name="channel_network_error">Ошибка сети. Проверьте настройки сети и повторите попытку.</string>
+    <string name="channel_no_data">На данный момент это все</string>	
     <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="clear_history">Очистить историю</string>
@@ -173,15 +184,41 @@
     <string name="cloud_tabs_sync_off">Синхронизация выключена</string>
     <string name="cloud_time_tips">Последняя синхронизация</string>
     <string name="cloud_up_to_loading_tips">Отпустите для синхронизации</string>
-   
     <string name="collect_video">Добавить видео</string>
+    <string name="comment_add_fail">Не удалось добавить комментарий</string>
+    <string name="comment_add_sucess">Комментарий добавлен</string>
+    <string name="comment_all_display">На данный момент это все</string>
     <string name="comment_app_menu">Комментарий</string>
+    <string name="comment_confirm_report">Отправить</string>
+    <string name="comment_copied">Успешно скопирован</string>
+    <string name="comment_delete">Удалить</string>
+    <string name="comment_delete_confirm_title">Удалить комментарий?</string>
+    <string name="comment_delete_fail">Ошибка удаления</string>
+    <string name="comment_delete_sucess">Комментарий удален</string>
     <string name="comment_description">Комментарий</string>
+    <string name="comment_empty_hint">Пока нет комментариев. Вы можете оставить первый.</string>
+    <string name="comment_error_hint">Не удалось загрузить комментарии. Нажмите, чтобы повторить попытку.</string>
+    <string name="comment_fail">Не удалось добавить комментарий. Повторите попытку.</string>
+    <string name="comment_flag_choice">Рекомендуемые</string>
+    <string name="comment_flag_top">Закрепленные</string>
     <string name="comment_hint">Комментарий</string>
+    <string name="comment_just_now">Сейчас</string>
     <string name="comment_max_length">Комментарий слишком длинный.</string>
     <string name="comment_menu">Комментарий</string>
+    <string name="comment_no_net_hint">Ошибка сервера. Повторите попытку позже.</string>
     <string name="comment_num_description">Номер комментария</string>
     <string name="comment_publish_to_topic">Синхронизация с</string>
+    <string name="comment_reply">Ответить</string>
+    <string name="comment_reply_fail">Не удалось отправить ответ</string>
+    <string name="comment_reply_sucess">Ответ отправлен</string>
+    <string name="comment_report_advertising_marketing">Маркетинг или скрытая реклама</string>
+    <string name="comment_report_harassment_abuse">Домогательство или разжигание ненависти</string>
+    <string name="comment_report_pornographic_violence">Содержание откровенного сексуального или насильственного характера</string>
+    <string name="comment_report_reactionary_politics">Политический экстремизм</string>
+    <string name="comment_report_send">Успешно отправлен</string>
+    <string name="comment_select_report_reason">Причина</string>	
+	
+    <string name="comment_success">Комментарий добавлен</string>
     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -325,8 +362,10 @@
     <string name="exit_browser_confirmation">Нажмите еще раз, чтобы вернуться на рабочий стол</string>
     <string name="exit_browser_warning">Выйти из браузера сейчас?</string>
     <string name="exit_fullscreen">Выход из полноэкранного режима</string>
+    <string name="expand_article">Посмотреть полностью</string>
     <string name="expand_button_title">Расширенный</string>
     <string name="favorite">Добавить в избранное</string>
+    <string name="feedback_not_interested_response">Вы будете видеть меньше отзывов такого рода</string>
     <string name="file_dir">Изменить каталог</string>
     <string name="file_picker">Выбор каталога</string>
     <string name="filename_empty_alert_message">Введите имя файла</string>
@@ -433,6 +472,12 @@
     <string name="navigationbar_rightbutton_actiontext_cancle">Отмена</string>
     <string name="navigationbar_rightbutton_actiontext_go">Найти</string>
     <string name="navigationbar_rightbutton_actiontext_search">Поиск</string>
+    <string name="network_error_tips">Ошибка сети. Повторите попытку.</string>
+    <string name="network_not_available_comment">Нет подключения к интернету</string>
+    <string name="network_show_wifi_setting_tip_dialog_description">Найдена точка доступа Wi-Fi поблизости. Подключиться?</string>
+    <string name="network_show_wifi_setting_tip_dialog_title">Доступна сеть Wi-Fi</string>
+    <string name="next_button_label">Далее</string>
+    <string name="no_app_open_document">No app was found to handle this action</string>	
     <string name="no_memory_space">недостаточно памяти</string>
     <string name="no_space_alert_cancel">Позже</string>
     <string name="no_space_alert_clean">Освободить место</string>
@@ -440,6 +485,7 @@
     <string name="no_space_alert_title">Загрузка приостановлена</string>
     <string name="not_remind_again">Запомнить выбор</string>
     <string name="notif_install_successful">Загрузка завершена</string>
+    <string name="notification_channel_name_local_push">Уведомления браузера</string>
     <string name="novel_toast_hint">Сайт добавлен на книжную полку</string>
     <string name="ok">ОК</string>
     <string name="open_cloud_sync">Включить синхронизацию с облаком</string>
@@ -596,6 +642,7 @@
     <string name="removed_from_bookmarks">Удалено из закладок</string>
     <string name="reopen">Открыть</string>
     <string name="replace">Заменить</string>
+    <string name="reply_comment_title">"Ответ на %s: "</string>
     <string name="retry_after_network_available">Ошибка подключения к сети</string>
     <string name="retry_download">Повторить попытку</string>
     <string name="return_to_homepage">Возврат на стартовую страницу</string>
@@ -642,12 +689,22 @@
     <string name="send_startpage">Стартовая страница</string>
     <string name="sequence_bookmark_description">Нажмите и удерживайте для сортировки закладок</string>
     <string name="share_video">Поделиться видео</string>
+    <string name="short_video_ad_download_app">Загрузить %s</string>
+    <string name="short_video_ad_download_immediately">Загрузить</string>
+    <string name="short_video_ad_downloading">Загрузка %d%%</string>
+    <string name="short_video_ad_installing">Установка</string>
+    <string name="short_video_ad_open_app">Открыть %s</string>
+    <string name="short_video_ad_open_immediately">Открыть</string>
+    <string name="short_video_ad_resume_downloading">Продолжить</string>
+    <string name="short_video_ad_see_details">Сведения</string>
+    <string name="short_video_ad_tag">Рекалама</string>
     <string name="short_video_comment_hint">Введите комментарий</string>
     <string name="short_video_description">Видеоканал</string>
     <string name="short_video_gesture_btn">Понятно</string>
     <string name="short_video_gesture_hint">Сделайте свайп для просмотра следующего видео</string>
     <string name="short_video_net_dialog_continue">Воспроизвести</string>
     <string name="short_video_net_dialog_title">Вы используете мобильный интернет. Использование мобильного интернета может привести к дополнительным расходам.</string>
+    <string name="short_video_network_error">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
     <string name="short_video_tip">Посмотри! Веселое видео</string>
     <string name="show_check_security_url_check_tip_dialog_description">"Мы будем собирать и использовать ваши личные данные, если вы решите воспользоваться нашим сервисом.
 Сбор данных:
@@ -806,6 +863,10 @@
     <string name="vo_choose_activity_content">Не удалось получить информацию о местоположении. Выберите город вручную.</string>
     <string name="vo_choose_activity_positive">Выбрать</string>
     <string name="vo_comment_text">Комментировать</string>
+    <string name="vo_fast_game_card_bottom_text">Play games without installing them</string>
+    <string name="vo_fast_game_card_more_text">Больше игр</string>
+    <string name="vo_fast_game_card_title_text">Вам могут понравиться</string>
+    <string name="vo_feed_back_dislike">Не интересно</string>
     <string name="vo_feedback_back">Назад</string>
     <string name="vo_feedback_black">Блокировать: %s</string>
     <string name="vo_feedback_content">Плохое качество контента</string>
@@ -832,6 +893,8 @@
     <string name="vo_location_change_positive">Изменить</string>
     <string name="vo_location_change_title">Местоположение изменено</string>
     <string name="vo_location_choose_city">Нажмите, чтобы изменить</string>
+    <string name="vo_mi_ad_detail">Открыть в %s</string>
+    <string name="vo_search_tag_title_text">Похожие материалы</string>
     <string name="vo_share_text">Поделиться</string>
     <string name="vo_small_video_load_more_text">Сделайте свайп, чтобы загрузить больше</string>
     <string name="vo_small_video_title">Короткие видео</string>
@@ -862,5 +925,4 @@
     <string name="voice_title_speech_again">Не удалось распознать</string>  
     <string name="webpage_title">Закладки</string>
     <string name="wechat_not_installed">Wechat не установлен</string>
-    <string name="vo_mi_ad_detail">Открыть в %s</string>
 </resources>
