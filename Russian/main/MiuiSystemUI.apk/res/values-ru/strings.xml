@@ -294,7 +294,7 @@
     <string name="as_unimportant">Неважное</string>
     <string name="ask_me_later_bubbles">Спросить позже</string>
     <string name="aspect_cancel">Отмена</string>
-    <string name="aspect_message">Это приложение будет снова запущено в полноэкранном режиме. Если возникнут какие-либо проблемы, вы можете отключить полноэкранный режим для этого приложения в Настройки &gt; Экран &gt; Полноэкранный режим.</string>
+    <string name="aspect_message">Это приложение будет снова запущено в полноэкранном режиме. Если возникнут какие-либо проблемы, вы можете отключить полноэкранный режим для этого приложения в Настройки &gt; Дисплей &gt; Полноэкранный режим.</string>
     <string name="aspect_ok">ОК</string>
     <string name="aspect_title">Полноэкранный режим</string>
     <string name="audio_effect_custom">Настроить</string>
