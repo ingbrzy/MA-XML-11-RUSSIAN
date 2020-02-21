@@ -25,16 +25,16 @@
         <item quantity="many">%d неважных уведомлений</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">Неверный PIN код, осталось %d попыток</item>
-        <item quantity="one">Неверный PIN код, осталась %d попытка</item>
-        <item quantity="few">Неверный PIN код, осталось %d попытки</item>
-        <item quantity="many">Неверный PIN код, осталось %d попыток</item>
+        <item quantity="other">Неверный PIN-код, осталось %d попыток</item>
+        <item quantity="one">Неверный PIN-код, осталась %d попытка</item>
+        <item quantity="few">Неверный PIN-код, осталось %d попытки</item>
+        <item quantity="many">Неверный PIN-код, осталось %d попыток</item>
     </plurals>
     <plurals name="incorrect_pukcode_remaining_attempts">
-        <item quantity="other">Неверный PUK код, осталось %d попыток</item>
-        <item quantity="one">Неверный PUK код, осталась %d попытка</item>
-        <item quantity="few">Неверный PUK код, осталось %d попытки</item>
-        <item quantity="many">Неверный PUK код, осталось %d попыток</item>
+        <item quantity="other">Неверный PUK-код, осталось %d попыток</item>
+        <item quantity="one">Неверный PUK-код, осталась %d попытка</item>
+        <item quantity="few">Неверный PUK-код, осталось %d попытки</item>
+        <item quantity="many">Неверный PUK-код, осталось %d попыток</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
         <item quantity="other">Вы не вводили пароль более %d часов. Введите пароль.</item>
@@ -139,10 +139,10 @@
         <item quantity="many">Устройство не разблокировали %d часов. Введите графический ключ.</item>
     </plurals>
     <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">Устройство не разблокировали %d часов. Введите цифровой код.</item>
-        <item quantity="one">Устройство не разблокировали %d час. Введите цифровой код.</item>
-        <item quantity="few">Устройство не разблокировали %d часа. Введите цифровой код.</item>
-        <item quantity="many">Устройство не разблокировали %d часов. Введите цифровой код.</item>
+        <item quantity="other">Устройство не разблокировали %d часов. Введите PIN-код.</item>
+        <item quantity="one">Устройство не разблокировали %d час. Введите PIN-код.</item>
+        <item quantity="few">Устройство не разблокировали %d часа. Введите PIN-код.</item>
+        <item quantity="many">Устройство не разблокировали %d часов. Введите PIN-код.</item>
     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d новых уведомлений</item>

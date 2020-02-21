@@ -480,7 +480,7 @@
     <string name="confirm">Понятно</string>
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты устройства не будут работать, пока включен этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить OEM разблокировку?</string>
-    <string name="confirm_pin_msg">Введите PIN повторно</string>
+    <string name="confirm_pin_msg">Введите PIN-код повторно</string>
     <string name="connected_via_app">Подключено через %1$s</string>
     <string name="connected_via_network_scorer">Автоматически подключено к %1$s</string>
     <string name="connected_via_network_scorer_default">Автоматически подключено через автора рейтинга сетей</string>
@@ -808,8 +808,8 @@
     <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
-    <string name="incorrect_pincode">Неверный PIN код</string>
-    <string name="incorrect_pukcode">Неверный PUK код</string>
+    <string name="incorrect_pincode">Неверный PIN-код</string>
+    <string name="incorrect_pukcode">Неверный PUK-код</string>
     <string name="input_password_after_boot_msg">После перезагрузки необходимо ввести пароль</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Переключение пространства во время вызова недоступно</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Переход во второе пространство запрещен родительским контролем</string>
@@ -817,8 +817,8 @@
     <string name="input_password_after_boot_msg_must_enter_owner_space">После перезагрузки необходимо войти в первое пространство</string>
     <string name="input_password_hint_text">Введите пароль</string>
     <string name="input_pattern_hint_text">Введите графический ключ</string>
-    <string name="input_pin_code">Введите PIN</string>
-    <string name="input_puk_code">Введите PUK код</string>
+    <string name="input_pin_code">Введите PIN-код</string>
+    <string name="input_puk_code">Введите PUK-код</string>
     <string name="install_other_apps">Ненадежные источники</string>
     <string name="installer_cd_button_title">Установить Android File Transfer для Mac</string>
     <string name="instant_apps">Приложения с мгновенным запуском</string>
@@ -839,7 +839,7 @@
 Используйте зарядное устройство из комплекта."</string>
     <string name="invalid_charger_text">Используйте зарядное устройство из комплекта.</string>
     <string name="invalid_charger_title">Зарядка по USB не поддерживается.</string>
-    <string name="invalid_confirm_pin_hint">PIN коды не совпадают</string>
+    <string name="invalid_confirm_pin_hint">PIN-коды не совпадают</string>
     <string name="invalid_sim_pin_hint">PIN должен содержать от 4 до 8 цифр</string>
     <string name="invalid_sim_puk_hint">PUK должен содержать не менее 8 цифр</string>
     <string name="keep_screen_on">Не выключать экран</string>
@@ -889,7 +889,7 @@
     <string name="keyboardview_keycode_delete">Кнопка удаления</string>
     <string name="keyboardview_keycode_enter">Кнопка ввода</string>
     <string name="keyguard_accessibility_next_alarm">Будильник установлен на %1$s</string>
-    <string name="keyguard_accessibility_pin_area">Область ввода цифрового кода</string>
+    <string name="keyguard_accessibility_pin_area">Область ввода PIN-кода</string>
     <string name="keyguard_accessibility_sim_pin_area">Область ввода PIN SIM-карты</string>
     <string name="keyguard_accessibility_sim_puk_area">Область ввода PUK SIM-карты</string>
     <string name="keyguard_carrier_default">Нет сети</string>
@@ -925,7 +925,7 @@
     <string name="keyguard_network_locked_message">Сеть заблокирована</string>
     <string name="keyguard_password_enter_password_code">Введите пароль</string>
     <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
-    <string name="keyguard_password_enter_pin_password_code">Введите цифровой код</string>
+    <string name="keyguard_password_enter_pin_password_code">Введите PIN-код</string>
     <string name="keyguard_password_enter_pin_prompt">Новый PIN SIM карты</string>
     <string name="keyguard_password_enter_puk_code">Введите PUK-код и новый PIN-код</string>
     <string name="keyguard_password_enter_puk_prompt">PUK SIM карты</string>
@@ -943,7 +943,7 @@
     <string name="keyguard_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
     <string name="keyguard_torch_cover_text">Чтобы фонарик не выключился, нажмите кнопку питания</string>
     <string name="keyguard_unlock">Проведите вверх для разблокировки</string>
-    <string name="kg_enter_confirm_pin_hint">Подтвердите новый PIN</string>
+    <string name="kg_enter_confirm_pin_hint">Подтвердите новый PIN-код</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">Количество неудачных попыток разблокировать телефон: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, рабочий профиль и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_almost_at_erase_user">Количество неудачных попыток разблокировать телефон: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, аккаунт этого пользователя и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_almost_at_login">"Количество неудачных попыток ввода графического ключа: %1$d. Осталось попыток: %2$d. Если они также будут неудачными, вам будет предложено разблокировать телефон с помощью email.
@@ -954,7 +954,7 @@
     <string name="kg_failed_attempts_now_erasing_user">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Аккаунт этого пользователя и все его данные будут удалены.</string>
     <string name="kg_failed_attempts_now_wiping">Достигнуто максимальное количество неудачных попыток разблокировать телефон: %d. Настройки телефона будут сброшены к заводским, а все данные удалены.</string>
     <string name="kg_forgot_pattern_button_text">Забыли ключ?</string>
-    <string name="kg_invalid_confirm_pin_hint">PIN коды не совпадают</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN-коды не совпадают</string>
     <string name="kg_invalid_puk">Введите правильный PUK-код. После нескольких неудачных попыток SIM-карта будет заблокирована.</string>
     <string name="kg_invalid_sim_pin_hint">PIN должен содержать от 4 до 8 цифр</string>
     <string name="kg_invalid_sim_puk_hint">PUK должен содержать не менее 8 цифр</string>
@@ -966,19 +966,19 @@
     <string name="kg_password_wrong_puk_code_dead">SIM-карта заблокирована навсегда. Обратитесь к оператору связи.</string>
     <string name="kg_pattern_instructions">Введите графический ключ</string>
     <string name="kg_pin_accepted">Код принят</string>
-    <string name="kg_pin_instructions">Введите цифровой код</string>
+    <string name="kg_pin_instructions">Введите PIN-код</string>
     <string name="kg_prompt_reason_device_admin">Устройство заблокировано администратором</string>
     <string name="kg_prompt_reason_restart_password">После перезагрузки необходимо ввести пароль</string>
     <string name="kg_prompt_reason_restart_pattern">После перезагрузки необходимо ввести графический ключ</string>
-    <string name="kg_prompt_reason_restart_pin">После перезагрузки необходимо ввести цифровой код</string>
+    <string name="kg_prompt_reason_restart_pin">После перезагрузки необходимо ввести PIN-код</string>
     <string name="kg_prompt_reason_switch_profiles_password">После смены профиля необходимо ввести пароль</string>
     <string name="kg_prompt_reason_switch_profiles_pattern">После смены профиля необходимо ввести графический ключ</string>
-    <string name="kg_prompt_reason_switch_profiles_pin">После смены профиля необходимо ввести цифровой код</string>
+    <string name="kg_prompt_reason_switch_profiles_pin">После смены профиля необходимо ввести PIN-код</string>
     <string name="kg_prompt_reason_timeout_password">В качестве дополнительной меры безопасности введите пароль</string>
     <string name="kg_prompt_reason_timeout_pattern">В качестве дополнительной меры безопасности введите графический ключ</string>
-    <string name="kg_prompt_reason_timeout_pin">В качестве дополнительной меры безопасности введите цифровой код</string>
+    <string name="kg_prompt_reason_timeout_pin">В качестве дополнительной меры безопасности введите PIN-код</string>
     <string name="kg_prompt_reason_user_request">Устройство заблокировано вручную</string>
-    <string name="kg_puk_enter_pin_hint">Введите новый PIN</string>
+    <string name="kg_puk_enter_pin_hint">Введите новый PIN-код</string>
     <string name="kg_puk_enter_puk_hint">SIM-карта заблокирована. Для продолжения введите PUK-код. За подробной информацией обратитесь к своему оператору связи.</string>
     <string name="kg_puk_enter_puk_hint_multi">SIM-карта \"%1$s\" заблокирована. Для продолжения введите PUK-код. За подробной информацией обратитесь к своему оператору связи.</string>
     <string name="kg_sim_pin_instructions">Введите PIN SIM-карты</string>
@@ -991,12 +991,12 @@
     <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Количество неудачных попыток ввода графического ключа: %1$d.
 
 Повторите попытку через %2$d с."</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Количество неудачных попыток ввода цифрового кода: %1$d.
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">"Количество неудачных попыток ввода PIN-кода: %1$d.
 
 Повторите попытку через %2$d с."</string>
     <string name="kg_wrong_password">Неверный пароль</string>
     <string name="kg_wrong_pattern">Неверный графический ключ</string>
-    <string name="kg_wrong_pin">Неверный цифровой код</string>
+    <string name="kg_wrong_pin">Неверный PIN-код</string>
     <string name="kilobyte_per_second">КБ/с</string>
     <string name="label_view">Просмотр</string>
     <string name="launch_defaults_none">Действия по умолчанию не установлены</string>

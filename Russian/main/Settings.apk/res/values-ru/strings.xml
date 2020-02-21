@@ -327,6 +327,7 @@
     <string name="allow_lights_title">Световой индикатор</string>
     <string name="allow_mock_location">Фиктивные местоположения</string>
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
+    <string name="allow_oaid_used">Разрешить использование ID устройства</string>
     <string name="allow_overlay_description">Элементы интерфейса будут отображаться поверх других окон. Это может мешать вашей работе с приложениями или искажать их интерфейс.</string>
     <string name="allow_sound_title">Звук</string>
     <string name="allow_vibrate_title">Вибрация</string>
@@ -1853,7 +1854,7 @@
     <string name="device_display_layout_title">Возможности телефона</string>
     <string name="device_edit_title">Имя устройства</string>
     <string name="device_feedback">Отправить отзыв об устройстве</string>
-    <string name="device_id">Идентификатор устройства</string>
+    <string name="device_id">ID устройства для персонализированных рекомендаций</string>
     <string name="device_info_default">Неизвестно</string>
     <string name="device_info_label">Сведения об устройстве</string>
     <string name="device_info_not_available">Недоступно</string>
@@ -1870,7 +1871,7 @@
     <string name="device_name_input_hint">Введите имя устройства</string>
     <string name="device_name_input_overlength">Слишком длинное имя устройства</string>
     <string name="device_name_usage_point">Другие устройства поблизости увидят это имя</string>
-    <string name="device_oaid">Идентификатор устройства</string>
+    <string name="device_oaid">ID устройства</string>
     <string name="device_picker">Выбрать устройство Bluetooth</string>
     <string name="device_rear_camera">Основная камера</string>
     <string name="device_screen_resolution">Разрешение экрана</string>
@@ -4671,9 +4672,9 @@ UT-интерфейс: %5$s"</string>
     <string name="restore_default_apn">Восстановление настроек APN по умолчанию…</string>
     <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены</string>
     <string name="restore_device_id_content">Сбросить персональные рекомендации</string>
-    <string name="restore_device_id_title">Восстановить ID устройства</string>
-    <string name="restore_dialog_content">При восстановлении ID устройства ваши персональные рекомендации будут сброшены.</string>
-    <string name="restore_dialog_positive">Восстановить</string>
+    <string name="restore_device_id_title">Сбросить ID устройства</string>
+    <string name="restore_dialog_content">При сбросе ID устройства ваши персональные рекомендации будут сброшены.</string>
+    <string name="restore_dialog_positive">Сбросить</string>
     <string name="restore_dialog_title">Внимание</string>
     <string name="restore_oaid_content">Сброс текущего ID устройства создаст новый. Сбросить?</string>
     <string name="restore_oaid_positive">Сбросить</string>

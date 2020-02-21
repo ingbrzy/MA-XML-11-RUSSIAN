@@ -1751,13 +1751,13 @@
   <string name="notify_weekly_traffic_body">Для автоматического ограничения трафика настройте месячный лимит.</string>
   <string name="notify_weekly_traffic_title">Расход за неделю %s</string>
   <string name="notify_weekly_traffic_title_for_slotnum">Расход за неделю %2$s на %1$s</string>
-  <string name="numeric_need_to_confirm">Введите цифровой код повторно</string>
-  <string name="numeric_password_confirmed_header_confirm">Код задан. Нажмите для подтверждения.</string>
-  <string name="numeric_password_confirmed_header_continue">Код задан. Нажмите \"Далее\".</string>
-  <string name="numeric_pattern_entered_header">Цифровой код задан</string>
+  <string name="numeric_need_to_confirm">Введите PIN-код повторно</string>
+  <string name="numeric_password_confirmed_header_confirm">PIN-код задан. Нажмите для подтверждения.</string>
+  <string name="numeric_password_confirmed_header_continue">PIN-код задан. Нажмите \"Далее\".</string>
+  <string name="numeric_pattern_entered_header">PIN-код задан</string>
   <string name="numeric_recording_intro_header">Введите не менее 4 цифр</string>
   <string name="numeric_retry_button_text">Отмена</string>
-  <string name="numeric_settings_help_how_to_record">Как задать цифровой код</string>
+  <string name="numeric_settings_help_how_to_record">Как задать PIN-код</string>
   <string name="ok">OK</string>
   <string name="ok_button">OK</string>
   <string name="old_sdk_deny_warning">Это приложение было разработано для более ранней версии Android. Отзыв разрешения может вызвать неполадки в его работе.</string>
@@ -2393,7 +2393,7 @@
   <string name="see_more_content">Обновите Игры для просмотра новинок</string>
   <string name="set_applock_password">Задать пароль</string>
   <string name="set_mixed_password_name">Задайте пароль</string>
-  <string name="set_numeric_password_name">Задайте цифровой код</string>
+  <string name="set_numeric_password_name">Задайте PIN-код</string>
   <string name="set_pattern_password_name">Задайте графический ключ</string>
   <string name="setting">Настройки</string>
   <string name="setting_privacy_password">Задайте графический ключ</string>
@@ -2997,7 +2997,7 @@
   <string name="unlock_set_unlock_pattern_summary">Соедините не менее 4 точек</string>
   <string name="unlock_set_unlock_pattern_title">Графический ключ</string>
   <string name="unlock_set_unlock_pin_summary">Введите 4 цифры</string>
-  <string name="unlock_set_unlock_pin_title">Цифровой код</string>
+  <string name="unlock_set_unlock_pin_title">PIN-код</string>
   <string name="updating_diagnostic_botton">Анализ данных…</string>
   <string name="usage_sorted_activity_lable">Расход трафика</string>
   <string name="usage_sorted_empty_text">Пусто</string>

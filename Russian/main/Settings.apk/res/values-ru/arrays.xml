@@ -477,7 +477,7 @@
     <string-array name="change_security_lock_picker">
         <item>Данные лица</item>
         <item>Графический ключ</item>
-        <item>Цифровой код</item>
+        <item>PIN-код</item>
         <item>Пароль</item>
     </string-array>
     <string-array name="check_importance_entries">

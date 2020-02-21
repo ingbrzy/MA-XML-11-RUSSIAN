@@ -272,6 +272,7 @@
     <string name="load_no_more">"Больше ничего нет"</string>
     <string name="loading_desktop">Подождите…</string>
     <string name="locating_fail">"Не удалось получить местоположение"</string>
+    <string name="location_permission_desc">Для построения маршрутов навигации и предоставления услуг вызова такси</string>
     <string name="locations">Частые места</string>
     <string name="locations_preferences">Адреса</string>
     <string name="login_before_use">Сначала выполните вход</string>
