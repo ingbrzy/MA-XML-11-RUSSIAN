@@ -78,6 +78,10 @@
   <string name="global_actions_reboot">Перезагрузка</string>
   <string name="global_actions_shutdown">Выключение</string>
   <string name="global_actions_silent_mode">Режим \"Без звука\"</string>
+  <string name="handset_text_unsupported_handset_insert">Сведения</string>
+  <string name="handset_text_usb_handset_insert">Дополнительные настройки</string>
+  <string name="handset_title_unsupported_handset_insert">USB-адаптеры наушников не поддерживаются</string>
+  <string name="handset_title_usb_handset_insert">Воспроизведение через USB</string>  
   <string name="handy_mode_enter_dlg_msg">Войти в режим управления одной рукой?</string>
   <string name="handy_mode_enter_dlg_title">Управление одной рукой</string>
   <string name="handy_mode_summary">Для выхода нажмите на темную область</string>
@@ -104,8 +108,10 @@
   <string name="lockscreen_access_pattern_start">Ключ начат</string>
   <string name="maml_component_customization_title">Настройки</string>
   <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
-  <string name="memory_clear_result">Очищено %1$sB памяти</string>
+  <string name="memory_clear_result">Очищено %1$s Б памяти</string>
   <string name="mi_drop">Mi Share</string>
+  <string name="miaudiovisual_notification_summary">Эффекты на экране блокировки</string>
+  <string name="miaudiovisual_notification_title">Аудио и визуальные эффекты</string>  
   <string name="miui_forbid_poweroff_when_device_locked">Выключение невозможно, устройство заблокировано.</string>
   <string name="miui_screen_ratio_hint">Проблемы с отображением</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Больше не показывать</string>

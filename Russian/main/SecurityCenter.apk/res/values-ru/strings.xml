@@ -1181,7 +1181,8 @@
   <string name="gateway_exception_summary2">Ошибка подключения к серверу</string>
   <string name="gateway_exception_title">Диагностика роутера</string>
   <string name="gb_ad_game_size">МБ</string>
-  <string name="gb_add_game_hint">Добавление элементов из списка приложений</string>
+  <string name="gb_add_game_hint">Выбор из списка приложений</string>
+  <string name="gb_add_game_loading_tips">Подождите…</string>
   <string name="gb_advance_settings_edge_gear1">Нет</string>
   <string name="gb_advance_settings_edge_gear2">Маленькая</string>
   <string name="gb_advance_settings_edge_gear3">Средняя</string>

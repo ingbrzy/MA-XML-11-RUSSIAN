@@ -734,8 +734,6 @@
   <string name="menu_delete_shortcut_label">удалить</string>
   <string name="menu_enter_shortcut_label">ввод</string>
   <string name="menu_space_shortcut_label">пробел</string>
-  <string name="miaudiovisual_notification_summary">Эффекты на экране блокировки</string>
-  <string name="miaudiovisual_notification_title">Аудио и визуальные эффекты</string>  
   <string name="midnight">полночь</string>
   <string name="Midnight">Полночь</string>
   <string name="minute">мин.</string>
