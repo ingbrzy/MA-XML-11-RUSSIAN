@@ -252,6 +252,10 @@
     <string name="contextmenu_webpage_snapshot">Сохранить страницу</string>
     <string name="custom_head_card_text">Всегда верьте, что произойдет что-то замечательное</string>
     <string name="custom_head_weather">Погода</string>
+    <string name="dark_mode_setting_dark">Ночной режим (темный)</string>
+    <string name="dark_mode_setting_follow">Системные установки</string>
+    <string name="dark_mode_setting_light">Дневной режим (светлый)</string>
+    <string name="dark_mode_setting_title">Ночной режим</string>	
     <string name="data_monitor">Напоминать о трафике</string>
     <string name="data_monitor_dialog_message">Повышенный расход мобильных данных. Перейдите на стартовую страницу, чтобы остановить расход.</string>
     <string name="data_traffic_continue">Продолжить</string>
