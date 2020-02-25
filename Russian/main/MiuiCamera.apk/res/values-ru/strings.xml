@@ -144,7 +144,6 @@
   <string name="config_name_super_resolution">Суперразрешение</string>
   <string name="config_name_tilt">Tilt-shift</string>
   <string name="config_name_timer">Таймер</string>
-  <string name="config_name_mimovie">Режим кино</string>
   <string name="confirm_install_scanner_message">Приложение позволяет сканировать QR-коды, штрихкоды и т.д. Для его установки не требуется подключение к интернету.</string>
   <string name="confirm_install_scanner_title">Установите Сканер</string>
   <string name="confirm_location_alert">Запоминать место съемки</string>
