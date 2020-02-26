@@ -107,10 +107,9 @@
     <string name="aqi_quality_index_moderate">Приемлемый</string>
     <string name="aqi_quality_index_unhealthy">Нездоровый</string>
     <string name="auto_add_app_shortcut">Размещать новые приложения на рабочем столе</string>
-    <string name="backup_fail">Сбой резервного копирования</string>
-    <string name="auto_add_app_shortcut">Размещать новые приложения на рабочем столе</string>
     <string name="auto_delete_category_dialog_content">Категория и связанные с ней приложения будут удалены. Удалить?</string>
     <string name="auto_delete_category_dialog_title">Удаление категорий</string>	
+    <string name="backup_fail">Сбой резервного копирования</string>
     <string name="bad_wallpaper_source_prompt">Не удалось загрузить обои</string>
     <string name="buffering">Буферизация…</string>
     <string name="cancel_action">Отмена</string>
