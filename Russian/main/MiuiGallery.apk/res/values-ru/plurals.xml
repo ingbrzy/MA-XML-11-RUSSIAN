@@ -402,10 +402,10 @@
     <item quantity="many">Выбранных фото (%d МБ) нет на устройстве. Загрузить через мобильный интернет?</item>
   </plurals>
   <plurals name="picker_cancel_confirm_message">
-    <item quantity="other">Отменить загрузку %d оставшихся фото?</item>
-    <item quantity="one">Отменить загрузку %d оставшегося фото?</item>
-    <item quantity="few">Отменить загрузку %d оставшихся фото?</item>
-    <item quantity="many">Отменить загрузку %d оставшихся фото?</item>
+    <item quantity="other">%d файлов еще не загружено. Отменить загрузку?</item>
+    <item quantity="one">%d файл еще не загружен. Отменить загрузку?</item>
+    <item quantity="few">%d файла еще не загружено. Отменить загрузку?</item>
+    <item quantity="many">%d файлов еще не загружено. Отменить загрузку?</item>
   </plurals>
   <plurals name="picker_no_network_retry_image_confirm_message">
     <item quantity="other">Не удалось загрузить %1$d фото, подключитесь к сети и повторите попытку</item>
@@ -414,11 +414,17 @@
     <item quantity="many">Не удалось загрузить %1$d фото, подключитесь к сети и повторите попытку</item>
   </plurals>
   <plurals name="picker_no_network_retry_origin_confirm_message">
-    <item quantity="other">Не удалось загрузить %1$d фото (%2$d МБ), подключитесь к сети и повторите попытку</item>
-    <item quantity="one">Не удалось загрузить %1$d фото (%2$d МБ), подключитесь к сети и повторите попытку</item>
-    <item quantity="few">Не удалось загрузить %1$d фото (%2$d МБ), подключитесь к сети и повторите попытку</item>
-    <item quantity="many">Не удалось загрузить %1$d фото (%2$d МБ), подключитесь к сети и повторите попытку</item>
+    <item quantity="other">Не удалось загрузить %1$d файлов (%2$d МБ), подключитесь к сети и повторите попытку</item>
+    <item quantity="one">Не удалось загрузить %1$d файл (%2$d МБ), подключитесь к сети и повторите попытку</item>
+    <item quantity="few">Не удалось загрузить %1$d файла (%2$d МБ), подключитесь к сети и повторите попытку</item>
+    <item quantity="many">Не удалось загрузить %1$d файлов (%2$d МБ), подключитесь к сети и повторите попытку</item>
   </plurals>
+  <plurals name="picker_origin_need_to_download">
+    <item quantity="other">%1$d файлов (%2$dMB) еще не загружено. Использовать мобильный интернет?</item>
+    <item quantity="one">%1$d файл (%2$dMB) еще не загружен. Использовать мобильный интернет?</item>
+    <item quantity="few">%1$d файла (%2$dMB) еще не загружено. Использовать мобильный интернет?</item>
+    <item quantity="many">%1$d файлов (%2$dMB) еще не загружено. Использовать мобильный интернет?</item>
+  </plurals> 
   <plurals name="picker_retry_image_confirm_message">
     <item quantity="other">Не удалось загрузить %1$d фото, повторить?</item>
     <item quantity="one">Не удалось загрузить %1$d фото, повторить?</item>

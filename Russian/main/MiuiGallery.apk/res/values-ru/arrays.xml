@@ -27,11 +27,20 @@
         <item>Ноябрь</item>
         <item>Декабрь</item>
     </string-array>    
+    <string-array name="last_week_baby_title">
+        <item>Время играть</item>
+        <item>Детские выходные</item>
+        <item>Малыш</item>
+    </string-array>	
     <string-array name="last_weekend_title">
         <item>Мои выходные</item>
         <item>Ритмы жизни</item>
         <item>Воспоминания о выходных</item>
     </string-array>
+    <string-array name="last_year_group_people">
+        <item>Новые друзья и старые приятели</item>
+        <item>Прошлогодние встречи</item>
+    </string-array>	
     <string-array name="menu_copy_or_move">
         <item>Переместить</item>
         <item>Копировать</item>
@@ -64,6 +73,10 @@
         <item>Хорошие времена</item>
         <item>В унисон</item>
     </string-array>
+    <string-array name="recent_group_people">
+        <item>Совместно</item>
+        <item>Связи и контакты</item>
+    </string-array>	
     <string-array name="relation_with_me">
         <item>Я</item>
         <item>Ребенок</item>
@@ -91,6 +104,10 @@
         <item>Движение вперед</item>
         <item>Полный энергии</item>
     </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Они растут так быстро</item>
+        <item>Детские фото</item>
+    </string-array>	
     <string-array name="weekend_title">
         <item>Прошедшие выходные</item>
         <item>Памятные дни</item>
