@@ -708,7 +708,6 @@
     <string name="battery_details_title">Расход заряда батареи</string>
     <string name="battery_footer_summary">Оставшееся время работы указано приблизительно и может меняться в зависимости от интенсивности использования</string>
     <string name="battery_full_charge_last">Полная зарядка длится около</string>
-    <string name="battery_header_title_alternate">^1&lt;small&gt; &lt;font size="20"&gt;%&lt;/font&gt;&lt;/small&gt;</string>
     <string name="battery_indicator_style">Индикатор батареи</string>
     <string name="battery_indicator_title">Индикатор батареи</string>
     <string name="battery_info_awake_battery">Работа от батареи:</string>
@@ -883,7 +882,13 @@
     <string name="bluetooth_battery_level">Уровень заряда: %1$s</string>
     <string name="bluetooth_battery_level_untethered">Уровень заряда L: %1$s, R: %2$s</string>
     <string name="bluetooth_broadcasting">Передача данных</string>
-    <string name="bluetooth_confirm_passkey_msg">Для подключения к устройству&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>на нем должен отображаться этот код доступа:&lt;br>&lt;b>%2$s</string>
+    <string name="bluetooth_confirm_passkey_msg">"Для подключения к устройству 
+%1$s, 
+
+на нем должен отображаться этот код доступа: 
+%2$s"</string>
+    <string name="bluetooth_connect_failed">Не удалось подключиться. Повторите попытку.</string>
+    <string name="bluetooth_connect_settings">Настройки подключения</string>	
     <string name="bluetooth_connect_specific_profiles_title">Подключить к…</string>
     <string name="bluetooth_connected">Подключено</string>
     <string name="bluetooth_connected_battery_level">Подключено | Батарея %1$s%2$s</string>
@@ -927,13 +932,15 @@
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_title">Перезагрузить устройство?</string>
     <string name="bluetooth_disable_absolute_volume">Отключить абсолютный уровень громкости</string>
     <string name="bluetooth_disable_absolute_volume_summary">Отключить абсолютный уровень громкости Bluetooth при возникновении проблем на удаленных устройствах, например при слишком громком звучании или невозможности контролировать настройку</string>
-    <string name="bluetooth_disable_mi_fast_connect">Отключить Mi Link</string>
-    <string name="bluetooth_disable_mi_fast_connect_summary">Отключить функцию Mi Link</string>
-    <string name="bluetooth_disable_profile_message">Профиль&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>будет отключен от устройства&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_disable_profile_message">"Профиль 
+%1$s 
+будет отключен от устройства 
+%2$s"</string>
     <string name="bluetooth_disable_profile_title">Отключить профиль?</string>
     <string name="bluetooth_disabled">Не виден другим устройствам</string>
     <string name="bluetooth_disconnect_a2dp_profile">Устройство %1$s будет отключено от источника звука.</string>
-    <string name="bluetooth_disconnect_all_profiles">Произойдет разъединение с устройством &lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="bluetooth_disconnect_all_profiles">"Произойдет разъединение с устройством 
+%1$s"</string>
     <string name="bluetooth_disconnect_headset_profile">Устройство %1$s будет отключено от гарнитуры.</string>
     <string name="bluetooth_disconnect_hid_profile">%1$s отключается от устройства ввода.</string>
     <string name="bluetooth_disconnect_pan_nap_profile">Интернет-подключение телефона перестанет использоваться устройством %1$s.</string>
@@ -941,7 +948,11 @@
     <string name="bluetooth_disconnect_title">Отключиться?</string>
     <string name="bluetooth_disconnected">Отключено</string>
     <string name="bluetooth_disconnecting">Отключение…</string>
-    <string name="bluetooth_display_passkey_pin_msg">Для подключения к устройству &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введите на нем код &lt;br>&lt;b>%2$s&lt;/b>, а затем нажмите клавишу Return или Enter.</string>
+    <string name="bluetooth_display_passkey_pin_msg">"Для подключения к устройству 
+%1$s 
+введите код %2$s, 
+затем нажмите клавишу Return или Enter"</string>
+    <string name="bluetooth_display_settings">Настройки дисплея</string>
     <string name="bluetooth_dock_settings">Настройки док-станции</string>
     <string name="bluetooth_dock_settings_a2dp">Для музыки и мультимедиа</string>
     <string name="bluetooth_dock_settings_headset">Для громкой связи</string>
@@ -961,7 +972,10 @@
     <string name="bluetooth_headset_profile_summary_use_for">Использовать для аудиоустройства телефона</string>
     <string name="bluetooth_hid_profile_summary_connected">Подключено к устройству ввода</string>
     <string name="bluetooth_hid_profile_summary_use_for">Использовать для ввода</string>
-    <string name="bluetooth_incoming_pairing_msg">Запрос от: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Подключиться к этому устройству?</string>
+    <string name="bluetooth_incoming_pairing_msg">"Запрос от: 
+%1$s 
+
+Подключиться к этому устройству?"</string>
     <string name="bluetooth_inform_messgae">"Не удалось подключиться к %1$s.
 Возможные причины:
 1. Bluetooth отключен или находится вне зоны действия.
@@ -982,6 +996,8 @@
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Число аудиоустройств</string>
     <string name="bluetooth_max_connected_audio_devices_string">Число Bluetooth аудиоустройств</string>
     <string name="bluetooth_menu_advanced">Дополнительно</string>
+    <string name="bluetooth_mi_fast_connect">Mi Link</string>
+    <string name="bluetooth_mi_fast_connect_summary">Подключение к Bluetooth-устройствам поблизости</string>	
     <string name="bluetooth_middle_name">Чехол</string>
     <string name="bluetooth_name_not_set">Без настройки имени, использовать имя аккаунта</string>
     <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены.</string>
