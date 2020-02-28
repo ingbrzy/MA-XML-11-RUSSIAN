@@ -59,7 +59,7 @@
 *  Настройки уведомлений 
 *  Настройки MIUI и системы 
 Внимание: данные установленных приложений не будут сохранены в Xiaomi Cloud."</string>
-    <string name="cloud_back_up_frequence_choice_title">Расписание резервного копирования</string>
+    <string name="cloud_back_up_frequence_choice_title">Расписание</string>
     <string name="cloud_back_up_frequence_long">Каждые 7 дней</string>
     <string name="cloud_back_up_frequence_short">Каждый день</string>
     <string name="cloud_back_up_no_network_warn">Не удалось подключиться к Wi-Fi</string>
@@ -71,10 +71,10 @@
     <string name="cloud_back_up_task">Резервное копирование…</string>
     <string name="cloud_backup">Облачные резервные копии</string>
     <string name="cloud_backup_derail_size_summary">Размер: %s</string>
-    <string name="cloud_backup_detail_frequence">Расписание резервного копирования</string>
-    <string name="cloud_backup_detail_manage">Управление резервными копиями</string>
-    <string name="cloud_backup_detail_state">Автоматическое резервное копирование</string>
-    <string name="cloud_backup_detail_state_summary">Создавать резервные копии автоматически при подключении к Wi-Fi</string>
+    <string name="cloud_backup_detail_frequence">Расписание</string>
+    <string name="cloud_backup_detail_manage">Резервные копии</string>
+    <string name="cloud_backup_detail_state">Резервное копирование по расписанию</string>
+    <string name="cloud_backup_detail_state_summary">Автоматически создавать резервные копии при подключении к Wi-Fi</string>
     <string name="cloud_backup_detail_time">Последняя копия: %1$s</string>
     <string name="cloud_backup_detail_title">Рабочий стол, приложения и настройки</string>
     <string name="cloud_backup_have_data">Найдена резервная копия в Xiaomi Cloud</string>
@@ -139,9 +139,9 @@
     <string name="menu_item_sort_size">Размер</string>
     <string name="msg_alert_cancel_restore">Идет восстановление. Остановить его?</string>
     <string name="msg_alert_restore_error">Не удалось восстановить объекты из Xiaomi Cloud. Повторите попытку.</string>
-    <string name="msg_restore_start_with_metered_network">"Рабочий стол будет перезапущен. Приложения из резервной копии будут добавлены автоматически. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt; Будет загружено файлов: %s&lt;/font&gt;&lt;/b&gt;"</string>
+    <string name="msg_restore_start_with_metered_network">"Рабочий стол будет перезапущен. Приложения из резервной копии будут добавлены автоматически. Будет загружено файлов: %s"</string>
     <string name="msg_restore_with_metered_network_hint">Для загрузки выбранных элементов будет использоваться мобильный интернет.</string>
-    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; файл(а)(ов) будет загружен(о)."</string>
+    <string name="msg_restore_with_metered_network_pattern">"Будет загружено файлов: %s"</string>
     <string name="network_error">Подключитесь к сети</string>
     <string name="no_account">Не выполнен вход в Mi Аккаунт</string>
     <string name="no_backup">Нет резервных копий в Xiaomi Cloud</string>

@@ -401,8 +401,8 @@
     <string name="remove_invalidate_gadget_tips">Один из используемых виджетов больше не доступен. Вы можете добавить другой.</string>
     <string name="reset_cate_tip_content">Будут восстановлены категории по умолчанию. Продолжить?</string>
     <string name="reset_cate_tip_title">Сброс категорий</string>
-    <string name="reset_description_first_time">Вы можете восстановить макет с %1$s в течение 2 часов</string>
-    <string name="reset_description_others">Вы можете восстановить макет с %1$s</string>
+    <string name="reset_description_first_time">Вы можете восстановить рабочий стол с %1$s в течение 2 часов</string>
+    <string name="reset_description_others">Вы можете восстановить рабочий стол с %1$s</string>
     <string name="reset_fail">Восстановление не удалось</string>
     <string name="reset_scene_prompt">Расположение значков на рабочем столе будет сброшено</string>
     <string name="reset_title">Восстановить</string>

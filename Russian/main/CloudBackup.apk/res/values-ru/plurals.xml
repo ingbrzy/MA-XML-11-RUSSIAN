@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="cloud_backup_detail_frequence_day">
-        <item quantity="other">Резервировать каждые %d дней</item>
-        <item quantity="one">Резервировать каждый день</item>
-        <item quantity="few">Резервировать каждые %d дня</item>
-        <item quantity="many">Резервировать каждые %d дней</item>
+        <item quantity="other">Каждые %d дней</item>
+        <item quantity="one">Каждый день</item>
+        <item quantity="few">Каждые %d дня</item>
+        <item quantity="many">Каждые %d дней</item>
     </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s копий (%2$s)</item>
