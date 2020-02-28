@@ -6,9 +6,9 @@
     <string name="confirm_reset_message">Восстановить ярлыки по умолчанию?</string>
     <string name="contributors">Авторы</string>
     <string name="delete">Удалить</string>
-    <string name="hide_apps_close">Видимые значки приложений</string>
-    <string name="hide_apps_open">Скрытые значки приложений</string>
-    <string name="home_hide_apps">Скрыть значки приложений</string>
+    <string name="hide_apps_close">Видимые приложения</string>
+    <string name="hide_apps_open">Скрытые приложения</string>
+    <string name="home_hide_apps">Скрытие приложений</string>
     <string name="loading">Подождите…</string>
     <string name="lockscreen_side_apps">Ярлыки боковой панели</string>
     <string name="no_apps">Ничего нет</string>
