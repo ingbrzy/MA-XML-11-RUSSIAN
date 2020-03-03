@@ -2101,6 +2101,7 @@
     <string name="dump_log_summary">"Эта функция предназначена для создания журнала 284 в Альфа и Бета версиях MIUI. Используйте ее с осторожностью.
 Вы можете просмотреть созданные журналы в Проводнике."</string>
     <string name="dump_log_title">Об этой функции</string>
+    <string name="easymode_hint">Отключить простой режим</string>
     <string name="edge_mode_back">Вернуться</string>
     <string name="edge_mode_back_summary">Дважды нажмите на кромку экрана для возврата</string>
     <string name="edge_mode_clean">Очистить память</string>
@@ -4008,6 +4009,7 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="oldman_installed_not_current_btn">Установить по умолчанию</string>
     <string name="oldman_installed_not_current_des">На вашем устройстве установлен Простой режим. Вы можете использовать его в качестве рабочего стола по умолчанию.</string>
     <string name="oldman_mode_entry_name">Простой режим</string>
+    <string name="oldman_mode_settings">Простой режим</string>
     <string name="oldman_uninstalled_btn">Установить</string>
     <string name="oldman_uninstalled_des">Простой режим избавляет от беспорядка и делает ваш рабочий стол легким и понятным.</string>
     <string name="on">Вкл.</string>
@@ -6013,7 +6015,6 @@ UT-интерфейс: %5$s"</string>
     <string name="title_font_current2">Шрифт</string>
     <string name="title_font_size">Размер шрифта</string>
     <string name="title_hdmi_color_calibration">Коррекция цвета</string>
-    <string name="title_jeejen">Рабочий стол Jeejen</string>
     <string name="title_layout_current">Размер текста</string>
     <string name="title_layout_current2">Размер текста</string>
     <string name="title_layout_current2_weight">Параметры шрифта</string>

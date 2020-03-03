@@ -86,6 +86,7 @@ ID вашего аккаунта: %s"</string>
   <string name="change_email_address">Изменить адрес электронной почты</string>
   <string name="change_password">Изменить пароль</string>
   <string name="change_phone_number">Изменить номер телефона</string>
+  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="cloud_service">Xiaomi Cloud</string>
   <string name="collect_diagnosis_log">Создать журнал диагностики</string>
   <string name="completed">Настройка завершена</string>
@@ -128,25 +129,33 @@ ID:%s
   <string name="exit">Выход</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Этот номер телефона связан с другим Mi Аккаунтом</string>
+  <string name="find_device">Поиск устройства</string>
   <string name="find_device_access_denied">Не удалось получить статус, доступ ограничен</string>
   <string name="find_device_account_error">Не удалось получить статус из-за ошибки аккаунта</string>
   <string name="find_device_activate_account">Активировать аккаунт</string>
   <string name="find_device_bad_response_error">Ошибка сервера, подождите немного и повторите попытку</string>
+  <string name="find_device_clear_data">Стереть все данные</string>
+  <string name="find_device_close">Откл.</string>  
   <string name="find_device_error_password_not_confirmed">Не удалось отключить Поиск устройства. Повторите ввод пароля Mi Аккаунта.</string>
   <string name="find_device_error_password_recently_changed">Вы меняли пароль в течение последних 3 дней. Невозможно отключить Поиск устройства по соображениям безопасности.</string>
   <string name="find_device_interrupted">Действие было прервано. Подождите немного и повторите попытку.</string>
   <string name="find_device_io_error">Не удалось подключиться к сети</string>
+  <string name="find_device_location">Найти</string>
   <string name="find_device_locked_account_email" formatted="false">%s, связанный адрес почты: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, связанный номер телефона: %s</string>
   <string name="find_device_message">Устройство заблокировано. Сообщение: %1$s. Позвоните %2$s.</string>
   <string name="find_device_null_credential_error">Не удалось получить данные устройства, обратитесь в поддержку Xiaomi</string>
+  <string name="find_device_open">Вкл.</string>
   <string name="find_device_operation_failed_error">Ошибка сервера, подождите немного и повторите попытку</string>
   <string name="find_device_operation_failed_error_unknown">Произошла ошибка, повторите попытку позже</string>
   <string name="find_device_owner_phone">Устройство заблокировано. Позвоните %1$s.</string>
+  <string name="find_device_play_sound">Воспроизвести звук</string>
   <string name="find_device_prompt_message">Устройство заблокировано. Сообщение: %1$s.</string>
   <string name="find_device_remote_exception">Ошибка RPC</string>
   <string name="find_device_request_error">Ошибка сервера, подождите немного и повторите попытку</string>
   <string name="find_device_request_prepare_error">Не удалось получить статус, повторите попытку позже</string>
+  <string name="find_device_set_lost_model">Режим пропажи</string>
+  <string name="find_device_title">Поиск устройства</string> 
   <string name="find_device_unknown_error">Не удалось получить статус устройства. Подождите немного и повторите попытку.</string>
   <string name="first_login_time">Первая попытка входа: %s</string>
   <string name="for_diagnosis_usage_only">Используется только для обнаружения проблем.</string>
@@ -424,6 +433,7 @@ ID:%s
   <string name="passport_wrong_vcode">Код введен неверно</string>
   <string name="passport_wrong_voice">Код введен неверно</string>
   <string name="passport_yes">Да</string>
+  <string name="password_toggle_content_description">Показать/скрыть пароль</string>
   <string name="permission_group_contacts">Контакты</string>
   <string name="permission_group_phone">Телефон</string>
   <string name="permission_group_sms">СМС</string>

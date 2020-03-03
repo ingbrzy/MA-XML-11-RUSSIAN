@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+   <string name="doc_photo_adjust_section_title">Перетащите для изменения</string>
+  <string name="doc_photo_doc_photo_title">Редактирование</string>
+  <string name="doc_photo_enhance_bin">Ч/Б</string>
+  <string name="doc_photo_enhance_color">Улучшенный</string>
+  <string name="doc_photo_enhance_none">Исходный</string>
+  <string name="doc_photo_idcard_emblem">Задняя сторона</string>
+  <string name="doc_photo_idcard_mode_title">Удостоверение</string>
+  <string name="doc_photo_idcard_portrait">Лицевая сторона</string>
+  <string name="doc_photo_not_support">Не удается отредактировать изображение как документ</string>
+  <string name="doc_photo_view_effect">Предпросмотр</string>
   <string name="extra_photo_common_permission_name">Боке</string>
   <string name="extra_photo_common_save_fail">Не удалось сохранить</string>
   <string name="extra_photo_common_saving">Сохранение…</string>
