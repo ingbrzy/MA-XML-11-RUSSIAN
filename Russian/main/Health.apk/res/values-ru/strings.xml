@@ -242,9 +242,9 @@ ID:%s
     <string name="just_recently">Только что</string>
     <string name="label_average_daily_sleep_duration">Средняя продолжительность</string>
     <string name="label_average_daily_sleep_time">Среднее время засыпания</string>
-    <string name="label_average_daily_sleep_time2">Среднее время 
+    <string name="label_average_daily_sleep_time2">Ср. время 
 начала сна</string>
-    <string name="label_average_daily_wake_up_time">Среднее время 
+    <string name="label_average_daily_wake_up_time">Ср. время 
 пробуждения</string>
     <string name="label_body_weight_evaluation">Оценка веса </string>
     <string name="label_body_weight_recent">Текущий</string>
@@ -316,10 +316,10 @@ ID:%s
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_date_format">MMM dd, yyyy</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
-    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_title">Выбор даты</string>
     <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
     <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
-    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_title">Диапазон дат</string>
     <string name="mtrl_picker_range_header_unselected">Начало - Окончание</string>
     <string name="my_data_source">Источники данных</string>
     <string name="name_title_menstruation_today_end">Менструация предположительно закончится сегодня</string>
