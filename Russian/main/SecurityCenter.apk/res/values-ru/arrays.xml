@@ -13,6 +13,13 @@
         <item>По будням</item>
         <item>Выбрать дни</item>
     </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Все</item>
+        <item>Автозапуск</item>
+        <item>Цепной запуск</item>
+        <item>Использование разрешений</item>
+        <item>Чувствительные действия</item>
+    </string-array>	
     <string-array name="applock_password_types">
         <item>Графический ключ</item>
         <item>PIN-код</item>

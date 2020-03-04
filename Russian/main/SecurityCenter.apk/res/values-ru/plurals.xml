@@ -6,6 +6,24 @@
     <item quantity="few">Добавлено %d игры</item>
     <item quantity="many">Добавлено %d игр</item>
   </plurals>
+  <plurals name="app_behavior_desc_allow">
+    <item quantity="other">Разрешено %3$d раз между %1$s и %2$s</item>
+    <item quantity="one">Разрешено %3$d раз между %1$s и %2$s</item>
+    <item quantity="few">Разрешено %3$d раза между %1$s и %2$s</item>
+  </plurals>
+  <plurals name="app_behavior_desc_deny">
+    <item quantity="other">Отклонено %3$d раз между %1$s и %2$s</item>
+    <item quantity="one">Отклонено %3$d раз между %1$s и %2$s</item>
+    <item quantity="few">Отклонено %3$d раза между %1$s и %2$s</item>
+  </plurals>
+  <plurals name="app_behavior_privacy_manager_off">
+    <item quantity="other">Уведомления о чувствительных действиях отключены для %1$d приложений</item>
+    <item quantity="one">Уведомления о чувствительных действиях отключены для %1$d приложения</item>
+  </plurals>
+  <plurals name="app_behavior_privacy_manager_on">
+    <item quantity="other">Уведомления о чувствительных действиях включены для %1$d приложений</item>
+    <item quantity="one">Уведомления о чувствительных включены действиях для %1$d приложения</item>
+  </plurals>  
   <plurals name="app_manager_permission_summary_accept">
     <item quantity="other">%d разрешений</item>
     <item quantity="one">%d разрешение</item>

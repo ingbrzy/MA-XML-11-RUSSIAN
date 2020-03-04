@@ -2694,19 +2694,19 @@
   <string name="system_permission_declare_agree">Согласен</string>
   <string name="system_permission_declare_analytics_declare">"Благодарим Вас за участие в нашей программе улучшения качаства. Чтобы эта функция работала нормально, устройству необходимо подключение к Интернету. Вам также необходимо предоставить необходимые разрешения для сбора данных, чтобы улучшить продукты и услуги. Эти данные собираются только для статистических целей. Мы не сможем использовать эти данные для вашей  идентификации."</string>
   <string name="system_permission_declare_disagree">Не согласен</string>
-  <string name="system_permission_declare_double_link">&lt;Data&gt;Прочитайте и примите наши &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt; перед использованием этой функции.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_double_link">&lt;Data&gt;Перед использованием необходимо принять &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; и &lt;a href=\"%2$s\"&gt;Политику конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Добро пожаловать в %1s! Приложение предоставляет следующие функции: %2s.</string>
   <string name="system_permission_declare_no_say_no">"Это приложение не сможет работать корректно, если вы не предоставите необходимые разрешения."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Если вы не хотите предоставлять эти разрешения, вы можете отменить их в Настройки &gt; Пароли и безопасность &gt; Конфиденциальность &gt; Программа улучшения качества."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">Это приложение не сможет работать корректно, если вы не предоставите необходимые разрешения или не разрешите сбор и использование данных.</string>
   <string name="system_permission_declare_privacy_declare">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. Обратите внимание, что приложению требуются подключение к Интернету и следующие разрешения для сбора личной информации:</string>
   <string name="system_permission_declare_privacy_no_permission">Обратите внимание, что приложению требуются подключение к Интернету и разрешения для сбора личной информации для предоставления услуг. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
-  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Прочитайте и примите нашу &lt;a href=\"%1$s\"&gt;Политику конфиденциальности&lt;/a&gt; перед использованием этой функции.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Перед использованием необходимо принять &lt;a href=\"%1$s\"&gt;Политику конфиденциальности&lt;/a&gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_revoke_system">Вы можете выйти из этого приложения.</string>
   <string name="system_permission_declare_revoke_uninstallable">Вы можете выйти, удалить это приложение или отозвать авторизацию в Безопасность &gt; Приложения &gt; Разрешения &gt; Другие разрешения.</string>
   <string name="system_permission_declare_use_network">Подключение к сети</string>
   <string name="system_permission_declare_use_network_no_permission">Подключение к сети</string>
-  <string name="system_permission_declare_user_agreement">&lt;Data&gt;Прочитайте и примите наше &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt; перед использованием этой функции.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_user_agreement">&lt;Data&gt;Перед использованием необходимо принять &lt;a href=\"%1$s\"&gt;Пользовательское соглашение&lt;/a&gt;.&lt;/Data&gt;</string>
   <string name="system_permission_perm_answer_call">Вызовы</string>
   <string name="system_permission_perm_optional">" (опционально)"</string>
   <string name="system_permission_perm_read_mms">Чтение MMS</string>

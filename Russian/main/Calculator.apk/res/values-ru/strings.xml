@@ -97,7 +97,7 @@
     <string name="description_title">О приложении</string>
     <string name="deselect_all">Снять выбор</string>
     <string name="devided_by_zero_reminder_message">Делить на ноль нельзя</string>
-    <string name="dialog_privacy_content">Помимо базовых функций, Калькулятор содержит научный калькулятор и многоцелевой конвертер. Для нормальной работы некоторых функций требуется подключение к Интернету. Перед использованием приложения вы должны прочитать и принять наши %1$s и %2$s.</string>
+    <string name="dialog_privacy_content">Помимо базовых функций, Калькулятор содержит научный калькулятор и многоцелевой конвертер. Для нормальной работы некоторых функций требуется подключение к Интернету. Перед использованием приложения необходимо принять %1$s и %2$s.</string>
     <string name="dialog_privacy_title">Условия и положения</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
@@ -375,7 +375,7 @@
     <string name="preference_use_voice_summary">Включите, чтобы использовать речевой вывод во время вычислений</string>
     <string name="preference_use_voice_title">Речевой вывод</string>
     <string name="preference_user_feedback_title">Обратная связь</string>
-    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="privacy_policy">Политику конфиденциальности</string>
     <string name="radDesc">Радиан</string>
     <string name="rate_data_provider">Процентные ставки предоставлены hexun.com</string>
     <string name="reciprocalDesc">Обратная величина</string>

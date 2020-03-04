@@ -35,12 +35,17 @@
     <string name="calendar_tip">Звуки напоминаний для событий календаря, заметок и задач</string>
     <string name="category_other">Другое</string>
     <string name="color_gamut">Цветовая гамма</string>
+    <string name="contact_description">Размещайте ярлыки контактов на рабочем столе для вызова одним нажатием</string>
+    <string name="contact_title">Ярлыки контактов</string>	
     <string name="contrast_ratio">Контраст</string>
     <string name="create">Создать</string>
     <string name="create_failed">Не удалось создать</string>
     <string name="create_shortcut">Ярлык на рабочем столе</string>
     <string name="created">Создано</string>
-    <string name="created_successfully">Успешно создано</string>	
+    <string name="created_successfully">Успешно создано</string>
+    <string name="display_description">Большие иконки, крупный текст, упрощенный вид</string>
+    <string name="display_title">Простой режим</string>
+    <string name="exit_easymode">Отключить простой режим</string>
     <string name="first_unlock_time">"Первая разблокировка: "</string>
     <string name="focus_time_exception_tip">Системное время изменилось. Режим медитации выключен.</string>
     <string name="follow_sim1">Применить настройки SIM (слот 1)</string>
@@ -94,15 +99,19 @@
     <string name="sms_received_sound_title">Входящее сообщение</string>
     <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">Отображение в цветовой гамме sRGB</string>
-    <string name="stop_app_timer">Отключить</string>
+    <string name="start_easymode">Включить простой режим</string>
+    <string name="stop_app_timer">Отключение функции</string>
     <string name="stop_app_timer_fail">Не удалось отключить</string>
     <string name="stop_app_timer_success">Успешно отключено</string>
-    <string name="stop_app_timer_tip">Все данные и разрешения, включая индивидуальные настройки, хранящиеся локально и синхронизированные с облаком, после отключения этой функции будут удалены.</string>
+    <string name="stop_app_timer_tip">Все данные, разрешения и индивидуальные настройки, включая синхронизированные с облаком, после отключения функции будут удалены.</string>
     <string name="stop_summary">После отключения функции, вся статистика и  данные будут удалены</string>
     <string name="suggestion">Обратная связь</string>	
-    <string name="thememanager_not_found">"Не удалось открыть приложение Темы. Убедитесь, что приложение установлено."</string>
+    <string name="thememanager_not_found">Не удалось открыть приложение Темы. Убедитесь, что приложение установлено.</string>
+    <string name="title_activity_easy_mode">Простой режим</string>
     <string name="today_usage_title">Сегодня</string>
     <string name="today_use_time">Время экрана: %1$s</string>
+    <string name="touch_description">Оптимизация кнопок и ярлыков для минимизации случайных касаний</string>
+    <string name="touch_title">Улучшенное сенсорное управление</string>
     <string name="trend_from_yesterday_equal">Как и вчера</string>
     <string name="trend_from_yesterday_less">%1$s меньше чем вчера</string>
     <string name="trend_from_yesterday_less_simple">%1$s меньше чем вчера</string>
@@ -165,7 +174,10 @@
 Для работы приложению необходимо собирать статистику: количество разблокировок устройства, используемые приложения и продолжительность их использования. 
 Приложению также требуются подключение к интернету и следующие разрешения для сбора вашей личной информации:"</string>
     <string name="usage_home_premission_second_summary">Для работы приложению требуется разрешение на сбор вашей личной информации. Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности.</string>
-  <string name="usage_home_premission_second_summary_new">"Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. В случае отказа предоставить разрешения, вы не сможете использовать приложение. Вы всегда можете отозвать свою авторизацию в Время экрана &gt; Настройки &gt; Отключить. По дополнительным вопросам о конфиденциальности вы можете связаться по адресу privacy@xiaomi.com."</string>
+	
+    <string name="usage_home_premission_second_summary_double_link_prefix">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. В случае отказа предоставить необходимые разрешения и доступ к личной информации, вы не сможете использовать приложение. Вы можете отозвать свою авторизацию в Время экрана &gt; Настройки &gt; Отключение функции</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">&lt;Data&gt;"Перед использованием необходимо принять &amp;lt;a href='%1s'&amp;gt;Пользовательское соглашение&amp;lt;/a&amp;gt; и &amp;lt;a href='%2s'&amp;gt;Политику конфиденциальности&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+    <string name="usage_home_premission_second_summary_new">Мы будем защищать вашу личную информацию в соответствии с действующим законодательством, правилами и политикой конфиденциальности. В случае отказа предоставить разрешения, вы не сможете использовать приложение. Вы всегда можете отозвать свою авторизацию в Время экрана &gt; Настройки &gt; Отключение функции. По дополнительным вопросам о конфиденциальности вы можете связаться по адресу privacy@xiaomi.com</string>
     <string name="usage_no_net_summary">Проверьте настройки сети и повторите попытку</string>
     <string name="usage_reach_device_limit">Время вышло! Вы достигли лимита.</string>
     <string name="usage_reach_device_limit_warning_text">Достигнут лимит времени экрана на сегодня</string>
