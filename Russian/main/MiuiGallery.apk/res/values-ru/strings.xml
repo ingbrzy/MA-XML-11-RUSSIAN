@@ -28,7 +28,7 @@
   <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
   <string name="abc_toolbar_collapse_description">Свернуть</string>
   <string name="accept">Принять</string>
-  <string name="accept_or_deny">Пользователь \"%1$s поделился с вами альбомом %2$s.</string>
+  <string name="accept_or_deny">Пользователь %1$s поделился с вами альбомом %2$s.</string>
   <string name="actionbar_overflow_item_desc">Дополнительные параметры</string>
   <string name="add_automatically_alert_msg">Добавлять фото из альбома \"%1$s\" в этот альбом автоматически?</string>
   <string name="add_automatically_alert_title">Автоматическое добавление</string>
