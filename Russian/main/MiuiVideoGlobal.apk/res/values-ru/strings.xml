@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="Earlier">Более старые</string>
   <string name="This_week">На этой неделе</string>
@@ -1003,27 +1003,25 @@ ID:%s
   <string name="sns_bind_limit">Слишком много попыток. Попробуйте выбрать другой способ входа.</string>
   <string name="sns_sign_in">Другие способы входа</string>
   <string name="source">"Источник: "</string>
-  
   <string name="srl_component_falsify" formatted="false">"%s falsify area,
  Represents the height[%.1fdp] of drag at run time,
  It does not show anything."</string>
-   <string name="srl_content_empty">The content view in SmartRefreshLayout is empty. Do you forget to add it in xml layout file?</string>
-  <string name="srl_footer_failed">Load Failed</string>
-  <string name="srl_footer_finish">Load Success</string>
-  <string name="srl_footer_loading">Loading…</string>
-  <string name="srl_footer_nothing">No More Data</string>
-  <string name="srl_footer_pulling">Pull Up To Load More</string>
-  <string name="srl_footer_refreshing">Wait For Refreshing…</string>
-  <string name="srl_footer_release">Release To Load More</string>
-  <string name="srl_header_failed">Refresh Failed</string>
-  <string name="srl_header_finish">Refresh Success</string>
-  <string name="srl_header_loading">Wait For Loading…</string>
-  <string name="srl_header_pulling">Pull Down To Refresh</string>
-  <string name="srl_header_refreshing">Refreshing…</string>
-  <string name="srl_header_release">Release To Refresh</string>
-  <string name="srl_header_secondary">Release To Second Floor</string>
-  <string name="srl_header_update">"'Last Update' M-d HH:mm"</string>
-  
+   <string name="srl_content_empty">Содержимое в SmartRefreshLayout отсутствует. Вы добавили его в файл макета XML?</string>
+  <string name="srl_footer_failed">Ошибка загрузки</string>
+  <string name="srl_footer_finish">Успешная загрузка</string>
+  <string name="srl_footer_loading">Загрузка…</string>
+  <string name="srl_footer_nothing">Больше нет данных</string>
+  <string name="srl_footer_pulling">Потяните вниз, чтобы загрузить еще</string>
+  <string name="srl_footer_refreshing">Идет обновление…</string>
+  <string name="srl_footer_release">Отпустите. чтобы загрузить еще</string>
+  <string name="srl_header_failed">Ошибка обновления</string>
+  <string name="srl_header_finish">Успешное обновление</string>
+  <string name="srl_header_loading">Идет загрузка…</string>
+  <string name="srl_header_pulling">Потяните вниз для обновления</string>
+  <string name="srl_header_refreshing">Обновление…</string>
+  <string name="srl_header_release">Отпустите для обновления</string>
+  <string name="srl_header_secondary">Отпустите дальше</string>
+  <string name="srl_header_update">"'Обновление' M-d HH:mm"</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage_external_sdcard">SD-карта</string>
   <string name="storage_internal_sdcard">Память устройства</string>

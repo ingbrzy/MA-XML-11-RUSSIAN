@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="all_traces_will_be_deleted">Все файлы трассировки будут удалены из /data/local/traces</string>
   <string name="buffer_size">Размер буфера</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">PIN разблокировки корпоративной RUIM</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">Запрос разблокировки корпоративной RUIM не выполнен</string>

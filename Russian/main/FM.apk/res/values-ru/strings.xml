@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Сервис FM Радио</string>
   <string name="frequency_mhz_fomart">%s МГц</string>
