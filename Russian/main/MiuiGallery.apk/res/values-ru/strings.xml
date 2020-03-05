@@ -32,8 +32,8 @@
   <string name="actionbar_overflow_item_desc">Дополнительные параметры</string>
   <string name="add_automatically_alert_msg">Добавлять фото из альбома \"%1$s\" в этот альбом автоматически?</string>
   <string name="add_automatically_alert_title">Автоматическое добавление</string>
-  <string name="add_nomedia_with_move_to_rubbish">Добавить файл \".nomedia\" в выбранные альбомы, чтобы сделать их невидимыми для других приложений</string>
-  <string name="add_remove_nomedia_dialog_message">Добавить файл \".nomedia\" в выбранные альбомы? После этого другие приложения не смогут увидеть эти альбомы.</string>
+  <string name="add_nomedia_with_move_to_rubbish">Добавить файлы \".nomedia\" в выбранные альбомы, чтобы сделать их невидимыми для других приложений</string>
+  <string name="add_remove_nomedia_dialog_message">Добавить файлы \".nomedia\" в выбранные альбомы? После этого другие приложения не смогут увидеть эти альбомы.</string>
   <string name="add_secret_ensure_title">Скрытие</string>
   <string name="add_sharer">Добавить пользователя</string>
   <string name="add_to_album">Выберите альбом</string>
@@ -873,8 +873,8 @@
   <string name="main_save_compress">Сжать и сохранить</string>
   <string name="main_save_error_msg">Не удалось сохранить изменения из-за ошибки</string>
   <string name="main_save_origin">Сохранить оригинал</string>
-  <string name="manual_hide_manage">Добавить файл \".nomedia\"</string>
-  <string name="manual_hide_state">Файл \".nomedia\" добавлен</string>  
+  <string name="manual_hide_manage">Добавить файлы \".nomedia\"</string>
+  <string name="manual_hide_state">Файлы \".nomedia\" добавлены</string>  
   <string name="mark_myself_default_name">Я</string>
   <string name="mark_myself_suggestion_load_more">Это не я</string>
   <string name="mark_myself_suggestion_title">"Выберите фото с вашим лицом
