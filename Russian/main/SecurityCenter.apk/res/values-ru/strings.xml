@@ -149,7 +149,7 @@
   <string name="apn_exception_summary">Диагностика конфигурации APN</string>
   <string name="apn_exception_title">Проверка настроек APN</string>
   <string name="apn_exception_wap_summary">WAP сейчас нестабилен. Переключитесь на сеть.</string>
-  <string name="app_behavior_about_content_no_link">MIUI может показывать, когда приложения запускают другие приложения, запускаются автоматически, используют разрешения или выполняют чувствительные действия. Из-за проблем совместимости версий Android, некоторые записи могут быть неточными. О таких записях вы можете сообщить в приложении \"Сервисы и обратная связь\".</string>
+  <string name="app_behavior_about_content_no_link">MIUI может показывать  когда приложения запускают другие приложения, запускаются автоматически, используют разрешения или выполняют чувствительные действия. Из-за проблем совместимости версий Android, некоторые записи могут быть неточными. О таких записях вы можете сообщить в приложении \"Сервисы и обратная связь\".</string>
   <string name="app_behavior_about_negative">Отзыв</string>
   <string name="app_behavior_about_positive">Понятно</string>
   <string name="app_behavior_allowed">Разрешить</string>
@@ -178,11 +178,11 @@
   <string name="app_behavior_location_now">%1s: используется доступ к местоположению в фоновом режиме</string>
   <string name="app_behavior_menu_about">О записи поведения приложений</string>
   <string name="app_behavior_monitor_off">Отключение уведомлений</string>
-  <string name="app_behavior_monitor_off_content">Вы больше не будете получать уведомления о чувствительных операциях, выполняемых этим приложением. Отключить уведомления?</string>
+  <string name="app_behavior_monitor_off_content">Вы больше не будете получать уведомления о чувствительных действиях этого приложения. Отключить уведомления?</string>
   <string name="app_behavior_monitor_off_positive">Отключить</string>
   <string name="app_behavior_monitor_off_select">Не показывать снова</string>
   <string name="app_behavior_monitor_tips_if_trust">Вы можете отключить уведомления о чувствительных действиях, если вы доверяете этому приложению</string>
-  <string name="app_behavior_monitor_tips_key">Уведомления о чувствительных операциях</string>
+  <string name="app_behavior_monitor_tips_key">Уведомления о чувствительных действиях</string>
   <string name="app_behavior_monitor_tips_summary">Вы можете получать уведомления, когда приложения записывают аудио, получают доступ к вашему местоположению или выполняют другие чувствительные действия в фоновом режиме.</string>
   <string name="app_behavior_no_recorder">Ничего не найдено</string>
   <string name="app_behavior_notification_title_calllog_read">%1s: получен доступ к журналу вызовов в фоновом режиме</string>
