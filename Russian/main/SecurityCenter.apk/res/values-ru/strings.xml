@@ -1104,10 +1104,10 @@
  2. Когда эта функция включена, вызывающий абонент не будет слышать рингтон ожидания вызова. Входящий вызов будут завершен, если вы не ответите в течение 6 секунд.
  3. Эта функция работает только для SIM-карт для интернета. Звонки на основную SIM-карту прервут соединение мобильной передачи данных.
  4. Эта функция поддерживается только China Mobile и China Unicom."</string>
-  <string name="function_gwsd_title">"Don't allow incoming calls to interrupt data SIM connection"</string>
+  <string name="function_gwsd_title">Запрет прерывания соединения</string>
   <string name="function_shield_auto_bright">Выключить автояркость</string>
   <string name="function_shield_eye_shield">Выключить режим чтения</string>
-  <string name="function_shield_pull_notification_bar">"Заблокировать шторку уведомлений"</string>
+  <string name="function_shield_pull_notification_bar">Заблокировать шторку уведомлений</string>
   <string name="function_shield_settings_title">Ограничить указанные функции во время игр</string>
   <string name="function_shield_summary">Ограничить выбранные функции системы во время игр</string>
   <string name="function_shield_three_finger">Отключить жесты скриншота</string>
