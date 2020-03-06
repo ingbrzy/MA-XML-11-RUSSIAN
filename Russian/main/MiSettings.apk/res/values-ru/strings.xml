@@ -44,8 +44,8 @@
     <string name="created">Создано</string>
     <string name="created_successfully">Успешно создано</string>
     <string name="display_description">Большие иконки, крупный текст, упрощенный вид</string>
-    <string name="display_title">Простой режим</string>
-    <string name="exit_easymode">Отключить простой режим</string>
+    <string name="display_title">Увеличенные элементы</string>
+    <string name="exit_easymode">Отключить</string>
     <string name="first_unlock_time">"Первая разблокировка: "</string>
     <string name="focus_time_exception_tip">Системное время изменилось. Режим медитации выключен.</string>
     <string name="follow_sim1">Применить настройки SIM (слот 1)</string>
@@ -99,7 +99,7 @@
     <string name="sms_received_sound_title">Входящее сообщение</string>
     <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">Отображение в цветовой гамме sRGB</string>
-    <string name="start_easymode">Включить простой режим</string>
+    <string name="start_easymode">Включить</string>
     <string name="stop_app_timer">Отключение функции</string>
     <string name="stop_app_timer_fail">Не удалось отключить</string>
     <string name="stop_app_timer_success">Успешно отключено</string>
