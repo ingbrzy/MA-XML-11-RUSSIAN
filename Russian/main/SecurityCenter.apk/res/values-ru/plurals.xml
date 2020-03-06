@@ -17,12 +17,12 @@
     <item quantity="few">Запрещено %3$d раза между %1$s и %2$s</item>
   </plurals>
   <plurals name="app_behavior_privacy_manager_off">
-    <item quantity="other">Уведомления о действиях отключены для %1$d приложений</item>
-    <item quantity="one">Уведомления о действиях отключены для %1$d приложения</item>
+    <item quantity="other">Уведомления отключены для %1$d приложений</item>
+    <item quantity="one">Уведомления отключены для %1$d приложения</item>
   </plurals>
   <plurals name="app_behavior_privacy_manager_on">
-    <item quantity="other">Уведомления о действиях включены для %1$d приложений</item>
-    <item quantity="one">Уведомления о действиях включены для %1$d приложения</item>
+    <item quantity="other">Уведомления  включены для %1$d приложений</item>
+    <item quantity="one">Уведомления включены для %1$d приложения</item>
   </plurals>  
   <plurals name="app_manager_permission_summary_accept">
     <item quantity="other">%d разрешений</item>
@@ -595,17 +595,17 @@
     <item quantity="many">проблем</item>
   </plurals>
   <plurals name="privacy_apps_disable_header_title">
-    <item quantity="other">Скрыто %d приложений</item>
-    <item quantity="one">Скрыто %d приложение</item>
-    <item quantity="few">Скрыто %d приложения</item>
-    <item quantity="many">Скрыто %d приложений</item>
+    <item quantity="other">%d приложений скрыто</item>
+    <item quantity="one">%d приложение скрыто</item>
+    <item quantity="few">%d приложения скрыто</item>
+    <item quantity="many">%d приложений скрыто</item>
   </plurals>
   <plurals name="privacy_apps_enable_header_title">
-    <item quantity="other">Не скрыто %d приложений</item>
-    <item quantity="one">Не скрыто %d приложение</item>
-    <item quantity="few">Не скрыто %d приложения</item>
-    <item quantity="many">Не скрыто %d приложений</item>
-  </plurals>
+    <item quantity="other">%d приложений можно скрыть</item>
+    <item quantity="one">%d приложение можно скрыть</item>
+    <item quantity="few">%d приложения можно скрыть</item>
+    <item quantity="many">%d приложений можно скрыть</item>
+  </plurals>  
   <plurals name="quick_optimize_issue_count">
     <item quantity="other">%d проблем с питанием</item>
     <item quantity="one">%d проблема с питанием</item>
