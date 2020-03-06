@@ -14,7 +14,7 @@
         <item>Выбрать дни</item>
     </string-array>
     <string-array name="app_behavior_type_menu">
-        <item>Все</item>
+        <item>Все записи</item>
         <item>Автозапуск</item>
         <item>Цепной запуск</item>
         <item>Разрешения</item>

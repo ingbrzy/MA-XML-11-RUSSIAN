@@ -477,7 +477,7 @@
     <string name="app_version">"Версия: "</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="application_data">Приложения</string>
-    <string name="application_forbid_auto_startup">Отключить автозапуск \"%s\" в фоне?</string>
+    <string name="application_forbid_auto_startup">Отключить автозапуск \"%s\" в фоновом режиме?</string>
     <string name="application_info_label">О приложении</string>
     <string name="application_item_already_permission">Разрешено</string>
     <string name="application_item_disable">Запретить</string>
@@ -1630,8 +1630,8 @@
     <string name="dangerous_option_hint_title">Включена опасная функция</string>
     <string name="dangerous_option_switch_title">Уведомлять об опасных функциях</string>
     <string name="dark_color_mode">Темный режим</string>
-    <string name="dark_color_summary_lcd">Использовать темный режим для системных и совместимых приложений. Темный режим уменьшает напряжение глаз при использовании устройства в темноте.</string>
-    <string name="dark_color_summary_oled">Использовать темный режим для системных и совместимых приложений. Темный режим снижает энергопотребление и уменьшает напряжение глаз.</string>
+    <string name="dark_color_summary_lcd">Использовать более темную цветовую палитру для обоев и совместимых приложений. Темный режим снижает напряжение глаз при использовании устройства в темноте.</string>
+    <string name="dark_color_summary_oled">Использовать более темную цветовую палитру для обоев и совместимых приложений. Темный режим уменьшает энергопотребление и снижает напряжение глаз.</string>
     <string name="dark_ui_mode">Темный режим</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_off">Временно включен из-за режима энергосбережения</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_on">Вкл. / Временно отключен из-за режима энергосбережения</string>
@@ -1710,7 +1710,7 @@
     <string name="data_usage_menu_sim_cards">SIM-карты</string>
     <string name="data_usage_menu_split_4g">Только по каналу 4G</string>
     <string name="data_usage_metered_auto">Автоматически</string>
-    <string name="data_usage_metered_body">Выбор сетей Wi-Fi, которые являются мобильными точками доступа. Приложениям может быть запрещено их использование в фоне, а также может появиться предупреждение при загрузке больших файлов.</string>
+    <string name="data_usage_metered_body">Выбор сетей Wi-Fi, которые являются мобильными точками доступа. Приложениям может быть запрещено их использование в фоновом режиме, а также может появиться предупреждение при загрузке больших файлов.</string>
     <string name="data_usage_metered_mobile">Мобильные сети</string>
     <string name="data_usage_metered_no">Без учета трафика</string>
     <string name="data_usage_metered_title">Ограничения трафика</string>
@@ -1766,10 +1766,10 @@
     <string name="date_time_set_timezone_title">Часовой пояс</string>
     <string name="date_time_settings">Дата и время</string>
     <string name="day_of_week">Повтор</string>
-    <string name="dc_light_dialog_summary">Качество изображения может ухудшиться при включенном режиме антимерцания. Все равно включить?</string>
+    <string name="dc_light_dialog_summary">Включение функции DC dimming может повлиять на качество изображения. Все равно включить?</string>
     <string name="dc_light_summary">Затемнение по постоянному току уменьшает нагрузку на глаза</string>
-    <string name="dc_light_summary_new">Затемнение по постоянному току уменьшает нагрузку на глаза в условиях низкой освещенности. Однако качество изображения может ухудшиться, если включен режим анти-мерцания.</string>
-    <string name="dc_light_title">Режим антимерцания</string>
+    <string name="dc_light_summary_new">DC dimming снижает нагрузку на глаза в условиях низкой освещенности. Активация этой функции может повлиять на качество изображения.</string>
+    <string name="dc_light_title">Устранение мерцания</string>
     <string name="debug_app">Приложение для отладки</string>
     <string name="debug_app_not_set">Приложение не выбрано</string>
     <string name="debug_app_set">Приложение: %1$s</string>
@@ -5388,7 +5388,7 @@ UT-интерфейс: %5$s"</string>
     <string name="show_all_anrs_summary">Показывать диалог \"Приложение не отвечает\" для всех приложений</string>
     <string name="show_all_apps">Вся информация об использовании</string>
     <string name="show_background_processes">Показать процессы в кеше</string>
-    <string name="show_carrier_under_keyguard_title">Имя оператора на экране блокировки</string>
+    <string name="show_carrier_under_keyguard_title">Оператор на экране блокировки</string>
     <string name="show_connected_devices_summary">Просмотр подключенных устройств</string>
     <string name="show_connected_devices_title">Подключенные устройства</string>
     <string name="show_dev_already">Не нужно, вы уже разработчик</string>

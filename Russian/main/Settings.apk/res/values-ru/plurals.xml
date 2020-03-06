@@ -79,16 +79,16 @@
         <item quantity="many">%d приложений с автозапуском</item>
     </plurals>
     <plurals name="bg_network_allow_count">
-        <item quantity="other">%d приложений с подключением к сети в фоне</item>
-        <item quantity="one">%d приложение с подключением к сети в фоне</item>
-        <item quantity="few">%d приложения с подключением к сети в фоне</item>
-        <item quantity="many">%d приложений с подключением к сети в фоне</item>
+        <item quantity="other">%d приложений с подключением к сети в фоновом режиме</item>
+        <item quantity="one">%d приложение с подключением к сети в фоновом режиме</item>
+        <item quantity="few">%d приложения с подключением к сети в фоновом режиме</item>
+        <item quantity="many">%d приложений с подключением к сети в фоновом режиме</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">%d приложений без подключения к сети в фоне</item>
-        <item quantity="one">%d приложение без подключения к сети в фоне</item>
-        <item quantity="few">%d приложения без подключения к сети в фоне</item>
-        <item quantity="many">%d приложений без подключения к сети в фоне</item>
+        <item quantity="other">%d приложений без подключения к сети в фоновом режиме</item>
+        <item quantity="one">%d приложение без подключения к сети в фоновом режиме</item>
+        <item quantity="few">%d приложения без подключения к сети в фоновом режиме</item>
+        <item quantity="many">%d приложений без подключения к сети в фоновом режиме</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d</item>

@@ -149,7 +149,17 @@
   <string name="apn_exception_summary">Диагностика конфигурации APN</string>
   <string name="apn_exception_title">Проверка настроек APN</string>
   <string name="apn_exception_wap_summary">WAP сейчас нестабилен. Переключитесь на сеть.</string>
-  <string name="app_behavior_about_content_no_link">MIUI может показывать  когда приложения запускают другие приложения, запускаются автоматически, используют разрешения или выполняют определенные действия. Из-за проблем совместимости версий Android, некоторые записи могут быть неточными. О таких записях вы можете сообщить в приложении \"Сервисы и обратная связь\".</string>
+  <string name="app_behavior_about_content_no_link">"MIUI может записывать следующие действия:
+• автозапуск приложений
+• цепной запуск приложений
+• доступ к микрофону и камере
+• доступ к контактам и календарю
+• доступ к файлам и буферу обмена
+• доступ к местоположению
+• доступ к журналу вызовов
+• доступ к SMS и вызовы
+
+Из-за проблем совместимости версий Android, некоторые записи могут быть неточными, об этом можно сообщить в приложении \"Сервисы и обратная связь\"."</string>
   <string name="app_behavior_about_negative">Отзыв</string>
   <string name="app_behavior_about_positive">Понятно</string>
   <string name="app_behavior_allowed">Разрешить</string>
@@ -167,24 +177,24 @@
   <string name="app_behavior_clipboard_bg">%1s - попытка доступа к буферу обмена или записи в фоновом режиме</string>
   <string name="app_behavior_contacts">%1s - попытка доступа к контактам</string>
   <string name="app_behavior_contacts_bg">%1s - попытка доступа к контактам в фоновом режиме</string>
-  <string name="app_behavior_denied">Запретить</string>
+  <string name="app_behavior_denied">Отклонить</string>
   <string name="app_behavior_desc_allow_once">Разрешено в %1$s</string>
-  <string name="app_behavior_desc_deny_once">Запрещено в %1$s</string>
-  <string name="app_behavior_door">Контроль</string>
+  <string name="app_behavior_desc_deny_once">Отклонено в %1$s</string>
+  <string name="app_behavior_door">Действия</string>
   <string name="app_behavior_header_time">MMMM dd</string>
   <string name="app_behavior_list_load_more">Загрузка…</string>
   <string name="app_behavior_location">%1s - попытка доступа к местоположению</string>
   <string name="app_behavior_location_bg">%1s - попытка доступа к местоположению в фоновом режиме</string>
   <string name="app_behavior_location_now">%1s - используется доступ к местоположению в фоновом режиме</string>
-  <string name="app_behavior_menu_about">О записи поведения приложений</string>
+  <string name="app_behavior_menu_about">О записи действий приложений</string>
   <string name="app_behavior_monitor_off">Отключение уведомлений</string>
-  <string name="app_behavior_monitor_off_content">Вы больше не будете получать уведомления о действиях этого приложения. Отключить уведомления?</string>
+  <string name="app_behavior_monitor_off_content">Отключить уведомления о действиях этого приложения?</string>
   <string name="app_behavior_monitor_off_positive">Отключить</string>
   <string name="app_behavior_monitor_off_select">Не показывать снова</string>
   <string name="app_behavior_monitor_tips_if_trust">Вы можете отключить уведомления о действиях, если вы доверяете этому приложению</string>
   <string name="app_behavior_monitor_tips_key">Уведомления о действиях</string>
-  <string name="app_behavior_monitor_tips_summary">Вы можете получать уведомления, когда приложения записывают аудио, получают доступ к вашему местоположению или выполняют другие определенные действия в фоновом режиме.</string>
-  <string name="app_behavior_no_recorder">Ничего не найдено</string>
+  <string name="app_behavior_monitor_tips_summary">Вы будете получать уведомления, когда приложения записывают аудио, получают доступ к местоположению или выполняют определенные действия в фоновом режиме.</string>
+  <string name="app_behavior_no_recorder">Ничего нет</string>
   <string name="app_behavior_notification_title_calllog_read">%1s - получен доступ к журналу вызовов в фоновом режиме</string>
   <string name="app_behavior_notification_title_calllog_write">%1s - получен доступ к контактам в фоновом режиме</string>
   <string name="app_behavior_notification_title_clipboard_read">%1s - получен доступ к буферу обмена в фоновом режиме</string>
@@ -200,10 +210,10 @@
   <string name="app_behavior_notification_title_storage">%1s - изменены файлы в фоновом режиме</string>
   <string name="app_behavior_perm_allow_always_danger_tip">Приложения могут выполнять определенные действия, если предоставлены разрешения</string>
   <string name="app_behavior_perm_change_dialog_desc_title">О разрешении:</string>
-  <string name="app_behavior_perm_change_tip_allow">Это действие (%1s) теперь разрешено</string>
-  <string name="app_behavior_perm_change_tip_ask">Запрашивать разрешение на использование этого действия (%1s)</string>
-  <string name="app_behavior_perm_change_tip_deny">Это действие (%1s) теперь запрещено</string>
-  <string name="app_behavior_perm_change_tip_foreground">Это действие (%1s) теперь разрешено на время использования приложения</string>
+  <string name="app_behavior_perm_change_tip_allow">Действие (%1s) разрешено</string>
+  <string name="app_behavior_perm_change_tip_ask">Запрашивать разрешение для действия (%1s)</string>
+  <string name="app_behavior_perm_change_tip_deny">Действие (%1s) запрещено</string>
+  <string name="app_behavior_perm_change_tip_foreground">Действие (%1s) разрешено в активном режиме</string>
   <string name="app_behavior_phonenum">%1s - попытка доступа к номеру телефона</string>
   <string name="app_behavior_phonestate">%1s - попытка доступа к информации об устройстве</string>
   <string name="app_behavior_privacy_manager">Уведомления о действиях</string>

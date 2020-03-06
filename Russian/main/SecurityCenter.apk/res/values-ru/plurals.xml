@@ -7,14 +7,14 @@
     <item quantity="many">Добавлено %d игр</item>
   </plurals>
   <plurals name="app_behavior_desc_allow">
-    <item quantity="other">Разрешено %3$d раз между %1$s и %2$s</item>
-    <item quantity="one">Разрешено %3$d раз между %1$s и %2$s</item>
-    <item quantity="few">Разрешено %3$d раза между %1$s и %2$s</item>
+    <item quantity="other">Разрешено %3$d раз с %1$s до %2$s</item>
+    <item quantity="one">Разрешено %3$d раз с %1$s до %2$s</item>
+    <item quantity="few">Разрешено %3$d раза с %1$s до %2$s</item>
   </plurals>
   <plurals name="app_behavior_desc_deny">
-    <item quantity="other">Запрещено %3$d раз между %1$s и %2$s</item>
-    <item quantity="one">Запрещено %3$d раз между %1$s и %2$s</item>
-    <item quantity="few">Запрещено %3$d раза между %1$s и %2$s</item>
+    <item quantity="other">Отклонено %3$d раз с %1$s до %2$s</item>
+    <item quantity="one">Отклонено %3$d раз с %1$s до %2$s</item>
+    <item quantity="few">Отклонено %3$d раза с %1$s до %2$s</item>
   </plurals>
   <plurals name="app_behavior_privacy_manager_off">
     <item quantity="other">Уведомления отключены для %1$d приложений</item>
@@ -67,16 +67,16 @@
      <item quantity="many">Можно защитить %s приложений</item>
  </plurals> 
   <plurals name="bg_network_allow_count">
-    <item quantity="other">%d приложений с подключением к сети в фоне</item>
-    <item quantity="one">%d приложение с подключением к сети в фоне</item>
-    <item quantity="few">%d приложения с подключением к сети в фоне</item>
-    <item quantity="many">%d приложений с подключением к сети в фоне</item>
+    <item quantity="other">%d приложений с подключением к сети в фоновом режиме</item>
+    <item quantity="one">%d приложение с подключением к сети в фоновом режиме</item>
+    <item quantity="few">%d приложения с подключением к сети в фоновом режиме</item>
+    <item quantity="many">%d приложений с подключением к сети в фоновом режиме</item>
   </plurals>
   <plurals name="bg_network_restrict_count">
-    <item quantity="other">%d приложений без подключения к сети в фоне</item>
-    <item quantity="one">%d приложение без подключения к сети в фоне</item>
-    <item quantity="few">%d приложения без подключения к сети в фоне</item>
-    <item quantity="many">%d приложений без подключения к сети в фоне</item>
+    <item quantity="other">%d приложений без подключения к сети в фоновом режиме</item>
+    <item quantity="one">%d приложение без подключения к сети в фоновом режиме</item>
+    <item quantity="few">%d приложения без подключения к сети в фоновом режиме</item>
+    <item quantity="many">%d приложений без подключения к сети в фоновом режиме</item>
   </plurals>
   <plurals name="cache_check_content">
     <item quantity="other">Защищено: %d</item>
