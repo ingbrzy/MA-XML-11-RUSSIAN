@@ -12,7 +12,7 @@
 Текущая функция специальных возможностей:
 %1$s
 
-Вы можете изменить ее в разделе \"Настройки &gt; Специальные возможности\"."</string>
+Вы можете изменить ее в разделе \"Настройки &gt; Дополнительно  &gt; Спец. возможности\"."</string>
   <string name="accessibility_shortcut_warning_dialog_title">Использовать быстрое включение?</string>
   <string name="action_bar_home_description">Перейти на главную</string>
   <string name="action_bar_home_description_format">%1$s, %2$s</string>

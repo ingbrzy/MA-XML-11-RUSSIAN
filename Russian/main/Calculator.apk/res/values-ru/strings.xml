@@ -33,7 +33,7 @@
     <string name="age_label_dob">Дата рождения</string>
     <string name="age_label_hours">Часы</string>
     <string name="age_label_minutes">Минуты</string>
-    <string name="age_label_next_birthday">Следующий день рождения</string>
+    <string name="age_label_next_birthday">День рождения</string>
     <string name="age_label_today_date">Сегодня</string>
     <string name="age_label_total_summary">Резюме</string>
     <string name="age_label_weeks">Недели</string>

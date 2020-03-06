@@ -128,7 +128,7 @@
   <string name="accessibility_display_daltonizer_preference_subtitle">Это экспериментальная функция, она может снизить производительность устройства.</string>
   <string name="accessibility_display_daltonizer_preference_title">Коррекция цвета</string>
   <string name="accessibility_no_wifi">Wi-Fi отключен</string>
-  <string name="accessibility_settings_activity_title">Специальные возможности</string>
+  <string name="accessibility_settings_activity_title">Спец. возможности</string>
   <string name="accessibility_wifi_off">Wi-Fi выключен</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi: одно деление</string>
   <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
