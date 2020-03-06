@@ -160,7 +160,7 @@
 • доступ к SMS и вызовы
 
 Из-за проблем совместимости версий Android, некоторые записи могут быть неточными, об этом можно сообщить в приложении \"Сервисы и обратная связь\"."</string>
-  <string name="app_behavior_about_negative">Отзыв</string>
+  <string name="app_behavior_about_negative">Обратная связь</string>
   <string name="app_behavior_about_positive">Понятно</string>
   <string name="app_behavior_allowed">Разрешить</string>
   <string name="app_behavior_audio">%1s - попытка записи аудио</string>
