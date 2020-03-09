@@ -6,6 +6,16 @@
         <item quantity="few">%d дня</item>
         <item quantity="many">%d дней</item>
     </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">Вы пользовались устройством без перерыва %d минут</item>
+        <item quantity="one">Вы пользовались устройством без перерыва %d минуту</item>
+        <item quantity="few">Вы пользовались устройством без перерыва %d минуты</item>
+        <item quantity="many">Вы пользовались устройством без перерыва %d минут</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>	
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">Время экрана равно среднему показателю за %d дней</item>
         <item quantity="one">Время экрана равно среднему показателю за %d день</item>

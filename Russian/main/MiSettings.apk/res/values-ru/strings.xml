@@ -43,6 +43,7 @@
     <string name="create_shortcut">Ярлык на рабочем столе</string>
     <string name="created">Создано</string>
     <string name="created_successfully">Успешно создано</string>
+    <string name="cu_confirm">Установить</string>
     <string name="display_description">Большие иконки, крупный текст, упрощенный вид</string>
     <string name="display_title">Увеличенные элементы</string>
     <string name="exit_easymode">Отключить</string>
@@ -100,6 +101,10 @@
     <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">Отображение в цветовой гамме sRGB</string>
     <string name="start_easymode">Включить</string>
+    <string name="steady_on_screen_notification_title">Сделайте перерыв</string>
+    <string name="steady_on_screen_notify">Уведомлять о непрерывном использовании</string>
+    <string name="steady_on_screen_setting">Ограничить время непрерывного использования</string>
+    <string name="steady_on_screen_summary">Ограничить время непрерывного использования</string>	
     <string name="stop_app_timer">Отключение функции</string>
     <string name="stop_app_timer_fail">Не удалось отключить</string>
     <string name="stop_app_timer_success">Успешно отключено</string>
@@ -108,6 +113,7 @@
     <string name="suggestion">Обратная связь</string>	
     <string name="thememanager_not_found">Не удалось открыть приложение Темы. Убедитесь, что приложение установлено.</string>
     <string name="title_activity_easy_mode">Простой режим</string>
+    <string name="to_authorize">Разрешить</string>
     <string name="today_usage_title">Сегодня</string>
     <string name="today_use_time">Время экрана: %1$s</string>
     <string name="touch_description">Оптимизация кнопок и ярлыков для минимизации случайных касаний</string>
@@ -183,7 +189,7 @@
     <string name="usage_reach_device_limit_warning_text">Достигнут лимит времени экрана на сегодня</string>
     <string name="usage_refresh">Попробуйте еще раз</string>
     <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
-    <string name="usage_remain_hour_miunte">%1$s %2$s</string>	
+    <string name="usage_remain_hour_miunte">%1$s%2$s</string>	
     <string name="usage_request_error_summary">Произошла неизвестная ошибка</string>
     <string name="usage_request_timeout_summary">Истекло время ожидания запроса</string>
     <string name="usage_special_feature">Специальные функции</string>

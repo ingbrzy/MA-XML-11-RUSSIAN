@@ -5,7 +5,7 @@
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_action_mode_select_all">Выбрать все</string>
-    <string name="abc_activity_chooser_view_see_all">Увидеть все</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
     <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
     <string name="abc_capital_off">ОТКЛ.</string>
     <string name="abc_capital_on">ВКЛ.</string>
