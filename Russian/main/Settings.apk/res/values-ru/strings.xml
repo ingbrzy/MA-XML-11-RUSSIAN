@@ -747,8 +747,8 @@
     <string name="battery_info_voltage_units">мВ</string>
     <string name="battery_last_full_charge">Последняя полная зарядка</string>
     <string name="battery_level_title">Уровень заряда батареи</string>
-    <string name="battery_light_summary">Включить индикатор во время зарядки устройства</string>
-    <string name="battery_light_title">Включать во время зарядки</string>
+    <string name="battery_light_summary">Индикатор будет гореть во время зарядки устройства</string>
+    <string name="battery_light_title">Включать при зарядке</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_msg_unaccounted">Данные о расходе заряда батареи отдельными приложениями являются приблизительными и не включают всех возможных потребителей энергии. Этот показатель энергопотребления соответствует разнице между расчетным энергопотреблением и фактическим расходом заряда батареи.</string>
     <string name="battery_overall_usage">%1$s заряда батареи</string>
@@ -1816,7 +1816,7 @@
     <string name="default_suppression_title">По умолчанию (рекомендуется)</string>
     <string name="default_theme">По умолчанию</string>
     <string name="default_usb_mode">Режим USB</string>
-    <string name="default_vol_stream_title">Управление громкостью по умолчанию</string>
+    <string name="default_vol_stream_title">Регулировка громкости</string>
     <string name="delete">Удалить</string>
     <string name="delete_fingerprint_confirm_msg">Удалить отпечаток?</string>
     <string name="delete_fingerprint_confirm_title">Внимание</string>
@@ -1825,7 +1825,7 @@
     <string name="delete_or_keep_legacy_passwords_confirm_msg">Удалить отпечатки пальцев?</string>
     <string name="delete_rule">Удаление расписания</string>
     <string name="delete_saved_network">Удаление сохраненных сетей</string>
-    <string name="delete_sound_effect">Звук удаления объекта</string>
+    <string name="delete_sound_effect">Звук удаления</string>
     <string name="deleted_apps">Удаленные приложения</string>
     <string name="deletion_helper_automatic_title">Автоматически</string>
     <string name="deletion_helper_manual_title">Вручную</string>
@@ -2607,7 +2607,7 @@
     <string name="hardware_info">Модель и серийный номер</string>
     <string name="hardware_revision">Версия аппаратного обеспечения</string>
     <string name="hardware_version">Версия оборудования</string>
-    <string name="has_screenshot_sound">Звук снимка экрана</string>
+    <string name="has_screenshot_sound">Звук скриншота</string>
     <string name="hdcp_checking_dialog_title">Поведение проверки HDCP</string>
     <string name="hdcp_checking_title">Проверка HDCP</string>
     <string name="hdmi_3d_display_enable_summary">Включить поддержку 3D игр</string>
@@ -2724,7 +2724,7 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="inactive_app_active_summary">Активно. Нажмите для отключения.</string>
     <string name="inactive_app_inactive_summary">Неактивно. Нажмите для включения.</string>
     <string name="inactive_apps_title">Неактивные приложения</string>
-    <string name="incall_show">Видео профиля для исходящих вызовов</string>
+    <string name="incall_show">Видео профиля для входящих вызовов</string>
     <string name="include_app_data_title">Учитывать данные приложений</string>
     <string name="incoming_call_breathing_light_color_title">Цвет для вызовов</string>
     <string name="incoming_call_breathing_light_freq_title">Частота мерцания для вызовов</string>
@@ -3952,7 +3952,7 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="notification_log_no_title">(нет)</string>
     <string name="notification_log_title">Журнал уведомлений</string>
     <string name="notification_many_channel_count_summary">Каналов уведомлений: %1$d. Нажмите, чтобы перейти к настройкам.</string>
-    <string name="notification_pulse_title">Световая индикация</string>
+    <string name="notification_pulse_title">Мигать при уведомлениях</string>
     <string name="notification_reboot_btn">Перезагрузка</string>
     <string name="notification_reboot_summary_hm">Нажмите для перезагрузки.</string>
     <string name="notification_reboot_title">Требуется перезагрузка</string>
@@ -5584,7 +5584,7 @@ UT-интерфейс: %5$s"</string>
     <string name="sound_settings_summary">Громкость звонка: %1$s</string>
     <string name="sound_settings_summary_silent">Включен режим без звука</string>
     <string name="sound_settings_summary_vibrate">Включен вибросигнал</string>
-    <string name="sound_stereo_mode_summary">Доступно только при воспроизведении звука через динамик</string>
+    <string name="sound_stereo_mode_summary">При воспроизведении через динамик</string>
     <string name="sound_stereo_mode_title">Стереозвук</string>
     <string name="sound_title">Звук</string>
     <string name="sound_vibrate_settings">Звук и вибрация</string>
@@ -6221,7 +6221,7 @@ UT-интерфейс: %5$s"</string>
     <string name="unlogin_account_summary">Все Mi сервисы. Один Mi Аккаунт</string>
     <string name="unlogin_account_title">Вход в Mi Аккаунт</string>
     <string name="unmount_inform_text">SD-карта будет отключена.</string>
-    <string name="unmute_sound_title">Звук отключения режима "Без звука"</string>
+    <string name="unmute_sound_title">Звук отключения режима \"Без звука\"</string>
     <string name="unrestrict_max_aspect_ratio_title">Оптимизированы для полноэкранного режима</string>
     <string name="unrestricted_app_summary">Разрешить в режиме экономии трафика</string>
     <string name="unrestricted_app_title">Неогранич. передача данных</string>
