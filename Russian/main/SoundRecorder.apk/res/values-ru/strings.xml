@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">удаление</string>
+    <string name="abc_menu_enter_shortcut_label">ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Поиск…</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="alert_message_clear_records">Удалить выбранные записи?</string>
     <string name="alert_message_delete_local_record">Удалить эту запись?</string>
     <string name="alert_message_delete_record">Удаление записи с устройства также удалит ее и из Xiaomi Cloud. Удалить запись?</string>
@@ -174,6 +201,7 @@
     <string name="search_hint">Поиск</string>
     <string name="search_led_indicator">Индикатор записи</string>
     <string name="search_led_indicator_prompt">Во время записи показывать значок в строке состояния или мигать индикатором, если экран заблокирован</string>
+    <string name="search_menu_title">Поиск</string>
     <string name="search_quliaty_title">Качество записи</string>
     <string name="search_scenes">Режим записи</string>
     <string name="search_silent_mode">Режим \"Без звука\" при записи</string>

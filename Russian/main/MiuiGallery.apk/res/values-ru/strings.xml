@@ -530,6 +530,8 @@
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">Вы можете выбрать качество загруженных изображений или отключить автоматическую загрузку в Настройках.</string>
   <string name="downloading_title">Загрузка фото из Xiaomi Cloud</string>
+  <string name="drag_view_tip_sub_title">Нажмите и удерживайте альбом, чтобы изменить порядок</string>
+  <string name="drag_view_tip_title">Упорядочивание альбомов</string>  
   <string name="dump_db_info">Дамп информации базы данных</string>
   <string name="edit_baby_info">Показать информацию</string>
   <string name="editor_cancel">Отмена</string>
@@ -724,7 +726,7 @@
   <string name="filter_people_sepia">Сепия</string>
   <string name="filter_people_story">История</string>
   <string name="filter_people_tea">Чай</string>
-  <string name="filter_portrait_hint">Color Pop</string>
+  <string name="filter_portrait_hint">Цветовой фокус</string>
   <string name="filter_scene_city">Город</string>
   <string name="filter_scene_df">Туман</string>
   <string name="filter_scene_koizora">Любовь</string>
@@ -1152,7 +1154,7 @@
   <string name="photo_page_save_uri_image_ok">Фото сохранено в Галерее</string>
    <string name="photo_portrait_color_download_fail">Не удалось загрузить плагин. Подключитесь к сети и повторите попытку.</string>
   <string name="photo_portrait_color_download_success">Фильтры загружены</string>
-  <string name="photo_portrait_color_no_face">Фильтр \"Color Pop\" работает только на фотографиях с людьми</string>
+  <string name="photo_portrait_color_no_face">Фильтр \"Цветовой фокус\" работает только на фотографиях с людьми</string>
   <string name="photo_portrait_download_sdk_without_wifi_msg">Подключение к Wi-Fi отсутствует. Для загрузки фильтров (%1$d Мб) будет использоваться мобильный интернет.</string>
   <string name="photo_portrait_download_sdk_without_wifi_title">Загрузка фильтров</string> 
   <string name="photo_print_menu_loading">Загрузка плагина…</string>
@@ -1795,6 +1797,7 @@
   <string name="vlog_caption_style">Формат субтитров</string>
   <string name="vlog_caption_title">Заголовок</string>
   <string name="vlog_clip_cut_fail">Клипы должны быть не менее %1$d сек.</string>
+  <string name="vlog_clip_cut_fail_min_time">Клипы должны быть не менее %1$d сек.</string>
   <string name="vlog_clip_delete_dialog_btn_cancel">Отмена</string>
   <string name="vlog_clip_delete_dialog_btn_delete">Удалить</string>
   <string name="vlog_clip_delete_dialog_btn_msg">Удалить это видео?</string>

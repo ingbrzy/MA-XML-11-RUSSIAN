@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+  <string name="abc_action_bar_up_description">Перейти вверх</string>
+  <string name="abc_action_menu_overflow_description">Другие параметры</string>
+  <string name="abc_action_mode_done">Готово</string>
+  <string name="abc_activity_chooser_view_see_all">Показать все</string>
+  <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+  <string name="abc_capital_off">ОТКЛ.</string>
+  <string name="abc_capital_on">ВКЛ.</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">удаление</string>
+  <string name="abc_menu_enter_shortcut_label">ввод</string>
+  <string name="abc_menu_function_shortcut_label">Fn+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">пробел</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Поиск…</string>
+  <string name="abc_searchview_description_clear">Удалить запрос</string>
+  <string name="abc_searchview_description_query">Поисковый запрос</string>
+  <string name="abc_searchview_description_search">Поиск</string>
+  <string name="abc_searchview_description_submit">Отправить запрос</string>
+  <string name="abc_searchview_description_voice">Голосовой поиск</string>
+  <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+  <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+  <string name="abc_toolbar_collapse_description">Свернуть</string>
   <string name="about_device_info">Об устройстве</string>
   <string name="access_token_expired_warning">Срок действия аккаунта Weibo истек</string>
   <string name="access_token_invalid_warning">Некорректный аккаунт Weibo</string>
@@ -86,6 +113,7 @@ ID вашего аккаунта: %s"</string>
   <string name="change_email_address">Изменить адрес электронной почты</string>
   <string name="change_password">Изменить пароль</string>
   <string name="change_phone_number">Изменить номер телефона</string>
+  <string name="character_counter_content_description">Превышен лимит символов: %1$d из %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="cloud_service">Xiaomi Cloud</string>
   <string name="collect_diagnosis_log">Создать журнал диагностики</string>
@@ -190,6 +218,7 @@ ID:%s
   <string name="mipay_indentity_done">Проверено</string>
   <string name="mipay_others">Прочее</string>
   <string name="mipay_transit_card">Транспортная карта</string>
+  <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
   <string name="multi_user_not_show_sync_activity_message_1">Похоже, вы используете Mi Аккаунт из первого пространства.</string>
   <string name="multi_user_not_show_sync_activity_message_2">В этом случае все данные будут синхронизированы со вторым пространством. Чтобы избежать этого, не включайте синхронизацию с Xiaomi Cloud.</string>
   <string name="multi_user_not_show_sync_activity_title">Не включайте синхронизацию с Xiaomi Cloud</string>
@@ -216,7 +245,7 @@ ID:%s
   <string name="passport_account_hint_text">Email/Телефон/ID Mi Аккаунта</string>
   <string name="passport_account_identity_title">Подтвердите вашу личность</string>
   <string name="passport_account_label">Mi Аккаунт</string>
-  <string name="passport_account_name">Аккаунт: %1$s</string>
+  <string name="passport_account_name">"Аккаунт: %1$s "</string>
   <string name="passport_account_not_activated">Аккаунт не активирован</string>
   <string name="passport_account_not_actived">Ваш аккаунт не активирован</string>
   <string name="passport_account_set_password">Задать пароль</string>
@@ -433,7 +462,7 @@ ID:%s
   <string name="passport_wrong_vcode">Код введен неверно</string>
   <string name="passport_wrong_voice">Код введен неверно</string>
   <string name="passport_yes">Да</string>
-  <string name="password_toggle_content_description">Показать/скрыть пароль</string>
+  <string name="password_toggle_content_description">Показать пароль</string>
   <string name="permission_group_contacts">Контакты</string>
   <string name="permission_group_phone">Телефон</string>
   <string name="permission_group_sms">СМС</string>
