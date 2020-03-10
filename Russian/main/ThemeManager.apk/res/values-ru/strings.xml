@@ -284,7 +284,7 @@
     <string name="mix_global_option">Общие</string>
     <string name="mix_global_option_des">Шторка уведомлений, Телефон, Сообщения и другие элементы системы. Снимите этот флажок, чтобы использовать параметры по умолчаниюs.</string>
     <string name="mix_home_option_des">Обои и часы. Снимите этот флажок, чтобы использовать параметры по умолчаниюs.</string>
-    <string name="mix_icons_option_des">Иконки рабочего стола. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
+    <string name="mix_icons_option_des">Значки рабочего стола. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
     <string name="mix_lockscreen_option_des">Обои и часы. Снимите этот флажок, чтобы использовать параметры по умолчанию.</string>
     <string name="mix_tip">Компоненты темы</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>

@@ -71,7 +71,7 @@
   <string name="error_icon_content_description">Ошибка</string>
   <string name="exposed_dropdown_menu_content_description">Показать выпадающее меню</string>  
   <string name="font_thickness">Толщина шрифта</string>
-  <string name="icon_content_description">Иконка диалога</string>
+  <string name="icon_content_description">Значок диалога</string>
   <string name="large_time">Большие часы</string>
   <string name="letter_space">Межбуквенный интервал</string>
   <string name="line_space">Межстрочный интервал</string>  

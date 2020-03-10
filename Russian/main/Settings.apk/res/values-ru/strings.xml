@@ -668,7 +668,7 @@
     <string name="backup_set_pw_confirm_title">Подтверждение пароля</string>
     <string name="backup_summary_state_off">Откл.</string>
     <string name="backup_summary_state_on">Вкл.</string>
-    <string name="badge_title">Метка на иконке приложения</string>
+    <string name="badge_title">Метка на значке приложения</string>
     <string name="band_24G">" (2,4 ГГц)"</string>
     <string name="band_5G">" (5 ГГц)"</string>
     <string name="band_mode_failed">Сбой</string>
@@ -2699,7 +2699,7 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="http_invoke_app_summary">Быстрый запуск приложений без их установки</string>
     <string name="hwui_force_dark_summary">Принудительное включение темного режима</string>
     <string name="hwui_force_dark_title">Переопределение темного режима</string>
-    <string name="icon_content_description">Иконка диалога</string>
+    <string name="icon_content_description">Значок диалога</string>
     <string name="ignore_optimizations_off">Экономить</string>
     <string name="ignore_optimizations_off_desc">Рекомендуется для увеличения времени работы устройства от батареи.</string>
     <string name="ignore_optimizations_on">Не экономить</string>
@@ -5628,7 +5628,7 @@ UT-интерфейс: %5$s"</string>
     <string name="status_bar_settings_all_app_display_loading">Секунду…</string>
     <string name="status_bar_settings_manage_notification">Уведомления приложений</string>
     <string name="status_bar_settings_notification_bar">Шторка уведомлений</string>
-    <string name="status_bar_settings_notification_use_app_icon">Использовать иконки приложений</string>
+    <string name="status_bar_settings_notification_use_app_icon">Использовать значки приложений</string>
     <string name="status_bar_settings_qs_layout">Вид сетки переключателей</string>
     <string name="status_bar_settings_show_lte_for_4g">Показывать LTE вместо 4G</string>
     <string name="status_bar_settings_show_weather">Показывать погоду в шторке уведомлений</string>
@@ -7362,7 +7362,7 @@ UT-интерфейс: %5$s"</string>
     <string name="zen_mode_behavior_summary_custom">Пользовательские</string>
     <string name="zen_mode_behavior_total_silence">Полная тишина</string>
     <string name="zen_mode_block_effect_ambient">Не включать экран для уведомлений</string>
-    <string name="zen_mode_block_effect_badge">Скрыть метки уведомлений на иконках приложений</string>
+    <string name="zen_mode_block_effect_badge">Скрыть метки уведомлений на значках приложений</string>
     <string name="zen_mode_block_effect_intent">Не включать экран</string>
     <string name="zen_mode_block_effect_light">Не включать световую индикацию</string>
     <string name="zen_mode_block_effect_list">Скрыть из штроки уведомлений</string>

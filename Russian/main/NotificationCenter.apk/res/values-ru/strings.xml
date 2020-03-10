@@ -32,7 +32,7 @@
     <string name="off">Откл.</string>
     <string name="on">Вкл.</string>
     <string name="settings_guide_title">Нужны другие настройки?</string>
-    <string name="show_badge_notifications">Метки на иконках приложений</string>
+    <string name="show_badge_notifications">Метки на значках приложений</string>
     <string name="status_bar_setting">Строка состояния</string>
     <string name="summary_disable_float_notification">УВЕДОМЛЕНИЯ ОТКЛЮЧЕНЫ</string>
     <string name="summary_disable_lockscreen_notification">УВЕДОМЛЕНИЯ ОТКЛЮЧЕНЫ</string>
@@ -42,5 +42,5 @@
     <string name="summary_enable_show_badge_notification">МЕТКИ ВКЛЮЧЕНЫ</string>
     <string name="summary_float_enable_notification_first">Включите всплывающие уведомления</string>
     <string name="summary_lock_screen_enable_notification_first">Включите уведомления на экране блокировки</string>
-    <string name="summary_show_badge_enable_notification_first">Включите метки на иконках приложений</string>	
+    <string name="summary_show_badge_enable_notification_first">Включите метки на значках приложений</string>	
 </resources>

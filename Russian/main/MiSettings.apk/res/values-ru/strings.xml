@@ -44,7 +44,7 @@
     <string name="created">Создано</string>
     <string name="created_successfully">Успешно создано</string>
     <string name="cu_confirm">Установить</string>
-    <string name="display_description">Большие иконки, крупный текст, упрощенный вид</string>
+    <string name="display_description">Большие значки, крупный текст, упрощенный вид</string>
     <string name="display_title">Увеличенные элементы</string>
     <string name="exit_easymode">Отключить</string>
     <string name="first_unlock_time">"Первая разблокировка: "</string>
