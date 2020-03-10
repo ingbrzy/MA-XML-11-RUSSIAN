@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_menu_item_split_disable">Приложение не поддерживает разделение экрана.</string>
-    <string name="accessibility_menu_item_split_enable">Приложение поддерживает разделение экрана.</string>
-    <string name="accessibility_recents_item_open_app_info">О приложении %s</string>
-    <string name="accessibility_splite_screen_primary">Добавлено как основное приложение</string>
-    <string name="accessibility_splite_screen_secondary">Добавлено как вторичное приложение</string>
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="activity_not_unlocked">Перед открытием приложений дождитесь полной перезагрузки устройства</string>
@@ -92,7 +87,6 @@
     <string name="app_category_tools">Инструменты</string>
     <string name="app_category_travel">Путешествия</string>
     <string name="app_category_vr">VR</string>
-    <string name="app_name">folme</string>
     <string name="application_name">Рабочий стол MIUI</string>
     <string name="apply">Установить</string>
     <string name="apply_action">Установить</string>
@@ -123,9 +117,6 @@
     <string name="category_cannot_empty">Введите название категории</string>
     <string name="category_choose_no_app_select_tip">Добавьте приложение</string>
     <string name="category_drawer_name_hint">Введите название категории</string>
-    <string name="category_edit_back_confirm_dialog_content">Сохранить изменения?</string>
-    <string name="category_edit_back_confirm_dialog_negative_button">Отмена</string>
-    <string name="category_edit_back_confirm_dialog_positive_button">Сохранить</string>	
     <string name="category_group">Включить категории</string>
     <string name="category_group_summary">Группировка приложений в меню по категориям</string>
     <string name="category_not_selected">Доступные приложения</string>
@@ -274,9 +265,6 @@
     <string name="launcher_global_search_provider_title">Поставщик поиска</string>
     <string name="launcher_not_exist">Произошла ошибка. Вернитесь на рабочий стол и повторите попытку.</string>
     <string name="launcher_pull_down_title">Свайп вниз</string>
-    <string name="launcher_search_bar_title">Панель поиска</string>
-    <string name="launcher_search_bar_value_disable">Откл.</string>
-    <string name="launcher_search_bar_value_enable">Вкл.</string>	
     <string name="launcher_slide_up_title">Свайп вверх</string>
     <string name="launcher_sliding_up_gesture">Поиск свайпом вверх</string>
     <string name="launcher_title">Рабочий стол</string>
@@ -294,8 +282,6 @@
     <string name="manager_group_settings">Категории приложений</string>
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
     <string name="memory_clear_result">Очищено %1$s Б памяти</string>
-    <string name="memory_clear_result_giga">Очищено %1$s ГБ памяти</string>
-    <string name="memory_clear_result_mega">Очищено %1$s МБ памяти</string>	
     <string name="menu_add">Добавить</string>
     <string name="menu_auto_fill_of_uninstall">Заполнять пустые ячейки</string>
     <string name="menu_back_desktop">Домой</string>
@@ -351,7 +337,6 @@
     <string name="photo_adjust">Просмотр</string>
     <string name="photo_confirm">OK</string>
     <string name="photo_load_failed">Не удалось загрузить фото</string>
-    <string name="please_slide_agian">Повторите слайд снова</string>
     <string name="pref_cell_layout_size">Сетка рабочего стола</string>
     <string name="pref_enable_drawing_cache_summary">Выключите, чтобы освободить память. Возможно притормаживание системы.</string>
     <string name="pref_enable_drawing_cache_title">Кэш графики</string>
@@ -372,22 +357,7 @@
     <string name="privacy_thumbnail_blur_title">Размытие миниатюр</string>
     <string name="quick_app">Быстрые приложения</string>
     <string name="recent_apps">Недавние</string>
-    <string name="recent_menu_item_info">Сведения</string>
-    <string name="recent_menu_item_lock">Заблокировать</string>
-    <string name="recent_menu_item_multi_window">Разделить</string>
-    <string name="recent_menu_item_unlock">Разблокировать</string>
-    <string name="recents_app_info_button_label">О приложении</string>
     <string name="recents_config_title">Недавние</string>
-    <string name="recents_dimiss_task">Очистить</string>
-    <string name="recents_empty_message">Ничего нет</string>
-    <string name="recents_empty_message_dismissed_all">Очистка не требуется</string>
-    <string name="recents_empty_message_multi_window">Выбрать приложения на рабочем столе</string>
-    <string name="recents_title_app_manager">Приложения</string>
-    <string name="recents_title_game">Игры</string>
-    <string name="recents_title_garbage_cleanup">Очистка</string>
-    <string name="recents_title_garbage_deepclean">Глубокая очистка</string>
-    <string name="recents_title_market">Поиск приложений</string>
-    <string name="recents_title_security_scan">Антивирус</string>
     <string name="recommend_apk_size_and_desc">%1$d МБ | %2$s</string>
     <string name="recommend_app">Недавние приложения</string>
     <string name="recommend_apps_default_title">Пусто</string>
@@ -433,7 +403,6 @@
     <string name="sort_by_not_defined">По порядку</string>
     <string name="start_activity_failed">Не удалось запустить рабочий стол</string>
     <string name="starting_preset_app">Запуск…</string>
-    <string name="status_bar_recent_memory_info1">Доступно: %1$s Б из %2$s Б</string>
     <string name="status_downloaded">Загруженные</string>
     <string name="status_downloading">Загрузка</string>
     <string name="status_installing">Установка</string>
@@ -443,9 +412,7 @@
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Нет</string>	
     <string name="system_shortcuts_more_operation">О приложении</string>
-    <string name="system_shortcuts_remove">Удалить</string>
     <string name="system_text">По умолчанию</string>
-    <string name="task_access_locked_app_msg">Включена блокировка приложения</string>
     <string name="title_jeejen">Рабочий стол для пожилых</string>
     <string name="title_select_live_folder">Выберите папку</string>
     <string name="title_select_shortcut">Выберите ярлык</string>
