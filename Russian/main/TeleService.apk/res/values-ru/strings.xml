@@ -543,7 +543,17 @@
   <string name="daltonizer_mode_protanomaly">Протаномалия (красный/зеленый)</string>
   <string name="daltonizer_mode_tritanomaly">Тританомалия (синий/желтый)</string>
   <string name="daltonizer_type_overridden">Новая настройка: %1$s</string>
+  <string name="data_disable_warning_no_mms">Вы не сможете отправлять и получать MMS, если отключите мобильный интернет (WCDMA / LTE). Однако вы сможете сделать это, когда ваше устройство будет подключено к Wi-Fi.</string>
+  <string name="data_disable_warning_with_mms">Вы по-прежнему сможете отправлять и получать MMS, если отключите мобильные данные (WCDMA / LTE). Для этого необходимо подключиться к Wi-Fi.</string>
+  <string name="data_disable_warning_with_mms_lgu">"Вы по-прежнему сможете отправлять и получать MMS, если отключите мобильные данные (WCDMA / LTE). Для этого необходимо подключиться к Wi-Fi.
+
+Отключить мобильный интернет?"</string>
+  <string name="data_enable_always_warn">Предепреждать об использовании мобильного интернета</string>
   <string name="data_enable_summary">Разрешить передачу данных по мобильной сети</string>
+  <string name="data_enable_warning">Разрешение всегда использовать мобильный интернет может привести к дополнительным расходам сверх тарифного плана. Подключиться?</string>
+  <string name="data_enable_warning_lgu">"Если иное не указано в вашем тарифном плане, использование мобильного интернета может привести к дополнительным расходам.
+
+Использовать мобильный интернет?"</string>
   <string name="data_enabled">Мобильный интернет</string>
   <string name="data_plan">Тарифные планы</string>
   <string name="data_usage_disable_mobile">Отключить мобильный интернет?</string>
@@ -651,6 +661,7 @@
   <string name="dual_4g_switch_title">Режим Dual 4G</string>
   <string name="ecm_exit_dialog">Режим экстренного вызова</string>
   <string name="edit_fdn_contact">Изменение номера</string>
+  <string name="emergencyDialerIconLabel">Экстренный вызов</string>
   <string name="emergency_action_launch_hint">Нажмите еще раз для запуска</string>
   <string name="emergency_broadcast_disable">Экстренные оповещения отключены</string>
   <string name="emergency_broadcast_enable">Экстренные оповещения включены</string>
@@ -659,7 +670,15 @@
   <string name="emergency_enable_radio_dialog_message">Включение радиомодуля…</string>
   <string name="emergency_enable_radio_dialog_retry">Сеть недоступна. Повтор…</string>
   <string name="emergency_enable_radio_dialog_title">Экстренный вызов</string>
-  <string name="emergencyDialerIconLabel">Экстренный вызов</string>
+  <string name="emergency_information_confirm_hint">Tap again to view info</string>
+  <string name="emergency_information_hint">Экстренная информация</string>
+  <string name="emergency_information_owner_hint">Владелец</string>
+  <string name="emm_cause_11">Текущий оператор не поддерживает данный сервис.</string>
+  <string name="emm_cause_14">Текущий оператор не поддерживает мобильную передачу данных.</string>
+  <string name="emm_cause_2">Не удалось зарегистрировать номер телефона. Выключите устройство, затем включите его и попробуйте снова.</string>
+  <string name="emm_cause_3">Не удалось проверить пользователя. Выключите устройство, затем включите его и попробуйте снова.</string>
+  <string name="emm_cause_6">Не удалось проверить устройство. Выключите устройство, затем включите его и попробуйте снова.</string>
+  <string name="emm_cause_7_8_12_13_15_16_17_22">Роуминг недоступен. Выключите устройство, затем включите его и попробуйте снова. Если проблема повторяется, обратитесь в службу поддержки оператора (SKT: +82-2-6346-9000).</string>
   <string name="empty_alert">Поле \"%s\" должно быть заполнено.</string>
   <string name="empty_networks_list">Сети не найдены</string>
   <string name="enable">Включить</string>
@@ -831,6 +850,8 @@
   <string name="international_disable">Международные новости отключены</string>
   <string name="international_enable">Международные новости включены</string>
   <string name="international_roaming_setting">Интернет в роуминге</string>
+  <string name="international_roaming_setting_kr">Международный роуминг</string>
+  <string name="international_roaming_setting_kr_skt">T роуминг</string>  
   <string name="internet_phone">Интернет вызов</string>
   <string name="invalid_password">Введите пароль из %d символов</string>
   <string name="ivr_mo_area_code_settings">Текущий код региона</string>
