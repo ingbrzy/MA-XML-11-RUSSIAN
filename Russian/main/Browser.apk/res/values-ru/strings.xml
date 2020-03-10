@@ -367,9 +367,10 @@
     <string name="exit_browser_warning">Выйти из браузера сейчас?</string>
     <string name="exit_fullscreen">Выход из полноэкранного режима</string>
     <string name="expand_article">Посмотреть полностью</string>
-    <string name="expand_button_title">Расширенный</string>
+    <string name="expand_button_title">Дополнительно</string>
+    <string name="fast_app_card_bottom_text" formatted="false">%s  %s</string>
     <string name="favorite">Добавить в избранное</string>
-    <string name="feedback_not_interested_response">Вы будете видеть меньше отзывов такого рода</string>
+    <string name="feedback_not_interested_response">Вы будете видеть меньше таких отзывов</string>
     <string name="file_dir">Изменить каталог</string>
     <string name="file_picker">Выбор каталога</string>
     <string name="filename_empty_alert_message">Введите имя файла</string>

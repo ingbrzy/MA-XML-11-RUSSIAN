@@ -74,6 +74,7 @@
   <string name="auxiliary_exposure_feedback_status">Проверка экспозиции включена</string>
   <string name="auxiliary_focus_peak_status">Пик фокуса включен.</string>
   <string name="back_bokeh_use_hint">Держитесь от объекта съемки в пределах 1.5 метров</string>
+  <string name="background">Фон</string>
   <string name="beauty_body">Фигура</string>
   <string name="beauty_body_body">Стройный</string>
   <string name="beauty_body_head">Голова</string>
@@ -193,6 +194,7 @@
   <string name="edit_skin_white">Тон</string>
   <string name="edit_slim_nose">Нос</string>
   <string name="edit_smile">Улыбка</string>
+  <string name="emoticon">Стикеры</string>
   <string name="error_fail_to_start_audio_capture">Не удалось включить звуковое управление</string>
   <string name="face_age_info">Возраст: %d</string>
   <string name="face_analyze_info">Возраст: %2$s | Пол: %1$s</string>
@@ -306,6 +308,9 @@
   <string name="mimoji_check_no_face">Не удалось определить лицо</string>
   <string name="mimoji_check_normal">Нажмите кнопку съемки</string>
   <string name="mimoji_confirm">ОК</string>
+  <string name="mimoji_create_emoticon">Создать стикеры</string>
+  <string name="mimoji_create_emoticon_error">Ошибка создания стикеров</string>
+  <string name="mimoji_create_emoticon_progress">Создание…</string>  
   <string name="mimoji_create_tips">Смотрите прямо в камеру для создания Mimoji</string>
   <string name="mimoji_delete">Удалить</string>
   <string name="mimoji_delete_dialog_title">Удалить Mimoji?</string>
@@ -329,6 +334,8 @@
   <string name="mimoji_edit_cancel_alert">Все изменения будут отменены. Отменить?</string>
   <string name="mimoji_edit_mimoji">Редактировать Mimoji</string>
   <string name="mimoji_editor">Редактирование</string>
+  <string name="mimoji_emoticon_save">Сохранить стикеры</string>
+  <string name="mimoji_emoticon_with_jpeg_save">Сохранить также изображения</string>  
   <string name="mimoji_eye">Глаза</string>
   <string name="mimoji_eye_shape">Форма глаз</string>
   <string name="mimoji_eyebrow">Брови</string>
@@ -338,6 +345,12 @@
   <string name="mimoji_featured_face">Лицо</string>
   <string name="mimoji_fragment_tab_name">Mimoji</string>
   <string name="mimoji_freckle">Веснушки</string>
+  <string name="mimoji_gif_accelerate">Скорость</string>
+  <string name="mimoji_gif_clear_bg">Удалить фон</string>
+  <string name="mimoji_gif_edit_hint">Нажмите, чтобы добавить текст</string>
+  <string name="mimoji_gif_edit_title">Редактирование GIF</string>
+  <string name="mimoji_gif_record_time_short">Видео слишком короткое</string>
+  <string name="mimoji_gif_reverse">Обратное воспроизведение</string>  
   <string name="mimoji_hairstyle">Волосы</string>
   <string name="mimoji_headwear">Головные уборы</string>
   <string name="mimoji_mole">Родинки</string>
@@ -351,7 +364,9 @@
   <string name="mimoji_recapture_alert">Все изменения будут cброшены. Начать сначала?</string>
   <string name="mimoji_reset">Сброс</string>
   <string name="mimoji_save">Сохранить</string>
+  <string name="mimoji_save_finish">Готово</string>
   <string name="mimoji_save_success">Успешно сохранено</string>
+  <string name="mimoji_select_number_error">Выберите хотя бы 1 элемент</string>  
   <string name="mimoji_selected">Выбор</string>
   <string name="mimoji_start_create">Создание Mimoji…</string>
   <string name="mimoji_tips">Нажмите для фото. Нажмите и удерживайте для видео.</string>
@@ -367,7 +382,7 @@
   <string name="module_name_square">Квадрат</string>
   <string name="module_name_video">Видео</string>
   <string name="moive_frame">Кадр</string>
-  <string name="multi_window_mode_not_supported">Камера не работает в режиме разделения экрана</string>
+  <string name="multi_window_mode_not_supported">Камера не может работать в многооконном режиме</string>
   <string name="network_access_user_notice_agree">Согласен</string>
   <string name="network_access_user_notice_message_live_video">Приложению Камера необходимо подключение к интернету для возможности создания различных эффектов для коротких видеороликов. Нажав \"Согласен\", вы принимаете наши Пользовательское соглашение и Политику конфиденциальности, а также разрешаете приложению Камера подключение к интернету.</string>
   <string name="network_access_user_notice_message_mi_live_video">Добро пожаловать в короткие видеоролики! Перед использованием необходимо принять наши Пользовательское соглашение и Политику конфиденциальности, а также разрешить приложению подключение к интернету.</string>
@@ -377,6 +392,7 @@
   <string name="no_storage">Вставьте SD карту перед использованием камеры</string>
   <string name="not_enough_space">SD карта заполнена</string>
   <string name="object_track_enable_toast">Для выбора объекта коснитесь одновременно двух точек по диагонали вокруг его границы</string>
+  <string name="only_mimoji_multi_window_mode_not_supported">Эта функция не работает в многооконном режиме</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Совместите стрелку с линией</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Продолжайте перемещать устройство</string>
   <string name="pano_how_to_use_prompt_slow_down">Замедлите движение…</string>
@@ -865,6 +881,9 @@
   <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
   <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
   <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
+  <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
+  <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
+  <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>  
   <string name="pref_video_quality_title">Качество видео</string>
   <string name="pref_video_speed_entry_fast">Быстрая</string>
   <string name="pref_video_speed_entry_normal">Нормальная</string>
@@ -891,6 +910,7 @@
   <string name="pref_watermark_on">Вкл.</string>
   <string name="pref_watermark_title">Водяной знак</string>  
   <string name="preparing_sd">Подготовка SD карты…</string>
+  <string name="preview_back_pressed_hint">Нажмите еще раз, чтобы вернуться к предпросмотру</string>
   <string name="pro_color_mode">Продвинутый цветовой режим</string>
   <string name="recommend_macro_mode">Попробуйте режим Макро</string>
   <string name="recommend_portrait">Попробуйте Портретный режим</string>
@@ -903,6 +923,7 @@
   <string name="screen_on_proximity_sensor_summary">Не закрывайте область динамика</string>
   <string name="search_settings">Настройки камеры;Качество;Качество фото;Место съемки фото;Место съемки изображения;Распознавание лиц;Звук камеры;Фото;Камера;Фотография;Видео;Съемка</string>
   <string name="see_qrcode_detals">Подробнее о QR-коде</string>
+  <string name="share">Отправить</string>
   <string name="simple_mode_button_asd_flash">Отключить вспышку</string>
   <string name="simple_mode_button_asd_hdr">Отключить режим HDR</string>
   <string name="simple_mode_button_text_audio_capture">Отключить звуковое управление</string>
@@ -939,6 +960,13 @@
   <string name="tap_to_focus">Нажмите для фокусировки</string>
   <string name="text_ai_scene_selector_text_off">КОНТРАЖУР</string>
   <string name="text_ai_scene_selector_text_on">СИЛУЭТ</string>
+  <string name="timbre">Голос</string>
+  <string name="timbre_baby">Ребенок</string>
+  <string name="timbre_gentlemen">Джентльмен</string>
+  <string name="timbre_girl">Девочка</string>
+  <string name="timbre_lady">Леди</string>
+  <string name="timbre_normal">Оригинал</string>
+  <string name="timbre_robot">Робот</string>  
   <string name="time_lapse_error">Нельзя снять ускоренное видео в данном разрешении</string>
   <string name="title_snap_double_confirm">Повторное подтверждение</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Серийная съемка недоступна при включенном звуковом управлении</string>
@@ -965,6 +993,7 @@
   <string name="ultra_wide_open_tip_sat">0.6X ультра-широкоугольный режим</string>
   <string name="ultra_wide_recommend_tip_hint">Попробуйте 0.6X ультра-широкоугольный режим</string>
   <string name="ultra_wide_recommend_tip_hint_sat">Попробуйте 0.6X ультра-широкоугольный режим</string>
+  <string name="unknow_error">Неизвестная ошибка</string>
   <string name="user_agree">Принять</string>
   <string name="user_define_watermark_cancel">Отмена</string>
   <string name="user_define_watermark_save">Сохранить</string>

@@ -17,12 +17,12 @@
     <item quantity="few">Отклонено %3$d раза с %1$s до %2$s</item>
   </plurals>
   <plurals name="app_behavior_privacy_manager_off">
-    <item quantity="other">Уведомления отключены для %1$d приложений</item>
-    <item quantity="one">Уведомления отключены для %1$d приложения</item>
+    <item quantity="other">Уведомления о действиях отключены для %1$d приложений</item>
+    <item quantity="one">Уведомления о действиях отключены для %1$d приложения</item>
   </plurals>
   <plurals name="app_behavior_privacy_manager_on">
-    <item quantity="other">Уведомления  включены для %1$d приложений</item>
-    <item quantity="one">Уведомления включены для %1$d приложения</item>
+    <item quantity="other">Уведомления о действиях включены для %1$d приложений</item>
+    <item quantity="one">Уведомления о действиях включены для %1$d приложения</item>
   </plurals>  
   <plurals name="app_manager_permission_summary_accept">
     <item quantity="other">%d разрешений</item>

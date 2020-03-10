@@ -1376,7 +1376,14 @@
   <string name="gmscore_support_service">Основные сервисы Google</string>
   <string name="go_to">Перейти</string>
   <string name="go_to_setting_fingerprint">Настройки</string>
+  <string name="google_base_app_fail">Не удалось загрузить. Убедитесь что приложению Безопасность разрешен доступ в интернет.</string>
   <string name="google_base_app_install_choice">Приложение требует наличия Google Services Framework для нормальной работы, загрузить и установить?</string>
+  <string name="google_base_app_installed">Успешно установлено</string>
+  <string name="google_base_app_installing">Установка…</string>
+  <string name="google_base_app_network_anomaly">Не удалось подключиться к сети. Проверьте настройки сети и повторите попытку.</string>
+  <string name="google_base_app_timeout">Время сессии истекло. Повторите попытку позже.</string>
+  <string name="google_base_app_title">Установка сервисов Google</string>
+  <string name="google_base_app_toast">Идет установка Google Services Framework в фоновом режиме. Повторите попытку позже.</string>
   <string name="gs_advanced_setting_summary">Настройки для отдельных игр</string>
   <string name="gs_advanced_setting_title">Дополнительные настройки</string>
   <string name="gs_anto_clean_memory_whitelist">Исключения</string>
