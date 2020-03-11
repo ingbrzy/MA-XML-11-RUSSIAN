@@ -628,8 +628,10 @@
   <string name="dialpad_four">%d</string>
   <string name="dialpad_nine">%d</string>
   <string name="dialpad_one">%d</string>
+  <string name="dialpad_pound">\#</string>
   <string name="dialpad_seven">%d</string>
   <string name="dialpad_six">%d</string>
+  <string name="dialpad_star">*</string>
   <string name="dialpad_three">%d</string>
   <string name="dialpad_two">%d</string>
   <string name="dialpad_zero">%d</string>
