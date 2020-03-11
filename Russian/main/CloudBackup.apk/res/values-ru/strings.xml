@@ -43,6 +43,7 @@
     <string name="backup_failed_reason_network_error">Ошибка сети. Повторите попытку позже.</string>
     <string name="backup_finished_notification_content">Резервное копирование завершено</string>
     <string name="backup_now">Начать</string>
+    <string name="backup_progress_percent_unit">%</string>
     <string name="backup_size">Размер: %s</string>
     <string name="backup_stopped_msg">Текущая резервная копия перезапишет предыдущую. Нажмите для просмотра.</string>
     <string name="backup_stopped_title">Резервное копирование остановлено</string>

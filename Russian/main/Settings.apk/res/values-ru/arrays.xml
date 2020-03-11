@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aggregate_entries">
+        <item>Рекомендуемые</item>
+        <item>Важные</item>
+        <item>Второстепенные</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>По выбору MIUI</item>
+        <item>Уведомления будут в шторке</item>
+        <item>Уведомления будут в отдельной папке</item>
+    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>

@@ -288,6 +288,7 @@
     <string name="advanced_security_title">Дополнительно</string>
     <string name="advanced_settings">Дополнительно</string>
     <string name="advanced_settings_summary">Включить дополнительные настройки</string>
+    <string name="aggregate_title">Группировка уведомлений</string>
     <string name="agps_roaming">A-GPS в роуминге</string>
     <string name="agps_roaming_dia">Использование A-GPS в роуминге может увеличить расход мобильного трафика. Если вы превысите лимит трафика, установленный вашим тарифом, ваш оператор связи может взимать дополнительную плату.</string>
     <string name="agps_roaming_dia_title">Использовать A-GPS в роуминге</string>
@@ -463,7 +464,7 @@
     <string name="app_notifications_title">Уведомления</string>
     <string name="app_ops_never_used">(не использовалось)</string>
     <string name="app_ops_running">Выполняется</string>
-    <string name="app_permissions">Менеджер разрешений</string>
+    <string name="app_permissions">Управление разрешениями</string>
     <string name="app_permissions_summary">Приложения, которым разрешен доступ (%1$s)</string>
     <string name="app_permission_summary_allowed">Разрешено</string>
     <string name="app_permission_summary_not_allowed">Не разрешено</string>
