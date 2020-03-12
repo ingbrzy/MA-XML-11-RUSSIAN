@@ -337,12 +337,14 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
         <item>Минимальная задержка</item>
+        <item>Минимальная задержка</item>
         <item>Скорость</item>
         <item>Баланс</item>
         <item>Качество</item>
         <item>Адаптивное</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Минимальная задержка (192Кбит/с)</item>
         <item>Минимальная задержка (256 Кбит/с)</item>
         <item>Скорость подключения (400 Кбит/с)</item>
         <item>Баланс качества и скорости (500/560 Кбит/с)</item>
