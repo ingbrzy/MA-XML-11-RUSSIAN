@@ -174,7 +174,7 @@
   <string name="feedback_submit_failed_notification_desc">Подробности</string>
   <string name="feedback_submit_failed_notification_retry">Повторить</string>
   <string name="feedback_submit_failed_notification_title">Не удалось отправить отчет</string>
-  <string name="feedback_submit_hint">Сообщайте об ошибках каждый раз, когда вы сталкиваетесь с проблемами, чтобы помочь нам решить их быстрее.</string>
+  <string name="feedback_submit_hint">Сообщайте об ошибках каждый раз, когда вы сталкиваетесь с проблемами, чтобы мы могли быстрее их устранить</string>
   <string name="feedback_submit_hint_gone">Сообщение закрыто</string>
   <string name="feedback_submit_hint1">Мы сообщим вам о ходе рассмотрения вашего отчета</string>
   <string name="feedback_submit_hint2">Для просмотра подробностей перейдите в раздел \"Мои отчеты\"</string>

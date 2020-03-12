@@ -63,7 +63,7 @@
     <string name="miui_feedback_edit_discard_draft_dialog_button_discard">Удалить</string>
     <string name="miui_feedback_edit_discard_draft_dialog_content">Любые изменения, внесенные вами в этот отчет, будут потеряны.</string>
     <string name="miui_feedback_edit_discard_draft_dialog_title">Удалить черновик?</string>
-    <string name="miui_feedback_edit_hint">Сообщайте об ошибках каждый раз, когда вы сталкиваетесь с проблемами, чтобы помочь нам решить их быстрее</string>
+    <string name="miui_feedback_edit_hint">Сообщайте об ошибках каждый раз, когда вы сталкиваетесь с проблемами, чтобы мы могли быстрее их устранить</string>
     <string name="miui_feedback_edit_hint_gone">Сообщение закрыто</string>
     <string name="miui_feedback_edit_hint_optional">Выбрать</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Отложить</string>
