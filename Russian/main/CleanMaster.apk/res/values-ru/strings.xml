@@ -140,7 +140,7 @@
   <string name="clean_content_two">2 объекта</string>
   <string name="clean_content_zero">Нет</string>
   <string name="clean_summary">Очищено %1$s</string>
-  <string name="clear_bigfiles">Удаление больших файлов, дубликатов фото и других ненужных объектов</string>
+  <string name="clear_bigfiles">Удалить большие файлы, дубликаты фото и другие устаревшие объекты</string>
   <string name="clear_immediately">Очистить</string>
   <string name="clear_safe_notify">Виджет в шторке уведомлений</string>
   <string name="close">Закрыть</string>
@@ -574,7 +574,7 @@
   <string name="tips_of_package_set">Настройка месячного тарифа и контроль используемого трафика</string>
   <string name="tips_of_traffic_notification">Просмотр сведений о трафике в шторке уведомлений</string>
   <string name="tips_of_traffic_pack_threshold">Оплатите дополнительный пакет трафика, когда ваш месячный лимит на исходе</string>
-  <string name="tips_of_virus_scan">Проверка устройства с помощью антивируса</string>
+  <string name="tips_of_virus_scan">Проверить устройство на наличие вирусов</string>
   <string name="title_auto_cleaner">Напоминания об очистке</string>
   <string name="title_delete_cache">Очистка кэша приложений</string>
   <string name="title_delete_clipboard">Содержимое буфера</string>
@@ -664,7 +664,7 @@
   <string name="whatsapp_delete_confirm_ok">OK</string>
   <string name="whatsapp_delete_done">Завершить</string>
   <string name="whatsapp_file_show_order">Сегодня</string>
-  <string name="whatsapp_function_summery">Очистка вложений WhatsApp</string>
+  <string name="whatsapp_function_summery">Очистить вложения WhatsApp</string>
   <string name="whatsapp_function_title">Очистка WhatsApp</string>
   <string name="whatsapp_group_audio">Аудиофайлы</string>
   <string name="whatsapp_group_document">Документы</string>

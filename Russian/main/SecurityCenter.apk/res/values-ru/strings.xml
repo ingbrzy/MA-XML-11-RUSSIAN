@@ -727,7 +727,7 @@
   <string name="choose_gs_show_way">Ориентация рабочего стола</string>
   <string name="clean_immediately">Очистить</string>
   <string name="cleaned">Очищено</string>
-  <string name="clear_garbage">Удаление мусора для освобождения места</string>
+  <string name="clear_garbage">Очистить мусор для освобождения места</string>
   <string name="clear_immediately">Очистить</string>
   <string name="close">Закрыть</string>
   <string name="close_callwait">Откл</string>
@@ -2938,8 +2938,8 @@
   <string name="timeshow_s">%dс</string>
   <string name="tips_dialog_title">Лимит неизвестен</string>
   <string name="tips_message">Чтобы узнать о своем тарифном плане, позвоните %2$s (%1$s).</string>
-  <string name="tips_of_app_manage">Удаление редко используемых приложений для экономии памяти</string>
-  <string name="tips_of_auto_launch_manage">Запрет автозапуска редко используемых приложений</string>
+  <string name="tips_of_app_manage">Удалить редко используемые приложения для экономии места</string>
+  <string name="tips_of_auto_launch_manage">Запретить автозапуск редко используемых приложений</string>
   <string name="title_app_lock_disable">Защита приложений</string>
   <string name="title_app_update">Доступны обновления</string>
   <string name="title_auto_update">Обновлять автоматически</string>
