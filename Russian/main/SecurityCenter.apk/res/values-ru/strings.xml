@@ -245,8 +245,8 @@
   <string name="app_behavior_storage_bg">%1s - доступ к файлам в фоновом режиме</string>
   <string name="app_behavior_storage_bg_single">Приложение получило доступ к файлам в фоновом режиме</string>
   <string name="app_behavior_storage_single">Приложение получило доступ к файлам</string>
-  <string name="app_behavior_wakepath" formatted="false">%1s - выполнен запуск %2s</string>
-  <string name="app_behavior_wakepath_single">Приложение выполнило запуск %2s</string>
+  <string name="app_behavior_wakepath" formatted="false">%1s - запуск %2s</string>
+  <string name="app_behavior_wakepath_single">Приложение запустило %2s</string>
   <string name="app_behavior_warning_audio_title">%1s - идет запись аудио в фоновом режиме</string>
   <string name="app_behavior_warning_content">Завершить процесс, если разрешение отсутствует</string>
   <string name="app_behavior_warning_location_title">%1s - используется доступ к местоположению</string>
