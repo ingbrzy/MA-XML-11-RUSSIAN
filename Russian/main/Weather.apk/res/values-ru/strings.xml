@@ -60,8 +60,8 @@
     <string name="activity_minute_rain_location_fail_msg">Поиск не удался. Местоположение по умолчанию - Пекин.</string>
     <string name="add_city">Добавить</string>
     <string name="alert_detail_title">Подробности оповещения</string>
-    <string name="alert_warning">Оповещения погоды</string>
-    <string name="alert_weather_enable_settings_summary">Получать официальные предупреждения о погоде</string>
+    <string name="alert_warning">Оповещения о погоде</string>
+    <string name="alert_weather_enable_settings_summary">Получать предупреждения о погоде</string>
     <string name="alert_weather_enable_settings_title">Предупреждения о погоде</string>
     <string name="already_voted_toast">Вы уже голосовали сегодня</string>
     <string name="app_name">Погода</string>
