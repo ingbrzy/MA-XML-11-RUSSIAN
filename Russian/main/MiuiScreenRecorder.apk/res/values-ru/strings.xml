@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">удаление</string>
+    <string name="abc_menu_enter_shortcut_label">ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Поиск…</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="app_name">Запись экрана</string>
     <string name="app_notification_info">Запись экрана работает в фоновом режиме</string>
     <string name="app_notification_title">Запись экрана</string>
@@ -17,6 +44,7 @@
     <string name="cannot_change_parames">Нельзя менять параметры во время записи</string>
     <string name="cannot_record">Ошибка записи, повторите попытку позже</string>
     <string name="close_screen_record">Запись остановлена</string>
+    <string name="copy">Копировать</string>	
     <string name="date_day" />
     <string name="date_month">.</string>
     <string name="date_year">.</string>
@@ -24,6 +52,7 @@
     <string name="description_title">О приложении</string>
     <string name="deselect_all">Снять выбор</string>
     <string name="error_open_file_failed_no_app_found">Нет приложения для открытия этого файла</string>
+    <string name="expand_button_title">Дополнительно</string>	
     <string name="first_using_mic_dialog_message">Приложению требуется доступ к микрофону для записи звука. Разрешить?</string>
     <string name="first_using_mic_dialog_title">Требуются разрешения</string>
     <string name="fixed_frame_rate">Фиксированная частота кадров</string>
@@ -54,11 +83,13 @@
     <string name="no_recorder_info">Нет записей</string>
     <string name="no_recorder_info2">Нажмите кнопку для начала записи</string>
     <string name="no_sound">Без звука</string>
+    <string name="not_set">Не задано</string>	
     <string name="operation_delete">Удалить</string>
     <string name="operation_send">Отправить</string>
     <string name="permission_intro_microphone">Для записи звука, когда источником звука является микрофон.</string>
     <string name="permission_intro_storage">Для сохранения записей экрана</string>
     <string name="permission_microphone_desc">Использование микрофона в качестве источника звука при записи экрана</string>
+    <string name="preference_copied">\"%1$s\" в буфере обмена.</string>	
     <string name="quit_recording">Выход из приложения…</string>
     <string name="recording_failure">Ошибка записи, начните сначала</string>
     <string name="recording_max_size">Запись была остановлена и сохранена из-за достижения предельного размера видео. Если нужно, начните запись с того места, где вы остановились.</string>
@@ -69,6 +100,7 @@
     <string name="screen_orientation_summary">Ориентация экрана при записи</string>
     <string name="screen_record_option">Настройки записи</string>
     <string name="screen_record_params">Параметры записи</string>
+    <string name="search_menu_title">Поиск</string>
     <string name="select_all">Выбрать все</string>
     <string name="settings">Настройки</string>
     <string name="settings_other">Другое</string>
@@ -88,8 +120,11 @@
     <string name="stop_recording">Остановить запись</string>
     <string name="storage_location">Хранилище</string>
     <string name="storage_location_summary">Предпочтительный вариант хранения</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="timer_format">%s</string>
     <string name="unchecked">Не выбрано</string>
     <string name="using_record_confirm_cancel">Запретить</string>
     <string name="using_record_confirm_ok">Разрешить</string>
+    <string name="v7_preference_off">ОТКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>		
 </resources>
