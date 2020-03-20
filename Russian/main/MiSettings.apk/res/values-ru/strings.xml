@@ -35,7 +35,7 @@
     <string name="calendar_tip">Звуки напоминаний для событий календаря, заметок и задач</string>
     <string name="category_other">Другое</string>
     <string name="color_gamut">Цветовая гамма</string>
-    <string name="contact_description">Размещайте ярлыки контактов на рабочем столе для вызова одним нажатием</string>
+    <string name="contact_description">Для вызова нажмите на ярлык контакта на рабочем столе</string>
     <string name="contact_title">Ярлыки контактов</string>	
     <string name="contrast_ratio">Контраст</string>
     <string name="create">Создать</string>

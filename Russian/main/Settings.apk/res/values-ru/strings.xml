@@ -995,8 +995,8 @@
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Число аудиоустройств</string>
     <string name="bluetooth_max_connected_audio_devices_string">Число Bluetooth аудиоустройств</string>
     <string name="bluetooth_menu_advanced">Дополнительно</string>
-    <string name="bluetooth_mi_fast_connect">Mi Link</string>
-    <string name="bluetooth_mi_fast_connect_summary">Подключение к Bluetooth-устройствам поблизости</string>	
+    <string name="bluetooth_mi_fast_connect">Сопряжение с устройствами</string>
+    <string name="bluetooth_mi_fast_connect_summary">Подключение к совместимым устройствам поблизости с использованием упрощенного способа сопряжения</string>	
     <string name="bluetooth_middle_name">Чехол</string>
     <string name="bluetooth_name_not_set">Без настройки имени, использовать имя аккаунта</string>
     <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены.</string>
@@ -4750,7 +4750,7 @@ UT-интерфейс: %5$s"</string>
     <string name="rgb_manage_facerecoginition_text">Управление 2D данными лица</string>
     <string name="right_function_key">Правый ярлык</string>
     <string name="ring_to_you">Рингтон вызова</string>
-    <string name="ring_to_you_info">Установите рингтон, который услышат вызывающие абоненты</string>	
+    <string name="ring_to_you_info">Установите собственный рингтон, который услышат вызывающие абоненты</string>	
     <string name="ring_volume_option_title">Рингтон</string>
     <string name="ring_volume_title">Громкость звонка</string>
     <string name="ringtone_slot_setting_title">Отдельно для каждой SIM</string>
