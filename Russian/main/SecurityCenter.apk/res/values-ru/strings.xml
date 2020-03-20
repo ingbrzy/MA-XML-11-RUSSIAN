@@ -247,10 +247,10 @@
   <string name="app_behavior_search">Поиск</string>
   <string name="app_behavior_sensor">%1s - доступ к данным датчиков о состоянии организма</string>
   <string name="app_behavior_sensor_single">Доступ к данным датчиков о состоянии организма</string>
-  <string name="app_behavior_settings_category_perm">Напоминать об использовании разрешений</string>
+  <string name="app_behavior_settings_category_perm">Уведомление о доступе</string>
   <string name="app_behavior_settings_category_privacy">Защита личной информации</string>
-  <string name="app_behavior_settings_perm_tips">Показывать уведомление в строке состояния всякий раз, когда приложение использует одно из разрешений:</string>
-  <string name="app_behavior_settings_privacy_tips">Показывать уведомление всякий раз, когда приложение получает доступ к личной информации в фоновом режиме (контакты, журнал вызовов, и т.д.)</string>
+  <string name="app_behavior_settings_perm_tips">Показывать уведомление в строке состояния, когда приложение получает доступ к нижеперечисленному:</string>
+  <string name="app_behavior_settings_privacy_tips">Показывать уведомление, когда приложение получает доступ к личной информации в фоновом режиме (контакты, журнал вызовов и др.)</string>
   <string name="app_behavior_sms_read">%1s - чтение SMS</string>
   <string name="app_behavior_sms_read_single">Чтение SMS</string>
   <string name="app_behavior_sms_send">%1s - отправка SMS</string>
