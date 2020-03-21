@@ -17,22 +17,22 @@
         <item quantity="one">%d мин.</item>
     </plurals>	
     <plurals name="trend_from_last_several_day_equal">
-        <item quantity="other">Время экрана равно среднему показателю за %d дней</item>
-        <item quantity="one">Время экрана равно среднему показателю за %d день</item>
-        <item quantity="few">Время экрана равно среднему показателю за %d дня</item>
-        <item quantity="many">Время экрана равно среднему показателю за %d дней</item>
+        <item quantity="other">Равно среднему показателю за %d дней</item>
+        <item quantity="one">Равно среднему показателю за %d день</item>
+        <item quantity="few">Равно среднему показателю за %d дня</item>
+        <item quantity="many">Равно среднему показателю за %d дней</item>
     </plurals>
     <plurals name="trend_from_last_several_day_less">
-        <item quantity="other">Время экрана на %2$s меньше среднего показателя за %1$d дней</item>
-        <item quantity="one">Время экрана на %2$s меньше среднего показателя за %1$d день</item>
-        <item quantity="few">Время экрана на %2$s меньше среднего показателя за %1$d дня</item>
-        <item quantity="many">Время экрана на %2$s меньше среднего показателя за %1$d дней</item>
+        <item quantity="other">Меньше среднего показателя за %1$d дней на %2$s </item>
+        <item quantity="one">Меньше среднего показателя за %1$d день на %2$s</item>
+        <item quantity="few">Меньше среднего показателя за %1$d дня на %2$s</item>
+        <item quantity="many">Меньше среднего показателя за %1$d дней на %2$s</item>
     </plurals>
     <plurals name="trend_from_last_several_day_more">
-        <item quantity="other">Время экрана на %2$s больше среднего показателя за %1$d дней</item>
-        <item quantity="one">Время экрана на %2$s больше среднего показателя за %1$d день</item>
-        <item quantity="few">Время экрана на %2$s больше среднего показателя за %1$d дня</item>
-        <item quantity="many">Время экрана на %2$s больше среднего показателя за %1$d дней</item>
+        <item quantity="other">Больше среднего показателя за %1$d дней на %2$s</item>
+        <item quantity="one">Больше среднего показателя за %1$d день на %2$s</item>
+        <item quantity="few">Больше среднего показателя за %1$d дня на %2$s</item>
+        <item quantity="many">Больше среднего показателя за %1$d дней на %2$s</item>
     </plurals>
     <plurals name="unlock_times">
         <item quantity="other">%.2f</item>
