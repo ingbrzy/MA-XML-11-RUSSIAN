@@ -266,9 +266,9 @@
   <string name="minutes_5">Каждые 5 минут</string>
   <string name="mode_auto_desc">Включите Карусель обоев для автоматического получения новых изображений</string>
   <string name="mode_auto_desc_open">Автоматически получать новые изображения</string>
-  <string name="mode_auto_desc_selected">Автоматическое получение новых изображений</string>
+  <string name="mode_auto_desc_selected">Автоматически получать новые изображения</string>
   <string name="mode_cw_desc">Включите Карусель обоев для настройки слайд-шоу</string>
-  <string name="mode_cw_desc_open">Добавьте ваши изображения в слайд-шоу</string>
+  <string name="mode_cw_desc_open">Добавьте свои изображения в слайд-шоу</string>
   <string name="mode_cw_desc_selected">Изображения добавлены в слайд-шоу</string>
   <string name="mode_des">Карусель обоев показывает Истории. Для отображения избранных обоев переключитесь на слайд-шоу.</string>
   <string name="mode_ok">Переключиться</string>
