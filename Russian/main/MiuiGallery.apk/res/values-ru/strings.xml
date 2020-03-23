@@ -530,6 +530,7 @@
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">Вы можете выбрать качество загруженных изображений или отключить автоматическую загрузку в Настройках.</string>
   <string name="downloading_title">Загрузка фото из Xiaomi Cloud</string>
+  <string name="downloading_title_file">Загрузка элементов из Xiaomi Cloud…</string>
   <string name="drag_view_tip_sub_title">Нажмите и удерживайте альбом, чтобы изменить порядок</string>
   <string name="drag_view_tip_title">Упорядочивание альбомов</string>  
   <string name="dump_db_info">Дамп информации базы данных</string>
@@ -1775,6 +1776,7 @@
   <string name="vlog_back_dialog_exit_cancel">Отмена</string>
   <string name="vlog_bottom_view_back">Назад</string>
   <string name="vlog_bottom_view_edit">Редактирование</string>
+  <string name="vlog_bottom_view_exit">Выход</string>
   <string name="vlog_bottom_view_save">Сохранить</string>
   <string name="vlog_cancel_download">Отмена</string>
   <string name="vlog_caption">Текст</string>
