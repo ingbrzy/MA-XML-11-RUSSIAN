@@ -87,6 +87,7 @@
     <string name="app_category_tools">Инструменты</string>
     <string name="app_category_travel">Путешествия</string>
     <string name="app_category_vr">VR</string>
+    <string name="app_name">лист</string>
     <string name="application_name">Рабочий стол MIUI</string>
     <string name="apply">Установить</string>
     <string name="apply_action">Установить</string>
@@ -412,6 +413,7 @@
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Нет</string>	
     <string name="system_shortcuts_more_operation">О приложении</string>
+    <string name="system_shortcuts_remove">Убрать</string>
     <string name="system_text">По умолчанию</string>
     <string name="title_jeejen">Рабочий стол для пожилых</string>
     <string name="title_select_live_folder">Выберите папку</string>
