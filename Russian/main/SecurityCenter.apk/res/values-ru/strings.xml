@@ -402,7 +402,6 @@
   <string name="app_name_securitycenter">Безопасность</string>
   <string name="app_not_installed_toast">Приложение не найдено</string>
   <string name="app_perm_manager_service">Разрешения</string>
-  <string name="app_perm_manager_service">Служба управления разрешениями</string>
   <string name="app_permission_use_group_calendar">Календарь</string>
   <string name="app_permission_use_group_calendar_des">Чтение и редактирование календаря</string>
   <string name="app_permission_use_group_camera">Камера</string>
