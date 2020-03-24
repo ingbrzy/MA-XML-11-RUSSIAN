@@ -16,17 +16,25 @@
     <item quantity="one">Отклонено %3$d раз с %1$s до %2$s</item>
     <item quantity="few">Отклонено %3$d раза с %1$s до %2$s</item>
   </plurals>
+  <plurals name="app_behavior_desc_virtual">
+    <item quantity="other">Пустой ответ отправлен %3$d раз с %1$s до %2$s</item>
+    <item quantity="one">Пустой ответ отправлен %3$d раз с %1$s до %2$s</item>
+    <item quantity="few">Пустой ответ отправлен %3$d раза с %1$s до %2$s</item>
+  </plurals>  
   <plurals name="app_behavior_notification_audio_more">
-    <item quantity="other">%1$s и еще %2$d приложения записывают аудио</item>
-    <item quantity="one">%1$s записывает аудио</item>
+    <item quantity="other">%2$d приложений, включая %1$s, используют микрофон</item>
+    <item quantity="one">%2$d приложение, включая %1$s, используют микрофон</item>
+    <item quantity="few">%2$d приложения, включая %1$s, используют микрофон</item>
   </plurals>
   <plurals name="app_behavior_notification_camera_more">
-    <item quantity="other">%1$s и еще %2$d приложения используют камеру</item>
-    <item quantity="one">%1$s использует камеру</item>
-    </plurals>
+    <item quantity="other">%2$d приложений, включая %1$s, используют камеру</item>
+    <item quantity="one">%2$d приложение, включая %1$s, используют камеру</item>
+    <item quantity="few">%2$d приложения, включая %1$s, используют камеру</item>
+  </plurals>
   <plurals name="app_behavior_notification_location_more">
-    <item quantity="other">%1$s и еще %2$d приложения используют доступ к местоположению</item>
-    <item quantity="one">%1$s использует доступ к местоположению</item>
+    <item quantity="other">%2$d приложений, включая %1$s, используют доступ к местоположению</item>
+    <item quantity="one">%2$d приложение, включая %1$s, используют доступ к местоположению</item>
+    <item quantity="few">%2$d приложения, включая %1$s, используют доступ к местоположению</item>
   </plurals> 
   <plurals name="app_behavior_privacy_manager_off">
     <item quantity="other">Уведомления о действиях отключены для %1$d приложений</item>

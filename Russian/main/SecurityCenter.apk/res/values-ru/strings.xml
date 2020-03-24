@@ -160,8 +160,8 @@
 • доступ к SMS и вызовы
 
 Из-за проблем совместимости версий Android, некоторые записи могут быть неточными, об этом можно сообщить в приложении \"Сервисы и обратная связь\"."</string>
-  <string name="app_behavior_about_negative">Обратная связь</string>
-  <string name="app_behavior_about_positive">Понятно</string>
+  <string name="app_behavior_about_negative">Сообщить о неточностях</string>
+  <string name="app_behavior_about_positive">ОК</string>
   <string name="app_behavior_allowed">Разрешить</string>
   <string name="app_behavior_audio">%1s - доступ к микрофону</string>
   <string name="app_behavior_audio_bg">%1s - доступ к микрофону в фоновом режиме</string>
@@ -192,11 +192,12 @@
   <string name="app_behavior_denied">Отклонить</string>
   <string name="app_behavior_desc_allow_once">Разрешено в %1$s</string>
   <string name="app_behavior_desc_deny_once">Отклонено в %1$s</string>
+  <string name="app_behavior_desc_virtual_once">Отправлен пустой ответ в %1$s</string>
   <string name="app_behavior_door">Действия</string>
   <string name="app_behavior_header_time">MMMM dd</string>
-  <string name="app_behavior_key_audio">Микрофон</string>
-  <string name="app_behavior_key_camera">Камера</string>
-  <string name="app_behavior_key_location">Местоположение</string>
+  <string name="app_behavior_key_audio">Доступ к микрофону</string>
+  <string name="app_behavior_key_camera">Доступ к камере</string>
+  <string name="app_behavior_key_location">Доступ к местоположению</string>
   <string name="app_behavior_key_protect">Включить уведомления</string>  
   <string name="app_behavior_list_load_more">Загрузка…</string>
    <string name="app_behavior_location">%1s - доступ к местоположению</string>
@@ -213,11 +214,11 @@
   <string name="app_behavior_monitor_tips_summary">Вы будете получать уведомления, когда приложения получают доступ к камере, микрофону или местоположению, а также к личной информации в фоновом режиме.</string>
   <string name="app_behavior_no_recorder">Ничего нет</string>
   <string name="app_behavior_notification_audio_now_one">%1s - используется микрофон</string>
-  <string name="app_behavior_notification_audio_now_two">%1s и еще 1 приложение используют микрофон</string>
+  <string name="app_behavior_notification_audio_now_two">%1s и %2s используют микрофон</string>
   <string name="app_behavior_notification_camera_one">%1s - используется камера</string>
-  <string name="app_behavior_notification_camera_two">%1s и еще 1 приложение используют камеру</string>
+  <string name="app_behavior_notification_camera_two">%1s и %2s используют камеру</string>
   <string name="app_behavior_notification_location_one">%1s - используется доступ к местоположению</string>
-  <string name="app_behavior_notification_location_two">%1s и еще 1 приложение используют доступ к местоположению</string>  
+  <string name="app_behavior_notification_location_two">%1s и %2s используют доступ к местоположению</string>  
   <string name="app_behavior_notification_title_calllog_read">%1s - чтение журнала вызовов в фоновом режиме</string>
   <string name="app_behavior_notification_title_calllog_write">%1s - изменение журнала вызовов в фоновом режиме</string>
   <string name="app_behavior_notification_title_clipboard_read">%1s - чтение буфера обмена в фоновом режиме</string>
@@ -249,8 +250,8 @@
   <string name="app_behavior_sensor_single">Доступ к данным датчиков о состоянии организма</string>
   <string name="app_behavior_settings_category_perm">Уведомление об использовании</string>
   <string name="app_behavior_settings_category_privacy">Защита личной информации</string>
-  <string name="app_behavior_settings_perm_tips">Показывать уведомление в строке состояния, когда приложение использует какое-либо из разрешений в фоновом режиме:</string>
-  <string name="app_behavior_settings_privacy_tips">Уведомлять, когда приложение получает доступ к личной информации в фоновом режиме (контакты, журнал вызовов и т.д.)</string>
+  <string name="app_behavior_settings_perm_tips">Показывать уведомление в строке состояния, когда приложение использует доступ к местоположению, микрофон или камеру в фоновом режиме</string>
+  <string name="app_behavior_settings_privacy_tips">Уведомлять, когда приложение получает доступ к контактам, журналу вызовов и другой личной информации</string>
   <string name="app_behavior_sms_read">%1s - чтение SMS</string>
   <string name="app_behavior_sms_read_single">Чтение SMS</string>
   <string name="app_behavior_sms_send">%1s - отправка SMS</string>
@@ -400,6 +401,7 @@
   <string name="app_name_na">Трафик</string>
   <string name="app_name_securitycenter">Безопасность</string>
   <string name="app_not_installed_toast">Приложение не найдено</string>
+  <string name="app_perm_manager_service">Разрешения</string>
   <string name="app_perm_manager_service">Служба управления разрешениями</string>
   <string name="app_permission_use_group_calendar">Календарь</string>
   <string name="app_permission_use_group_calendar_des">Чтение и редактирование календаря</string>
@@ -427,9 +429,9 @@
   <string name="app_running_tip_dialog_text">Закройте приложение %1$s, чтобы избежать его работы в фоновом режиме. Это ускорит работу устройства и снизит энергопотребление.</string>
   <string name="app_running_tip_dialog_title">Закрытие приложения</string>
   <string name="app_running_tip_uninstall">Удалить приложение</string>
-  <string name="app_statusbar_audio_now">Запись</string>
-  <string name="app_statusbar_camera_now">Съемка</string>
-  <string name="app_statusbar_location_now">Определение местоположения</string>  
+  <string name="app_statusbar_audio_now">Доступ к микрофону</string>
+  <string name="app_statusbar_camera_now">Доступ к камере</string>
+  <string name="app_statusbar_location_now">Доступ к местоположению</string>  
   <string name="app_usage_never">Работало давно</string>
   <string name="app_usage_recently">Работало недавно</string>
   <string name="app_version">"Версия: "</string>
