@@ -214,11 +214,11 @@
   <string name="app_behavior_monitor_tips_summary">Вы будете получать уведомления, когда приложения получают доступ к камере, микрофону или местоположению, а также к личной информации в фоновом режиме.</string>
   <string name="app_behavior_no_recorder">Ничего нет</string>
   <string name="app_behavior_notification_audio_now_one">%1s - используется микрофон</string>
-  <string name="app_behavior_notification_audio_now_two">%1s и %2s используют микрофон</string>
+  <string name="app_behavior_notification_audio_now_two" formatted="false">%1s и %2s используют микрофон</string>
   <string name="app_behavior_notification_camera_one">%1s - используется камера</string>
-  <string name="app_behavior_notification_camera_two">%1s и %2s используют камеру</string>
+  <string name="app_behavior_notification_camera_two" formatted="false">%1s и %2s используют камеру</string>
   <string name="app_behavior_notification_location_one">%1s - используется доступ к местоположению</string>
-  <string name="app_behavior_notification_location_two">%1s и %2s используют доступ к местоположению</string>  
+  <string name="app_behavior_notification_location_two" formatted="false">%1s и %2s используют доступ к местоположению</string>  
   <string name="app_behavior_notification_title_calllog_read">%1s - чтение журнала вызовов в фоновом режиме</string>
   <string name="app_behavior_notification_title_calllog_write">%1s - изменение журнала вызовов в фоновом режиме</string>
   <string name="app_behavior_notification_title_clipboard_read">%1s - чтение буфера обмена в фоновом режиме</string>
