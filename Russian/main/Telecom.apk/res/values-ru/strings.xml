@@ -425,6 +425,7 @@
   <string name="voice_dial_out">Голосовой вызов</string>
   <string name="voice_report_incoming_call">Входящий вызов</string>
   <string name="voice_report_unknown_num">Неизвестный номер</string>
+  <string name="volume_boost_text">Громкость увеличена</string>
   <string name="vpn_settings_not_available">Этот пользователь не может изменять настройки VPN</string>
   <string name="wait_for_debugger">Подождите, пока подключится отладчик</string>
   <string name="wait_for_debugger_summary">Приложение ожидает подключения отладчика</string>

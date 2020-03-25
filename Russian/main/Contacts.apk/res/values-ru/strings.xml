@@ -40,6 +40,7 @@
     <string name="all_list_empty">Нет контактов</string>
     <string name="antispam_mark_my_contribution">Передать информацию метки</string>
     <string name="antispam_provider_format">Определено %s</string>
+    <string name="app_name">Контакты</string>
     <string name="attach_photo_dialog_title">Фото контакта</string>
     <string name="audio_chat">Голосовой чат</string>
     <string name="auto_nickname">Авто</string>
@@ -65,7 +66,7 @@
     <string name="callAgain">Перезвонить</string>
     <string name="callBack">Перезвонить</string>
     <string name="callDetailTitle">Информация о вызове</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s мин %s с</string>
+    <string name="callDetailsDurationFormat">%1$s мин. %2$s сек.</string>
     <string name="callShortcutActivityTitle">Выберите номер для вызова</string>
     <string name="call_assistant">Вызвать %s</string>
     <string name="call_callback">Обратный вызов</string>
@@ -387,17 +388,17 @@
     <string name="device_paired_dialog_title">Получение контактов…</string>
     <string name="device_pairing_dialog_message">Подключение…</string>
     <string name="device_pairing_dialog_title">Подключение устройств</string>
-    <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Включите \"Bluetooth\" на другом устройстве.
+    <string name="device_transfer_by_bluetooth_message">"%1$d. Включите \"Bluetooth\" на другом устройстве.
 
 - на Android-устройствах \"Bluetooth\" обычно располагается в настройках сети
 - на iOS-устройствах \"Bluetooth\" находится в меню Настройки
 
-%d. На Android-устройствах также необходимо включить \"Видимость\".
+%2$d. На Android-устройствах также необходимо включить \"Видимость\".
 
-%d. Нажмите \"Далее\" и разрешите доступ к Контактам на следующем шаге."</string>
-    <string name="device_transfer_by_sim_message" formatted="false">"%d. Сохраните контакты с другого устройства на SIM-карту; 
+%3$d. Нажмите \"Далее\" и разрешите доступ к Контактам на следующем шаге."</string>
+    <string name="device_transfer_by_sim_message">"%1$d. Сохраните контакты с другого устройства на SIM-карту; 
 
-%d. Откройте настройки Контактов, перейдите в \"Импорт и экспорт\" -- \"Импорт с SIM карты\", выберите нужный аккаунт, выберите все нужные контакты и нажмите \"Импорт\"."</string>
+%2$d. Откройте настройки Контактов, перейдите в \"Импорт и экспорт\" -- \"Импорт с SIM карты\", выберите нужный аккаунт, выберите все нужные контакты и нажмите \"Импорт\"."</string>
     <string name="device_version_header_bluetooth">Импорт с помощью Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Импорт с помощью SIM-карты</string>
     <string name="dial">Вызов</string>
@@ -478,13 +479,13 @@
 Причина: \"%s\""</string>
     <string name="exporting_contact_failed_title">Ошибка экспорта</string>
     <string name="exporting_contact_list_message">Экспорт в %s.</string>
-    <string name="exporting_contact_list_progress" formatted="false">Контактов: %s из %s</string>
+    <string name="exporting_contact_list_progress">Контактов: %1$s из %2$s</string>
     <string name="exporting_contact_list_title">Экспорт данных контакта</string>
     <string name="exporting_vcard_canceled_title">Экспорт файла %s отменен</string>
     <string name="exporting_vcard_finished_title">Экспорт файла %s завершен</string>
     <string name="external_profile_title">Мой профиль %1$s</string>
     <string name="fail_reason_could_not_initialize_exporter">Ошибка экспорта: %s.</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">Не удалось открыть \"%s: %s.</string>
+    <string name="fail_reason_could_not_open_file">Не удалось открыть \"%1$s\": %2$s.</string>
     <string name="fail_reason_error_occurred_during_export">Ошибка при экспорте: %s.</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Ошибка получения данных из файлов vCard.</string>
     <string name="fail_reason_failed_to_read_files">Ошибка импорта одного или нескольких файлов (%s).</string>
@@ -731,6 +732,14 @@
     <string name="miprofile_switch_on_alertdialog_title">Обновление фото профиля</string>
     <string name="missing_name">Мои группы</string>
     <string name="missing_required_permission">Вы не имеете необходимых разрешений.</string>
+    <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">потяните для обновления</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshed">обновлено</string>
+    <string name="miuix_sb_tracking_progress_labe_refreshing">обновление</string>
+    <string name="miuix_sb_tracking_progress_labe_release_to_refresh">отпустите для обновления</string>
+    <string name="miuix_sb_tracking_progress_labe_up_nodata">нет данных</string>
+    <string name="miuix_sb_tracking_progress_labe_up_none">отменить</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh">обновление</string>
+    <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">обновление не удалось</string>	
     <string name="mobile_equipment_identification">Идентификатор оборудования</string>
     <string name="more_call_logs">Прослушивайте записи вызовов на сайте <a href="https://i.mi.com">i.mi.com</a></string>
     <string name="move_and_resize">Размер и положение</string>
@@ -739,6 +748,7 @@
     <string name="multi_number_menu_group">Новая группа</string>
     <string name="multi_number_menu_message">Сообщение</string>
     <string name="multi_number_title">Конференц-вызов</string>
+    <string name="multi_select">Выбрать</string>
     <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к удалению данных из нескольких аккаунтов.</string>
     <string name="my_phone_not_provider_bluetooth">Нет</string>
     <string name="my_phone_provider_bluetooth">Да</string>
@@ -1081,7 +1091,7 @@
     <string name="simContacts_title">Контакты на SIM карте</string>
     <string name="sim_account_name">SIM</string>
     <string name="sim_capacity">Емкость SIM карты</string>
-    <string name="sim_capacity_content" formatted="false">Всего: %d | Занято: %d</string>
+    <string name="sim_capacity_content">Всего: %1$d | Занято: %2$d</string>
     <string name="sim_card_no_free_space_message">Память SIM карты заполнена. Очистите SIM карту и повторите попытку.</string>
     <string name="sim_card_no_free_space_title">SIM карта заполнена!</string>
     <string name="sim_contact_existing">Контакт на SIM карте уже существует</string>
@@ -1107,8 +1117,8 @@
     <string name="smart_group_company_label">Компании</string>
     <string name="smart_group_company_unavailable">Нет компании</string>
     <string name="smart_group_frequency_1">В течение месяца</string>
-    <string name="smart_group_frequency_2" formatted="false">От %d до %d месяцев</string>
-    <string name="smart_group_frequency_3" formatted="false">От %d до %d месяцев</string>
+    <string name="smart_group_frequency_2">От %1$d до %2$d месяцев</string>
+    <string name="smart_group_frequency_3">От %1$d до %2$d месяцев</string>
     <string name="smart_group_frequency_4">Более %d месяцев назад</string>
     <string name="smart_group_frequency_label">Давность</string>
     <string name="smart_group_label">Умные группы</string>

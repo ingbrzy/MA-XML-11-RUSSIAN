@@ -17,9 +17,9 @@
     <item quantity="few">Отклонено %3$d раза с %1$s до %2$s</item>
   </plurals>
   <plurals name="app_behavior_desc_virtual">
-    <item quantity="other">Пустой ответ отправлен %3$d раз с %1$s до %2$s</item>
-    <item quantity="one">Пустой ответ отправлен %3$d раз с %1$s до %2$s</item>
-    <item quantity="few">Пустой ответ отправлен %3$d раза с %1$s до %2$s</item>
+    <item quantity="other">Пустая информация отправлена %3$d раз с %1$s до %2$s</item>
+    <item quantity="one">Пустая информация отправлена %3$d раз с %1$s до %2$s</item>
+    <item quantity="few">Пустая информация отправлена %3$d раза с %1$s до %2$s</item>
   </plurals>  
   <plurals name="app_behavior_notification_audio_more">
     <item quantity="other">%2$d приложений, включая %1$s, используют микрофон</item>

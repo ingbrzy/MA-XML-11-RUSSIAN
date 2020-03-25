@@ -495,9 +495,9 @@
     <string name="miuishare_account_login_ok">Войти</string>
     <string name="miuishare_no_network">Не удалось подключиться к сети.</string>
     <string name="miuishare_publish">Отправить</string>
-    <string name="miuishare_share_editor_title">Отправить</string>
+    <string name="miuishare_share_editor_title">Поделиться</string>
     <string name="miuishare_title_more">Еще</string>
-    <string name="miuishare_title_share">Отправить</string>
+    <string name="miuishare_title_share">Поделиться</string>
     <string name="mobile_recommended_title">Мобильный интернет</string>
     <string name="modify_lyric">Изменить текст песни</string>
     <string name="modify_pic">Изменить обложку</string>
