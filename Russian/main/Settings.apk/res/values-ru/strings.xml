@@ -2512,10 +2512,10 @@
     <string name="gallery_privacy_password_role_instruction">Здесь будут храниться ваши скрытые фотографии</string>
     <string name="game_booster_title">Ускорение игр</string>
     <string name="game_controller_settings_category">Игровые контроллеры</string>
-    <string name="game_driver_all_apps_preference_title">Использовать для всех приложений</string>
-    <string name="game_driver_app_preference_default">Драйвер по умолчанию</string>
+    <string name="game_driver_all_apps_preference_title">Драйвер для всех приложений</string>
+    <string name="game_driver_app_preference_default">По умолчанию</string>
     <string name="game_driver_app_preference_game_driver">Игровой драйвер</string>
-    <string name="game_driver_app_preference_prerelease_driver">Предрелизный драйвер</string>
+    <string name="game_driver_app_preference_prerelease_driver">Предварительная версия драйвера</string>
     <string name="game_driver_app_preference_system">Системный графический драйвер</string>
     <string name="game_driver_app_preference_title">Выбор графического драйвера</string>
     <string name="game_driver_dashboard_summary">Выбор игрового драйвера для приложений</string>
