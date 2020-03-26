@@ -4823,7 +4823,10 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_confirm">Включить</string>
     <string name="screen_dark_mode_advanced_title">Дополнительно</string>
     <string name="screen_dark_mode_select_time_error_summary">Время начала и окончания не должно совпадать</string>
-    <string name="screen_dark_mode_smart_dark_summary">Применить темный режим к сторонним приложениям. Некоторые приложения могут работать некорректно.</string>
+    <string name="screen_dark_mode_smart_dark_3rd_apps_list">Сторонние приложения</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">Некоторые приложения могут иметь проблемы с отображением в темном режиме. Вы можете ограничить использование темного режима для отдельных приложений.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_title">Выбор приложений</string>
+    <string name="screen_dark_mode_smart_dark_summary">Применить темный режим к сторонним приложениям. Некоторые приложения могут иметь проблемы с отображением.</string>
     <string name="screen_dark_mode_smart_dark_title">Глобальный темный режим</string>
     <string name="screen_dark_mode_time_title">Расписание</string>
     <string name="screen_effect">Цвета и контрастность</string>
