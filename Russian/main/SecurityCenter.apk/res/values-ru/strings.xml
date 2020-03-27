@@ -232,7 +232,7 @@
   <string name="app_behavior_notification_title_now_location">%1s - используется доступ к местоположению в фоновом режиме</string>
   <string name="app_behavior_notification_title_single_group">%1s - выполнено несколько действий</string>
   <string name="app_behavior_notification_title_storage">%1s - изменены файлы в фоновом режиме</string>
-  <string name="app_behavior_perm_allow_always_danger_tip">Приложения могут выполнять определенные действия, если предоставлены разрешения</string>
+  <string name="app_behavior_perm_allow_always_danger_tip">Приложения могут выполнять конфиденциальные действия, когда предоставлены разрешения</string>
   <string name="app_behavior_perm_change_dialog_desc_title">О разрешении:</string>
   <string name="app_behavior_perm_change_tip_allow">Действие (%1s) разрешено</string>
   <string name="app_behavior_perm_change_tip_ask">Запрашивать разрешение для действия (%1s)</string>
@@ -251,8 +251,8 @@
   <string name="app_behavior_sensor_single">Доступ к данным датчиков о состоянии организма</string>
   <string name="app_behavior_settings_category_perm">Уведомление об использовании</string>
   <string name="app_behavior_settings_category_privacy">Защита личной информации</string>
-  <string name="app_behavior_settings_perm_tips">Показывать уведомление в строке состояния, когда приложение использует доступ к местоположению, микрофон или камеру в фоновом режиме</string>
-  <string name="app_behavior_settings_privacy_tips">Уведомлять, когда приложение получает доступ к контактам, журналу вызовов и другой личной информации</string>
+  <string name="app_behavior_settings_perm_tips">Показывать уведомление в строке состояния, когда приложение использует доступ к местоположению, микрофону или камере в фоновом режиме</string>
+  <string name="app_behavior_settings_privacy_tips">Уведомлять, когда приложение получает доступ к контактам, журналу вызовов или выполняет конфиденциальные действия</string>
   <string name="app_behavior_sms_read">%1s - чтение SMS</string>
   <string name="app_behavior_sms_read_single">Чтение SMS</string>
   <string name="app_behavior_sms_send">%1s - отправка SMS</string>
