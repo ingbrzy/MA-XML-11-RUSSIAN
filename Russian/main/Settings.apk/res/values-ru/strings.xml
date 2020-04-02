@@ -3085,7 +3085,7 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="location_settings_loading_app_permission_stats">Загрузка…</string>
     <string name="location_settings_master_switch_title">Использовать местоположение</string>
     <string name="location_settings_summary_location_off">Откл.</string>
-    <string name="location_settings_title">Доступ к местоположению</string>
+    <string name="location_settings_title">Местоположение</string>
     <string name="location_sources_heading">Определение местоположения</string>
     <string name="location_street_level">Разрешить приложениям использовать GPS для точного определения вашего местоположения</string>
     <string name="location_title">Мое местоположение</string>
