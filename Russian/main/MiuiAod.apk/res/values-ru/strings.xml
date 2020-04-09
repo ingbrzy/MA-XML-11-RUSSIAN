@@ -49,6 +49,7 @@
   <string name="apply_succeed">Успешно применено</string>
   <string name="background_icon">Фон</string>
   <string name="below_image">Внизу</string>
+  <string name="btn_know">Понятно</string>
   <string name="black_white_clock_panel">Часы</string>
   <string name="cancel">Отмена</string>
   <string name="character_counter_content_description">Введенные символы: %1$d из %2$d</string>
@@ -77,6 +78,8 @@
   <string name="line_space">Межстрочный интервал</string>  
   <string name="mini_time">Маленькие часы</string>
   <string name="minimalist_clock">Простые часы</string>
+  <string name="modify_scheduled_time">Изменить время</string>
+  <string name="more_online_theme">Еще</string>  
   <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
   <string name="mtrl_chip_close_icon_content_description">Удаление %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
@@ -114,12 +117,17 @@
   <string name="notification_screen_on">Включить экран</string>  
   <string name="only_show_bg_description">Не показывать время, дату и другие элементы</string>
   <string name="only_show_bg_title">Показывать только фон</string>
+  <string name="open_aod_mode">Включить</string>
   <string name="panel_clock">Аналоговые</string>  
   <string name="paper_mode_end_time_title">Отключить</string>
   <string name="paper_mode_start_time_title">Включить</string>
   <string name="password_toggle_content_description">Показать пароль</string>
   <string name="photo_editor_saving">Сохранение…</string>
   <string name="please_input_signature">Введите подпись</string>  
+  <string name="scheduled_mode_dialog_msg">Элементы будут отображаться в течение этого периода: %s.</string>
+  <string name="scheduled_mode_dialog_msg_12">hh:mm a</string>
+  <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
+  <string name="scheduled_mode_msg">Активный период: %s</string> 
   <string name="scheduled_style">По расписанию</string>
   <string name="scope_icon">Стиль калейдоскопа</string>
   <string name="scope_time">Калейдоскоп</string>
@@ -128,6 +136,8 @@
   <string name="select_notification_notify_style">Эффекты уведомлений</string>  
   <string name="show_battery">Показывать состояние батареи</string>
   <string name="show_battery_status">Показывать состояние батареи</string>
+  <string name="show_lunar">Показывать традиционный китайский календарь</string>
+  <string name="show_lunar_desc">Двойные часы не поддерживают традиционный китайский календарь</string>  
   <string name="show_notification">Показывать уведомления</string>
   <string name="show_notificaton">Показывать уведомления</string>
   <string name="shownone_arround_image">Нет</string>
@@ -145,4 +155,5 @@
   <string name="time_location">Положение часов</string>
   <string name="time_style">Стиль</string>
   <string name="time_style_layout">Макет</string>
+  <string name="tip_to_open_aod_mode">Активный экран отключен. Включить?</string>
 </resources>
