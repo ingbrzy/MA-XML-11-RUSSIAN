@@ -117,6 +117,7 @@
     <string name="content_desc_city_manage_del">Удалить</string>
     <string name="content_desc_city_manage_edit">Изменить</string>
     <string name="content_desc_close_button">Закрыть</string>
+    <string name="daily_ad_index_item_experience_now">Новое</string>
     <string name="daily_forcast_no_stable_direction">Неустойчивый</string>
     <string name="daily_forcast_no_wind">Штиль</string>
     <string name="daily_forcast_weather_transfer">%1$s. Позже %2$s.</string>
