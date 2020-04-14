@@ -352,7 +352,7 @@
     <string name="productivity_move_event_failed">Не удалось переместить мероприятие на MMMM dd, yyyy</string>
     <string name="productivity_move_event_hint">Нажмите и удерживайте мероприятие для перемещения на другую дату</string>
     <string name="productivity_move_event_success">Мероприятие перемещено на MMMM dd, yyyy</string>
-    <string name="productivity_no_event">На сегодня нет мероприятий</string>	
+    <string name="productivity_no_event">Нет мероприятий</string>	
     <string name="pull_to_refresh_hint">Потяните для загрузки данных %1$d года</string>
     <string name="refresh">Обновить</string>
     <string name="refreshing_hint">Подождите…</string>

@@ -27,6 +27,15 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="accessibility_menu_item_split_disable">Приложение не поддерживает разделение экрана.</string>
+    <string name="accessibility_menu_item_split_enable">Приложение поддерживает разделение экрана</string>
+    <string name="accessibility_recent_task_enter">Недавние открыты</string>	
+    <string name="accessibility_recent_task_exit">Недавние закрыты</string>
+    <string name="accessibility_recent_task_locked">Закреплено, сдвиньте вниз для открепления.</string>
+    <string name="accessibility_recent_task_locked_state">Закреплено</string>
+    <string name="accessibility_recent_task_memory_info">Всего: %2$s | Доступно: %1$s. Нажмите дважды для очистки.</string>
+    <string name="accessibility_recent_task_unlocked">Откреплено</string>
+    <string name="accessibility_recent_task_unlocked_state">Не закреплено</string>
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="activity_not_unlocked">Перед открытием приложений дождитесь полной перезагрузки устройства</string>
@@ -408,6 +417,7 @@
     <string name="recents_empty_message_multi_window">Открыть приложение с рабочего стола</string>
     <string name="recents_exit_multi_window_mode">Выход</string>
     <string name="recents_forbid_dock_when_screening_toast_text">Разделение экрана недоступно во время трансляции</string>
+    <string name="recents_incompatible_app_message">Приложение не поддерживает разделение экрана</string>
     <string name="recents_task_screening">Трансляция</string>
     <string name="recents_title_app_manager">Приложения</string>
     <string name="recents_title_game">Игры</string>
@@ -458,6 +468,7 @@
     <string name="show_mem_info_title">Показывать состояние памяти</string>
     <string name="show_most_popular_apps_you_used">Показывать недавние приложения в начале меню приложений</string>
     <string name="show_recents_recommend_title">Показывать виджеты Безопасности</string>
+    <string name="slide_to_open_newhome">Проведите пальцем вверх, чтобы открыть Контент-центр</string>
     <string name="sort_by_abc">По имени</string>
     <string name="sort_by_frequency">По популярности</string>
     <string name="sort_by_not_defined">По порядку</string>
