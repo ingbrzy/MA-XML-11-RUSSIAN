@@ -462,6 +462,7 @@
     <string name="exchange_name">Корпоративный</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
     <string name="expand_recipient_details">Показать информацию</string>
+    <string name="expand_slide">Показать панель</string>
     <string name="fail_get_email_message">Не удалось получить сообщение</string>
     <string name="failed">Не удалось загрузить изображение</string>
     <string name="failed_parse_eml_file">Не удалось открыть файл EML, повторите попытку.</string>
@@ -543,6 +544,7 @@
     <string name="gmail_server_authorization_deleted">Не удалось проверить подлинность аккаунта. Добавьте аккаунт повторно.</string>
     <string name="gmail_web_login_go">ОК</string>
     <string name="gmail_web_login_required_message">Войти в Gmail</string>
+    <string name="go_to_mail_content">Просмотреть почту</string>	
     <string name="have_auth_code">Авторизация по коду</string>
     <string name="header_category_account">Аккаунты</string>
     <string name="header_category_other">Отзывы</string>
@@ -716,6 +718,7 @@
     <string name="mibill_privacy_policy_link">Пользуясь этой функцией, вы принимаете <a href="https://www.mipay.com/res/doc/eula/email.html">Условия использования</a></string>
     <string name="mibill_privacy_policy_title">Автоматическое управление платежами</string>
     <string name="min_payment_text">Минимальный платеж</string>
+    <string name="modify_contact_address">Изменить адрес электронной почты</string>
     <string name="more_context">Еще</string>
     <string name="move_to_selection_dialog_title">Переместить в другую папку</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
@@ -840,8 +843,6 @@
     <string name="permission_des_calendar">Для синхронизации событий календаря</string>
     <string name="permission_des_contact">Для доступа к контактам для автозаполнения получателей</string>
     <string name="permission_des_external_storage">Для создания новых электронных писем, сохранения и добавления вложений</string>
-    <string name="permission_des_phone_status">Для доступа к IMEI для идентификации устройства</string>
-    <string name="permission_des_storage">Для создания новых электронных писем, сохранения и добавления вложений</string>
     <string name="permission_read_attachment_desc">Разрешает приложению открывать вложения электронных писем</string>
     <string name="permission_read_attachment_label">Открывать вложения</string>
     <string name="permission_tip">Ошибка конфигурации. Разрешите звонки и текстовые сообщения при настройке конфигурации.</string>
@@ -1073,6 +1074,7 @@
     <string name="share_choose">Выберите файл для отправки</string>
     <string name="sharing">Отправить</string>
     <string name="shortcut_name_title">Название ярлыка</string>
+    <string name="show_contact_address">Показать адрес электронной почты</string>
     <string name="show_elided">▶ Показать цитирование</string>
     <string name="show_images">Загрузить и показать изображения</string>
     <string name="show_password">Показать пароль</string>

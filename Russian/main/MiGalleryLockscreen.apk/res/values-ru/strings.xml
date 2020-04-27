@@ -337,7 +337,8 @@
   <string name="passport_wechat_not_install">WeChat не установлен</string>
   <string name="password_toggle_content_description">Показать пароль</string>
   <string name="permission_account_tip">Доступ к информации учетной записи</string>
-  <string name="permission_storage_tip">Доступ к изображениям на устройстве для использования в качестве обоев</string>
+  <string name="permission_storage_read_tip">Доступ к фотографиям на устройстве</string>
+  <string name="permission_storage_tip">Сохранение файлов на устройстве</string>  
   <string name="phone_bind_too_many">Этот телефон был связан с несколькими учетными записями Mi Аккаунт за короткий период времени. Попробуйте использовать другой номер телефона.</string>
   <string name="phone_hint">Номер телефона</string>
   <string name="phone_number">Номер телефона</string>
@@ -482,8 +483,10 @@
   <string name="status_wallpaper_loop_start">Вкл.</string>
   <string name="subscribe_apply_wp">Обои для экрана блокировки успешно применены</string>
   <string name="subscribe_dlg_btn">Начать</string>
+  <string name="subscribe_dlg_btn_txt">Включить</string>
   <string name="subscribe_dlg_content">Включите, чтобы ежедневно получать обновляемые обои на экран блокировки и утренние приветствия.</string>
   <string name="subscribe_dlg_content2">Подписаться на \"%1$s\"</string>
+  <string name="subscribe_dlg_desc">Включение слайд-шоу</string>
   <string name="subscribe_dlg_title">Добавьте избранные изображения</string>
   <string name="subscribe_free">Подписаться</string>
   <string name="subscribe_item_checked">В подписках</string>
