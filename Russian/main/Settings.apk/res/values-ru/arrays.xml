@@ -831,8 +831,8 @@
         <item>13</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>Темный</item>
-        <item>Светлый</item>
+        <item>Вкл.</item>
+        <item>Откл.</item>
     </string-array>
     <string-array name="dark_ui_mode_values">
         <item>да</item>

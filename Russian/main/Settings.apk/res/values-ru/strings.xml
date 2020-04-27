@@ -1951,8 +1951,8 @@
     <string name="disconnected">Нет подключения</string>
     <string name="display_advanced_mode_summary">Цветовая гамма</string>
     <string name="display_advanced_mode_title">Расширенные настройки</string>
-    <string name="display_auto_rotate_rotate">Вкл</string>
-    <string name="display_auto_rotate_stay_in_current">Откл</string>
+    <string name="display_auto_rotate_rotate">Вкл.</string>
+    <string name="display_auto_rotate_stay_in_current">Откл.</string>
     <string name="display_auto_rotate_stay_in_landscape">Альбомная ориентация</string>
     <string name="display_auto_rotate_stay_in_portrait">Книжная ориентация</string>
     <string name="display_auto_rotate_title">Автоповорот экрана</string>
@@ -2334,8 +2334,8 @@
     <string name="filter_work_apps">Рабочие</string>
     <string name="filter_write_settings_apps">Могут изменять системные настройки</string>
     <string name="find_my_device">Поиск устройства</string>
-    <string name="find_my_device_disable">Откл</string>
-    <string name="find_my_device_enable">Вкл</string>
+    <string name="find_my_device_disable">Откл.</string>
+    <string name="find_my_device_enable">Вкл.</string>
     <string name="fingerprint_add_max">Максимальное количество отпечатков пальца, которые можно добавить: %d</string>
     <string name="fingerprint_add_title">Добавить отпечаток пальца</string>
     <string name="fingerprint_and_password_entrance_title">Защита устройства и биометрия</string>
@@ -3010,8 +3010,8 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="loading">Подождите…</string>
     <string name="loading_injected_setting_summary">Загрузка…</string>
     <string name="loading_notification_apps">Загрузка…</string>
-    <string name="local_auto_backup_off">Откл</string>
-    <string name="local_auto_backup_on">Вкл</string>
+    <string name="local_auto_backup_off">Откл.</string>
+    <string name="local_auto_backup_on">Вкл.</string>
     <string name="local_auto_backup_section_title">Резервное копирование по расписанию</string>
     <string name="local_backup_password_summary_change">Нажмите для изменения или удаления пароля</string>
     <string name="local_backup_password_summary_none">Полные резервные копии не защищены</string>
@@ -3592,8 +3592,8 @@ b) При использовании Mi PC Suite для создания рез�
     <string name="mock_location_app">Приложение для фиктивных местоположений</string>
     <string name="mock_location_app_not_set">Приложение не выбрано</string>
     <string name="mock_location_app_set">Приложение: %1$s</string>
-    <string name="mode_disable">Откл</string>
-    <string name="mode_enable">Вкл</string>
+    <string name="mode_disable">Откл.</string>
+    <string name="mode_enable">Вкл.</string>
     <string name="model_hardware_summary">Модель: %1$s; Версия: %2$s</string>
     <string name="model_info">Модель</string>
     <string name="model_name">Номер модели</string>
@@ -4875,8 +4875,8 @@ UT-интерфейс: %5$s"</string>
     <string name="screen_paper_mode_time_summary">Назначить время включения и выключения режима чтения</string>
     <string name="screen_paper_mode_time_title">Использовать по расписанию</string>
     <string name="screen_paper_mode_title">Режим чтения</string>
-    <string name="screen_paper_mode_turn_off">Откл</string>
-    <string name="screen_paper_mode_turn_on">Вкл</string>
+    <string name="screen_paper_mode_turn_off">Откл.</string>
+    <string name="screen_paper_mode_turn_on">Вкл.</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Больше не показывать</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Разрешить</string>
     <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Для обновления списка приложений, использующих режим чтения, необходимо подключение к интернету.</string>
@@ -5216,7 +5216,7 @@ UT-интерфейс: %5$s"</string>
     <string name="security_encryption_close_dialog_info">При отключении шифрования устройства с помощью пароля блокировки экрана некоторые сервисы Google могут стать недоступными.</string>
     <string name="security_encryption_close_dialog_title">Возврат к защите по умолчанию</string>
     <string name="security_encryption_diaglog_continue">Далее</string>
-    <string name="security_encryption_is_used">Вкл</string>
+    <string name="security_encryption_is_used">Вкл.</string>
     <string name="security_encryption_progress_dialog_close">Расшифровка…</string>
     <string name="security_encryption_progress_dialog_open">Шифрование…</string>
     <string name="security_encryption_rejected_via_home_manager">Эта функция не работает в демонстрационной версии.</string>
@@ -5452,7 +5452,7 @@ UT-интерфейс: %5$s"</string>
     <string name="silent_duration">Длительность</string>
     <string name="silent_mode">Режим \"Без звука\"</string>
     <string name="silent_mode_title">Режим \"Без звука\"</string>
-    <string name="silent_off">Откл</string>
+    <string name="silent_off">Откл.</string>
     <string name="silent_settings">Без звука | Не беспокоить</string>
     <string name="silent_standard">Без звука</string>
     <string name="silent_time">Длительность режима \"Без звука\"</string>
@@ -5998,7 +5998,7 @@ UT-интерфейс: %5$s"</string>
     <string name="tether_over_limit_dialog_title">Предупреждение о трафике</string>
     <string name="tether_over_limit_warning_notify_message">Отключите точку доступа.</string>
     <string name="tether_over_limit_warning_notify_title">Достигнут лимит трафика</string>
-    <string name="tether_settings_disabled">Откл</string>
+    <string name="tether_settings_disabled">Откл.</string>
     <string name="tether_settings_disabled_on_data_saver">В режиме экономии трафика нельзя подключаться к точкам доступа</string>
     <string name="tether_settings_summary_hotspot_off_tether_on">Режим модема</string>
     <string name="tether_settings_summary_hotspot_on_tether_off">Точка доступа</string>
@@ -7191,8 +7191,8 @@ UT-интерфейс: %5$s"</string>
     <string name="wifi_share_summary1">Пользователи MIUI могут делиться публичными сетями Wi-Fi (кафе, рестораны, гостиницы и т.д.)</string>
     <string name="wifi_share_summary2">Если пользователь MIUI поделился сетью, вы сможете подключаться к ней без использования пароля.</string>
     <string name="wifi_share_summary3">Вы также можете делиться публичными сетями Wi-Fi с другими пользователями MIUI.</string>
-    <string name="wifi_share_turn_off">Откл</string>
-    <string name="wifi_share_turn_on">Вкл</string>
+    <string name="wifi_share_turn_off">Откл.</string>
+    <string name="wifi_share_turn_on">Вкл.</string>
     <string name="wifi_share_upload">Отправить</string>
     <string name="wifi_share_upload_finish">Отправка завершена</string>
     <string name="wifi_share_uploading">Отправка…</string>
@@ -7333,7 +7333,7 @@ UT-интерфейс: %5$s"</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_description">Xiaomi Cloud синхронизирует ваши контакты и фото, создает резервные копии приложений и настроек, поможет найти телефон с помощью функции Поиск устройства.</string>
     <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud синхронизирует ваши фото, создает резервные копии приложений и настроек, поможет найти телефон с помощью функции Поиск устройства.</string>
-    <string name="xiaomi_cloud_service_disabled">Откл</string>
+    <string name="xiaomi_cloud_service_disabled">Откл.</string>
     <string name="xiaomi_cloud_service_unknown">Неизвестно</string>
     <string name="xiaomi_money_service">Центр Mi Credits</string>
     <string name="xiaomi_router_available_notif_summary">Нажмите для просмотра.</string>

@@ -156,6 +156,8 @@
     <string name="hint_annual_rate">Введите годовой курс</string>
     <string name="hint_enter_amount">Введите сумму</string>	
     <string name="hint_floatwindow_alpha_guide_text">Нажмите для регулировки прозрачности</string>
+    <string name="history_delete_confirmation">Очистить историю?</string>
+    <string name="home_loan">Ипотечный процент</string>
     <string name="home_title_calculator">Калькулятор</string>
     <string name="income_type" />
     <string name="install">Установить</string>
@@ -186,11 +188,15 @@
     <string name="item_title_vel_conversion">Скорость</string>
     <string name="item_title_volume_conversion">Объем</string>
     <string name="item_title_weight_conversion">Масса</string>
+    <string name="label_about">О приложении</string>
+    <string name="label_clear_history">Очистить все</string>	
     <string name="label_date_difference">Разница</string>
     <string name="label_days">Дни</string>
+    <string name="label_delete">Очистка</string>
     <string name="label_emi">ЭМП</string>
     <string name="label_first_repayment">Первый платеж</string>
     <string name="label_from_date">От</string>
+    <string name="label_history">История</string>
     <string name="label_interest">Процент</string>
     <string name="label_loan_tenure">Срок кредита</string>
     <string name="label_months">Месяцы</string>
