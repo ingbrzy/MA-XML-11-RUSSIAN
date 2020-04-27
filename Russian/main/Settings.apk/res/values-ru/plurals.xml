@@ -90,6 +90,11 @@
         <item quantity="few">%d приложения без подключения к сети в фоновом режиме</item>
         <item quantity="many">%d приложений без подключения к сети в фоновом режиме</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d доступных устройств</item>
+        <item quantity="few">%d доступных устройства</item>
+        <item quantity="one">%d доступное устройство</item>
+    </plurals>	
     <plurals name="connected_devices_number">
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>
@@ -386,6 +391,11 @@
         <item quantity="few">Предоставлены %1$d разрешения из %2$d</item>
         <item quantity="many">Предоставлено %1$d разрешений из %2$d</item>
     </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">Выбрано %d элементов</item>
+        <item quantity="few">Выбрано %d элемента</item>
+        <item quantity="one">Выбран %d элемент</item>
+    </plurals>	
     <plurals name="seconds">
         <item quantity="other">%s секунды</item>
         <item quantity="one">%s секунда</item>
