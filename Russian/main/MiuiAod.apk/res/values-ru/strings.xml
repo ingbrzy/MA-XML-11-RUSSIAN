@@ -97,7 +97,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">нет данных</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">отменить</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновление</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">неудачно</string>  
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ошибка обновления</string>  
   <string name="modify_scheduled_time">Изменить время</string>
   <string name="monday">Понедельник</string>
   <string name="monday_short">Пн</string>

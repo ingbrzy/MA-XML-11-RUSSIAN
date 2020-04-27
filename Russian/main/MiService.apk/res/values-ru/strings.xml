@@ -27,15 +27,15 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-    <string name="mi_service_app_name">Сервисы и обратная связь</string>
+    <string name="mi_service_app_name">Помощь и обратная связь</string>
     <string name="miservice_channel_boot_name">Ядро</string>
     <string name="miservice_channel_guide_name">Руководство</string>
-    <string name="miservice_channel_update_notification_info">Приложение \"Сервисы и обратная связь\" запрашивает данные из интернета…</string>
+    <string name="miservice_channel_update_notification_info">Приложение \"Помощь и обратная связь\" запрашивает данные из интернета…</string>
     <string name="miservice_notification_boot_content">Узнайте больше о возможностях MIUI</string>
     <string name="miservice_notification_huanji_content">Передайте их с помощью Mi Mover</string>
     <string name="miservice_notification_huanji_title">Есть важные данные на вашем старом телефоне?</string>
     <string name="miservice_notification_open_feedback_content">Все функции приложения \"Отзыв\" были перенесены в новое приложение</string>
-    <string name="miservice_notification_open_feedback_title">Представляем \"Сервисы и обратная связь\"</string>
+    <string name="miservice_notification_open_feedback_title">Представляем \"Помощь и обратная связь\"</string>
     <string name="miservice_notification_scan_content">Используйте Сканер для перевода слов и фраз</string>
     <string name="miservice_notification_scan_title">Переводите на лету</string>	
     <string name="miui_feedback_answer_detail_community">Вы можете найти ответы на свои вопросы в Сообществе Mi</string>
@@ -119,8 +119,8 @@
     <string name="miui_feedback_main_submit_dialog_content">Похоже, мы не смогли найти решение вашей проблемы. Вы можете отправить нам отчет.</string>
     <string name="miui_feedback_main_submit_dialog_title">Отправьте отчет</string>
     <string name="miui_feedback_main_title">Обратная связь</string>
-    <string name="miui_guide_clear_db_service">Приложение \"Сервисы и обратная связь\" очищает языковой кэш…</string>
-    <string name="miui_guide_footer_desc">Руководство разработано, чтобы помочь узнать больше о вашем устройстве и MIUI. Некоторые изображения и видео в руководстве были созданы только для справочных целей и могут отличаться от реального продукта. Функции, описанные в этом руководстве, могут различаться в зависимости от модели вашего устройства, версии MIUI и среды использования.</string>
+    <string name="miui_guide_clear_db_service">Приложение \"Помощь и обратная связь\" очищает языковой кэш…</string>
+    <string name="miui_guide_footer_desc">Данное руководство разработано, чтобы помочь узнать больше о вашем устройстве и MIUI. Некоторые изображения и видео в руководстве были созданы только для справочных целей и могут отличаться от реального продукта. Функции, описанные в этом руководстве, могут различаться в зависимости от модели вашего устройства, версии MIUI и перевода.</string>
     <string name="miui_guide_item_complete">Завершено</string>
     <string name="miui_guide_item_new">Новое</string>
     <string name="miui_guide_item_progress">Завершено %1$d/%2$d</string>
@@ -138,7 +138,7 @@
     <string name="miui_main_update_success_sub_title">Встречайте новую версию MIUI</string>
     <string name="miui_main_update_success_title">Жизнь становится проще</string>
     <string name="permission_agree">Согласен</string>
-    <string name="permission_china_version_msg">&lt;Data>Перед использованием приложения \"Сервисы и обратная связь\" вы должны прочитать и принять наши &lt;a href=%1$s>Условия использования&lt;/a> и &lt;a href=%2$s>Политику конфиденциальности&lt;/a>. Для правильной работы приложению также необходимо подключение к интернету.&lt;/Data></string>
+    <string name="permission_china_version_msg">&lt;Data>Перед использованием приложения \"Помощь и обратная связь\" вы должны прочитать и принять наши &lt;a href=%1$s>Условия использования&lt;/a> и &lt;a href=%2$s>Политику конфиденциальности&lt;/a>. Для правильной работы приложению также необходимо подключение к интернету.&lt;/Data></string>
     <string name="permission_complete">Готово</string>
     <string name="permission_contacts_info">Доступ к информации об аккаунте</string>
     <string name="permission_contacts_introduce">Для входа через Mi аккаунт</string>
@@ -148,7 +148,7 @@
     <string name="permission_first_start_network_title">Условия использования</string>
     <string name="permission_main_purpose">Демонстрация функций MIUI, отправка отзывов и подача заявок на послепродажное обслуживание.</string>
     <string name="permission_privacy">Политика конфиденциальности (обязательно)</string>
-    <string name="permission_region_version_msg">&lt;Data>Перед использованием приложения \"Сервисы и обратная связь\" вы должны прочитать и принять наши &lt;a href=%1$s>Пользовательское соглашение&lt;/a> и &lt;a href=%2$s>Политику конфиденциальности&lt;/a>.&lt;/Data></string>
+    <string name="permission_region_version_msg">&lt;Data>Перед использованием приложения \"Помощь и обратная связь\" вы должны прочитать и принять наши &lt;a href=%1$s>Пользовательское соглашение&lt;/a> и &lt;a href=%2$s>Политику конфиденциальности&lt;/a>.&lt;/Data></string>
     <string name="permission_select_all">Выбрать все</string>
     <string name="permission_storage">Память</string>
     <string name="permission_storage_introduce">Для сохранения файлов на вашем устройстве</string>

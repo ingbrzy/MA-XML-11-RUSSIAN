@@ -646,15 +646,15 @@
     <string name="face_data_introduction_title">Добавление данных лица</string>
     <string name="face_data_manage_delete">Удалить данные лица?</string>
     <string name="face_data_manage_delete_msg">Удаление данных лица</string>
-    <string name="face_data_manage_delete_sure">После удаления данных лица вы не сможете использовать их для разблокировки устройства.</string>
+    <string name="face_data_manage_delete_sure">После удаления данных лица вы не сможете использовать разблокировку устройства по лицу.</string>
     <string name="face_data_manage_delete_title">Данные лица</string>
     <string name="face_data_manage_unlock_liftcamera_msg">После включения экрана проведите пальцем вверх для разблокировки устройства по лицу.</string>
-    <string name="face_data_manage_unlock_msg">Разблокировка устройства с помощью данных лица</string>
+    <string name="face_data_manage_unlock_msg">Разблокировка устройства с использованием данных лица</string>
     <string name="face_data_manage_unlock_slide_msg">Замена действий слайдера на разблокировку по лицу</string>
     <string name="face_data_manage_unlock_title">Разблокировка по лицу</string>
     <string name="face_data_siggesstion_next">Далее</string>
     <string name="face_data_siggesstion_next_time">Далее (%d с)</string>
-    <string name="face_data_suggesstion_first">Внимание: разблокировка по лицу менее безопасна, чем использование кода, пароля или графического ключа. Устройство может быть разблокировано вашей фотографией, а также людьми с похожей внешностью.</string>
+    <string name="face_data_suggesstion_first">Внимание: разблокировка по лицу менее безопасна, чем использование PIN-кода, пароля или графического ключа. Устройство может быть разблокировано вашей фотографией, а также людьми с похожей внешностью.</string>
     <string name="face_data_suggesstion_second">Убедитесь, что все части лица ничем не закрыты и хорошо видны. Ваше лицо должно быть хорошо освещено.</string>
     <string name="face_dialog_looking_for_face">Поиск лица…</string>
     <string name="face_unlock_adjust_distance">Убедитесь, что расстояние между лицом и устройством оптимально</string>
@@ -662,7 +662,7 @@
     <string name="face_unlock_by_notification_screen_on_msg">Разблокировать устройство по лицу, когда экран включается при поступлении уведомлений. Возможен более быстрый разряд батареи.</string>
     <string name="face_unlock_by_notification_screen_on_title">Разблокировка при включении экрана</string>
     <string name="face_unlock_category_title">Параметры экрана блокировки</string>
-    <string name="face_unlock_check_failed">Не удалось вас узнать</string>
+    <string name="face_unlock_check_failed">Не удалось распознать</string>
     <string name="face_unlock_not_roi">Держите лицо внутри кадра</string>
     <string name="face_unlock_close_screen">Приблизьте устройство к лицу</string>
     <string name="face_unlock_down">Поднимите голову</string>
@@ -687,7 +687,7 @@
     <string name="face_unlock_rotated_left">Поверните голову вправо</string>
     <string name="face_unlock_rotated_right">Поверните голову влево</string>
     <string name="face_unlock_sc_status">Сдвиньте экран вниз для запуска камеры</string>
-    <string name="face_unlock_stay_away_screen">Держитесь на расстоянии 25-40 см от экрана</string>
+    <string name="face_unlock_stay_away_screen">Держите экран на расстоянии 25-40 см</string>
     <string name="face_unlock_success_show_message_dialog_msg">Разрешить просмотр уведомлений на экране блокировки</string>
     <string name="face_unlock_success_show_message_dialog_negative_btn">Нет, спасибо</string>
     <string name="face_unlock_success_show_message_dialog_positive_btn">Разрешить</string>
