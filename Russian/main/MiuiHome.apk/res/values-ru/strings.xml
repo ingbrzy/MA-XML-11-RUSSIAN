@@ -36,6 +36,9 @@
     <string name="accessibility_recent_task_memory_info">Всего: %2$s | Доступно: %1$s. Нажмите дважды для очистки.</string>
     <string name="accessibility_recent_task_unlocked">Откреплено</string>
     <string name="accessibility_recent_task_unlocked_state">Не закреплено</string>
+    <string name="accessibility_recents_item_open_app_info">Информация о приложении %s.</string>
+    <string name="accessibility_splite_screen_primary">Добавлено как основное приложение в разделение экрана</string>
+    <string name="accessibility_splite_screen_secondary">Добавлено как дополнительное приложение в разделение экрана</string>
     <string name="action_add_to_workspace">Добавить на рабочий стол</string>
     <string name="activity_not_found">Приложение не найдено</string>
     <string name="activity_not_unlocked">Перед открытием приложений дождитесь полной перезагрузки устройства</string>
@@ -172,6 +175,7 @@
     <string name="content_description_for_shortcut_icon_checked">%1$s, выбрано</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, выбор отменен</string>
     <string name="content_description_workspace_thumbnail_item">Миниатюра экрана, страница %1$s</string>
+    <string name="copy">Копировать</string>
     <string name="current_preview">Просмотр</string>
     <string name="current_wallpaper">Выбранные</string>
     <string name="custom_wallpaper_picker">Обзор</string>
@@ -225,6 +229,7 @@
     <string name="emptyplaylist">Нажмите на виджет</string>
     <string name="enable_wallpaper_scroll">Включить прокрутку обоев</string>
     <string name="encryption">Шифрование</string>
+    <string name="expand_button_title">Дополнительно</string>
     <string name="failed_to_delete_temporary">Ошибка удаления</string>
     <string name="failed_to_drop">Не удалось переместить</string>
     <string name="failed_to_drop_widget_invalid">Недопустимый виджет</string>
@@ -351,12 +356,21 @@
     <string name="mi_wallpaper">Темы MIUI</string>
     <string name="minus_one_screen">Ассистент</string>
     <string name="miui_screen_config_title">Настройки рабочего стола</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">потяните для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">обновлено</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">отпустите для обновления</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">нет данных</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">отменить</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">обновление</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">ошибка обновления</string>  
     <string name="mtzgadget_missing_text">Виджет недоступен</string>
     <string name="multi_selecting_tips">Нажмите и удерживайте значок для его перемещения</string>
     <string name="no_detail_page">Нет страницы с подробной информацией</string>
     <string name="no_space_toast">Нет свободного места</string>
     <string name="no_space_toast_when_click_widget">Нет свободного места на этом экране. Попробуйте перетащить этот элемент на другой экран.</string>
     <string name="normal_wallpaper">Обои</string>
+    <string name="not_set">Не задано</string>
     <string name="notification_installed">Установка завершена</string>
     <string name="notification_open_button">Открыть</string>
     <string name="notification_reset_title">Значки упорядочены</string>
@@ -398,6 +412,7 @@
     <string name="pref_render_in_truecolor_title">Качественные цвета</string>
     <string name="pref_screen_transformation_type_title">Эффект смены экранов</string>
     <string name="pref_wallpaper_scroll_type_title">Прокрутка обоев</string>
+    <string name="preference_copied">\"%1$s\" в буфере обмена.</string>
     <string name="preferences_general_title">Дополнительные настройки</string>
     <string name="preferences_title">Настройки рабочего стола</string>
     <string name="preferred_app_settings_not_selected">Не выбрано</string>
@@ -425,6 +440,7 @@
     <string name="recents_title_garbage_deepclean">Глубокая очистка</string>
     <string name="recents_title_market">Магазин приложений</string>
     <string name="recents_title_security_scan">Антивирус</string>
+    <string name="recents_tv_small_window_text">Плавающие окна</string>
     <string name="recommend_apk_size_and_desc">%1$d МБ | %2$s</string>
     <string name="recommend_app">Недавние приложения</string>
     <string name="recommend_apps_default_title">Пусто</string>
@@ -435,6 +451,8 @@
     <string name="recommend_apps_switch_title">Рекомендации</string>
     <string name="recommend_apps_tips">Для нормальной работы этой функции требуется подключение к интернету. Для отключения этой функции нажмите на имя папки.</string>
     <string name="recommend_loading">Загрузка…</string>
+    <string name="recommend_refresh">Обновить</string>
+    <string name="recommend_xout">Не показывать</string>
     <string name="remove_invalidate_gadget_tips">Один из используемых виджетов больше не доступен. Вы можете добавить другой.</string>
     <string name="reset_cate_tip_content">Будут восстановлены категории по умолчанию. Продолжить?</string>
     <string name="reset_cate_tip_title">Сброс категорий</string>
@@ -469,6 +487,13 @@
     <string name="show_most_popular_apps_you_used">Показывать недавние приложения в начале меню приложений</string>
     <string name="show_recents_recommend_title">Показывать виджеты Безопасности</string>
     <string name="slide_to_open_newhome">Проведите пальцем вверх, чтобы открыть Контент-центр</string>
+    <string name="small_window_button_complete">Готово</string>
+    <string name="small_window_edit_content">Можно добавить до %d приложений</string>
+    <string name="small_window_edit_title">Выбранные приложения</string>
+    <string name="small_window_empty">Выберите из доступных приложений</string>
+    <string name="small_window_select_title">Доступные приложения</string>
+    <string name="small_window_title_text">Нажмите, чтобы открыть плавающее окно</string>
+    <string name="small_window_toast">Можно добавить до %d приложений</string>	
     <string name="sort_by_abc">По имени</string>
     <string name="sort_by_frequency">По популярности</string>
     <string name="sort_by_not_defined">По порядку</string>
@@ -514,6 +539,8 @@
     <string name="unnamed_folder_name">Папка</string>
     <string name="double_tap_to_lock_title">Блокировка экрана двойным касанием</string>
     <string name="use_theme_screen_cells_title">Разрешить теме изменять сетку экрана</string>
+    <string name="v7_preference_off">ОТКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
     <string name="wallpaper">Обои</string>
     <string name="wallpaper_auto_change_title">Экран блокировки</string>
     <string name="wallpaper_failed_message">Не удалось установить обои</string>
@@ -528,6 +555,4 @@
     <string name="widget_global_search">Поиск</string>
     <string name="widget_quick_function">Быстрый доступ</string>
     <string name="widgets_preview_title">Виджеты</string>
-    <string name="recommend_refresh">Обновить</string>
-    <string name="recommend_xout">Не показывать</string>
 </resources>
